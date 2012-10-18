@@ -1,0 +1,23 @@
+All the tools used to build the application are free.
+
+1. Get the Ogre SDK from http://www.ogre3d.org/download/sdk
+(The glove demo was built with OGRE 1.7.1 for Visual C++.Net 2008)
+http://sourceforge.net/projects/ogre/files/ogre/1.7/OgreSDK_vc9_v1-7-1.exe/download
+
+2. Make environmental variable OGRE_HOME with value pointing to your Ogre directory e.g. "C:\installs\ogre\tmp\t\OgreSDK_vc9_v1-7-1"
+-> Right click My Computer
+-> Select Properties
+-> Open Advanced tab
+-> Click on Environment Variables button
+-> In the User variables group box, click on "New"
+-> Enter "OGRE_PATH" in the "Variable name:" field
+-> Enter the path to your Ogre directory in the "Variable value:" field e.g. "C:\installs\ogre\tmp\t\OgreSDK_vc9_v1-7-1"
+
+3. Get visual studio 2010 express from
+http://www.microsoft.com/express/Downloads/#2010-Visual-CPP
+
+4. [Optional] If you want to edit the hand model, get Blender from here http://www.blender.org/
+
+5. Open 5DTGloveDemo.sln located in the Glove Demo directory
+
+6. Press F5 to compile and run the program

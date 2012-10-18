@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Plugins\Plugin_StrangeButton\Plugin.cpp">
+      <Filter>Source Files\Plugin</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Plugins\Plugin_StrangeButton\Plugin_Export.cpp">
+      <Filter>Source Files\Plugin</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Plugins\Plugin_StrangeButton\StrangeButton.cpp">
+      <Filter>Source Files\Widget</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Plugins\Plugin_StrangeButton\Plugin.h">
+      <Filter>Header Files\Plugin</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Plugins\Plugin_StrangeButton\StrangeButton.h">
+      <Filter>Header Files\Widget</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="..\..\..\Plugins\Plugin_StrangeButton\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files\Plugin">
+      <UniqueIdentifier>{F68885C7-48A8-440C-95D0-0475583D4216}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Widget">
+      <UniqueIdentifier>{4F79E811-E1E8-4CE7-9E9D-30E58CFF6C1B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Plugin">
+      <UniqueIdentifier>{50E5E3ED-DFB1-4D5A-9E30-5AC526323DA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Widget">
+      <UniqueIdentifier>{DE28CEC0-292B-4444-AC65-7F70C5F3F56C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{97C9477C-546A-4FC7-AE9A-319A5B94EBAF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{FBEBCB07-3CE7-4F8C-9DE4-82B222A326DD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

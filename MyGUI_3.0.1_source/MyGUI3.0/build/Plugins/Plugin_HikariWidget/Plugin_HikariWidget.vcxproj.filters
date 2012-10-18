@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Plugins\Plugin_HikariWidget\Plugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Plugins\Plugin_HikariWidget\FlashValue.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Plugins\Plugin_HikariWidget\RenderBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Plugins\Plugin_HikariWidget\FlashControl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Plugins\Plugin_HikariWidget\HikariWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Plugins\Plugin_HikariWidget\KeyboardHook.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Plugins\Plugin_HikariWidget\Plugin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Plugins\Plugin_HikariWidget\FlashControl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Plugins\Plugin_HikariWidget\RenderBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Plugins\Plugin_HikariWidget\FlashHandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Plugins\Plugin_HikariWidget\FlashSite.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Plugins\Plugin_HikariWidget\FlashValue.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Plugins\Plugin_HikariWidget\HikariWidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Plugins\Plugin_HikariWidget\KeyboardHook.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Plugins\Plugin_HikariWidget\KeyboardHookImpl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="..\..\..\Plugins\Plugin_HikariWidget\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{97C9477C-546A-4FC7-AE9A-319A5B94EBAF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{FBEBCB07-3CE7-4F8C-9DE4-82B222A326DD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

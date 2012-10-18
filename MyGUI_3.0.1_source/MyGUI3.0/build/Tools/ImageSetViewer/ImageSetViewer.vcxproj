@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|Win32">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|Win32">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGUID>{477A9386-654F-4633-948E-32562BFED347}</ProjectGUID>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>Win32</Platform>
+    <ProjectName>ImageSetViewer</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+    <PropertyGroup>
+      <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\bin\Debug\</OutDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">ImageSetViewer.dir\Debug\</IntDir>
+      <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">ImageSetViewer</TargetName>
+      <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">.exe</TargetExt>
+      <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</LinkIncremental>
+      <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</GenerateManifest>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\bin\Release\</OutDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">ImageSetViewer.dir\Release\</IntDir>
+      <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">ImageSetViewer</TargetName>
+      <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">.exe</TargetExt>
+      <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkIncremental>
+      <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</GenerateManifest>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\bin\MinSizeRel\</OutDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">ImageSetViewer.dir\MinSizeRel\</IntDir>
+      <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">ImageSetViewer</TargetName>
+      <TargetExt Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">.exe</TargetExt>
+      <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">false</LinkIncremental>
+      <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">true</GenerateManifest>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\bin\RelWithDebInfo\</OutDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">ImageSetViewer.dir\RelWithDebInfo\</IntDir>
+      <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">ImageSetViewer</TargetName>
+      <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">.exe</TargetExt>
+      <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">true</LinkIncremental>
+      <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">true</GenerateManifest>
+    </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <AdditionalOptions> /Zm1000 %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalIncludeDirectories>C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/MyGUIEngine/include;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/.;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Common;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/../../Common/Base/Ogre;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Platforms/Ogre/OgrePlatform/include;C:/Ogre/OgreSDK_vc9_v1-7-1/include/OGRE;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/../../Common/Input/OIS;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <FloatingPointModel>Fast</FloatingPointModel>
+      <InlineFunctionExpansion>Disabled</InlineFunctionExpansion>
+      <Optimization>Disabled</Optimization>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_DEBUG;MYGUI_OGRE_PLATFORM;MYGUI_SAMPLES_INPUT_OIS;CMAKE_INTDIR="Debug";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerListingLocation>Debug</AssemblerListingLocation>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <ProgramDataBaseFileName>C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/bin/Debug/ImageSetViewer.pdb</ProgramDataBaseFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_DEBUG;MYGUI_OGRE_PLATFORM;MYGUI_SAMPLES_INPUT_OIS;CMAKE_INTDIR=\"Debug\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/MyGUIEngine/include;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/.;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Common;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/../../Common/Base/Ogre;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Platforms/Ogre/OgrePlatform/include;C:/Ogre/OgreSDK_vc9_v1-7-1/include/OGRE;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/../../Common/Input/OIS;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/MyGUIEngine/include;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/.;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Common;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/../../Common/Base/Ogre;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Platforms/Ogre/OgrePlatform/include;C:/Ogre/OgreSDK_vc9_v1-7-1/include/OGRE;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/../../Common/Input/OIS;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalOptions> /machine:X86 /debug %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;..\..\lib\Debug\MyGUIEngine_d.lib;uuid.lib;..\..\lib\Debug\MyGUI.OgrePlatform_d.lib;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\freetype-2.4.8\objs\win32\vc2010\freetype248_D.lib;C:\Ogre\OgreSDK_vc9_v1-7-1\lib\debug\OgreMain_d.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ImportLibrary>C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/lib/Debug/ImageSetViewer.lib</ImportLibrary>
+      <LinkIncremental>true</LinkIncremental>
+      <ProgramDataBaseFileName>C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/bin/Debug/ImageSetViewer.pdb</ProgramDataBaseFileName>
+      <StackReserveSize>10000000</StackReserveSize>
+      <SubSystem>Windows</SubSystem>
+      <Version></Version>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <AdditionalOptions> /Zm1000 %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalIncludeDirectories>C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/MyGUIEngine/include;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/.;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Common;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/../../Common/Base/Ogre;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Platforms/Ogre/OgrePlatform/include;C:/Ogre/OgreSDK_vc9_v1-7-1/include/OGRE;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/../../Common/Input/OIS;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <FloatingPointModel>Fast</FloatingPointModel>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <Optimization>MaxSpeed</Optimization>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat></DebugInformationFormat>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;MYGUI_OGRE_PLATFORM;MYGUI_SAMPLES_INPUT_OIS;CMAKE_INTDIR="Release";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerListingLocation>Release</AssemblerListingLocation>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <ProgramDataBaseFileName>C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/bin/Release/ImageSetViewer.pdb</ProgramDataBaseFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;MYGUI_OGRE_PLATFORM;MYGUI_SAMPLES_INPUT_OIS;CMAKE_INTDIR=\"Release\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/MyGUIEngine/include;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/.;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Common;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/../../Common/Base/Ogre;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Platforms/Ogre/OgrePlatform/include;C:/Ogre/OgreSDK_vc9_v1-7-1/include/OGRE;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/../../Common/Input/OIS;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/MyGUIEngine/include;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/.;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Common;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/../../Common/Base/Ogre;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Platforms/Ogre/OgrePlatform/include;C:/Ogre/OgreSDK_vc9_v1-7-1/include/OGRE;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/../../Common/Input/OIS;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalOptions> /machine:X86 %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;..\..\lib\Release\MyGUIEngine.lib;uuid.lib;..\..\lib\Release\MyGUI.OgrePlatform.lib;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\freetype-2.4.8\objs\win32\vc2010\freetype248_D.lib;C:\Ogre\OgreSDK_vc9_v1-7-1\lib\release\OgreMain.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <ImportLibrary>C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/lib/Release/ImageSetViewer.lib</ImportLibrary>
+      <ProgramDataBaseFileName>C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/bin/Release/ImageSetViewer.pdb</ProgramDataBaseFileName>
+      <StackReserveSize>10000000</StackReserveSize>
+      <SubSystem>Windows</SubSystem>
+      <Version></Version>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">
+    <ClCompile>
+      <AdditionalOptions> /Zm1000 %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalIncludeDirectories>C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/MyGUIEngine/include;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/.;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Common;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/../../Common/Base/Ogre;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Platforms/Ogre/OgrePlatform/include;C:/Ogre/OgreSDK_vc9_v1-7-1/include/OGRE;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/../../Common/Input/OIS;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <FloatingPointModel>Fast</FloatingPointModel>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <Optimization>MinSpace</Optimization>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat></DebugInformationFormat>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;MYGUI_OGRE_PLATFORM;MYGUI_SAMPLES_INPUT_OIS;CMAKE_INTDIR="MinSizeRel";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerListingLocation>MinSizeRel</AssemblerListingLocation>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <ProgramDataBaseFileName>C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/bin/MinSizeRel/ImageSetViewer.pdb</ProgramDataBaseFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;MYGUI_OGRE_PLATFORM;MYGUI_SAMPLES_INPUT_OIS;CMAKE_INTDIR=\"MinSizeRel\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/MyGUIEngine/include;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/.;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Common;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/../../Common/Base/Ogre;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Platforms/Ogre/OgrePlatform/include;C:/Ogre/OgreSDK_vc9_v1-7-1/include/OGRE;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/../../Common/Input/OIS;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/MyGUIEngine/include;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/.;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Common;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/../../Common/Base/Ogre;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Platforms/Ogre/OgrePlatform/include;C:/Ogre/OgreSDK_vc9_v1-7-1/include/OGRE;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/../../Common/Input/OIS;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalOptions> /machine:X86 %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;..\..\lib\MinSizeRel\MyGUIEngine.lib;uuid.lib;..\..\lib\MinSizeRel\MyGUI.OgrePlatform.lib;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\freetype-2.4.8\objs\win32\vc2010\freetype248_D.lib;C:\Ogre\OgreSDK_vc9_v1-7-1\lib\release\OgreMain.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <ImportLibrary>C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/lib/MinSizeRel/ImageSetViewer.lib</ImportLibrary>
+      <ProgramDataBaseFileName>C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/bin/MinSizeRel/ImageSetViewer.pdb</ProgramDataBaseFileName>
+      <StackReserveSize>10000000</StackReserveSize>
+      <SubSystem>Windows</SubSystem>
+      <Version></Version>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">
+    <ClCompile>
+      <AdditionalOptions> /Zm1000 %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalIncludeDirectories>C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/MyGUIEngine/include;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/.;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Common;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/../../Common/Base/Ogre;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Platforms/Ogre/OgrePlatform/include;C:/Ogre/OgreSDK_vc9_v1-7-1/include/OGRE;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/../../Common/Input/OIS;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <FloatingPointModel>Fast</FloatingPointModel>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <Optimization>MaxSpeed</Optimization>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;MYGUI_OGRE_PLATFORM;MYGUI_SAMPLES_INPUT_OIS;CMAKE_INTDIR="RelWithDebInfo";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerListingLocation>RelWithDebInfo</AssemblerListingLocation>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <ProgramDataBaseFileName>C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/bin/RelWithDebInfo/ImageSetViewer.pdb</ProgramDataBaseFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;MYGUI_OGRE_PLATFORM;MYGUI_SAMPLES_INPUT_OIS;CMAKE_INTDIR=\"RelWithDebInfo\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/MyGUIEngine/include;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/.;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Common;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/../../Common/Base/Ogre;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Platforms/Ogre/OgrePlatform/include;C:/Ogre/OgreSDK_vc9_v1-7-1/include/OGRE;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/../../Common/Input/OIS;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/MyGUIEngine/include;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/.;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Common;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/../../Common/Base/Ogre;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Platforms/Ogre/OgrePlatform/include;C:/Ogre/OgreSDK_vc9_v1-7-1/include/OGRE;C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/../../Common/Input/OIS;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalOptions> /machine:X86 /debug %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;..\..\lib\RelWithDebInfo\MyGUIEngine.lib;uuid.lib;..\..\lib\RelWithDebInfo\MyGUI.OgrePlatform.lib;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\freetype-2.4.8\objs\win32\vc2010\freetype248_D.lib;C:\Ogre\OgreSDK_vc9_v1-7-1\lib\release\OgreMain.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ImportLibrary>C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/lib/RelWithDebInfo/ImageSetViewer.lib</ImportLibrary>
+      <LinkIncremental>true</LinkIncremental>
+      <ProgramDataBaseFileName>C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/bin/RelWithDebInfo/ImageSetViewer.pdb</ProgramDataBaseFileName>
+      <StackReserveSize>10000000</StackReserveSize>
+      <SubSystem>Windows</SubSystem>
+      <Version></Version>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="..\..\..\Tools\ImageSetViewer\CMakeLists.txt">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Building Custom Rule C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">setlocal
+"C:\Programme\CMake 2.8\bin\cmake.exe" "-HC:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0" "-BC:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build" --check-stamp-file "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\Tools\ImageSetViewer\CMakeFiles\generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/CMakeLists.txt;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\ImageSetViewer\CMakeLists.txt;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\ImageSetViewer\ImageSetViewer.list;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\VisualStudioUserFile.vcproj.user.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\ImageSetViewer\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\Tools\ImageSetViewer\CMakeFiles\generate.stamp</Outputs>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Building Custom Rule C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">setlocal
+"C:\Programme\CMake 2.8\bin\cmake.exe" "-HC:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0" "-BC:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build" --check-stamp-file "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\Tools\ImageSetViewer\CMakeFiles\generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/CMakeLists.txt;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\ImageSetViewer\CMakeLists.txt;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\ImageSetViewer\ImageSetViewer.list;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\VisualStudioUserFile.vcproj.user.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\ImageSetViewer\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\Tools\ImageSetViewer\CMakeFiles\generate.stamp</Outputs>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">Building Custom Rule C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">setlocal
+"C:\Programme\CMake 2.8\bin\cmake.exe" "-HC:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0" "-BC:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build" --check-stamp-file "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\Tools\ImageSetViewer\CMakeFiles\generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/CMakeLists.txt;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\ImageSetViewer\CMakeLists.txt;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\ImageSetViewer\ImageSetViewer.list;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\VisualStudioUserFile.vcproj.user.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\ImageSetViewer\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\Tools\ImageSetViewer\CMakeFiles\generate.stamp</Outputs>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">Building Custom Rule C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">setlocal
+"C:\Programme\CMake 2.8\bin\cmake.exe" "-HC:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0" "-BC:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build" --check-stamp-file "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\Tools\ImageSetViewer\CMakeFiles\generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/Tools/ImageSetViewer/CMakeLists.txt;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\ImageSetViewer\CMakeLists.txt;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\ImageSetViewer\ImageSetViewer.list;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\VisualStudioUserFile.vcproj.user.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\ImageSetViewer\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\Tools\ImageSetViewer\CMakeFiles\generate.stamp</Outputs>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\ImageSetViewer\Controller.h" />
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\ImageSetViewer\View.h" />
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Common\Base\Ogre\BaseManager.h" />
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Common\Input\OIS\InputManager.h" />
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Common\Input\OIS\PointerManager.h" />
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\ImageSetViewer\Controller.cpp" />
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\ImageSetViewer\View.cpp" />
+    <ResourceCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Common\Base\BaseResource.rc" />
+    <None Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Common\Base\mygui.ico" />
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Common\Base\Ogre\BaseManager.cpp" />
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Common\Input\OIS\InputManager.cpp" />
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Common\Input\OIS\PointerManager.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/Platforms/Ogre/OgrePlatform/MyGUI.OgrePlatform.vcxproj">
+      <Project>9DEDABC0-885A-4C7C-99AC-AFDED1D49558</Project>
+    </ProjectReference>
+    <ProjectReference Include="C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/MyGUIEngine/MyGUIEngine.vcxproj">
+      <Project>0BF3B4D0-743E-4593-9212-6DBA78F005B5</Project>
+    </ProjectReference>
+    <ProjectReference Include="C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/ZERO_CHECK.vcxproj">
+      <Project>D3430719-B088-4102-8E73-E70EE379F25F</Project>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

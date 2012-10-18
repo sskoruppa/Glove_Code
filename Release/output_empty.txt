@@ -1,0 +1,1912 @@
+ Calibrating for 29779 ms
+-------- Calibration Phase finished ---------
+
+29790 Training click 
+30791 Training click 
+31792 Training click 
+32793 Training click 
+33794 Training click 
+34795 Training click 
+35796 Training click 
+35841Training Tap
+36004Training Tap
+36208Training Tap
+36445Training Tap
+36660Training Tap
+36797 Training click 
+36880Training Tap
+37114Training Tap
+37333Training Tap
+37556Training Tap
+37791Training Tap
+37798 Training click 
+37984Training Tap
+38219Training Tap
+38436Training Tap
+38668Training Tap
+38799 Training click 
+38902Training Tap
+39106Training Tap
+
+39673 --------- Training Phase finished  -----------
+
+-
+2 Metro tak at time: 39674
+-
+3 Metro tak at time: 39926
+-
+4 Metro tak at time: 40177
+-
+5 Metro tak at time: 40428
+-
+6 Metro tak at time: 40679
+-
+7 Metro tak at time: 40930
+-
+8 Metro tak at time: 41182
+-
+9 Metro tak at time: 41434
+-
+10 Metro tak at time: 41685
+-
+11 Metro tak at time: 41936
+-
+12 Metro tak at time: 42187
+-
+13 Metro tak at time: 42438
+-
+14 Metro tak at time: 42689
+-
+15 Metro tak at time: 42940
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+16 Metro tak at time: 53463
+-
+17 Metro tak at time: 53964
+-
+18 Metro tak at time: 54466
+-
+19 Metro tak at time: 54967
+-
+20 Metro tak at time: 55469
+-
+21 Metro tak at time: 55971
+-
+22 Metro tak at time: 56472
+-
+23 Metro tak at time: 56973
+-
+24 Metro tak at time: 57475
+-
+25 Metro tak at time: 57977
+-
+26 Metro tak at time: 58478
+-
+27 Metro tak at time: 58979
+-
+28 Metro tak at time: 59480
+-
+29 Metro tak at time: 59982
+-
+30 Metro tak at time: 60483
+-
+31 Metro tak at time: 60985
+-
+32 Metro tak at time: 61486
+-
+33 Metro tak at time: 61987
+-
+34 Metro tak at time: 62488
+-
+35 Metro tak at time: 62989
+-
+36 Metro tak at time: 63491
+-
+37 Metro tak at time: 63992
+-
+38 Metro tak at time: 64493
+-
+39 Metro tak at time: 64995
+-
+40 Metro tak at time: 65496
+-
+41 Metro tak at time: 65997
+-
+42 Metro tak at time: 66498
+-
+43 Metro tak at time: 67000
+-
+44 Metro tak at time: 67501
+-
+45 Metro tak at time: 68002
+-
+46 Metro tak at time: 68503
+-
+47 Metro tak at time: 69004
+-
+48 Metro tak at time: 69505
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+49 Metro tak at time: 86632
+-
+50 Metro tak at time: 88634
+-
+51 Metro tak at time: 90635
+-
+52 Metro tak at time: 92636
+-
+53 Metro tak at time: 94637
+-
+54 Metro tak at time: 96638
+-
+55 Metro tak at time: 98639
+-
+56 Metro tak at time: 100640
+-
+57 Metro tak at time: 102641
+-
+58 Metro tak at time: 104643
+-
+59 Metro tak at time: 106645
+-
+60 Metro tak at time: 108646
+-
+61 Metro tak at time: 110647
+-
+62 Metro tak at time: 112648
+-
+63 Metro tak at time: 114649
+-
+64 Metro tak at time: 116650
+-
+65 Metro tak at time: 118651
+-
+66 Metro tak at time: 120652
+-
+67 Metro tak at time: 122654
+-
+68 Metro tak at time: 124656
+-
+69 Metro tak at time: 126657
+-
+70 Metro tak at time: 128658
+-
+71 Metro tak at time: 130660
+-
+72 Metro tak at time: 132661
+-
+73 Metro tak at time: 134662
+-
+74 Metro tak at time: 136663
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+75 Metro tak at time: 182787
+-
+76 Metro tak at time: 183788
+-
+77 Metro tak at time: 184790
+-
+78 Metro tak at time: 185792
+-
+79 Metro tak at time: 186794
+-
+80 Metro tak at time: 187795
+-
+81 Metro tak at time: 188796
+-
+82 Metro tak at time: 189797
+-
+83 Metro tak at time: 190798
+-
+84 Metro tak at time: 191800
+-
+85 Metro tak at time: 192802
+-
+86 Metro tak at time: 193803
+-
+87 Metro tak at time: 194804
+-
+88 Metro tak at time: 195806
+-
+89 Metro tak at time: 196808
+-
+90 Metro tak at time: 197809
+-
+91 Metro tak at time: 198811
+-
+92 Metro tak at time: 199812
+-
+93 Metro tak at time: 200813
+-
+94 Metro tak at time: 201814
+-
+95 Metro tak at time: 202816
+-
+96 Metro tak at time: 203817
+-
+97 Metro tak at time: 204819
+-
+98 Metro tak at time: 205820
+-
+99 Metro tak at time: 206821
+-
+100 Metro tak at time: 207822
+-
+101 Metro tak at time: 208824
+-
+102 Metro tak at time: 209825
+-
+103 Metro tak at time: 210826
+-
+104 Metro tak at time: 211827
+-
+105 Metro tak at time: 212828
+-
+106 Metro tak at time: 213829
+-
+107 Metro tak at time: 214831
+-
+108 Metro tak at time: 215832
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+109 Metro tak at time: 241623
+-
+110 Metro tak at time: 242291
+-
+111 Metro tak at time: 242958
+-
+112 Metro tak at time: 243625
+-
+113 Metro tak at time: 244292
+-
+114 Metro tak at time: 244959
+-
+115 Metro tak at time: 245626
+-
+116 Metro tak at time: 246293
+-
+117 Metro tak at time: 246960
+-
+118 Metro tak at time: 247627
+-
+119 Metro tak at time: 248295
+-
+120 Metro tak at time: 248963
+-
+121 Metro tak at time: 249630
+-
+122 Metro tak at time: 250297
+-
+123 Metro tak at time: 250964
+-
+124 Metro tak at time: 251632
+-
+125 Metro tak at time: 252300
+-
+126 Metro tak at time: 252968
+-
+127 Metro tak at time: 253635
+-
+128 Metro tak at time: 254302
+-
+129 Metro tak at time: 254970
+-
+130 Metro tak at time: 255638
+-
+131 Metro tak at time: 256305
+-
+132 Metro tak at time: 256972
+-
+133 Metro tak at time: 257639
+-
+134 Metro tak at time: 258306
+-
+135 Metro tak at time: 258974
+-
+136 Metro tak at time: 259642
+-
+137 Metro tak at time: 260309
+-
+138 Metro tak at time: 260976
+-
+139 Metro tak at time: 261643
+-
+140 Metro tak at time: 262310
+-
+141 Metro tak at time: 262977
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+142 Metro tak at time: 281520
+-
+143 Metro tak at time: 281721
+-
+144 Metro tak at time: 281922
+-
+145 Metro tak at time: 282124
+-
+146 Metro tak at time: 282325
+-
+147 Metro tak at time: 282526
+-
+148 Metro tak at time: 282727
+-
+149 Metro tak at time: 282928
+-
+150 Metro tak at time: 283130
+-
+151 Metro tak at time: 283331
+-
+152 Metro tak at time: 283532
+-
+153 Metro tak at time: 283733
+-
+154 Metro tak at time: 283934
+-
+155 Metro tak at time: 284135
+-
+156 Metro tak at time: 284336
+-
+157 Metro tak at time: 284537
+-
+158 Metro tak at time: 284738
+-
+159 Metro tak at time: 284939
+-
+160 Metro tak at time: 285140
+-
+161 Metro tak at time: 285341
+-
+162 Metro tak at time: 285542
+-
+163 Metro tak at time: 285743
+-
+164 Metro tak at time: 285944
+-
+165 Metro tak at time: 286145
+-
+166 Metro tak at time: 286346
+-
+167 Metro tak at time: 286547
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+168 Metro tak at time: 295902
+-
+169 Metro tak at time: 296236
+-
+170 Metro tak at time: 296570
+-
+171 Metro tak at time: 296904
+-
+172 Metro tak at time: 297238
+-
+173 Metro tak at time: 297572
+-
+174 Metro tak at time: 297906
+-
+175 Metro tak at time: 298240
+-
+176 Metro tak at time: 298574
+-
+177 Metro tak at time: 298909
+-
+178 Metro tak at time: 299243
+-
+179 Metro tak at time: 299577
+-
+180 Metro tak at time: 299911
+-
+181 Metro tak at time: 300245
+-
+182 Metro tak at time: 300579
+-
+183 Metro tak at time: 300913
+-
+184 Metro tak at time: 301247
+-
+185 Metro tak at time: 301581
+-
+186 Metro tak at time: 301915
+-
+187 Metro tak at time: 302249
+-
+188 Metro tak at time: 302583
+-
+189 Metro tak at time: 302917
+-
+190 Metro tak at time: 303251
+-
+191 Metro tak at time: 303585
+-
+192 Metro tak at time: 303919
+-
+193 Metro tak at time: 304253
+-
+194 Metro tak at time: 304587
+-
+195 Metro tak at time: 304921
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+196 Metro tak at time: 459870
+-
+197 Metro tak at time: 460071
+-
+198 Metro tak at time: 460272
+-
+199 Metro tak at time: 460473
+-
+200 Metro tak at time: 460674
+-
+201 Metro tak at time: 460875
+-
+202 Metro tak at time: 461076
+-
+203 Metro tak at time: 461277
+-
+204 Metro tak at time: 461478
+-
+205 Metro tak at time: 461679
+-
+206 Metro tak at time: 461880
+-
+207 Metro tak at time: 462081
+-
+208 Metro tak at time: 462282
+-
+209 Metro tak at time: 462483
+-
+210 Metro tak at time: 462684
+-
+211 Metro tak at time: 462885
+-
+212 Metro tak at time: 463086
+-
+213 Metro tak at time: 463287
+-
+214 Metro tak at time: 463488
+-
+215 Metro tak at time: 463689
+-
+216 Metro tak at time: 463890
+216Tap - Tak time: 55ms
+216 Finger Tap at time: 463945
+-
+217 Metro tak at time: 464091
+217Tap - Tak time: 34ms
+217 Finger Tap at time: 464125
+-
+218 Metro tak at time: 464292
+218Tap - Tak time: 3ms
+218 Finger Tap at time: 464295
+-
+219 Finger Tap at time: 464459
+219 Tak - Tap time: 34ms
+219 Metro tak at time: 464493
+-
+220 Finger Tap at time: 464633
+220 Tak - Tap time: 61ms
+220 Metro tak at time: 464694
+-
+221 Finger Tap at time: 464804
+221 Tak - Tap time: 91ms
+221 Metro tak at time: 464895
+-
+222 Finger Tap at time: 464999
+-
+223 Metro tak at time: 465140
+-
+224 Finger Tap at time: 465292
+224 Tak - Tap time: 49ms
+224 Metro tak at time: 465341
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+224 Autosync Tap at time: 465743
+--
+225 Delayed tap happened at 465774
+225 Autosync Tap at time: 465939
+--
+226 Delayed tap happened at 465970
+226 Autosync Tap at time: 466116
+--
+227 Delayed tap happened at 466147
+227 Autosync Tap at time: 466286
+--
+228 Delayed tap happened at 466317
+228 Autosync Tap at time: 466435
+--
+229 Delayed tap happened at 466466
+229 Autosync Tap at time: 466594
+--
+230 Delayed tap happened at 466626
+230 Autosync Tap at time: 466751
+--
+231 Delayed tap happened at 466782
+231 Autosync Tap at time: 466908
+--
+232 Delayed tap happened at 466939
+232 Autosync Tap at time: 467068
+--
+233 Delayed tap happened at 467099
+233 Autosync Tap at time: 467217
+--
+234 Delayed tap happened at 467248
+234 Autosync Tap at time: 467374
+--
+235 Delayed tap happened at 467405
+235 Autosync Tap at time: 467522
+--
+236 Delayed tap happened at 467553
+236 Autosync Tap at time: 467679
+--
+237 Delayed tap happened at 467710
+237 Autosync Tap at time: 467828
+--
+238 Delayed tap happened at 467859
+238 Autosync Tap at time: 467978
+--
+239 Delayed tap happened at 468009
+239 Autosync Tap at time: 468115
+--
+240 Delayed tap happened at 468146
+240 Autosync Tap at time: 468269
+--
+241 Delayed tap happened at 468300
+241 Autosync Tap at time: 468431
+--
+242 Delayed tap happened at 468462
+242 Autosync Tap at time: 468565
+--
+243 Delayed tap happened at 468596
+243 Autosync Tap at time: 468723
+--
+244 Delayed tap happened at 468754
+244 Autosync Tap at time: 468881
+--
+245 Delayed tap happened at 468912
+245 Autosync Tap at time: 469038
+--
+246 Delayed tap happened at 469069
+246 Autosync Tap at time: 469186
+--
+247 Delayed tap happened at 469217
+247 Autosync Tap at time: 469326
+--
+248 Delayed tap happened at 469357
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+249 Metro tak at time: 475029
+-
+250 Metro tak at time: 475696
+-
+251 Metro tak at time: 476363
+-
+252 Metro tak at time: 477030
+-
+253 Metro tak at time: 477697
+-
+254 Metro tak at time: 478364
+-
+255 Metro tak at time: 479031
+-
+256 Metro tak at time: 479698
+-
+257 Metro tak at time: 480365
+-
+258 Metro tak at time: 481032
+-
+259 Metro tak at time: 481699
+-
+260 Metro tak at time: 482366
+-
+261 Metro tak at time: 483033
+-
+262 Metro tak at time: 483700
+-
+263 Metro tak at time: 484367
+-
+264 Metro tak at time: 485034
+-
+265 Metro tak at time: 485701
+-
+266 Metro tak at time: 486368
+-
+267 Metro tak at time: 487035
+-
+268 Metro tak at time: 487702
+-
+269 Metro tak at time: 488369
+-
+270 Metro tak at time: 489036
+-
+271 Metro tak at time: 489703
+-
+272 Metro tak at time: 490370
+-
+273 Metro tak at time: 491037
+-
+274 Metro tak at time: 491704
+-
+275 Metro tak at time: 492371
+-
+276 Metro tak at time: 493038
+-
+277 Metro tak at time: 493705
+-
+278 Metro tak at time: 494372
+-
+279 Metro tak at time: 495039
+-
+280 Metro tak at time: 495706
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+281 Metro tak at time: 514298
+-
+282 Metro tak at time: 514549
+-
+283 Metro tak at time: 514800
+-
+284 Metro tak at time: 515051
+-
+285 Metro tak at time: 515302
+-
+286 Metro tak at time: 515553
+-
+287 Metro tak at time: 515804
+-
+288 Metro tak at time: 516055
+-
+289 Metro tak at time: 516306
+-
+290 Metro tak at time: 516557
+-
+291 Metro tak at time: 516808
+-
+292 Metro tak at time: 517059
+-
+293 Metro tak at time: 517310
+-
+294 Metro tak at time: 517561
+-
+295 Metro tak at time: 517812
+-
+296 Metro tak at time: 518063
+-
+297 Metro tak at time: 518314
+-
+298 Metro tak at time: 518565
+-
+299 Metro tak at time: 518816
+-
+300 Metro tak at time: 519067
+-
+301 Metro tak at time: 519318
+-
+302 Metro tak at time: 519569
+-
+303 Metro tak at time: 519820
+-
+304 Metro tak at time: 520071
+-
+305 Metro tak at time: 520322
+-
+306 Metro tak at time: 520573
+-
+307 Metro tak at time: 520824
+-
+308 Metro tak at time: 521075
+-
+309 Metro tak at time: 521326
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+310 Metro tak at time: 531848
+-
+311 Metro tak at time: 532349
+-
+312 Metro tak at time: 532850
+-
+313 Metro tak at time: 533351
+-
+314 Metro tak at time: 533852
+-
+315 Metro tak at time: 534353
+-
+316 Metro tak at time: 534854
+-
+317 Metro tak at time: 535355
+-
+318 Metro tak at time: 535856
+-
+319 Metro tak at time: 536357
+-
+320 Metro tak at time: 536858
+-
+321 Metro tak at time: 537359
+-
+322 Metro tak at time: 537860
+-
+323 Metro tak at time: 538361
+-
+324 Metro tak at time: 538862
+-
+325 Metro tak at time: 539363
+-
+326 Metro tak at time: 539864
+-
+327 Metro tak at time: 540365
+-
+328 Metro tak at time: 540866
+-
+329 Metro tak at time: 541367
+-
+330 Metro tak at time: 541868
+-
+331 Metro tak at time: 542369
+-
+332 Metro tak at time: 542870
+-
+333 Metro tak at time: 543371
+-
+334 Metro tak at time: 543872
+-
+335 Metro tak at time: 544373
+-
+336 Metro tak at time: 544874
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+337 Metro tak at time: 560337
+-
+338 Metro tak at time: 560671
+-
+339 Metro tak at time: 561005
+-
+340 Metro tak at time: 561339
+-
+341 Metro tak at time: 561673
+-
+342 Metro tak at time: 562007
+-
+343 Metro tak at time: 562341
+-
+344 Metro tak at time: 562675
+-
+345 Metro tak at time: 563009
+-
+346 Metro tak at time: 563343
+-
+347 Metro tak at time: 563677
+-
+348 Metro tak at time: 564011
+-
+349 Metro tak at time: 564345
+-
+350 Metro tak at time: 564679
+-
+351 Metro tak at time: 565013
+-
+352 Metro tak at time: 565347
+-
+353 Metro tak at time: 565681
+-
+354 Metro tak at time: 566015
+-
+355 Metro tak at time: 566349
+-
+356 Metro tak at time: 566683
+-
+357 Metro tak at time: 567017
+-
+358 Metro tak at time: 567351
+-
+359 Metro tak at time: 567685
+-
+360 Metro tak at time: 568019
+-
+361 Metro tak at time: 568353
+-
+362 Metro tak at time: 568687
+-
+363 Metro tak at time: 569021
+-
+364 Metro tak at time: 569355
+-
+365 Metro tak at time: 569689
+-
+366 Metro tak at time: 570023
+-
+367 Metro tak at time: 570357
+-
+368 Metro tak at time: 570691
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+369 Metro tak at time: 583373
+-
+370 Metro tak at time: 584374
+-
+371 Metro tak at time: 585375
+-
+372 Metro tak at time: 586376
+-
+373 Metro tak at time: 587377
+-
+374 Metro tak at time: 588378
+-
+375 Metro tak at time: 589379
+-
+376 Metro tak at time: 590380
+-
+377 Metro tak at time: 591381
+-
+378 Metro tak at time: 592382
+-
+379 Metro tak at time: 593383
+-
+380 Metro tak at time: 594384
+-
+381 Metro tak at time: 595385
+-
+382 Metro tak at time: 596386
+-
+383 Metro tak at time: 597387
+-
+384 Metro tak at time: 598388
+-
+385 Metro tak at time: 599389
+-
+386 Metro tak at time: 600390
+-
+387 Metro tak at time: 601391
+-
+388 Metro tak at time: 602392
+-
+389 Metro tak at time: 603393
+-
+390 Metro tak at time: 604394
+-
+391 Metro tak at time: 605395
+-
+392 Metro tak at time: 606396
+-
+393 Metro tak at time: 607397
+-
+394 Metro tak at time: 608398
+-
+395 Metro tak at time: 609399
+-
+396 Metro tak at time: 610400
+-
+397 Metro tak at time: 611401
+-
+398 Metro tak at time: 612402
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+399 Metro tak at time: 639528
+-
+400 Metro tak at time: 641529
+-
+401 Metro tak at time: 643530
+-
+402 Metro tak at time: 645531
+-
+403 Metro tak at time: 647532
+-
+404 Metro tak at time: 649533
+-
+405 Metro tak at time: 651534
+-
+406 Metro tak at time: 653535
+-
+407 Metro tak at time: 655536
+-
+408 Metro tak at time: 657537
+-
+409 Metro tak at time: 659538
+-
+410 Metro tak at time: 661539
+-
+411 Metro tak at time: 663540
+-
+412 Metro tak at time: 665541
+-
+413 Metro tak at time: 667542
+-
+414 Metro tak at time: 669543
+-
+415 Metro tak at time: 671544
+-
+416 Metro tak at time: 673546
+-
+417 Metro tak at time: 675550
+-
+418 Metro tak at time: 677551
+-
+419 Metro tak at time: 679552
+-
+420 Metro tak at time: 681553
+-
+421 Metro tak at time: 683554
+-
+422 Metro tak at time: 685555
+-
+423 Metro tak at time: 687556
+-
+424 Metro tak at time: 689557
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+425 Metro tak at time: 756126
+-
+426 Metro tak at time: 756327
+-
+427 Metro tak at time: 756528
+-
+428 Metro tak at time: 756729
+-
+429 Metro tak at time: 756930
+-
+430 Metro tak at time: 757131
+-
+431 Metro tak at time: 757332
+-
+432 Metro tak at time: 757533
+-
+433 Metro tak at time: 757734
+-
+434 Metro tak at time: 757935
+-
+435 Metro tak at time: 758136
+-
+436 Metro tak at time: 758337
+-
+437 Metro tak at time: 758538
+-
+438 Metro tak at time: 758739
+-
+439 Metro tak at time: 758940
+-
+440 Metro tak at time: 759141
+-
+441 Metro tak at time: 759342
+-
+442 Metro tak at time: 759543
+-
+443 Metro tak at time: 759744
+-
+444 Metro tak at time: 759945
+-
+445 Metro tak at time: 760146
+-
+446 Metro tak at time: 760347
+-
+447 Metro tak at time: 760548
+-
+448 Metro tak at time: 760749
+-
+449 Metro tak at time: 760950
+-
+450 Metro tak at time: 761151
+-
+451 Metro tak at time: 761352
+-
+452 Metro tak at time: 761553
+-
+453 Metro tak at time: 761754
+-
+454 Metro tak at time: 761955
+-
+455 Metro tak at time: 762156
+-
+456 Metro tak at time: 762357
+-
+457 Metro tak at time: 762558
+-
+458 Metro tak at time: 762759
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+459 Metro tak at time: 772114
+-
+460 Metro tak at time: 772448
+-
+461 Metro tak at time: 772782
+-
+462 Metro tak at time: 773116
+-
+463 Metro tak at time: 773450
+-
+464 Metro tak at time: 773784
+-
+465 Metro tak at time: 774118
+-
+466 Metro tak at time: 774452
+-
+467 Metro tak at time: 774786
+-
+468 Metro tak at time: 775120
+-
+469 Metro tak at time: 775454
+-
+470 Metro tak at time: 775788
+-
+471 Metro tak at time: 776122
+-
+472 Metro tak at time: 776456
+-
+473 Metro tak at time: 776790
+-
+474 Metro tak at time: 777124
+-
+475 Metro tak at time: 777458
+-
+476 Metro tak at time: 777792
+-
+477 Metro tak at time: 778126
+-
+478 Metro tak at time: 778460
+-
+479 Metro tak at time: 778794
+-
+480 Metro tak at time: 779128
+-
+481 Metro tak at time: 779462
+-
+482 Metro tak at time: 779796
+-
+483 Metro tak at time: 780130
+-
+484 Metro tak at time: 780464
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+485 Metro tak at time: 792396
+-
+486 Metro tak at time: 792647
+-
+487 Metro tak at time: 792898
+-
+488 Metro tak at time: 793149
+-
+489 Metro tak at time: 793400
+-
+490 Metro tak at time: 793651
+-
+491 Metro tak at time: 793902
+-
+492 Metro tak at time: 794153
+-
+493 Metro tak at time: 794404
+-
+494 Metro tak at time: 794655
+-
+495 Metro tak at time: 794906
+-
+496 Metro tak at time: 795157
+-
+497 Metro tak at time: 795408
+-
+498 Metro tak at time: 795659
+-
+499 Metro tak at time: 795910
+-
+500 Metro tak at time: 796161
+-
+501 Metro tak at time: 796412
+-
+502 Metro tak at time: 796663
+-
+503 Metro tak at time: 796914
+-
+504 Metro tak at time: 797165
+-
+505 Metro tak at time: 797416
+-
+506 Metro tak at time: 797667
+-
+507 Metro tak at time: 797918
+-
+508 Metro tak at time: 798169
+-
+509 Metro tak at time: 798420
+-
+510 Metro tak at time: 798671
+-
+511 Metro tak at time: 798922
+-
+512 Metro tak at time: 799173
+-
+513 Metro tak at time: 799424
+-
+514 Metro tak at time: 799675
+-
+515 Metro tak at time: 799926
+-
+516 Metro tak at time: 800177
+-
+517 Metro tak at time: 800428
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+518 Metro tak at time: 812450
+-
+519 Metro tak at time: 814451
+-
+520 Metro tak at time: 816452
+-
+521 Metro tak at time: 818453
+-
+522 Metro tak at time: 820454
+-
+523 Metro tak at time: 822455
+-
+524 Metro tak at time: 824456
+-
+525 Metro tak at time: 826457
+-
+526 Metro tak at time: 828458
+-
+527 Metro tak at time: 830459
+-
+528 Metro tak at time: 832460
+-
+529 Metro tak at time: 834461
+-
+530 Metro tak at time: 836462
+-
+531 Metro tak at time: 838463
+-
+532 Metro tak at time: 840464
+-
+533 Metro tak at time: 842465
+-
+534 Metro tak at time: 844466
+-
+535 Metro tak at time: 846467
+-
+536 Metro tak at time: 848468
+-
+537 Metro tak at time: 850469
+-
+538 Metro tak at time: 852470
+-
+539 Metro tak at time: 854473
+-
+540 Metro tak at time: 856474
+-
+541 Metro tak at time: 858475
+-
+542 Metro tak at time: 860476
+-
+543 Metro tak at time: 862477
+-
+544 Metro tak at time: 864478
+-
+545 Metro tak at time: 866479
+-
+546 Metro tak at time: 868480
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+547 Metro tak at time: 914604
+-
+548 Metro tak at time: 915605
+-
+549 Metro tak at time: 916606
+-
+550 Metro tak at time: 917607
+-
+551 Metro tak at time: 918608
+-
+552 Metro tak at time: 919609
+-
+553 Metro tak at time: 920610
+-
+554 Metro tak at time: 921611
+-
+555 Metro tak at time: 922612
+-
+556 Metro tak at time: 923613
+-
+557 Metro tak at time: 924614
+-
+558 Metro tak at time: 925615
+-
+559 Metro tak at time: 926616
+-
+560 Metro tak at time: 927617
+-
+561 Metro tak at time: 928618
+-
+562 Metro tak at time: 929619
+-
+563 Metro tak at time: 930620
+-
+564 Metro tak at time: 931621
+-
+565 Metro tak at time: 932622
+-
+566 Metro tak at time: 933623
+-
+567 Metro tak at time: 934624
+-
+568 Metro tak at time: 935625
+-
+569 Metro tak at time: 936626
+-
+570 Metro tak at time: 937627
+-
+571 Metro tak at time: 938628
+-
+572 Metro tak at time: 939629
+-
+573 Metro tak at time: 940630
+-
+574 Metro tak at time: 941631
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+575 Metro tak at time: 967153
+-
+576 Metro tak at time: 967654
+-
+577 Metro tak at time: 968155
+-
+578 Metro tak at time: 968656
+-
+579 Metro tak at time: 969157
+-
+580 Metro tak at time: 969659
+-
+581 Metro tak at time: 970160
+-
+582 Metro tak at time: 970661
+-
+583 Metro tak at time: 971162
+-
+584 Metro tak at time: 971663
+-
+585 Metro tak at time: 972164
+-
+586 Metro tak at time: 972665
+-
+587 Metro tak at time: 973166
+-
+588 Metro tak at time: 973667
+-
+589 Metro tak at time: 974168
+-
+590 Metro tak at time: 974669
+-
+591 Metro tak at time: 975170
+-
+592 Metro tak at time: 975671
+-
+593 Metro tak at time: 976172
+-
+594 Metro tak at time: 976673
+-
+595 Metro tak at time: 977174
+-
+596 Metro tak at time: 977675
+-
+597 Metro tak at time: 978176
+-
+598 Metro tak at time: 978677
+-
+599 Metro tak at time: 979178
+-
+600 Metro tak at time: 979679
+-
+601 Metro tak at time: 980180
+-
+602 Metro tak at time: 980681
+-
+603 Metro tak at time: 981182
+-
+604 Metro tak at time: 981683
+-
+605 Metro tak at time: 982184
+-
+606 Metro tak at time: 982685
+-
+607 Metro tak at time: 983186
+-
+608 Metro tak at time: 983687
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+609 Metro tak at time: 999375
+-
+610 Metro tak at time: 1000042
+-
+611 Metro tak at time: 1000709
+-
+612 Metro tak at time: 1001376
+-
+613 Metro tak at time: 1002043
+-
+614 Metro tak at time: 1002710
+-
+615 Metro tak at time: 1003377
+-
+616 Metro tak at time: 1004044
+-
+617 Metro tak at time: 1004711
+-
+618 Metro tak at time: 1005378
+-
+619 Metro tak at time: 1006045
+-
+620 Metro tak at time: 1006712
+-
+621 Metro tak at time: 1007379
+-
+622 Metro tak at time: 1008046
+-
+623 Metro tak at time: 1008713
+-
+624 Metro tak at time: 1009380
+-
+625 Metro tak at time: 1010047
+-
+626 Metro tak at time: 1010714
+-
+627 Metro tak at time: 1011381
+-
+628 Metro tak at time: 1012048
+-
+629 Metro tak at time: 1012715
+-
+630 Metro tak at time: 1013382
+-
+631 Metro tak at time: 1014049
+-
+632 Metro tak at time: 1014716
+-
+633 Metro tak at time: 1015383
+-
+634 Metro tak at time: 1016050
+-
+635 Metro tak at time: 1016717
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+636 Metro tak at time: 1079339
+-
+637 Metro tak at time: 1079540
+-
+638 Metro tak at time: 1079741
+-
+639 Metro tak at time: 1079942
+-
+640 Metro tak at time: 1080143
+-
+641 Metro tak at time: 1080344
+-
+642 Metro tak at time: 1080545
+-
+643 Metro tak at time: 1080746
+-
+644 Metro tak at time: 1080947
+-
+645 Metro tak at time: 1081148
+-
+646 Metro tak at time: 1081349
+-
+647 Metro tak at time: 1081550
+-
+648 Metro tak at time: 1081751
+-
+649 Metro tak at time: 1081952
+-
+650 Metro tak at time: 1082153
+-
+651 Metro tak at time: 1082354
+-
+652 Metro tak at time: 1082555
+-
+653 Metro tak at time: 1082756
+-
+654 Metro tak at time: 1082957
+-
+655 Metro tak at time: 1083158
+-
+656 Metro tak at time: 1083359
+-
+657 Metro tak at time: 1083560
+-
+658 Metro tak at time: 1083761
+-
+659 Metro tak at time: 1083962
+-
+660 Metro tak at time: 1084163
+-
+661 Metro tak at time: 1084364
+-
+662 Metro tak at time: 1084565
+-
+663 Metro tak at time: 1084766
+-
+664 Metro tak at time: 1084967
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+665 Metro tak at time: 1094594
+-
+666 Metro tak at time: 1095095
+-
+667 Metro tak at time: 1095596
+-
+668 Metro tak at time: 1096097
+-
+669 Metro tak at time: 1096598
+-
+670 Metro tak at time: 1097099
+-
+671 Metro tak at time: 1097600
+-
+672 Metro tak at time: 1098101
+-
+673 Metro tak at time: 1098602
+-
+674 Metro tak at time: 1099103
+-
+675 Metro tak at time: 1099604
+-
+676 Metro tak at time: 1100105
+-
+677 Metro tak at time: 1100606
+-
+678 Metro tak at time: 1101107
+-
+679 Metro tak at time: 1101608
+-
+680 Metro tak at time: 1102109
+-
+681 Metro tak at time: 1102610
+-
+682 Metro tak at time: 1103111
+-
+683 Metro tak at time: 1103612
+-
+684 Metro tak at time: 1104113
+-
+685 Metro tak at time: 1104614
+-
+686 Metro tak at time: 1105115
+-
+687 Metro tak at time: 1105616
+-
+688 Metro tak at time: 1106117
+-
+689 Metro tak at time: 1106618
+-
+690 Metro tak at time: 1107119
+-
+691 Metro tak at time: 1107620
+-
+692 Metro tak at time: 1108121
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+693 Metro tak at time: 1123809
+-
+694 Metro tak at time: 1124476
+-
+695 Metro tak at time: 1125143
+-
+696 Metro tak at time: 1125810
+-
+697 Metro tak at time: 1126477
+-
+698 Metro tak at time: 1127144
+-
+699 Metro tak at time: 1127811
+-
+700 Metro tak at time: 1128478
+-
+701 Metro tak at time: 1129145
+-
+702 Metro tak at time: 1129812
+-
+703 Metro tak at time: 1130479
+-
+704 Metro tak at time: 1131146
+-
+705 Metro tak at time: 1131813
+-
+706 Metro tak at time: 1132480
+-
+707 Metro tak at time: 1133147
+-
+708 Metro tak at time: 1133814
+-
+709 Metro tak at time: 1134481
+-
+710 Metro tak at time: 1135148
+-
+711 Metro tak at time: 1135815
+-
+712 Metro tak at time: 1136482
+-
+713 Metro tak at time: 1137149
+-
+714 Metro tak at time: 1137816
+-
+715 Metro tak at time: 1138483
+-
+716 Metro tak at time: 1139150
+-
+717 Metro tak at time: 1139817
+-
+718 Metro tak at time: 1140484
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+719 Metro tak at time: 1160826
+-
+720 Metro tak at time: 1162827
+-
+721 Metro tak at time: 1164828
+-
+722 Metro tak at time: 1166829
+-
+723 Metro tak at time: 1168830
+-
+724 Metro tak at time: 1170831
+-
+725 Metro tak at time: 1172832
+-
+726 Metro tak at time: 1174833
+-
+727 Metro tak at time: 1176834
+-
+728 Metro tak at time: 1178835
+-
+729 Metro tak at time: 1180836
+-
+730 Metro tak at time: 1182837
+-
+731 Metro tak at time: 1184838
+-
+732 Metro tak at time: 1186839
+-
+733 Metro tak at time: 1188840
+-
+734 Metro tak at time: 1190841
+-
+735 Metro tak at time: 1192842
+-
+736 Metro tak at time: 1194843
+-
+737 Metro tak at time: 1196844
+-
+738 Metro tak at time: 1198845
+-
+739 Metro tak at time: 1200846
+-
+740 Metro tak at time: 1202847
+-
+741 Metro tak at time: 1204848
+-
+742 Metro tak at time: 1206849
+-
+743 Metro tak at time: 1208850
+-
+744 Metro tak at time: 1210851
+-
+745 Metro tak at time: 1212852
+-
+746 Metro tak at time: 1214853
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+747 Metro tak at time: 1260208
+-
+748 Metro tak at time: 1260542
+-
+749 Metro tak at time: 1260876
+-
+750 Metro tak at time: 1261210
+-
+751 Metro tak at time: 1261544
+-
+752 Metro tak at time: 1261878
+-
+753 Metro tak at time: 1262212
+-
+754 Metro tak at time: 1262546
+-
+755 Metro tak at time: 1262880
+-
+756 Metro tak at time: 1263214
+-
+757 Metro tak at time: 1263548
+-
+758 Metro tak at time: 1263882
+-
+759 Metro tak at time: 1264216
+-
+760 Metro tak at time: 1264550
+-
+761 Metro tak at time: 1264884
+-
+762 Metro tak at time: 1265218
+-
+763 Metro tak at time: 1265552
+-
+764 Metro tak at time: 1265886
+-
+765 Metro tak at time: 1266220
+-
+766 Metro tak at time: 1266554
+-
+767 Metro tak at time: 1266888
+-
+768 Metro tak at time: 1267222
+-
+769 Metro tak at time: 1267556
+-
+770 Metro tak at time: 1267890
+-
+771 Metro tak at time: 1268224
+-
+772 Metro tak at time: 1268558
+-
+773 Metro tak at time: 1268892
+-
+774 Metro tak at time: 1269226
+-
+775 Metro tak at time: 1269560
+-
+776 Metro tak at time: 1269894
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+777 Metro tak at time: 1282576
+-
+778 Metro tak at time: 1283577
+-
+779 Metro tak at time: 1284578
+-
+780 Metro tak at time: 1285579
+-
+781 Metro tak at time: 1286580
+-
+782 Metro tak at time: 1287581
+-
+783 Metro tak at time: 1288582
+-
+784 Metro tak at time: 1289583
+-
+785 Metro tak at time: 1290584
+-
+786 Metro tak at time: 1291585
+-
+787 Metro tak at time: 1292586
+-
+788 Metro tak at time: 1293587
+-
+789 Metro tak at time: 1294588
+-
+790 Metro tak at time: 1295589
+-
+791 Metro tak at time: 1296590
+-
+792 Metro tak at time: 1297591
+-
+793 Metro tak at time: 1298592
+-
+794 Metro tak at time: 1299593
+-
+795 Metro tak at time: 1300594
+-
+796 Metro tak at time: 1301595
+-
+797 Metro tak at time: 1302596
+-
+798 Metro tak at time: 1303597
+-
+799 Metro tak at time: 1304598
+-
+800 Metro tak at time: 1305599
+-
+801 Metro tak at time: 1306600
+-
+802 Metro tak at time: 1307601
+-
+803 Metro tak at time: 1308602
+-
+804 Metro tak at time: 1309603
+-
+805 Metro tak at time: 1310604
+-
+806 Metro tak at time: 1311605
+-
+807 Metro tak at time: 1312606
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+808 Metro tak at time: 1337984
+-
+809 Metro tak at time: 1338235
+-
+810 Metro tak at time: 1338486
+-
+811 Metro tak at time: 1338737
+-
+812 Metro tak at time: 1338988
+-
+813 Metro tak at time: 1339239
+-
+814 Metro tak at time: 1339490
+-
+815 Metro tak at time: 1339741
+-
+816 Metro tak at time: 1339992
+-
+817 Metro tak at time: 1340243
+-
+818 Metro tak at time: 1340494
+-
+819 Metro tak at time: 1340745
+-
+820 Metro tak at time: 1340996
+-
+821 Metro tak at time: 1341247
+-
+822 Metro tak at time: 1341498
+-
+823 Metro tak at time: 1341749
+-
+824 Metro tak at time: 1342000
+-
+825 Metro tak at time: 1342251
+-
+826 Metro tak at time: 1342502
+-
+827 Metro tak at time: 1342753
+-
+828 Metro tak at time: 1343004
+-
+829 Metro tak at time: 1343255
+-
+830 Metro tak at time: 1343506
+-
+831 Metro tak at time: 1343757
+-
+832 Metro tak at time: 1344008
+-
+833 Metro tak at time: 1344259
+-
+834 Metro tak at time: 1344510
+-
+835 Metro tak at time: 1344761
+-
+836 Metro tak at time: 1345012
+-
+837 Metro tak at time: 1345263
+-
+838 Metro tak at time: 1345514
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+
+------ Autosync Phase ended, Pause ------ 
+

@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\EditorState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\EditorToolTip.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\EditorWidgets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\UndoManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\WidgetTypes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\PanelControllers.cpp">
+      <Filter>Panels</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\PanelItems.cpp">
+      <Filter>Panels</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\PanelMainProperties.cpp">
+      <Filter>Panels</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\PanelProperties.cpp">
+      <Filter>Panels</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\PanelUserData.cpp">
+      <Filter>Panels</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\PropertiesPanelView.cpp">
+      <Filter>Panels</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\MetaSolutionWindow.cpp">
+      <Filter>Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\SettingsWindow.cpp">
+      <Filter>Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\WidgetsWindow.cpp">
+      <Filter>Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\OpenSaveFileDialog.cpp">
+      <Filter>Windows\OpenSaveFileDialog</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\Parse.cpp">
+      <Filter>Parse</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\GroupMessage.cpp">
+      <Filter>GroupedMessage</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Common\Base\Ogre\BaseManager.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Common\Input\OIS\InputManager.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Common\Input\OIS\PointerManager.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\Common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\EditorState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\EditorToolTip.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\EditorWidgets.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\UndoManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\WidgetContainer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\WidgetTypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\PanelControllers.h">
+      <Filter>Panels\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\PanelItems.h">
+      <Filter>Panels\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\PanelMainProperties.h">
+      <Filter>Panels\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\PanelProperties.h">
+      <Filter>Panels\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\PanelUserData.h">
+      <Filter>Panels\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\PanelView.h">
+      <Filter>Panels\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\PanelViewCell.h">
+      <Filter>Panels\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\PropertiesPanelView.h">
+      <Filter>Panels\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\MetaSolutionWindow.h">
+      <Filter>Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\SettingsWindow.h">
+      <Filter>Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\WidgetsWindow.h">
+      <Filter>Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\OpenSaveFileDialog.h">
+      <Filter>Windows\OpenSaveFileDialog</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\Parse.h">
+      <Filter>Parse</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\GroupMessage.h">
+      <Filter>GroupedMessage</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Common\Base\Ogre\BaseManager.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Common\Input\OIS\InputManager.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Common\Input\OIS\PointerManager.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\LayoutEditor.rc">
+      <Filter>Resources</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="..\..\..\Tools\LayoutEditor\CMakeLists.txt">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{97C9477C-546A-4FC7-AE9A-319A5B94EBAF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{FBEBCB07-3CE7-4F8C-9DE4-82B222A326DD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{5E68C32C-692C-4AD7-8B14-DB407B51AE3A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Panels">
+      <UniqueIdentifier>{89F4EB44-565A-4EE9-8350-18807E72F87E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Windows">
+      <UniqueIdentifier>{50024D74-6388-4607-B31E-4D44D060A3B4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Parse">
+      <UniqueIdentifier>{B23F5C8B-832F-490F-AEC7-5FF21DA2ABEE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GroupedMessage">
+      <UniqueIdentifier>{D3EE63A6-F45F-42DB-B6D7-4207FE1E2E86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Base">
+      <UniqueIdentifier>{871176EC-A7FD-47BC-8E5D-1FD2D8D8A23D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Panels\Header">
+      <UniqueIdentifier>{DAC6E335-345F-47A1-8C03-7F2F95B9057D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Windows\OpenSaveFileDialog">
+      <UniqueIdentifier>{A98AF6BF-AAE5-4A8D-A29A-44CCEB5FCCD6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\Tools\LayoutEditor\editor.ico">
+      <Filter>Resources</Filter>
+    </None>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1712 @@
+New freq Trial. Phase 0. Freq: 3
+-
+2 Metro tak at time: 335
+tak period: 335ms
+New freq Trial. Phase 0. Freq: 3
+-
+3 Metro tak at time: 669
+tak period: 334ms
+New freq Trial. Phase 0. Freq: 3
+-
+4 Metro tak at time: 1004
+tak period: 335ms
+New freq Trial. Phase 0. Freq: 3
+-
+5 Metro tak at time: 1338
+tak period: 334ms
+New freq Trial. Phase 0. Freq: 3
+-
+6 Metro tak at time: 1672
+tak period: 334ms
+New freq Trial. Phase 0. Freq: 3
+-
+7 Metro tak at time: 2007
+tak period: 335ms
+New freq Trial. Phase 0. Freq: 3
+-
+8 Metro tak at time: 2341
+tak period: 334ms
+New freq Trial. Phase 0. Freq: 3
+-
+9 Metro tak at time: 2675
+tak period: 334ms
+New freq Trial. Phase 0. Freq: 3
+-
+10 Metro tak at time: 3010
+tak period: 335ms
+New freq Trial. Phase 0. Freq: 3
+-
+11 Metro tak at time: 3344
+tak period: 334ms
+New freq Trial. Phase 0. Freq: 3
+-
+12 Metro tak at time: 3678
+tak period: 334ms
+New freq Trial. Phase 0. Freq: 3
+-
+13 Metro tak at time: 4013
+tak period: 335ms
+New freq Trial. Phase 0. Freq: 3
+-
+14 Metro tak at time: 4347
+tak period: 334ms
+New freq Trial. Phase 0. Freq: 3
+-
+15 Metro tak at time: 4681
+tak period: 334ms
+New freq Trial. Phase 0. Freq: 3
+-
+16 Metro tak at time: 5016
+tak period: 335ms
+New freq Trial. Phase 0. Freq: 3
+-
+17 Metro tak at time: 5350
+tak period: 334ms
+New freq Trial. Phase 0. Freq: 3
+-
+18 Metro tak at time: 5685
+tak period: 335ms
+New freq Trial. Phase 0. Freq: 3
+-
+19 Metro tak at time: 6020
+tak period: 335ms
+New freq Trial. Phase 0. Freq: 3
+-
+20 Metro tak at time: 6354
+tak period: 334ms
+New freq Trial. Phase 0. Freq: 3
+-
+21 Metro tak at time: 6688
+tak period: 334ms
+New freq Trial. Phase 0. Freq: 3
+-
+22 Metro tak at time: 7023
+tak period: 335ms
+New freq Trial. Phase 0. Freq: 3
+-
+23 Metro tak at time: 7357
+tak period: 334ms
+New freq Trial. Phase 0. Freq: 3
+-
+24 Metro tak at time: 7692
+tak period: 335ms
+New freq Trial. Phase 0. Freq: 3
+-
+25 Metro tak at time: 8026
+tak period: 334ms
+Metronome Phase ended, autosync phase on
+Autosync Phase ended, Pause
+Pause ended, back to metronome phase
+Pause lasted for 5001
+New freq Trial. Phase 3. Freq: 1
+-
+26 Metro tak at time: 20710
+tak period: 1002ms
+26Tap - Tak time: 160ms
+26Finger Tap at time: 20870
+tap period: 20870ms
+New freq Trial. Phase 3. Freq: 1
+-
+27 Metro tak at time: 21711
+tak period: 1001ms
+-
+28Finger Tap at time: 22594
+tap period: 1724ms
+New freq Trial. Phase 3. Freq: 1
+28 Tak - Tap time: 119ms
+28 Metro tak at time: 22713
+tak period: 1002ms
+-
+29Finger Tap at time: 23520
+tap period: 926ms
+New freq Trial. Phase 3. Freq: 1
+29 Tak - Tap time: 194ms
+29 Metro tak at time: 23714
+tak period: 1001ms
+-
+30Finger Tap at time: 24557
+tap period: 1037ms
+New freq Trial. Phase 3. Freq: 1
+30 Tak - Tap time: 159ms
+30 Metro tak at time: 24716
+tak period: 1002ms
+-
+31Finger Tap at time: 25510
+tap period: 953ms
+New freq Trial. Phase 3. Freq: 1
+31 Tak - Tap time: 208ms
+31 Metro tak at time: 25718
+tak period: 1002ms
+-
+32Finger Tap at time: 26618
+tap period: 1108ms
+New freq Trial. Phase 3. Freq: 1
+32 Tak - Tap time: 101ms
+32 Metro tak at time: 26719
+tak period: 1001ms
+-
+33Finger Tap at time: 27558
+tap period: 940ms
+New freq Trial. Phase 3. Freq: 1
+33 Tak - Tap time: 162ms
+33 Metro tak at time: 27720
+tak period: 1001ms
+-
+34Finger Tap at time: 28489
+tap period: 931ms
+New freq Trial. Phase 3. Freq: 1
+34 Tak - Tap time: 232ms
+34 Metro tak at time: 28721
+tak period: 1001ms
+-
+35Finger Tap at time: 29580
+tap period: 1091ms
+New freq Trial. Phase 3. Freq: 1
+35 Tak - Tap time: 143ms
+35 Metro tak at time: 29723
+tak period: 1002ms
+-
+36Finger Tap at time: 30598
+tap period: 1018ms
+New freq Trial. Phase 3. Freq: 1
+36 Tak - Tap time: 127ms
+36 Metro tak at time: 30725
+tak period: 1002ms
+-
+37Finger Tap at time: 31632
+tap period: 1034ms
+New freq Trial. Phase 3. Freq: 1
+37 Tak - Tap time: 95ms
+37 Metro tak at time: 31727
+tak period: 1002ms
+-
+38Finger Tap at time: 32638
+tap period: 1006ms
+New freq Trial. Phase 3. Freq: 1
+38 Tak - Tap time: 91ms
+38 Metro tak at time: 32729
+tak period: 1002ms
+-
+39Finger Tap at time: 33631
+tap period: 993ms
+New freq Trial. Phase 3. Freq: 1
+39 Tak - Tap time: 100ms
+39 Metro tak at time: 33731
+tak period: 1002ms
+-
+40Finger Tap at time: 34639
+tap period: 1008ms
+New freq Trial. Phase 3. Freq: 1
+40 Tak - Tap time: 93ms
+40 Metro tak at time: 34732
+tak period: 1001ms
+-
+41Finger Tap at time: 35635
+tap period: 996ms
+New freq Trial. Phase 3. Freq: 1
+41 Tak - Tap time: 99ms
+41 Metro tak at time: 35734
+tak period: 1002ms
+-
+42Finger Tap at time: 36667
+tap period: 1032ms
+New freq Trial. Phase 3. Freq: 1
+42 Tak - Tap time: 69ms
+42 Metro tak at time: 36736
+tak period: 1002ms
+-
+43Finger Tap at time: 37710
+tap period: 1043ms
+New freq Trial. Phase 3. Freq: 1
+43 Tak - Tap time: 28ms
+43 Metro tak at time: 37738
+tak period: 1002ms
+-
+44Finger Tap at time: 38684
+tap period: 974ms
+New freq Trial. Phase 3. Freq: 1
+44 Tak - Tap time: 56ms
+44 Metro tak at time: 38740
+tak period: 1002ms
+-
+45Finger Tap at time: 39722
+tap period: 1038ms
+New freq Trial. Phase 3. Freq: 1
+45 Tak - Tap time: 19ms
+45 Metro tak at time: 39741
+tak period: 1001ms
+-
+46Finger Tap at time: 40666
+tap period: 944ms
+New freq Trial. Phase 3. Freq: 1
+46 Tak - Tap time: 77ms
+46 Metro tak at time: 40743
+tak period: 1002ms
+-
+47Finger Tap at time: 41651
+tap period: 985ms
+New freq Trial. Phase 3. Freq: 1
+47 Tak - Tap time: 93ms
+47 Metro tak at time: 41744
+tak period: 1001ms
+-
+48Finger Tap at time: 42679
+tap period: 1028ms
+New freq Trial. Phase 3. Freq: 1
+48 Tak - Tap time: 67ms
+48 Metro tak at time: 42746
+tak period: 1002ms
+-
+49Finger Tap at time: 43707
+tap period: 1028ms
+New freq Trial. Phase 3. Freq: 1
+49 Tak - Tap time: 41ms
+49 Metro tak at time: 43748
+tak period: 1002ms
+-
+50Finger Tap at time: 44708
+tap period: 1001ms
+New freq Trial. Phase 3. Freq: 1
+50 Tak - Tap time: 42ms
+50 Metro tak at time: 44750
+tak period: 1002ms
+Metronome Phase ended, autosync phase on
+50Autosync Tap at time: 45719
+tap period: 1011ms
+--
+51Autosync Tap at time: 46654
+tap period: 935ms
+--
+52Autosync Tap at time: 47546
+tap period: 892ms
+--
+53Autosync Tap at time: 48354
+tap period: 808ms
+--
+54Autosync Tap at time: 49011
+tap period: 657ms
+--
+55Autosync Tap at time: 49600
+tap period: 589ms
+--
+56Autosync Tap at time: 50172
+tap period: 572ms
+--
+57Autosync Tap at time: 50749
+tap period: 577ms
+--
+58Autosync Tap at time: 51340
+tap period: 591ms
+--
+59Autosync Tap at time: 51942
+tap period: 602ms
+--
+60Autosync Tap at time: 52534
+tap period: 592ms
+--
+61Autosync Tap at time: 53142
+tap period: 608ms
+--
+62Autosync Tap at time: 53731
+tap period: 589ms
+--
+63Autosync Tap at time: 54295
+tap period: 564ms
+--
+64Autosync Tap at time: 54941
+tap period: 646ms
+--
+65Autosync Tap at time: 55539
+tap period: 598ms
+--
+66Autosync Tap at time: 56157
+tap period: 618ms
+--
+67Autosync Tap at time: 56767
+tap period: 610ms
+--
+68Autosync Tap at time: 57338
+tap period: 571ms
+--
+69Autosync Tap at time: 57964
+tap period: 626ms
+--
+70Autosync Tap at time: 58552
+tap period: 588ms
+--
+71Autosync Tap at time: 59135
+tap period: 583ms
+--
+72Autosync Tap at time: 59758
+tap period: 623ms
+--
+73Autosync Tap at time: 60432
+tap period: 674ms
+--
+74Autosync Tap at time: 60974
+tap period: 542ms
+--
+75Autosync Tap at time: 61585
+tap period: 611ms
+--
+76Autosync Tap at time: 62186
+tap period: 601ms
+--
+77Autosync Tap at time: 62784
+tap period: 598ms
+--
+78Autosync Tap at time: 63369
+tap period: 585ms
+--
+79Autosync Tap at time: 63951
+tap period: 582ms
+--
+80Autosync Tap at time: 64557
+tap period: 606ms
+--
+Autosync Phase ended, Pause
+Pause ended, back to metronome phase
+Pause lasted for 5001
+New freq Trial. Phase 6. Freq: 5
+-
+82 Metro tak at time: 69994
+tak period: 202ms
+New freq Trial. Phase 6. Freq: 5
+-
+83 Metro tak at time: 70196
+tak period: 202ms
+-
+84Finger Tap at time: 70375
+tap period: 5818ms
+New freq Trial. Phase 6. Freq: 5
+84 Tak - Tap time: 23ms
+84 Metro tak at time: 70398
+tak period: 202ms
+New freq Trial. Phase 6. Freq: 5
+-
+85 Metro tak at time: 70600
+tak period: 202ms
+-
+86Finger Tap at time: 70731
+tap period: 356ms
+New freq Trial. Phase 6. Freq: 5
+86 Tak - Tap time: 70ms
+86 Metro tak at time: 70801
+tak period: 201ms
+-
+87Finger Tap at time: 70933
+tap period: 202ms
+New freq Trial. Phase 6. Freq: 5
+87 Tak - Tap time: 70ms
+87 Metro tak at time: 71003
+tak period: 202ms
+-
+88Finger Tap at time: 71117
+tap period: 184ms
+New freq Trial. Phase 6. Freq: 5
+88 Tak - Tap time: 88ms
+88 Metro tak at time: 71205
+tak period: 202ms
+88Tap - Tak time: 87ms
+88Finger Tap at time: 71292
+tap period: 175ms
+New freq Trial. Phase 6. Freq: 5
+-
+89 Metro tak at time: 71406
+tak period: 201ms
+89Tap - Tak time: 83ms
+89Finger Tap at time: 71489
+tap period: 197ms
+New freq Trial. Phase 6. Freq: 5
+-
+90 Metro tak at time: 71608
+tak period: 202ms
+90Tap - Tak time: 100ms
+90Finger Tap at time: 71708
+tap period: 219ms
+New freq Trial. Phase 6. Freq: 5
+-
+91 Metro tak at time: 71810
+tak period: 202ms
+-
+92Finger Tap at time: 71957
+tap period: 249ms
+New freq Trial. Phase 6. Freq: 5
+92 Tak - Tap time: 55ms
+92 Metro tak at time: 72012
+tak period: 202ms
+-
+93Finger Tap at time: 72184
+tap period: 227ms
+New freq Trial. Phase 6. Freq: 5
+93 Tak - Tap time: 29ms
+93 Metro tak at time: 72213
+tak period: 201ms
+New freq Trial. Phase 6. Freq: 5
+-
+94 Metro tak at time: 72415
+tak period: 202ms
+94Tap - Tak time: 4ms
+94Finger Tap at time: 72419
+tap period: 235ms
+New freq Trial. Phase 6. Freq: 5
+-
+95 Metro tak at time: 72617
+tak period: 202ms
+95Tap - Tak time: 42ms
+95Finger Tap at time: 72659
+tap period: 240ms
+New freq Trial. Phase 6. Freq: 5
+-
+96 Metro tak at time: 72819
+tak period: 202ms
+96Tap - Tak time: 47ms
+96Finger Tap at time: 72866
+tap period: 207ms
+New freq Trial. Phase 6. Freq: 5
+-
+97 Metro tak at time: 73021
+tak period: 202ms
+97Tap - Tak time: 63ms
+97Finger Tap at time: 73084
+tap period: 218ms
+New freq Trial. Phase 6. Freq: 5
+-
+98 Metro tak at time: 73222
+tak period: 201ms
+98Tap - Tak time: 60ms
+98Finger Tap at time: 73282
+tap period: 198ms
+New freq Trial. Phase 6. Freq: 5
+-
+99 Metro tak at time: 73424
+tak period: 202ms
+99Tap - Tak time: 61ms
+99Finger Tap at time: 73485
+tap period: 203ms
+New freq Trial. Phase 6. Freq: 5
+-
+100 Metro tak at time: 73625
+tak period: 201ms
+100Tap - Tak time: 70ms
+100Finger Tap at time: 73695
+tap period: 210ms
+New freq Trial. Phase 6. Freq: 5
+-
+101 Metro tak at time: 73827
+tak period: 202ms
+101Tap - Tak time: 63ms
+101Finger Tap at time: 73890
+tap period: 195ms
+New freq Trial. Phase 6. Freq: 5
+-
+102 Metro tak at time: 74028
+tak period: 201ms
+102Tap - Tak time: 55ms
+102Finger Tap at time: 74083
+tap period: 193ms
+New freq Trial. Phase 6. Freq: 5
+-
+103 Metro tak at time: 74230
+tak period: 202ms
+103Tap - Tak time: 44ms
+103Finger Tap at time: 74274
+tap period: 191ms
+New freq Trial. Phase 6. Freq: 5
+-
+104 Metro tak at time: 74431
+tak period: 201ms
+104Tap - Tak time: 30ms
+104Finger Tap at time: 74461
+tap period: 187ms
+New freq Trial. Phase 6. Freq: 5
+-
+105 Metro tak at time: 74633
+tak period: 202ms
+105Tap - Tak time: 7ms
+105Finger Tap at time: 74640
+tap period: 179ms
+New freq Trial. Phase 6. Freq: 5
+-
+106 Metro tak at time: 74834
+tak period: 201ms
+106Tap - Tak time: 5ms
+106Finger Tap at time: 74839
+tap period: 199ms
+New freq Trial. Phase 6. Freq: 5
+-
+107 Metro tak at time: 75036
+tak period: 202ms
+107Tap - Tak time: 0ms
+107Finger Tap at time: 75036
+tap period: 197ms
+New freq Trial. Phase 6. Freq: 5
+-
+108 Metro tak at time: 75238
+tak period: 201ms
+108Tap - Tak time: 10ms
+108Finger Tap at time: 75248
+tap period: 212ms
+New freq Trial. Phase 6. Freq: 5
+-
+109 Metro tak at time: 75439
+tak period: 201ms
+109Tap - Tak time: 8ms
+109Finger Tap at time: 75447
+tap period: 199ms
+New freq Trial. Phase 6. Freq: 5
+-
+110 Metro tak at time: 75640
+tak period: 201ms
+110Tap - Tak time: 3ms
+110Finger Tap at time: 75643
+tap period: 196ms
+-
+111Finger Tap at time: 75833
+tap period: 190ms
+New freq Trial. Phase 6. Freq: 5
+111 Tak - Tap time: 9ms
+111 Metro tak at time: 75842
+tak period: 202ms
+Metronome Phase ended, autosync phase on
+111Autosync Tap at time: 76024
+tap period: 191ms
+--
+112Autosync Tap at time: 76236
+tap period: 212ms
+--
+113Autosync Tap at time: 76471
+tap period: 235ms
+--
+114Autosync Tap at time: 76686
+tap period: 215ms
+--
+115Autosync Tap at time: 76902
+tap period: 216ms
+--
+116Autosync Tap at time: 77149
+tap period: 247ms
+--
+117Autosync Tap at time: 77360
+tap period: 211ms
+--
+118Autosync Tap at time: 77573
+tap period: 213ms
+--
+119Autosync Tap at time: 77783
+tap period: 210ms
+--
+120Autosync Tap at time: 77983
+tap period: 200ms
+--
+121Autosync Tap at time: 78197
+tap period: 214ms
+--
+122Autosync Tap at time: 78416
+tap period: 219ms
+--
+123Autosync Tap at time: 78621
+tap period: 205ms
+--
+124Autosync Tap at time: 78833
+tap period: 212ms
+--
+125Autosync Tap at time: 79024
+tap period: 191ms
+--
+126Autosync Tap at time: 79220
+tap period: 196ms
+--
+127Autosync Tap at time: 79450
+tap period: 230ms
+--
+128Autosync Tap at time: 79679
+tap period: 229ms
+--
+129Autosync Tap at time: 79880
+tap period: 201ms
+--
+Autosync Phase ended, Pause
+Pause ended, back to metronome phase
+Pause lasted for 5001
+New freq Trial. Phase 9. Freq: 1.5
+-
+131 Metro tak at time: 85552
+tak period: 667ms
+131Tap - Tak time: 190ms
+131Finger Tap at time: 85742
+tap period: 5862ms
+-
+132Finger Tap at time: 86047
+tap period: 305ms
+New freq Trial. Phase 9. Freq: 1.5
+132 Tak - Tap time: 173ms
+132 Metro tak at time: 86220
+tak period: 668ms
+-
+133Finger Tap at time: 86794
+tap period: 747ms
+New freq Trial. Phase 9. Freq: 1.5
+133 Tak - Tap time: 93ms
+133 Metro tak at time: 86887
+tak period: 667ms
+-
+134Finger Tap at time: 87487
+tap period: 693ms
+New freq Trial. Phase 9. Freq: 1.5
+134 Tak - Tap time: 67ms
+134 Metro tak at time: 87554
+tak period: 667ms
+-
+135Finger Tap at time: 88165
+tap period: 678ms
+New freq Trial. Phase 9. Freq: 1.5
+135 Tak - Tap time: 56ms
+135 Metro tak at time: 88221
+tak period: 667ms
+-
+136Finger Tap at time: 88815
+tap period: 650ms
+New freq Trial. Phase 9. Freq: 1.5
+136 Tak - Tap time: 73ms
+136 Metro tak at time: 88888
+tak period: 667ms
+-
+137Finger Tap at time: 89514
+tap period: 699ms
+New freq Trial. Phase 9. Freq: 1.5
+137 Tak - Tap time: 42ms
+137 Metro tak at time: 89556
+tak period: 668ms
+-
+138Finger Tap at time: 90154
+tap period: 640ms
+New freq Trial. Phase 9. Freq: 1.5
+138 Tak - Tap time: 69ms
+138 Metro tak at time: 90223
+tak period: 667ms
+-
+139Finger Tap at time: 90789
+tap period: 635ms
+New freq Trial. Phase 9. Freq: 1.5
+139 Tak - Tap time: 101ms
+139 Metro tak at time: 90890
+tak period: 667ms
+-
+140Finger Tap at time: 91490
+tap period: 701ms
+New freq Trial. Phase 9. Freq: 1.5
+140 Tak - Tap time: 68ms
+140 Metro tak at time: 91558
+tak period: 668ms
+-
+141Finger Tap at time: 92177
+tap period: 687ms
+New freq Trial. Phase 9. Freq: 1.5
+141 Tak - Tap time: 49ms
+141 Metro tak at time: 92226
+tak period: 668ms
+-
+142Finger Tap at time: 92823
+tap period: 646ms
+New freq Trial. Phase 9. Freq: 1.5
+142 Tak - Tap time: 70ms
+142 Metro tak at time: 92893
+tak period: 667ms
+-
+143Finger Tap at time: 93469
+tap period: 646ms
+New freq Trial. Phase 9. Freq: 1.5
+143 Tak - Tap time: 92ms
+143 Metro tak at time: 93561
+tak period: 668ms
+-
+144Finger Tap at time: 94124
+tap period: 655ms
+New freq Trial. Phase 9. Freq: 1.5
+144 Tak - Tap time: 105ms
+144 Metro tak at time: 94229
+tak period: 668ms
+-
+145Finger Tap at time: 94793
+tap period: 669ms
+New freq Trial. Phase 9. Freq: 1.5
+145 Tak - Tap time: 103ms
+145 Metro tak at time: 94896
+tak period: 667ms
+-
+146Finger Tap at time: 95482
+tap period: 689ms
+New freq Trial. Phase 9. Freq: 1.5
+146 Tak - Tap time: 82ms
+146 Metro tak at time: 95564
+tak period: 668ms
+-
+147Finger Tap at time: 96110
+tap period: 628ms
+New freq Trial. Phase 9. Freq: 1.5
+147 Tak - Tap time: 122ms
+147 Metro tak at time: 96232
+tak period: 668ms
+-
+148Finger Tap at time: 96831
+tap period: 721ms
+New freq Trial. Phase 9. Freq: 1.5
+148 Tak - Tap time: 69ms
+148 Metro tak at time: 96900
+tak period: 668ms
+-
+149Finger Tap at time: 97516
+tap period: 685ms
+New freq Trial. Phase 9. Freq: 1.5
+149 Tak - Tap time: 51ms
+149 Metro tak at time: 97567
+tak period: 667ms
+-
+150Finger Tap at time: 98150
+tap period: 634ms
+New freq Trial. Phase 9. Freq: 1.5
+150 Tak - Tap time: 84ms
+150 Metro tak at time: 98234
+tak period: 667ms
+New freq Trial. Phase 9. Freq: 1.5
+-
+151 Metro tak at time: 98902
+tak period: 668ms
+151Tap - Tak time: 8ms
+151Finger Tap at time: 98910
+tap period: 760ms
+New freq Trial. Phase 9. Freq: 1.5
+-
+152 Metro tak at time: 99569
+tak period: 667ms
+152Tap - Tak time: 32ms
+152Finger Tap at time: 99601
+tap period: 691ms
+-
+153Finger Tap at time: 100212
+tap period: 611ms
+New freq Trial. Phase 9. Freq: 1.5
+153 Tak - Tap time: 25ms
+153 Metro tak at time: 100237
+tak period: 668ms
+-
+154Finger Tap at time: 100819
+tap period: 607ms
+New freq Trial. Phase 9. Freq: 1.5
+154 Tak - Tap time: 86ms
+154 Metro tak at time: 100905
+tak period: 668ms
+-
+155Finger Tap at time: 101452
+tap period: 633ms
+New freq Trial. Phase 9. Freq: 1.5
+155 Tak - Tap time: 121ms
+155 Metro tak at time: 101573
+tak period: 668ms
+-
+156Finger Tap at time: 102162
+tap period: 710ms
+New freq Trial. Phase 9. Freq: 1.5
+156 Tak - Tap time: 78ms
+156 Metro tak at time: 102240
+tak period: 667ms
+-
+157Finger Tap at time: 102803
+tap period: 641ms
+New freq Trial. Phase 9. Freq: 1.5
+157 Tak - Tap time: 105ms
+157 Metro tak at time: 102908
+tak period: 668ms
+-
+158Finger Tap at time: 103488
+tap period: 685ms
+New freq Trial. Phase 9. Freq: 1.5
+158 Tak - Tap time: 88ms
+158 Metro tak at time: 103576
+tak period: 668ms
+Metronome Phase ended, autosync phase on
+158Autosync Tap at time: 104092
+tap period: 604ms
+--
+159Autosync Tap at time: 104595
+tap period: 503ms
+--
+160Autosync Tap at time: 105072
+tap period: 477ms
+--
+161Autosync Tap at time: 105551
+tap period: 479ms
+--
+162Autosync Tap at time: 105956
+tap period: 405ms
+--
+163Autosync Tap at time: 106401
+tap period: 445ms
+--
+164Autosync Tap at time: 106829
+tap period: 428ms
+--
+165Autosync Tap at time: 107269
+tap period: 440ms
+--
+166Autosync Tap at time: 107697
+tap period: 428ms
+--
+167Autosync Tap at time: 108099
+tap period: 402ms
+--
+168Autosync Tap at time: 108528
+tap period: 429ms
+--
+169Autosync Tap at time: 108951
+tap period: 423ms
+--
+170Autosync Tap at time: 109389
+tap period: 438ms
+--
+171Autosync Tap at time: 109775
+tap period: 386ms
+--
+172Autosync Tap at time: 110157
+tap period: 382ms
+--
+173Autosync Tap at time: 110561
+tap period: 404ms
+--
+174Autosync Tap at time: 110928
+tap period: 367ms
+--
+175Autosync Tap at time: 111315
+tap period: 387ms
+--
+176Autosync Tap at time: 111680
+tap period: 365ms
+--
+177Autosync Tap at time: 112048
+tap period: 368ms
+--
+178Autosync Tap at time: 112417
+tap period: 369ms
+--
+179Autosync Tap at time: 112783
+tap period: 366ms
+--
+180Autosync Tap at time: 113151
+tap period: 368ms
+--
+181Autosync Tap at time: 113523
+tap period: 372ms
+--
+182Autosync Tap at time: 113888
+tap period: 365ms
+--
+183Autosync Tap at time: 114254
+tap period: 366ms
+--
+184Autosync Tap at time: 114635
+tap period: 381ms
+--
+185Autosync Tap at time: 115001
+tap period: 366ms
+--
+186Autosync Tap at time: 115339
+tap period: 338ms
+--
+187Autosync Tap at time: 115679
+tap period: 340ms
+--
+188Autosync Tap at time: 116058
+tap period: 379ms
+--
+189Autosync Tap at time: 116389
+tap period: 331ms
+--
+190Autosync Tap at time: 116738
+tap period: 349ms
+--
+Autosync Phase ended, Pause
+Pause ended, back to metronome phase
+Pause lasted for 5002
+New freq Trial. Phase 12. Freq: 0.5
+-
+192 Metro tak at time: 123943
+tak period: 2002ms
+192Tap - Tak time: 253ms
+192Finger Tap at time: 124196
+tap period: 7458ms
+-
+193Finger Tap at time: 125035
+tap period: 839ms
+New freq Trial. Phase 12. Freq: 0.5
+193 Tak - Tap time: 909ms
+193 Metro tak at time: 125944
+tak period: 2001ms
+193Tap - Tak time: 231ms
+193Finger Tap at time: 126175
+tap period: 1140ms
+New freq Trial. Phase 12. Freq: 0.5
+-
+194 Metro tak at time: 127946
+tak period: 2002ms
+194Tap - Tak time: 176ms
+194Finger Tap at time: 128122
+tap period: 1947ms
+-
+195Finger Tap at time: 129887
+tap period: 1765ms
+New freq Trial. Phase 12. Freq: 0.5
+195 Tak - Tap time: 61ms
+195 Metro tak at time: 129948
+tak period: 2002ms
+-
+196Finger Tap at time: 131690
+tap period: 1803ms
+New freq Trial. Phase 12. Freq: 0.5
+196 Tak - Tap time: 260ms
+196 Metro tak at time: 131950
+tak period: 2002ms
+New freq Trial. Phase 12. Freq: 0.5
+-
+197 Metro tak at time: 133952
+tak period: 2002ms
+197Tap - Tak time: 47ms
+197Finger Tap at time: 133999
+tap period: 2309ms
+-
+198Finger Tap at time: 135888
+tap period: 1889ms
+New freq Trial. Phase 12. Freq: 0.5
+198 Tak - Tap time: 65ms
+198 Metro tak at time: 135953
+tak period: 2001ms
+-
+199Finger Tap at time: 137829
+tap period: 1941ms
+New freq Trial. Phase 12. Freq: 0.5
+199 Tak - Tap time: 125ms
+199 Metro tak at time: 137954
+tak period: 2001ms
+-
+200Finger Tap at time: 139807
+tap period: 1978ms
+New freq Trial. Phase 12. Freq: 0.5
+200 Tak - Tap time: 148ms
+200 Metro tak at time: 139955
+tak period: 2001ms
+New freq Trial. Phase 12. Freq: 0.5
+-
+201 Metro tak at time: 141956
+tak period: 2001ms
+201Tap - Tak time: 20ms
+201Finger Tap at time: 141976
+tap period: 2169ms
+-
+202Finger Tap at time: 143865
+tap period: 1889ms
+New freq Trial. Phase 12. Freq: 0.5
+202 Tak - Tap time: 93ms
+202 Metro tak at time: 143958
+tak period: 2002ms
+-
+203Finger Tap at time: 145920
+tap period: 2054ms
+New freq Trial. Phase 12. Freq: 0.5
+203 Tak - Tap time: 40ms
+203 Metro tak at time: 145960
+tak period: 2002ms
+-
+204Finger Tap at time: 147808
+tap period: 1888ms
+New freq Trial. Phase 12. Freq: 0.5
+204 Tak - Tap time: 154ms
+204 Metro tak at time: 147962
+tak period: 2002ms
+-
+205Finger Tap at time: 149938
+tap period: 2130ms
+New freq Trial. Phase 12. Freq: 0.5
+205 Tak - Tap time: 26ms
+205 Metro tak at time: 149964
+tak period: 2002ms
+-
+206Finger Tap at time: 151827
+tap period: 1889ms
+New freq Trial. Phase 12. Freq: 0.5
+206 Tak - Tap time: 139ms
+206 Metro tak at time: 151966
+tak period: 2002ms
+New freq Trial. Phase 12. Freq: 0.5
+-
+207 Metro tak at time: 153967
+tak period: 2001ms
+207Tap - Tak time: 10ms
+207Finger Tap at time: 153977
+tap period: 2150ms
+-
+208Finger Tap at time: 155820
+tap period: 1843ms
+New freq Trial. Phase 12. Freq: 0.5
+208 Tak - Tap time: 149ms
+208 Metro tak at time: 155969
+tak period: 2002ms
+-
+209Finger Tap at time: 157835
+tap period: 2015ms
+New freq Trial. Phase 12. Freq: 0.5
+209 Tak - Tap time: 135ms
+209 Metro tak at time: 157970
+tak period: 2001ms
+-
+210Finger Tap at time: 159934
+tap period: 2099ms
+New freq Trial. Phase 12. Freq: 0.5
+210 Tak - Tap time: 37ms
+210 Metro tak at time: 159971
+tak period: 2001ms
+-
+211Finger Tap at time: 161909
+tap period: 1975ms
+New freq Trial. Phase 12. Freq: 0.5
+211 Tak - Tap time: 64ms
+211 Metro tak at time: 161973
+tak period: 2002ms
+New freq Trial. Phase 12. Freq: 0.5
+-
+212 Metro tak at time: 163974
+tak period: 2001ms
+212Tap - Tak time: 12ms
+212Finger Tap at time: 163986
+tap period: 2077ms
+-
+213Finger Tap at time: 165849
+tap period: 1863ms
+New freq Trial. Phase 12. Freq: 0.5
+213 Tak - Tap time: 126ms
+213 Metro tak at time: 165975
+tak period: 2001ms
+-
+214Finger Tap at time: 167889
+tap period: 2040ms
+New freq Trial. Phase 12. Freq: 0.5
+214 Tak - Tap time: 87ms
+214 Metro tak at time: 167976
+tak period: 2001ms
+New freq Trial. Phase 12. Freq: 0.5
+-
+215 Metro tak at time: 169978
+tak period: 2002ms
+215Tap - Tak time: 184ms
+215Finger Tap at time: 170162
+tap period: 2273ms
+-
+216Finger Tap at time: 171975
+tap period: 1813ms
+New freq Trial. Phase 12. Freq: 0.5
+216 Tak - Tap time: 4ms
+216 Metro tak at time: 171979
+tak period: 2001ms
+-
+217Finger Tap at time: 173853
+tap period: 1878ms
+New freq Trial. Phase 12. Freq: 0.5
+217 Tak - Tap time: 128ms
+217 Metro tak at time: 173981
+tak period: 2002ms
+-
+218Finger Tap at time: 175971
+tap period: 2118ms
+New freq Trial. Phase 12. Freq: 0.5
+218 Tak - Tap time: 11ms
+218 Metro tak at time: 175982
+tak period: 2001ms
+-
+219Finger Tap at time: 177818
+tap period: 1847ms
+New freq Trial. Phase 12. Freq: 0.5
+219 Tak - Tap time: 165ms
+219 Metro tak at time: 177983
+tak period: 2001ms
+New freq Trial. Phase 12. Freq: 0.5
+-
+220 Metro tak at time: 179984
+tak period: 2001ms
+220Tap - Tak time: 23ms
+220Finger Tap at time: 180007
+tap period: 2189ms
+New freq Trial. Phase 12. Freq: 0.5
+-
+221 Metro tak at time: 181986
+tak period: 2002ms
+221Tap - Tak time: 135ms
+221Finger Tap at time: 182121
+tap period: 2114ms
+-
+222Finger Tap at time: 183816
+tap period: 1695ms
+New freq Trial. Phase 12. Freq: 0.5
+222 Tak - Tap time: 172ms
+222 Metro tak at time: 183988
+tak period: 2002ms
+New freq Trial. Phase 12. Freq: 0.5
+-
+223 Metro tak at time: 185989
+tak period: 2001ms
+223Tap - Tak time: 74ms
+223Finger Tap at time: 186063
+tap period: 2247ms
+New freq Trial. Phase 12. Freq: 0.5
+-
+224 Metro tak at time: 187990
+tak period: 2001ms
+Metronome Phase ended, autosync phase on
+224Autosync Tap at time: 189839
+tap period: 3776ms
+--
+225Autosync Tap at time: 191676
+tap period: 1837ms
+--
+226Autosync Tap at time: 193635
+tap period: 1959ms
+--
+227Autosync Tap at time: 195618
+tap period: 1983ms
+--
+228Autosync Tap at time: 197494
+tap period: 1876ms
+--
+229Autosync Tap at time: 199397
+tap period: 1903ms
+--
+230Autosync Tap at time: 201203
+tap period: 1806ms
+--
+231Autosync Tap at time: 203034
+tap period: 1831ms
+--
+232Autosync Tap at time: 204912
+tap period: 1878ms
+--
+233Autosync Tap at time: 206874
+tap period: 1962ms
+--
+234Autosync Tap at time: 208837
+tap period: 1963ms
+--
+235Autosync Tap at time: 210738
+tap period: 1901ms
+--
+236Autosync Tap at time: 212531
+tap period: 1793ms
+--
+237Autosync Tap at time: 214490
+tap period: 1959ms
+--
+238Autosync Tap at time: 216384
+tap period: 1894ms
+--
+239Autosync Tap at time: 218252
+tap period: 1868ms
+--
+240Autosync Tap at time: 220065
+tap period: 1813ms
+--
+241Autosync Tap at time: 221846
+tap period: 1781ms
+--
+242Autosync Tap at time: 223728
+tap period: 1882ms
+--
+243Autosync Tap at time: 225480
+tap period: 1752ms
+--
+244Autosync Tap at time: 227229
+tap period: 1749ms
+--
+Autosync Phase ended, Pause
+Pause ended, back to metronome phase
+Pause lasted for 5002
+New freq Trial. Phase 15. Freq: 4
+-
+246 Metro tak at time: 233264
+tak period: 251ms
+New freq Trial. Phase 15. Freq: 4
+-
+247 Metro tak at time: 233515
+tak period: 251ms
+-
+248Finger Tap at time: 233665
+tap period: 6436ms
+New freq Trial. Phase 15. Freq: 4
+248 Tak - Tap time: 102ms
+248 Metro tak at time: 233767
+tak period: 252ms
+-
+249Finger Tap at time: 233913
+tap period: 248ms
+New freq Trial. Phase 15. Freq: 4
+249 Tak - Tap time: 105ms
+249 Metro tak at time: 234018
+tak period: 251ms
+249Tap - Tak time: 119ms
+249Finger Tap at time: 234137
+tap period: 224ms
+New freq Trial. Phase 15. Freq: 4
+-
+250 Metro tak at time: 234269
+tak period: 251ms
+250Tap - Tak time: 75ms
+250Finger Tap at time: 234344
+tap period: 207ms
+New freq Trial. Phase 15. Freq: 4
+-
+251 Metro tak at time: 234520
+tak period: 251ms
+251Tap - Tak time: 32ms
+251Finger Tap at time: 234552
+tap period: 208ms
+New freq Trial. Phase 15. Freq: 4
+-
+252 Metro tak at time: 234771
+tak period: 251ms
+252Tap - Tak time: 10ms
+252Finger Tap at time: 234781
+tap period: 229ms
+-
+253Finger Tap at time: 235017
+tap period: 236ms
+New freq Trial. Phase 15. Freq: 4
+253 Tak - Tap time: 5ms
+253 Metro tak at time: 235022
+tak period: 251ms
+New freq Trial. Phase 15. Freq: 4
+-
+254 Metro tak at time: 235273
+tak period: 251ms
+254Tap - Tak time: 54ms
+254Finger Tap at time: 235327
+tap period: 310ms
+New freq Trial. Phase 15. Freq: 4
+-
+255 Metro tak at time: 235525
+tak period: 252ms
+New freq Trial. Phase 15. Freq: 4
+-
+256 Metro tak at time: 235776
+tak period: 251ms
+New freq Trial. Phase 15. Freq: 4
+-
+257 Metro tak at time: 236028
+tak period: 252ms
+257Tap - Tak time: 14ms
+257Finger Tap at time: 236042
+tap period: 715ms
+New freq Trial. Phase 15. Freq: 4
+-
+258 Metro tak at time: 236279
+tak period: 251ms
+New freq Trial. Phase 15. Freq: 4
+-
+259 Metro tak at time: 236530
+tak period: 251ms
+New freq Trial. Phase 15. Freq: 4
+-
+260 Metro tak at time: 236781
+tak period: 251ms
+New freq Trial. Phase 15. Freq: 4
+-
+261 Metro tak at time: 237032
+tak period: 251ms
+-
+262Finger Tap at time: 237281
+tap period: 1239ms
+New freq Trial. Phase 15. Freq: 4
+262 Tak - Tap time: 2ms
+262 Metro tak at time: 237283
+tak period: 251ms
+-
+263Finger Tap at time: 237527
+tap period: 246ms
+New freq Trial. Phase 15. Freq: 4
+263 Tak - Tap time: 7ms
+263 Metro tak at time: 237534
+tak period: 251ms
+New freq Trial. Phase 15. Freq: 4
+-
+264 Metro tak at time: 237785
+tak period: 251ms
+New freq Trial. Phase 15. Freq: 4
+-
+265 Metro tak at time: 238037
+tak period: 252ms
+New freq Trial. Phase 15. Freq: 4
+-
+266 Metro tak at time: 238288
+tak period: 251ms
+266Tap - Tak time: 11ms
+266Finger Tap at time: 238299
+tap period: 772ms
+New freq Trial. Phase 15. Freq: 4
+-
+267 Metro tak at time: 238539
+tak period: 251ms
+267Tap - Tak time: 1ms
+267Finger Tap at time: 238540
+tap period: 241ms
+-
+268Finger Tap at time: 238788
+tap period: 248ms
+New freq Trial. Phase 15. Freq: 4
+268 Tak - Tap time: 3ms
+268 Metro tak at time: 238791
+tak period: 252ms
+-
+269Finger Tap at time: 239024
+tap period: 236ms
+New freq Trial. Phase 15. Freq: 4
+269 Tak - Tap time: 18ms
+269 Metro tak at time: 239042
+tak period: 251ms
+-
+270Finger Tap at time: 239277
+tap period: 253ms
+New freq Trial. Phase 15. Freq: 4
+270 Tak - Tap time: 16ms
+270 Metro tak at time: 239293
+tak period: 251ms
+New freq Trial. Phase 15. Freq: 4
+-
+271 Metro tak at time: 239544
+tak period: 251ms
+-
+272Finger Tap at time: 239782
+tap period: 505ms
+New freq Trial. Phase 15. Freq: 4
+272 Tak - Tap time: 14ms
+272 Metro tak at time: 239796
+tak period: 252ms
+-
+273Finger Tap at time: 240007
+tap period: 225ms
+New freq Trial. Phase 15. Freq: 4
+273 Tak - Tap time: 40ms
+273 Metro tak at time: 240047
+tak period: 251ms
+-
+274Finger Tap at time: 240268
+tap period: 261ms
+New freq Trial. Phase 15. Freq: 4
+274 Tak - Tap time: 30ms
+274 Metro tak at time: 240298
+tak period: 251ms
+Metronome Phase ended, autosync phase on
+274Autosync Tap at time: 240567
+tap period: 299ms
+--
+275Autosync Tap at time: 240830
+tap period: 263ms
+--
+276Autosync Tap at time: 241086
+tap period: 256ms
+--
+277Autosync Tap at time: 241331
+tap period: 245ms
+--
+278Autosync Tap at time: 241573
+tap period: 242ms
+--
+279Autosync Tap at time: 241808
+tap period: 235ms
+--
+280Autosync Tap at time: 242045
+tap period: 237ms
+--
+281Autosync Tap at time: 242280
+tap period: 235ms
+--
+282Autosync Tap at time: 242515
+tap period: 235ms
+--
+283Autosync Tap at time: 242745
+tap period: 230ms
+--
+284Autosync Tap at time: 242980
+tap period: 235ms
+--
+285Autosync Tap at time: 243204
+tap period: 224ms
+--
+286Autosync Tap at time: 243429
+tap period: 225ms
+--
+287Autosync Tap at time: 243662
+tap period: 233ms
+--
+Autosync Phase ended, Pause
+Pause ended, back to metronome phase
+Pause lasted for 5001
+New freq Trial. Phase 18. Freq: 2
+-
+289 Metro tak at time: 250826
+tak period: 502ms
+-
+290Finger Tap at time: 251244
+tap period: 7582ms
+New freq Trial. Phase 18. Freq: 2
+290 Tak - Tap time: 83ms
+290 Metro tak at time: 251327
+tak period: 501ms
+-
+291Finger Tap at time: 251735
+tap period: 491ms
+New freq Trial. Phase 18. Freq: 2
+291 Tak - Tap time: 93ms
+291 Metro tak at time: 251828
+tak period: 501ms
+-
+292Finger Tap at time: 252254
+tap period: 519ms
+New freq Trial. Phase 18. Freq: 2
+292 Tak - Tap time: 75ms
+292 Metro tak at time: 252329
+tak period: 501ms
+-
+293Finger Tap at time: 252807
+tap period: 553ms
+New freq Trial. Phase 18. Freq: 2
+293 Tak - Tap time: 24ms
+293 Metro tak at time: 252831
+tak period: 502ms
+New freq Trial. Phase 18. Freq: 2
+-
+294 Metro tak at time: 253333
+tak period: 502ms
+294Tap - Tak time: 31ms
+294Finger Tap at time: 253364
+tap period: 557ms
+-
+295Finger Tap at time: 253822
+tap period: 458ms
+New freq Trial. Phase 18. Freq: 2
+295 Tak - Tap time: 13ms
+295 Metro tak at time: 253835
+tak period: 502ms
+-
+296Finger Tap at time: 254303
+tap period: 481ms
+New freq Trial. Phase 18. Freq: 2
+296 Tak - Tap time: 33ms
+296 Metro tak at time: 254336
+tak period: 501ms
+New freq Trial. Phase 18. Freq: 2
+-
+297 Metro tak at time: 254838
+tak period: 502ms
+297Tap - Tak time: 18ms
+297Finger Tap at time: 254856
+tap period: 553ms
+New freq Trial. Phase 18. Freq: 2
+-
+298 Metro tak at time: 255339
+tak period: 501ms
+298Tap - Tak time: 25ms
+298Finger Tap at time: 255364
+tap period: 508ms
+-
+299Finger Tap at time: 255804
+tap period: 440ms
+New freq Trial. Phase 18. Freq: 2
+299 Tak - Tap time: 37ms
+299 Metro tak at time: 255841
+tak period: 502ms
+-
+300Finger Tap at time: 256271
+tap period: 467ms
+New freq Trial. Phase 18. Freq: 2
+300 Tak - Tap time: 71ms
+300 Metro tak at time: 256342
+tak period: 501ms
+-
+301Finger Tap at time: 256759
+tap period: 488ms
+New freq Trial. Phase 18. Freq: 2
+301 Tak - Tap time: 84ms
+301 Metro tak at time: 256843
+tak period: 501ms
+-
+302Finger Tap at time: 257257
+tap period: 498ms
+New freq Trial. Phase 18. Freq: 2
+302 Tak - Tap time: 88ms
+302 Metro tak at time: 257345
+tak period: 502ms
+-
+303Finger Tap at time: 257796
+tap period: 539ms
+New freq Trial. Phase 18. Freq: 2
+303 Tak - Tap time: 50ms
+303 Metro tak at time: 257846
+tak period: 501ms
+-
+304Finger Tap at time: 258286
+tap period: 490ms
+New freq Trial. Phase 18. Freq: 2
+304 Tak - Tap time: 61ms
+304 Metro tak at time: 258347
+tak period: 501ms
+-
+305Finger Tap at time: 258791
+tap period: 505ms
+New freq Trial. Phase 18. Freq: 2
+305 Tak - Tap time: 58ms
+305 Metro tak at time: 258849
+tak period: 502ms
+-
+306Finger Tap at time: 259281
+tap period: 490ms
+New freq Trial. Phase 18. Freq: 2
+306 Tak - Tap time: 70ms
+306 Metro tak at time: 259351
+tak period: 502ms
+-
+307Finger Tap at time: 259795
+tap period: 514ms
+New freq Trial. Phase 18. Freq: 2
+307 Tak - Tap time: 57ms
+307 Metro tak at time: 259852
+tak period: 501ms
+-
+308Finger Tap at time: 260293
+tap period: 498ms
+New freq Trial. Phase 18. Freq: 2
+308 Tak - Tap time: 60ms
+308 Metro tak at time: 260353
+tak period: 501ms
+-
+309Finger Tap at time: 260839
+tap period: 546ms
+New freq Trial. Phase 18. Freq: 2
+309 Tak - Tap time: 15ms
+309 Metro tak at time: 260854
+tak period: 501ms
+-
+310Finger Tap at time: 261333
+tap period: 494ms
+New freq Trial. Phase 18. Freq: 2
+310 Tak - Tap time: 23ms
+310 Metro tak at time: 261356
+tak period: 502ms
+-
+311Finger Tap at time: 261847
+tap period: 514ms
+New freq Trial. Phase 18. Freq: 2
+311 Tak - Tap time: 11ms
+311 Metro tak at time: 261858
+tak period: 502ms
+New freq Trial. Phase 18. Freq: 2
+-
+312 Metro tak at time: 262359
+tak period: 501ms
+312Tap - Tak time: 63ms
+312Finger Tap at time: 262422
+tap period: 575ms
+New freq Trial. Phase 18. Freq: 2
+-
+313 Metro tak at time: 262861
+tak period: 502ms
+313Tap - Tak time: 52ms
+313Finger Tap at time: 262913
+tap period: 491ms
+New freq Trial. Phase 18. Freq: 2
+-
+314 Metro tak at time: 263362
+tak period: 501ms
+314Tap - Tak time: 26ms
+314Finger Tap at time: 263388
+tap period: 475ms
+-
+315Finger Tap at time: 263850
+tap period: 462ms
+New freq Trial. Phase 18. Freq: 2
+315 Tak - Tap time: 14ms
+315 Metro tak at time: 263864
+tak period: 502ms
+-
+316Finger Tap at time: 264333
+tap period: 483ms
+New freq Trial. Phase 18. Freq: 2
+316 Tak - Tap time: 33ms
+316 Metro tak at time: 264366
+tak period: 502ms
+Metronome Phase ended, autosync phase on
+316Autosync Tap at time: 264813
+tap period: 480ms
+--
+317Autosync Tap at time: 265320
+tap period: 507ms
+--
+318Autosync Tap at time: 265818
+tap period: 498ms
+--
+319Autosync Tap at time: 266238
+tap period: 420ms
+--
+320Autosync Tap at time: 266752
+tap period: 514ms
+--
+321Autosync Tap at time: 267229
+tap period: 477ms
+--
+322Autosync Tap at time: 267730
+tap period: 501ms
+--
+323Autosync Tap at time: 268229
+tap period: 499ms
+--
+324Autosync Tap at time: 268770
+tap period: 541ms
+--
+325Autosync Tap at time: 269268
+tap period: 498ms
+--
+326Autosync Tap at time: 269754
+tap period: 486ms
+--
+327Autosync Tap at time: 270249
+tap period: 495ms
+--
+328Autosync Tap at time: 270756
+tap period: 507ms
+--
+329Autosync Tap at time: 271296
+tap period: 540ms
+--
+330Autosync Tap at time: 271780
+tap period: 484ms
+--
+331Autosync Tap at time: 272354
+tap period: 574ms
+--
+332Autosync Tap at time: 272872
+tap period: 518ms
+--
+333Autosync Tap at time: 273387
+tap period: 515ms
+--
+334Autosync Tap at time: 273897
+tap period: 510ms
+--
+335Autosync Tap at time: 274373
+tap period: 476ms
+--
+Autosync Phase ended, Pause
+Pause ended, back to metronome phase
+Pause lasted for 5001
+New freq Trial. Phase 0. Freq: 2
+-
+337 Metro tak at time: 279910
+tak period: 501ms
+-
+338Finger Tap at time: 280161
+tap period: 5788ms
+Delayed tap happened at 280192

@@ -1,0 +1,7483 @@
+ Calibrating for 158377 ms
+-------- Calibration Phase finished ---------
+
+158389 Training click 
+159390 Training click 
+159610Training Tap
+159860Training Tap
+160307Training Tap
+160391 Training click 
+160808Training Tap
+161255Training Tap
+161392 Training click 
+161735Training Tap
+162249Training Tap
+162394 Training click 
+162776Training Tap
+163261Training Tap
+163395 Training click 
+163724Training Tap
+164184Training Tap
+164397 Training click 
+164640Training Tap
+165173Training Tap
+165399 Training click 
+166400 Training click 
+166469Training Tap
+167339Training Tap
+167401 Training click 
+168403 Training click 
+168687Training Tap
+169165Training Tap
+169405 Training click 
+169595Training Tap
+170009Training Tap
+170407 Training click 
+170543Training Tap
+171098Training Tap
+171408 Training click 
+172500 Training click 
+173501 Training click 
+174502 Training click 
+175504 Training click 
+176505 Training click 
+177506 Training click 
+178507 Training click 
+179509 Training click 
+180511 Training click 
+181513 Training click 
+182514 Training click 
+183462Training Tap
+183515 Training click 
+184517 Training click 
+184538Training Tap
+185438Training Tap
+185518 Training click 
+186462Training Tap
+186519 Training click 
+187407Training Tap
+187520 Training click 
+188421Training Tap
+188521 Training click 
+189437Training Tap
+189522 Training click 
+190510Training Tap
+190523 Training click 
+191525 Training click 
+Phase -1. Taps with freq: 1
+196527 Training click 
+197028 Training click 
+197530 Training click 
+198032 Training click 
+198533 Training click 
+199035 Training click 
+199536 Training click 
+200011Training Tap
+200037 Training click 
+200464Training Tap
+200538 Training click 
+200963Training Tap
+201039 Training click 
+201456Training Tap
+201541 Training click 
+201959Training Tap
+202042 Training click 
+202448Training Tap
+202543 Training click 
+202951Training Tap
+203044 Training click 
+203436Training Tap
+203545 Training click 
+203951Training Tap
+204046 Training click 
+204417Training Tap
+204547 Training click 
+204760Training Tap
+205048 Training click 
+205431Training Tap
+205549 Training click 
+205956Training Tap
+206051 Training click 
+206434Training Tap
+206553 Training click 
+206858Training Tap
+207055 Training click 
+207395Training Tap
+207557 Training click 
+207919Training Tap
+208059 Training click 
+208446Training Tap
+208560 Training click 
+208945Training Tap
+209061 Training click 
+209562 Training click 
+209916Training Tap
+210064 Training click 
+210449Training Tap
+210566 Training click 
+210953Training Tap
+211067 Training click 
+211568 Training click 
+211788Training Tap
+212069 Training click 
+212570 Training click 
+213072 Training click 
+213573 Training click 
+Phase -1. Taps with freq: 2
+218576 Training click 
+218910 Training click 
+219245 Training click 
+219579 Training click 
+219914 Training click 
+220248 Training click 
+220583 Training click 
+220918 Training click 
+221252 Training click 
+221586 Training click 
+221920 Training click 
+222254 Training click 
+222528Training Tap
+222589 Training click 
+222789Training Tap
+222923 Training click 
+223257 Training click 
+223591 Training click 
+223772Training Tap
+223925 Training click 
+224006Training Tap
+224259 Training click 
+224543Training Tap
+224593 Training click 
+224856Training Tap
+224927 Training click 
+225195Training Tap
+225261 Training click 
+225523Training Tap
+225595 Training click 
+225852Training Tap
+225929 Training click 
+226264 Training click 
+226279Training Tap
+226535Training Tap
+226599 Training click 
+226880Training Tap
+226933 Training click 
+227212Training Tap
+227268 Training click 
+227535Training Tap
+227603 Training click 
+227897Training Tap
+227938 Training click 
+228100Training Tap
+228272 Training click 
+228606 Training click 
+228940 Training click 
+229274 Training click 
+229609 Training click 
+229944 Training click 
+Phase -1. Taps with freq: 3
+235053 Training click 
+235588Training Tap
+236054 Training click 
+236286Training Tap
+236623Training Tap
+237056 Training click 
+237058Training Tap
+237525Training Tap
+238058 Training click 
+239060 Training click 
+240061 Training click 
+240568Training Tap
+240866Training Tap
+241062 Training click 
+242064 Training click 
+242518Training Tap
+243066 Training click 
+244068 Training click 
+244801Training Tap
+245069 Training click 
+245548Training Tap
+246056Training Tap
+246070 Training click 
+246333Training Tap
+246897Training Tap
+247071 Training click 
+247302Training Tap
+247633Training Tap
+247994Training Tap
+248073 Training click 
+248368Training Tap
+249031Training Tap
+249075 Training click 
+250076 Training click 
+251077 Training click 
+252078 Training click 
+253079 Training click 
+254080 Training click 
+255081 Training click 
+256082 Training click 
+257083 Training click 
+257820Training Tap
+258084 Training click 
+259086 Training click 
+260087 Training click 
+261088 Training click 
+262089 Training click 
+263091 Training click 
+264092 Training click 
+265093 Training click 
+266094 Training click 
+267000Training Tap
+267095 Training click 
+268096 Training click 
+269097 Training click 
+Phase -1. Taps with freq: 1
+274101 Training click 
+274602 Training click 
+275103 Training click 
+275604 Training click 
+276106 Training click 
+276607 Training click 
+277108 Training click 
+277609 Training click 
+278110 Training click 
+278611 Training click 
+279113 Training click 
+279615 Training click 
+280117 Training click 
+280618 Training click 
+281120 Training click 
+281622 Training click 
+282123 Training click 
+282625 Training click 
+283126 Training click 
+283627 Training click 
+284128 Training click 
+284629 Training click 
+285130 Training click 
+285631 Training click 
+286132 Training click 
+286633 Training click 
+287135 Training click 
+287636 Training click 
+288138 Training click 
+288639 Training click 
+289140 Training click 
+289641 Training click 
+290142 Training click 
+290643 Training click 
+291145 Training click 
+Phase -1. Taps with freq: 2
+296148 Training click 
+296482 Training click 
+296817 Training click 
+297152 Training click 
+297486 Training click 
+297821 Training click 
+298155 Training click 
+298489 Training click 
+298823 Training click 
+299157 Training click 
+299491 Training click 
+299825 Training click 
+300160 Training click 
+300495 Training click 
+300829 Training click 
+301164 Training click 
+301498 Training click 
+301832 Training click 
+302138Training Tap
+302166 Training click 
+302458Training Tap
+302501 Training click 
+302736Training Tap
+302835 Training click 
+303137Training Tap
+303169 Training click 
+303415Training Tap
+303503 Training click 
+303837 Training click 
+304120Training Tap
+304251 Training click 
+304560Training Tap
+304586 Training click 
+304889Training Tap
+304920 Training click 
+305232Training Tap
+305254 Training click 
+305576Training Tap
+305588 Training click 
+305914Training Tap
+305922 Training click 
+306257 Training click 
+306257Training Tap
+306541Training Tap
+306591 Training click 
+306921Training Tap
+306925 Training click 
+307199Training Tap
+307259 Training click 
+307563Training Tap
+307593 Training click 
+Phase -1. Taps with freq: 3
+312596 Training click 
+312908Training Tap
+313260Training Tap
+313500Training Tap
+313598 Training click 
+313784Training Tap
+314599 Training click 
+314657Training Tap
+315521Training Tap
+315601 Training click 
+316534Training Tap
+316602 Training click 
+317495Training Tap
+317603 Training click 
+
+318241 --------- Training Phase finished  -----------
+
+-
+2 Metro tak at time: 318604
+-
+3 Metro tak at time: 319606
+3Tap - Tak time: 103ms
+3 Finger Tap at time: 319709
+-
+4 Finger Tap at time: 320547
+4 Tak - Tap time: 60ms
+4 Metro tak at time: 320607
+-
+5 Finger Tap at time: 321485
+5 Tak - Tap time: 123ms
+5 Metro tak at time: 321608
+-
+6 Finger Tap at time: 322475
+6 Tak - Tap time: 134ms
+6 Metro tak at time: 322609
+-
+7 Finger Tap at time: 323543
+7 Tak - Tap time: 67ms
+7 Metro tak at time: 323610
+-
+8 Finger Tap at time: 324525
+8 Tak - Tap time: 87ms
+8 Metro tak at time: 324612
+-
+9 Finger Tap at time: 325498
+9 Tak - Tap time: 115ms
+9 Metro tak at time: 325613
+-
+10 Finger Tap at time: 326489
+10 Tak - Tap time: 126ms
+10 Metro tak at time: 326615
+-
+11 Finger Tap at time: 327565
+11 Tak - Tap time: 52ms
+11 Metro tak at time: 327617
+-
+12 Finger Tap at time: 328552
+12 Tak - Tap time: 66ms
+12 Metro tak at time: 328618
+-
+13 Finger Tap at time: 329512
+13 Tak - Tap time: 108ms
+13 Metro tak at time: 329620
+-
+14 Finger Tap at time: 330541
+14 Tak - Tap time: 80ms
+14 Metro tak at time: 330621
+-
+15 Finger Tap at time: 331580
+15 Tak - Tap time: 42ms
+15 Metro tak at time: 331622
+-
+16 Finger Tap at time: 332524
+16 Tak - Tap time: 99ms
+16 Metro tak at time: 332623
+-
+17 Finger Tap at time: 333548
+17 Tak - Tap time: 77ms
+17 Metro tak at time: 333625
+-
+18 Finger Tap at time: 334531
+18 Tak - Tap time: 95ms
+18 Metro tak at time: 334626
+-
+19 Metro tak at time: 335627
+19Tap - Tak time: 71ms
+19 Finger Tap at time: 335698
+-
+20 Finger Tap at time: 336616
+20 Tak - Tap time: 13ms
+20 Metro tak at time: 336629
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+20 Autosync Tap at time: 337557
+--
+21 Delayed tap happened at 337678
+21 Autosync Tap at time: 338557
+--
+22 Delayed tap happened at 338678
+22 Autosync Tap at time: 339575
+--
+23 Delayed tap happened at 339696
+23 Autosync Tap at time: 340597
+--
+24 Delayed tap happened at 340718
+24 Autosync Tap at time: 341615
+--
+25 Delayed tap happened at 341736
+25 Autosync Tap at time: 342675
+--
+26 Delayed tap happened at 342797
+26 Autosync Tap at time: 343729
+--
+27 Delayed tap happened at 343850
+27 Autosync Tap at time: 344812
+--
+28 Delayed tap happened at 344933
+28 Autosync Tap at time: 345816
+--
+29 Delayed tap happened at 345937
+29 Autosync Tap at time: 346833
+--
+30 Delayed tap happened at 346954
+30 Autosync Tap at time: 347842
+--
+31 Delayed tap happened at 347963
+31 Autosync Tap at time: 348838
+--
+32 Delayed tap happened at 348959
+32 Autosync Tap at time: 349843
+--
+33 Delayed tap happened at 349964
+33 Autosync Tap at time: 350902
+--
+34 Delayed tap happened at 351023
+34 Autosync Tap at time: 351941
+--
+35 Delayed tap happened at 352062
+35 Autosync Tap at time: 352959
+--
+36 Delayed tap happened at 353080
+36 Autosync Tap at time: 354061
+--
+37 Delayed tap happened at 354183
+37 Autosync Tap at time: 355139
+--
+38 Delayed tap happened at 355261
+38 Autosync Tap at time: 356201
+--
+39 Delayed tap happened at 356322
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+40 Metro tak at time: 362153
+-
+41 Metro tak at time: 362654
+41Tap - Tak time: 12ms
+41 Finger Tap at time: 362666
+-
+42 Finger Tap at time: 363120
+42 Tak - Tap time: 35ms
+42 Metro tak at time: 363155
+-
+43 Finger Tap at time: 363602
+43 Tak - Tap time: 54ms
+43 Metro tak at time: 363656
+-
+44 Finger Tap at time: 364100
+44 Tak - Tap time: 57ms
+44 Metro tak at time: 364157
+-
+45 Finger Tap at time: 364593
+45 Tak - Tap time: 65ms
+45 Metro tak at time: 364658
+-
+46 Finger Tap at time: 365086
+46 Tak - Tap time: 74ms
+46 Metro tak at time: 365160
+-
+47 Finger Tap at time: 365593
+47 Tak - Tap time: 68ms
+47 Metro tak at time: 365661
+-
+48 Finger Tap at time: 366075
+48 Tak - Tap time: 87ms
+48 Metro tak at time: 366162
+-
+49 Finger Tap at time: 366578
+49 Tak - Tap time: 86ms
+49 Metro tak at time: 366664
+-
+50 Finger Tap at time: 367073
+50 Tak - Tap time: 92ms
+50 Metro tak at time: 367165
+-
+51 Finger Tap at time: 367584
+51 Tak - Tap time: 82ms
+51 Metro tak at time: 367666
+-
+52 Finger Tap at time: 368091
+52 Tak - Tap time: 76ms
+52 Metro tak at time: 368167
+-
+53 Finger Tap at time: 368564
+53 Tak - Tap time: 105ms
+53 Metro tak at time: 368669
+-
+54 Finger Tap at time: 369084
+54 Tak - Tap time: 87ms
+54 Metro tak at time: 369171
+-
+55 Finger Tap at time: 369585
+55 Tak - Tap time: 87ms
+55 Metro tak at time: 369672
+-
+56 Finger Tap at time: 370111
+56 Tak - Tap time: 62ms
+56 Metro tak at time: 370173
+-
+57 Finger Tap at time: 370626
+57 Tak - Tap time: 49ms
+57 Metro tak at time: 370675
+-
+58 Finger Tap at time: 371122
+58 Tak - Tap time: 54ms
+58 Metro tak at time: 371176
+-
+59 Finger Tap at time: 371618
+59 Tak - Tap time: 60ms
+59 Metro tak at time: 371678
+-
+60 Finger Tap at time: 372116
+60 Tak - Tap time: 64ms
+60 Metro tak at time: 372180
+-
+61 Finger Tap at time: 372592
+61 Tak - Tap time: 89ms
+61 Metro tak at time: 372681
+-
+62 Finger Tap at time: 373098
+62 Tak - Tap time: 84ms
+62 Metro tak at time: 373182
+-
+63 Finger Tap at time: 373590
+63 Tak - Tap time: 93ms
+63 Metro tak at time: 373683
+-
+64 Finger Tap at time: 374079
+64 Tak - Tap time: 106ms
+64 Metro tak at time: 374185
+-
+65 Finger Tap at time: 374574
+65 Tak - Tap time: 112ms
+65 Metro tak at time: 374686
+-
+66 Finger Tap at time: 375051
+66 Tak - Tap time: 136ms
+66 Metro tak at time: 375187
+-
+67 Finger Tap at time: 375573
+67 Tak - Tap time: 116ms
+67 Metro tak at time: 375689
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+67 Autosync Tap at time: 376073
+--
+68 Delayed tap happened at 376194
+68 Autosync Tap at time: 376584
+--
+69 Delayed tap happened at 376705
+69 Autosync Tap at time: 377069
+--
+70 Delayed tap happened at 377190
+70 Autosync Tap at time: 377566
+--
+71 Delayed tap happened at 377688
+71 Autosync Tap at time: 378066
+--
+72 Delayed tap happened at 378187
+72 Autosync Tap at time: 378572
+--
+73 Delayed tap happened at 378694
+73 Autosync Tap at time: 379041
+--
+74 Delayed tap happened at 379162
+74 Autosync Tap at time: 379586
+--
+75 Delayed tap happened at 379707
+75 Autosync Tap at time: 380054
+--
+76 Delayed tap happened at 380175
+76 Autosync Tap at time: 380600
+--
+77 Delayed tap happened at 380721
+77 Autosync Tap at time: 381128
+--
+78 Delayed tap happened at 381249
+78 Autosync Tap at time: 381797
+--
+79 Delayed tap happened at 381918
+79 Autosync Tap at time: 382566
+--
+80 Delayed tap happened at 382687
+80 Autosync Tap at time: 383345
+--
+81 Delayed tap happened at 383466
+81 Autosync Tap at time: 384286
+--
+82 Delayed tap happened at 384407
+82 Autosync Tap at time: 385153
+--
+83 Delayed tap happened at 385274
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+84 Metro tak at time: 390913
+-
+85 Metro tak at time: 391114
+-
+86 Metro tak at time: 391316
+86Tap - Tak time: 56ms
+86 Finger Tap at time: 391372
+-
+87 Metro tak at time: 391518
+87Tap - Tak time: 58ms
+87 Finger Tap at time: 391576
+-
+88 Metro tak at time: 391720
+88Tap - Tak time: 44ms
+88 Finger Tap at time: 391764
+-
+89 Metro tak at time: 391921
+89Tap - Tak time: 57ms
+89 Finger Tap at time: 391978
+-
+90 Metro tak at time: 392123
+90Tap - Tak time: 56ms
+90 Finger Tap at time: 392179
+-
+91 Metro tak at time: 392324
+91Tap - Tak time: 59ms
+91 Finger Tap at time: 392383
+-
+92 Metro tak at time: 392525
+92Tap - Tak time: 62ms
+92 Finger Tap at time: 392587
+-
+93 Metro tak at time: 392726
+93Tap - Tak time: 85ms
+93 Finger Tap at time: 392811
+-
+94 Metro tak at time: 392927
+94Tap - Tak time: 84ms
+94 Finger Tap at time: 393011
+-
+95 Metro tak at time: 393129
+-
+96 Finger Tap at time: 393259
+96 Tak - Tap time: 72ms
+96 Metro tak at time: 393331
+-
+97 Finger Tap at time: 393500
+97 Tak - Tap time: 33ms
+97 Metro tak at time: 393533
+-
+98 Finger Tap at time: 393713
+98 Tak - Tap time: 21ms
+98 Metro tak at time: 393734
+-
+99 Finger Tap at time: 393932
+99 Tak - Tap time: 4ms
+99 Metro tak at time: 393936
+-
+100 Metro tak at time: 394138
+100Tap - Tak time: 0ms
+100 Finger Tap at time: 394138
+-
+101 Metro tak at time: 394339
+101Tap - Tak time: 1ms
+101 Finger Tap at time: 394340
+-
+102 Metro tak at time: 394540
+102Tap - Tak time: 0ms
+102 Finger Tap at time: 394540
+-
+103 Metro tak at time: 394742
+103Tap - Tak time: 14ms
+103 Finger Tap at time: 394756
+-
+104 Metro tak at time: 394943
+104Tap - Tak time: 20ms
+104 Finger Tap at time: 394963
+-
+105 Metro tak at time: 395144
+105Tap - Tak time: 16ms
+105 Finger Tap at time: 395160
+-
+106 Metro tak at time: 395345
+106Tap - Tak time: 9ms
+106 Finger Tap at time: 395354
+-
+107 Metro tak at time: 395546
+107Tap - Tak time: 10ms
+107 Finger Tap at time: 395556
+-
+108 Metro tak at time: 395747
+108Tap - Tak time: 10ms
+108 Finger Tap at time: 395757
+-
+109 Metro tak at time: 395948
+109Tap - Tak time: 14ms
+109 Finger Tap at time: 395962
+-
+110 Metro tak at time: 396149
+110Tap - Tak time: 23ms
+110 Finger Tap at time: 396172
+-
+111 Metro tak at time: 396350
+111Tap - Tak time: 21ms
+111 Finger Tap at time: 396371
+-
+112 Metro tak at time: 396551
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+112 Autosync Tap at time: 396764
+--
+113 Delayed tap happened at 396886
+113 Autosync Tap at time: 396959
+--
+114 Delayed tap happened at 397080
+114 Autosync Tap at time: 397157
+--
+115 Delayed tap happened at 397279
+115 Autosync Tap at time: 397348
+--
+116 Delayed tap happened at 397470
+116 Autosync Tap at time: 397570
+--
+117 Delayed tap happened at 397692
+117 Autosync Tap at time: 397792
+--
+118 Delayed tap happened at 397913
+118 Autosync Tap at time: 398003
+--
+119 Delayed tap happened at 398125
+119 Autosync Tap at time: 398214
+--
+120 Delayed tap happened at 398336
+120 Autosync Tap at time: 398438
+--
+121 Delayed tap happened at 398559
+121 Autosync Tap at time: 398666
+--
+122 Delayed tap happened at 398787
+122 Autosync Tap at time: 398888
+--
+123 Delayed tap happened at 399009
+123 Autosync Tap at time: 399113
+--
+124 Delayed tap happened at 399234
+124 Autosync Tap at time: 399347
+--
+125 Delayed tap happened at 399469
+125 Autosync Tap at time: 399574
+--
+126 Delayed tap happened at 399696
+126 Autosync Tap at time: 399787
+--
+127 Delayed tap happened at 399908
+127 Autosync Tap at time: 400008
+--
+128 Delayed tap happened at 400129
+128 Autosync Tap at time: 400257
+--
+129 Delayed tap happened at 400379
+129 Autosync Tap at time: 400489
+--
+
+------ Autosync Phase ended, Pause ------ 
+
+130 Delayed tap happened at 400610
+-
+131 Metro tak at time: 406240
+-
+132 Finger Tap at time: 406773
+132 Tak - Tap time: 134ms
+132 Metro tak at time: 406907
+-
+133 Finger Tap at time: 407455
+133 Tak - Tap time: 119ms
+133 Metro tak at time: 407574
+-
+134 Finger Tap at time: 408119
+134 Tak - Tap time: 122ms
+134 Metro tak at time: 408241
+-
+135 Finger Tap at time: 408796
+135 Tak - Tap time: 113ms
+135 Metro tak at time: 408909
+-
+136 Finger Tap at time: 409498
+136 Tak - Tap time: 78ms
+136 Metro tak at time: 409576
+-
+137 Finger Tap at time: 410175
+137 Tak - Tap time: 68ms
+137 Metro tak at time: 410243
+-
+138 Finger Tap at time: 410791
+138 Tak - Tap time: 142ms
+138 Metro tak at time: 410933
+-
+139 Finger Tap at time: 411461
+139 Tak - Tap time: 140ms
+139 Metro tak at time: 411601
+-
+140 Finger Tap at time: 412163
+140 Tak - Tap time: 105ms
+140 Metro tak at time: 412268
+-
+141 Finger Tap at time: 412839
+141 Tak - Tap time: 96ms
+141 Metro tak at time: 412935
+-
+142 Finger Tap at time: 413516
+142 Tak - Tap time: 86ms
+142 Metro tak at time: 413602
+-
+143 Finger Tap at time: 414145
+143 Tak - Tap time: 124ms
+143 Metro tak at time: 414269
+-
+144 Finger Tap at time: 414831
+144 Tak - Tap time: 106ms
+144 Metro tak at time: 414937
+-
+145 Finger Tap at time: 415463
+145 Tak - Tap time: 142ms
+145 Metro tak at time: 415605
+-
+146 Finger Tap at time: 416167
+146 Tak - Tap time: 105ms
+146 Metro tak at time: 416272
+-
+147 Finger Tap at time: 416824
+147 Tak - Tap time: 115ms
+147 Metro tak at time: 416939
+-
+148 Finger Tap at time: 417458
+148 Tak - Tap time: 148ms
+148 Metro tak at time: 417606
+-
+149 Finger Tap at time: 418135
+149 Tak - Tap time: 138ms
+149 Metro tak at time: 418273
+-
+150 Finger Tap at time: 418807
+150 Tak - Tap time: 133ms
+150 Metro tak at time: 418940
+-
+151 Finger Tap at time: 419504
+151 Tak - Tap time: 103ms
+151 Metro tak at time: 419607
+-
+152 Finger Tap at time: 420173
+152 Tak - Tap time: 101ms
+152 Metro tak at time: 420274
+-
+153 Finger Tap at time: 420812
+153 Tak - Tap time: 129ms
+153 Metro tak at time: 420941
+-
+154 Finger Tap at time: 421504
+154 Tak - Tap time: 105ms
+154 Metro tak at time: 421609
+-
+155 Finger Tap at time: 422151
+155 Tak - Tap time: 125ms
+155 Metro tak at time: 422276
+-
+156 Finger Tap at time: 422834
+156 Tak - Tap time: 109ms
+156 Metro tak at time: 422943
+-
+157 Finger Tap at time: 423510
+157 Tak - Tap time: 100ms
+157 Metro tak at time: 423610
+-
+158 Finger Tap at time: 424182
+158 Tak - Tap time: 95ms
+158 Metro tak at time: 424277
+-
+159 Finger Tap at time: 424820
+159 Tak - Tap time: 125ms
+159 Metro tak at time: 424945
+-
+160 Finger Tap at time: 425464
+160 Tak - Tap time: 148ms
+160 Metro tak at time: 425612
+-
+161 Finger Tap at time: 426162
+161 Tak - Tap time: 118ms
+161 Metro tak at time: 426280
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+161 Autosync Tap at time: 426821
+--
+162 Delayed tap happened at 426942
+162 Autosync Tap at time: 427479
+--
+163 Delayed tap happened at 427601
+163 Autosync Tap at time: 428120
+--
+164 Delayed tap happened at 428242
+164 Autosync Tap at time: 428776
+--
+165 Delayed tap happened at 428898
+165 Autosync Tap at time: 429420
+--
+166 Delayed tap happened at 429541
+166 Autosync Tap at time: 430082
+--
+167 Delayed tap happened at 430203
+167 Autosync Tap at time: 430785
+--
+168 Delayed tap happened at 430906
+168 Autosync Tap at time: 431458
+--
+169 Delayed tap happened at 431579
+169 Autosync Tap at time: 432171
+--
+170 Delayed tap happened at 432293
+170 Autosync Tap at time: 432837
+--
+171 Delayed tap happened at 432958
+171 Autosync Tap at time: 433543
+--
+172 Delayed tap happened at 433665
+172 Autosync Tap at time: 434191
+--
+173 Delayed tap happened at 434313
+173 Autosync Tap at time: 434871
+--
+174 Delayed tap happened at 434993
+174 Autosync Tap at time: 435489
+--
+175 Delayed tap happened at 435611
+175 Autosync Tap at time: 436199
+--
+176 Delayed tap happened at 436321
+176 Autosync Tap at time: 436852
+--
+177 Delayed tap happened at 436974
+177 Autosync Tap at time: 437554
+--
+178 Delayed tap happened at 437675
+178 Autosync Tap at time: 438179
+--
+179 Delayed tap happened at 438301
+179 Autosync Tap at time: 438836
+--
+180 Delayed tap happened at 438958
+180 Autosync Tap at time: 439517
+--
+
+------ Autosync Phase ended, Pause ------ 
+
+181 Delayed tap happened at 439638
+-
+182 Metro tak at time: 444955
+-
+183 Metro tak at time: 445289
+183Tap - Tak time: 59ms
+183 Finger Tap at time: 445348
+-
+184 Finger Tap at time: 445603
+184 Tak - Tap time: 21ms
+184 Metro tak at time: 445624
+-
+185 Finger Tap at time: 445925
+185 Tak - Tap time: 33ms
+185 Metro tak at time: 445958
+-
+186 Finger Tap at time: 446265
+186 Tak - Tap time: 27ms
+186 Metro tak at time: 446292
+-
+187 Finger Tap at time: 446575
+187 Tak - Tap time: 51ms
+187 Metro tak at time: 446626
+-
+188 Finger Tap at time: 446940
+188 Tak - Tap time: 20ms
+188 Metro tak at time: 446960
+-
+189 Finger Tap at time: 447266
+189 Tak - Tap time: 28ms
+189 Metro tak at time: 447294
+-
+190 Finger Tap at time: 447627
+190 Tak - Tap time: 1ms
+190 Metro tak at time: 447628
+-
+191 Finger Tap at time: 447928
+191 Tak - Tap time: 35ms
+191 Metro tak at time: 447963
+-
+192 Finger Tap at time: 448285
+192 Tak - Tap time: 12ms
+192 Metro tak at time: 448297
+-
+193 Finger Tap at time: 448606
+193 Tak - Tap time: 25ms
+193 Metro tak at time: 448631
+-
+194 Finger Tap at time: 448946
+194 Tak - Tap time: 19ms
+194 Metro tak at time: 448965
+-
+195 Finger Tap at time: 449280
+195 Tak - Tap time: 19ms
+195 Metro tak at time: 449299
+-
+196 Metro tak at time: 449634
+196Tap - Tak time: 1ms
+196 Finger Tap at time: 449635
+-
+197 Finger Tap at time: 449965
+197 Tak - Tap time: 4ms
+197 Metro tak at time: 449969
+-
+198 Finger Tap at time: 450288
+198 Tak - Tap time: 15ms
+198 Metro tak at time: 450303
+-
+199 Finger Tap at time: 450628
+199 Tak - Tap time: 9ms
+199 Metro tak at time: 450637
+-
+200 Metro tak at time: 450971
+-
+201 Finger Tap at time: 451281
+201 Tak - Tap time: 24ms
+201 Metro tak at time: 451305
+-
+202 Finger Tap at time: 451614
+202 Tak - Tap time: 25ms
+202 Metro tak at time: 451639
+-
+203 Finger Tap at time: 451962
+203 Tak - Tap time: 11ms
+203 Metro tak at time: 451973
+-
+204 Finger Tap at time: 452275
+204 Tak - Tap time: 32ms
+204 Metro tak at time: 452307
+-
+205 Metro tak at time: 452687
+205Tap - Tak time: 21ms
+205 Finger Tap at time: 452708
+-
+206 Metro tak at time: 453021
+206Tap - Tak time: 47ms
+206 Finger Tap at time: 453068
+-
+207 Metro tak at time: 453355
+207Tap - Tak time: 16ms
+207 Finger Tap at time: 453371
+-
+208 Metro tak at time: 453690
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+208 Autosync Tap at time: 454037
+--
+209 Delayed tap happened at 454158
+209 Autosync Tap at time: 454440
+--
+210 Delayed tap happened at 454561
+210 Autosync Tap at time: 454857
+--
+211 Delayed tap happened at 454978
+211 Autosync Tap at time: 455230
+--
+212 Delayed tap happened at 455351
+212 Autosync Tap at time: 455633
+--
+213 Delayed tap happened at 455754
+213 Autosync Tap at time: 456041
+--
+214 Delayed tap happened at 456162
+214 Autosync Tap at time: 456408
+--
+215 Delayed tap happened at 456529
+215 Autosync Tap at time: 457233
+--
+216 Delayed tap happened at 457354
+216 Autosync Tap at time: 457691
+--
+217 Delayed tap happened at 457812
+217 Autosync Tap at time: 458097
+--
+218 Delayed tap happened at 458218
+218 Autosync Tap at time: 458488
+--
+219 Delayed tap happened at 458609
+219 Autosync Tap at time: 458884
+--
+220 Delayed tap happened at 459005
+220 Autosync Tap at time: 459285
+--
+221 Delayed tap happened at 459406
+221 Autosync Tap at time: 459639
+--
+222 Delayed tap happened at 459760
+222 Autosync Tap at time: 460026
+--
+223 Delayed tap happened at 460148
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+224 Metro tak at time: 465623
+-
+225 Finger Tap at time: 465872
+225 Tak - Tap time: 2ms
+225 Metro tak at time: 465874
+-
+226 Finger Tap at time: 466123
+226 Tak - Tap time: 2ms
+226 Metro tak at time: 466125
+-
+227 Finger Tap at time: 466345
+227 Tak - Tap time: 31ms
+227 Metro tak at time: 466376
+-
+228 Finger Tap at time: 466555
+228 Tak - Tap time: 72ms
+228 Metro tak at time: 466627
+-
+229 Finger Tap at time: 466830
+229 Tak - Tap time: 48ms
+229 Metro tak at time: 466878
+-
+230 Finger Tap at time: 467090
+230 Tak - Tap time: 39ms
+230 Metro tak at time: 467129
+-
+231 Finger Tap at time: 467332
+231 Tak - Tap time: 48ms
+231 Metro tak at time: 467380
+-
+232 Finger Tap at time: 467598
+232 Tak - Tap time: 33ms
+232 Metro tak at time: 467631
+-
+233 Finger Tap at time: 467847
+233 Tak - Tap time: 35ms
+233 Metro tak at time: 467882
+-
+234 Finger Tap at time: 468110
+234 Tak - Tap time: 24ms
+234 Metro tak at time: 468134
+-
+235 Finger Tap at time: 468360
+235 Tak - Tap time: 25ms
+235 Metro tak at time: 468385
+-
+236 Finger Tap at time: 468623
+236 Tak - Tap time: 13ms
+236 Metro tak at time: 468636
+-
+237 Finger Tap at time: 468873
+237 Tak - Tap time: 15ms
+237 Metro tak at time: 468888
+-
+238 Finger Tap at time: 469136
+238 Tak - Tap time: 3ms
+238 Metro tak at time: 469139
+-
+239 Finger Tap at time: 469369
+239 Tak - Tap time: 21ms
+239 Metro tak at time: 469390
+-
+240 Finger Tap at time: 469609
+240 Tak - Tap time: 32ms
+240 Metro tak at time: 469641
+-
+241 Finger Tap at time: 469862
+241 Tak - Tap time: 30ms
+241 Metro tak at time: 469892
+-
+242 Finger Tap at time: 470106
+242 Tak - Tap time: 38ms
+242 Metro tak at time: 470144
+-
+243 Finger Tap at time: 470372
+243 Tak - Tap time: 23ms
+243 Metro tak at time: 470395
+-
+244 Finger Tap at time: 470604
+244 Tak - Tap time: 42ms
+244 Metro tak at time: 470646
+-
+245 Finger Tap at time: 470864
+245 Tak - Tap time: 33ms
+245 Metro tak at time: 470897
+-
+246 Finger Tap at time: 471111
+246 Tak - Tap time: 37ms
+246 Metro tak at time: 471148
+-
+247 Metro tak at time: 471399
+-
+248 Finger Tap at time: 471608
+248 Tak - Tap time: 42ms
+248 Metro tak at time: 471650
+-
+249 Finger Tap at time: 471855
+249 Tak - Tap time: 46ms
+249 Metro tak at time: 471901
+-
+250 Finger Tap at time: 472086
+250 Tak - Tap time: 66ms
+250 Metro tak at time: 472152
+-
+251 Metro tak at time: 472403
+-
+252 Finger Tap at time: 472621
+252 Tak - Tap time: 33ms
+252 Metro tak at time: 472654
+-
+253 Finger Tap at time: 472871
+253 Tak - Tap time: 34ms
+253 Metro tak at time: 472905
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+253 Autosync Tap at time: 473117
+--
+254 Delayed tap happened at 473239
+254 Autosync Tap at time: 473616
+--
+255 Delayed tap happened at 473737
+255 Autosync Tap at time: 473853
+--
+256 Delayed tap happened at 473974
+256 Autosync Tap at time: 474147
+--
+257 Delayed tap happened at 474268
+257 Autosync Tap at time: 474426
+--
+258 Delayed tap happened at 474547
+258 Autosync Tap at time: 474720
+--
+259 Delayed tap happened at 474841
+259 Autosync Tap at time: 475011
+--
+260 Delayed tap happened at 475132
+260 Autosync Tap at time: 475305
+--
+261 Delayed tap happened at 475427
+261 Autosync Tap at time: 475599
+--
+262 Delayed tap happened at 475720
+262 Autosync Tap at time: 475921
+--
+263 Delayed tap happened at 476042
+263 Autosync Tap at time: 476227
+--
+264 Delayed tap happened at 476348
+264 Autosync Tap at time: 476602
+--
+265 Delayed tap happened at 476723
+265 Autosync Tap at time: 476992
+--
+266 Delayed tap happened at 477113
+266 Autosync Tap at time: 477369
+--
+267 Delayed tap happened at 477490
+267 Autosync Tap at time: 477731
+--
+268 Delayed tap happened at 477852
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+269 Metro tak at time: 485030
+269Tap - Tak time: 580ms
+269 Finger Tap at time: 485610
+-
+270 Metro tak at time: 487031
+270Tap - Tak time: 154ms
+270 Finger Tap at time: 487185
+-
+271 Metro tak at time: 489032
+271Tap - Tak time: 52ms
+271 Finger Tap at time: 489084
+-
+272 Metro tak at time: 491033
+272Tap - Tak time: 103ms
+272 Finger Tap at time: 491136
+-
+273 Finger Tap at time: 492872
+273 Tak - Tap time: 162ms
+273 Metro tak at time: 493034
+-
+274 Metro tak at time: 495035
+274Tap - Tak time: 188ms
+274 Finger Tap at time: 495223
+-
+275 Metro tak at time: 497037
+275Tap - Tak time: 176ms
+275 Finger Tap at time: 497213
+-
+276 Finger Tap at time: 498898
+276 Tak - Tap time: 140ms
+276 Metro tak at time: 499038
+-
+277 Finger Tap at time: 500697
+277 Tak - Tap time: 342ms
+277 Metro tak at time: 501039
+-
+278 Finger Tap at time: 502729
+278 Tak - Tap time: 311ms
+278 Metro tak at time: 503040
+-
+279 Finger Tap at time: 504920
+279 Tak - Tap time: 121ms
+279 Metro tak at time: 505041
+-
+280 Finger Tap at time: 506848
+280 Tak - Tap time: 195ms
+280 Metro tak at time: 507043
+-
+281 Finger Tap at time: 508659
+281 Tak - Tap time: 385ms
+281 Metro tak at time: 509044
+-
+282 Finger Tap at time: 510999
+282 Tak - Tap time: 47ms
+282 Metro tak at time: 511046
+-
+283 Finger Tap at time: 512812
+283 Tak - Tap time: 235ms
+283 Metro tak at time: 513047
+-
+284 Finger Tap at time: 514880
+284 Tak - Tap time: 169ms
+284 Metro tak at time: 515049
+-
+285 Finger Tap at time: 516877
+285 Tak - Tap time: 173ms
+285 Metro tak at time: 517050
+-
+286 Finger Tap at time: 518708
+286 Tak - Tap time: 343ms
+286 Metro tak at time: 519051
+-
+287 Metro tak at time: 521052
+287Tap - Tak time: 27ms
+287 Finger Tap at time: 521079
+-
+288 Metro tak at time: 523054
+288Tap - Tak time: 106ms
+288 Finger Tap at time: 523160
+-
+289 Finger Tap at time: 525032
+289 Tak - Tap time: 23ms
+289 Metro tak at time: 525055
+-
+290 Finger Tap at time: 526910
+290 Tak - Tap time: 146ms
+290 Metro tak at time: 527056
+-
+291 Finger Tap at time: 528814
+291 Tak - Tap time: 244ms
+291 Metro tak at time: 529058
+-
+292 Finger Tap at time: 530704
+292 Tak - Tap time: 355ms
+292 Metro tak at time: 531059
+-
+293 Finger Tap at time: 532782
+293 Tak - Tap time: 279ms
+293 Metro tak at time: 533061
+-
+294 Finger Tap at time: 534914
+294 Tak - Tap time: 148ms
+294 Metro tak at time: 535062
+-
+295 Finger Tap at time: 536967
+295 Tak - Tap time: 96ms
+295 Metro tak at time: 537063
+-
+296 Finger Tap at time: 538910
+296 Tak - Tap time: 154ms
+296 Metro tak at time: 539064
+-
+297 Finger Tap at time: 540756
+297 Tak - Tap time: 309ms
+297 Metro tak at time: 541065
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+297 Autosync Tap at time: 542701
+--
+298 Delayed tap happened at 542822
+298 Autosync Tap at time: 544737
+--
+299 Delayed tap happened at 544858
+299 Autosync Tap at time: 546620
+--
+300 Delayed tap happened at 546741
+300 Autosync Tap at time: 548365
+--
+301 Delayed tap happened at 548486
+301 Autosync Tap at time: 550671
+--
+302 Delayed tap happened at 550793
+302 Autosync Tap at time: 552290
+--
+303 Delayed tap happened at 552411
+303 Autosync Tap at time: 554101
+--
+304 Delayed tap happened at 554223
+304 Autosync Tap at time: 555938
+--
+305 Delayed tap happened at 556059
+305 Autosync Tap at time: 558142
+--
+306 Delayed tap happened at 558263
+306 Autosync Tap at time: 559897
+--
+307 Delayed tap happened at 560018
+307 Autosync Tap at time: 561640
+--
+308 Delayed tap happened at 561761
+308 Autosync Tap at time: 563462
+--
+309 Delayed tap happened at 563584
+309 Autosync Tap at time: 565177
+--
+310 Delayed tap happened at 565298
+310 Autosync Tap at time: 567090
+--
+311 Delayed tap happened at 567211
+311 Autosync Tap at time: 569051
+--
+312 Delayed tap happened at 569172
+312 Autosync Tap at time: 570957
+--
+313 Delayed tap happened at 571079
+313 Autosync Tap at time: 572685
+--
+314 Delayed tap happened at 572807
+314 Autosync Tap at time: 574352
+--
+315 Delayed tap happened at 574473
+315 Autosync Tap at time: 576093
+--
+316 Delayed tap happened at 576214
+316 Autosync Tap at time: 578075
+--
+317 Delayed tap happened at 578197
+317 Autosync Tap at time: 579768
+--
+318 Delayed tap happened at 579890
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+319 Metro tak at time: 614089
+319Tap - Tak time: 479ms
+319 Finger Tap at time: 614568
+-
+320 Metro tak at time: 615090
+320Tap - Tak time: 135ms
+320 Finger Tap at time: 615225
+-
+321 Finger Tap at time: 616006
+321 Tak - Tap time: 85ms
+321 Metro tak at time: 616091
+-
+322 Finger Tap at time: 616976
+322 Tak - Tap time: 117ms
+322 Metro tak at time: 617093
+-
+323 Finger Tap at time: 617958
+323 Tak - Tap time: 136ms
+323 Metro tak at time: 618094
+-
+324 Finger Tap at time: 619014
+324 Tak - Tap time: 81ms
+324 Metro tak at time: 619095
+-
+325 Finger Tap at time: 619986
+325 Tak - Tap time: 110ms
+325 Metro tak at time: 620096
+-
+326 Finger Tap at time: 620984
+326 Tak - Tap time: 113ms
+326 Metro tak at time: 621097
+-
+327 Finger Tap at time: 622022
+327 Tak - Tap time: 76ms
+327 Metro tak at time: 622098
+-
+328 Finger Tap at time: 623000
+328 Tak - Tap time: 99ms
+328 Metro tak at time: 623099
+-
+329 Finger Tap at time: 624004
+329 Tak - Tap time: 97ms
+329 Metro tak at time: 624101
+-
+330 Finger Tap at time: 625015
+330 Tak - Tap time: 87ms
+330 Metro tak at time: 625102
+-
+331 Finger Tap at time: 626022
+331 Tak - Tap time: 82ms
+331 Metro tak at time: 626104
+-
+332 Finger Tap at time: 627056
+332 Tak - Tap time: 49ms
+332 Metro tak at time: 627105
+-
+333 Finger Tap at time: 628018
+333 Tak - Tap time: 88ms
+333 Metro tak at time: 628106
+-
+334 Finger Tap at time: 628982
+334 Tak - Tap time: 126ms
+334 Metro tak at time: 629108
+-
+335 Finger Tap at time: 630018
+335 Tak - Tap time: 92ms
+335 Metro tak at time: 630110
+-
+336 Finger Tap at time: 630983
+336 Tak - Tap time: 128ms
+336 Metro tak at time: 631111
+-
+337 Finger Tap at time: 632090
+337 Tak - Tap time: 23ms
+337 Metro tak at time: 632113
+-
+338 Finger Tap at time: 633062
+338 Tak - Tap time: 53ms
+338 Metro tak at time: 633115
+-
+339 Finger Tap at time: 634038
+339 Tak - Tap time: 78ms
+339 Metro tak at time: 634116
+-
+340 Finger Tap at time: 634997
+340 Tak - Tap time: 120ms
+340 Metro tak at time: 635117
+-
+341 Finger Tap at time: 635988
+341 Tak - Tap time: 130ms
+341 Metro tak at time: 636118
+-
+342 Finger Tap at time: 637013
+342 Tak - Tap time: 106ms
+342 Metro tak at time: 637119
+-
+343 Finger Tap at time: 637988
+343 Tak - Tap time: 132ms
+343 Metro tak at time: 638120
+-
+344 Finger Tap at time: 639028
+344 Tak - Tap time: 93ms
+344 Metro tak at time: 639121
+-
+345 Finger Tap at time: 639964
+345 Tak - Tap time: 159ms
+345 Metro tak at time: 640123
+-
+346 Finger Tap at time: 640990
+346 Tak - Tap time: 134ms
+346 Metro tak at time: 641124
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+346 Autosync Tap at time: 641895
+--
+347 Delayed tap happened at 641926
+347 Autosync Tap at time: 642914
+--
+348 Delayed tap happened at 642946
+348 Autosync Tap at time: 643902
+--
+349 Delayed tap happened at 643934
+349 Autosync Tap at time: 644888
+--
+350 Delayed tap happened at 644920
+350 Autosync Tap at time: 645910
+--
+351 Delayed tap happened at 645941
+351 Autosync Tap at time: 646860
+--
+352 Delayed tap happened at 646891
+352 Autosync Tap at time: 647825
+--
+353 Delayed tap happened at 647856
+353 Autosync Tap at time: 648837
+--
+354 Delayed tap happened at 648869
+354 Autosync Tap at time: 649821
+--
+355 Delayed tap happened at 649852
+355 Autosync Tap at time: 650766
+--
+356 Delayed tap happened at 650875
+356 Autosync Tap at time: 651849
+--
+357 Delayed tap happened at 651881
+357 Autosync Tap at time: 652857
+--
+358 Delayed tap happened at 652888
+358 Autosync Tap at time: 653883
+--
+359 Delayed tap happened at 653915
+359 Autosync Tap at time: 655239
+--
+360 Delayed tap happened at 655270
+360 Autosync Tap at time: 656227
+--
+361 Delayed tap happened at 656259
+361 Autosync Tap at time: 657136
+--
+362 Delayed tap happened at 657167
+362 Autosync Tap at time: 658125
+--
+363 Delayed tap happened at 658156
+363 Autosync Tap at time: 659106
+--
+364 Delayed tap happened at 659138
+364 Autosync Tap at time: 660101
+--
+365 Delayed tap happened at 660133
+365 Autosync Tap at time: 661135
+--
+366 Delayed tap happened at 661167
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+367 Metro tak at time: 668251
+-
+368 Metro tak at time: 670252
+368Tap - Tak time: 182ms
+368 Finger Tap at time: 670434
+-
+369 Finger Tap at time: 672213
+369 Tak - Tap time: 40ms
+369 Metro tak at time: 672253
+-
+370 Metro tak at time: 674254
+370Tap - Tak time: 22ms
+370 Finger Tap at time: 674276
+-
+371 Finger Tap at time: 676225
+371 Tak - Tap time: 31ms
+371 Metro tak at time: 676256
+-
+372 Metro tak at time: 678261
+372Tap - Tak time: 63ms
+372 Finger Tap at time: 678324
+-
+373 Finger Tap at time: 680123
+373 Tak - Tap time: 140ms
+373 Metro tak at time: 680263
+-
+374 Finger Tap at time: 682159
+374 Tak - Tap time: 106ms
+374 Metro tak at time: 682265
+-
+375 Finger Tap at time: 684190
+375 Tak - Tap time: 76ms
+375 Metro tak at time: 684266
+-
+376 Metro tak at time: 686267
+376Tap - Tak time: 47ms
+376 Finger Tap at time: 686314
+-
+377 Metro tak at time: 688268
+377Tap - Tak time: 7ms
+377 Finger Tap at time: 688275
+-
+378 Finger Tap at time: 690113
+378 Tak - Tap time: 156ms
+378 Metro tak at time: 690269
+-
+379 Finger Tap at time: 692066
+379 Tak - Tap time: 205ms
+379 Metro tak at time: 692271
+-
+380 Finger Tap at time: 694081
+380 Tak - Tap time: 191ms
+380 Metro tak at time: 694272
+-
+381 Metro tak at time: 696273
+381Tap - Tak time: 28ms
+381 Finger Tap at time: 696301
+-
+382 Metro tak at time: 698275
+382Tap - Tak time: 104ms
+382 Finger Tap at time: 698379
+-
+383 Finger Tap at time: 700023
+383 Tak - Tap time: 253ms
+383 Metro tak at time: 700276
+-
+384 Finger Tap at time: 702087
+384 Tak - Tap time: 190ms
+384 Metro tak at time: 702277
+-
+385 Finger Tap at time: 704249
+385 Tak - Tap time: 29ms
+385 Metro tak at time: 704278
+-
+386 Finger Tap at time: 706259
+386 Tak - Tap time: 21ms
+386 Metro tak at time: 706280
+-
+387 Finger Tap at time: 708185
+387 Tak - Tap time: 97ms
+387 Metro tak at time: 708282
+-
+388 Finger Tap at time: 710086
+388 Tak - Tap time: 197ms
+388 Metro tak at time: 710283
+-
+389 Metro tak at time: 712284
+389Tap - Tak time: 73ms
+389 Finger Tap at time: 712357
+-
+390 Finger Tap at time: 714133
+390 Tak - Tap time: 152ms
+390 Metro tak at time: 714285
+-
+391 Finger Tap at time: 716204
+391 Tak - Tap time: 83ms
+391 Metro tak at time: 716287
+-
+392 Finger Tap at time: 718047
+392 Tak - Tap time: 241ms
+392 Metro tak at time: 718288
+-
+393 Finger Tap at time: 720133
+393 Tak - Tap time: 157ms
+393 Metro tak at time: 720290
+-
+394 Metro tak at time: 722291
+394Tap - Tak time: 81ms
+394 Finger Tap at time: 722372
+-
+395 Metro tak at time: 724293
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+395 Autosync Tap at time: 726188
+--
+396 Delayed tap happened at 726219
+396 Autosync Tap at time: 728034
+--
+397 Delayed tap happened at 728065
+397 Autosync Tap at time: 729742
+--
+398 Delayed tap happened at 729773
+398 Autosync Tap at time: 731557
+--
+399 Delayed tap happened at 731588
+399 Autosync Tap at time: 733521
+--
+400 Delayed tap happened at 733553
+400 Autosync Tap at time: 735443
+--
+401 Delayed tap happened at 735474
+401 Autosync Tap at time: 737199
+--
+402 Delayed tap happened at 737230
+402 Autosync Tap at time: 738982
+--
+403 Delayed tap happened at 739014
+403 Autosync Tap at time: 740781
+--
+404 Delayed tap happened at 740812
+404 Autosync Tap at time: 742607
+--
+405 Delayed tap happened at 742638
+405 Autosync Tap at time: 744356
+--
+406 Delayed tap happened at 744387
+406 Autosync Tap at time: 746417
+--
+407 Delayed tap happened at 746448
+407 Autosync Tap at time: 748167
+--
+408 Delayed tap happened at 748198
+408 Autosync Tap at time: 750199
+--
+409 Delayed tap happened at 750230
+409 Autosync Tap at time: 751832
+--
+410 Delayed tap happened at 751864
+410 Autosync Tap at time: 753744
+--
+411 Delayed tap happened at 753776
+411 Autosync Tap at time: 755540
+--
+412 Delayed tap happened at 755571
+412 Autosync Tap at time: 757385
+--
+413 Delayed tap happened at 757417
+413 Autosync Tap at time: 758991
+--
+414 Delayed tap happened at 759022
+414 Autosync Tap at time: 761611
+--
+415 Delayed tap happened at 761643
+415 Autosync Tap at time: 763421
+--
+416 Delayed tap happened at 763452
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+417 Metro tak at time: 769558
+-
+418 Metro tak at time: 769809
+-
+419 Finger Tap at time: 770053
+419 Tak - Tap time: 7ms
+419 Metro tak at time: 770060
+-
+420 Finger Tap at time: 770294
+420 Tak - Tap time: 17ms
+420 Metro tak at time: 770311
+-
+421 Finger Tap at time: 770547
+421 Tak - Tap time: 16ms
+421 Metro tak at time: 770563
+-
+422 Finger Tap at time: 770776
+422 Tak - Tap time: 38ms
+422 Metro tak at time: 770814
+-
+423 Metro tak at time: 771065
+423Tap - Tak time: 1ms
+423 Finger Tap at time: 771066
+-
+424 Finger Tap at time: 771315
+424 Tak - Tap time: 1ms
+424 Metro tak at time: 771316
+-
+425 Finger Tap at time: 771561
+425 Tak - Tap time: 6ms
+425 Metro tak at time: 771567
+-
+426 Finger Tap at time: 771776
+426 Tak - Tap time: 42ms
+426 Metro tak at time: 771818
+-
+427 Finger Tap at time: 772056
+427 Tak - Tap time: 13ms
+427 Metro tak at time: 772069
+-
+428 Finger Tap at time: 772311
+428 Tak - Tap time: 9ms
+428 Metro tak at time: 772320
+-
+429 Metro tak at time: 772572
+-
+430 Finger Tap at time: 772815
+430 Tak - Tap time: 8ms
+430 Metro tak at time: 772823
+-
+431 Finger Tap at time: 773045
+431 Tak - Tap time: 29ms
+431 Metro tak at time: 773074
+-
+432 Finger Tap at time: 773297
+432 Tak - Tap time: 29ms
+432 Metro tak at time: 773326
+-
+433 Finger Tap at time: 773553
+433 Tak - Tap time: 24ms
+433 Metro tak at time: 773577
+-
+434 Finger Tap at time: 773793
+434 Tak - Tap time: 36ms
+434 Metro tak at time: 773829
+-
+435 Finger Tap at time: 774042
+435 Tak - Tap time: 38ms
+435 Metro tak at time: 774080
+-
+436 Finger Tap at time: 774307
+436 Tak - Tap time: 24ms
+436 Metro tak at time: 774331
+-
+437 Finger Tap at time: 774556
+437 Tak - Tap time: 27ms
+437 Metro tak at time: 774583
+-
+438 Finger Tap at time: 774794
+438 Tak - Tap time: 40ms
+438 Metro tak at time: 774834
+-
+439 Finger Tap at time: 775057
+439 Tak - Tap time: 28ms
+439 Metro tak at time: 775085
+-
+440 Finger Tap at time: 775318
+440 Tak - Tap time: 19ms
+440 Metro tak at time: 775337
+-
+441 Finger Tap at time: 775552
+441 Tak - Tap time: 37ms
+441 Metro tak at time: 775589
+-
+442 Finger Tap at time: 775812
+442 Tak - Tap time: 28ms
+442 Metro tak at time: 775840
+-
+443 Finger Tap at time: 776048
+443 Tak - Tap time: 43ms
+443 Metro tak at time: 776091
+-
+444 Finger Tap at time: 776301
+444 Tak - Tap time: 42ms
+444 Metro tak at time: 776343
+-
+445 Finger Tap at time: 776559
+445 Tak - Tap time: 36ms
+445 Metro tak at time: 776595
+-
+446 Finger Tap at time: 776816
+446 Tak - Tap time: 30ms
+446 Metro tak at time: 776846
+-
+447 Finger Tap at time: 777046
+447 Tak - Tap time: 52ms
+447 Metro tak at time: 777098
+-
+448 Finger Tap at time: 777295
+448 Tak - Tap time: 54ms
+448 Metro tak at time: 777349
+-
+449 Finger Tap at time: 777558
+449 Tak - Tap time: 42ms
+449 Metro tak at time: 777600
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+449 Autosync Tap at time: 777807
+--
+450 Delayed tap happened at 777839
+450 Autosync Tap at time: 778041
+--
+451 Delayed tap happened at 778072
+451 Autosync Tap at time: 778296
+--
+452 Delayed tap happened at 778327
+452 Autosync Tap at time: 778554
+--
+453 Delayed tap happened at 778586
+453 Autosync Tap at time: 778803
+--
+454 Delayed tap happened at 778835
+454 Autosync Tap at time: 779053
+--
+455 Delayed tap happened at 779085
+455 Autosync Tap at time: 779315
+--
+456 Delayed tap happened at 779346
+456 Autosync Tap at time: 779563
+--
+457 Delayed tap happened at 779595
+457 Autosync Tap at time: 779805
+--
+458 Delayed tap happened at 779836
+458 Autosync Tap at time: 780042
+--
+459 Delayed tap happened at 780073
+459 Autosync Tap at time: 780306
+--
+460 Delayed tap happened at 780337
+460 Autosync Tap at time: 780556
+--
+461 Delayed tap happened at 780587
+461 Autosync Tap at time: 780799
+--
+462 Delayed tap happened at 780830
+462 Autosync Tap at time: 781054
+--
+463 Delayed tap happened at 781085
+463 Autosync Tap at time: 781305
+--
+464 Delayed tap happened at 781337
+464 Autosync Tap at time: 781543
+--
+465 Delayed tap happened at 781574
+465 Autosync Tap at time: 781780
+--
+466 Delayed tap happened at 781811
+466 Autosync Tap at time: 782040
+--
+467 Delayed tap happened at 782071
+467 Autosync Tap at time: 782297
+--
+468 Delayed tap happened at 782329
+468 Autosync Tap at time: 782545
+--
+469 Delayed tap happened at 782577
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+470 Metro tak at time: 788123
+-
+471 Metro tak at time: 788625
+-
+472 Finger Tap at time: 789048
+472 Tak - Tap time: 78ms
+472 Metro tak at time: 789126
+-
+473 Finger Tap at time: 789500
+473 Tak - Tap time: 127ms
+473 Metro tak at time: 789627
+-
+474 Finger Tap at time: 789989
+474 Tak - Tap time: 139ms
+474 Metro tak at time: 790128
+-
+475 Finger Tap at time: 790498
+475 Tak - Tap time: 131ms
+475 Metro tak at time: 790629
+-
+476 Finger Tap at time: 790998
+476 Tak - Tap time: 133ms
+476 Metro tak at time: 791131
+-
+477 Finger Tap at time: 791488
+477 Tak - Tap time: 145ms
+477 Metro tak at time: 791633
+-
+478 Finger Tap at time: 792014
+478 Tak - Tap time: 121ms
+478 Metro tak at time: 792135
+-
+479 Finger Tap at time: 792559
+479 Tak - Tap time: 78ms
+479 Metro tak at time: 792637
+-
+480 Finger Tap at time: 793071
+480 Tak - Tap time: 67ms
+480 Metro tak at time: 793138
+-
+481 Finger Tap at time: 793559
+481 Tak - Tap time: 80ms
+481 Metro tak at time: 793639
+-
+482 Finger Tap at time: 794061
+482 Tak - Tap time: 79ms
+482 Metro tak at time: 794140
+-
+483 Finger Tap at time: 794559
+483 Tak - Tap time: 82ms
+483 Metro tak at time: 794641
+-
+484 Finger Tap at time: 795051
+484 Tak - Tap time: 91ms
+484 Metro tak at time: 795142
+-
+485 Finger Tap at time: 795535
+485 Tak - Tap time: 109ms
+485 Metro tak at time: 795644
+-
+486 Finger Tap at time: 796033
+486 Tak - Tap time: 112ms
+486 Metro tak at time: 796145
+-
+487 Finger Tap at time: 796562
+487 Tak - Tap time: 84ms
+487 Metro tak at time: 796646
+-
+488 Finger Tap at time: 797076
+488 Tak - Tap time: 72ms
+488 Metro tak at time: 797148
+-
+489 Finger Tap at time: 797591
+489 Tak - Tap time: 58ms
+489 Metro tak at time: 797649
+-
+490 Finger Tap at time: 798052
+490 Tak - Tap time: 99ms
+490 Metro tak at time: 798151
+-
+491 Finger Tap at time: 798555
+491 Tak - Tap time: 97ms
+491 Metro tak at time: 798652
+-
+492 Finger Tap at time: 799082
+492 Tak - Tap time: 71ms
+492 Metro tak at time: 799153
+-
+493 Finger Tap at time: 799560
+493 Tak - Tap time: 95ms
+493 Metro tak at time: 799655
+-
+494 Finger Tap at time: 800071
+494 Tak - Tap time: 85ms
+494 Metro tak at time: 800156
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+494 Autosync Tap at time: 800550
+--
+495 Delayed tap happened at 800582
+495 Autosync Tap at time: 801074
+--
+496 Delayed tap happened at 801106
+496 Autosync Tap at time: 801560
+--
+497 Delayed tap happened at 801591
+497 Autosync Tap at time: 802081
+--
+498 Delayed tap happened at 802113
+498 Autosync Tap at time: 802563
+--
+499 Delayed tap happened at 802595
+499 Autosync Tap at time: 803036
+--
+500 Delayed tap happened at 803067
+500 Autosync Tap at time: 803556
+--
+501 Delayed tap happened at 803587
+501 Autosync Tap at time: 804025
+--
+502 Delayed tap happened at 804057
+502 Autosync Tap at time: 804529
+--
+503 Delayed tap happened at 804561
+503 Autosync Tap at time: 805012
+--
+504 Delayed tap happened at 805043
+504 Autosync Tap at time: 805495
+--
+505 Delayed tap happened at 805527
+505 Autosync Tap at time: 805986
+--
+506 Delayed tap happened at 806017
+506 Autosync Tap at time: 806500
+--
+507 Delayed tap happened at 806532
+507 Autosync Tap at time: 806986
+--
+508 Delayed tap happened at 807017
+508 Autosync Tap at time: 807484
+--
+509 Delayed tap happened at 807515
+509 Autosync Tap at time: 807972
+--
+510 Delayed tap happened at 808003
+510 Autosync Tap at time: 808451
+--
+511 Delayed tap happened at 808483
+511 Autosync Tap at time: 808941
+--
+512 Delayed tap happened at 808972
+512 Autosync Tap at time: 809425
+--
+513 Delayed tap happened at 809457
+513 Autosync Tap at time: 809933
+--
+514 Delayed tap happened at 809965
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+515 Metro tak at time: 815512
+-
+516 Metro tak at time: 815847
+516Tap - Tak time: 152ms
+516 Finger Tap at time: 815999
+-
+517 Metro tak at time: 816181
+517Tap - Tak time: 102ms
+517 Finger Tap at time: 816283
+-
+518 Metro tak at time: 816515
+518Tap - Tak time: 4ms
+518 Finger Tap at time: 816519
+-
+519 Finger Tap at time: 816812
+519 Tak - Tap time: 37ms
+519 Metro tak at time: 816849
+-
+520 Finger Tap at time: 817142
+520 Tak - Tap time: 41ms
+520 Metro tak at time: 817183
+-
+521 Finger Tap at time: 817480
+521 Tak - Tap time: 38ms
+521 Metro tak at time: 817518
+-
+522 Finger Tap at time: 817824
+522 Tak - Tap time: 28ms
+522 Metro tak at time: 817852
+-
+523 Finger Tap at time: 818141
+523 Tak - Tap time: 46ms
+523 Metro tak at time: 818187
+-
+524 Finger Tap at time: 818502
+524 Tak - Tap time: 19ms
+524 Metro tak at time: 818521
+-
+525 Finger Tap at time: 818833
+525 Tak - Tap time: 23ms
+525 Metro tak at time: 818856
+-
+526 Finger Tap at time: 819154
+526 Tak - Tap time: 37ms
+526 Metro tak at time: 819191
+-
+527 Finger Tap at time: 819483
+527 Tak - Tap time: 42ms
+527 Metro tak at time: 819525
+-
+528 Metro tak at time: 819859
+-
+529 Finger Tap at time: 820135
+529 Tak - Tap time: 58ms
+529 Metro tak at time: 820193
+-
+530 Finger Tap at time: 820490
+530 Tak - Tap time: 37ms
+530 Metro tak at time: 820527
+-
+531 Finger Tap at time: 820821
+531 Tak - Tap time: 41ms
+531 Metro tak at time: 820862
+-
+532 Metro tak at time: 821196
+-
+533 Finger Tap at time: 821494
+533 Tak - Tap time: 37ms
+533 Metro tak at time: 821531
+-
+534 Finger Tap at time: 821788
+534 Tak - Tap time: 77ms
+534 Metro tak at time: 821865
+-
+535 Finger Tap at time: 822158
+535 Tak - Tap time: 41ms
+535 Metro tak at time: 822199
+-
+536 Finger Tap at time: 822510
+536 Tak - Tap time: 23ms
+536 Metro tak at time: 822533
+-
+537 Finger Tap at time: 822854
+537 Tak - Tap time: 13ms
+537 Metro tak at time: 822867
+-
+538 Finger Tap at time: 823171
+538 Tak - Tap time: 30ms
+538 Metro tak at time: 823201
+-
+539 Finger Tap at time: 823499
+539 Tak - Tap time: 36ms
+539 Metro tak at time: 823535
+-
+540 Finger Tap at time: 823837
+540 Tak - Tap time: 33ms
+540 Metro tak at time: 823870
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+540 Autosync Tap at time: 824165
+--
+541 Delayed tap happened at 824197
+541 Autosync Tap at time: 824496
+--
+542 Delayed tap happened at 824528
+542 Autosync Tap at time: 824884
+--
+543 Delayed tap happened at 824915
+543 Autosync Tap at time: 825170
+--
+544 Delayed tap happened at 825202
+544 Autosync Tap at time: 825528
+--
+545 Delayed tap happened at 825559
+545 Autosync Tap at time: 825870
+--
+546 Delayed tap happened at 825902
+546 Autosync Tap at time: 826192
+--
+547 Delayed tap happened at 826223
+547 Autosync Tap at time: 826838
+--
+548 Delayed tap happened at 826869
+548 Autosync Tap at time: 827172
+--
+549 Delayed tap happened at 827204
+549 Autosync Tap at time: 827498
+--
+550 Delayed tap happened at 827530
+550 Autosync Tap at time: 827826
+--
+551 Delayed tap happened at 827857
+551 Autosync Tap at time: 828145
+--
+552 Delayed tap happened at 828177
+552 Autosync Tap at time: 828474
+--
+553 Delayed tap happened at 828505
+553 Autosync Tap at time: 828826
+--
+554 Delayed tap happened at 828857
+554 Autosync Tap at time: 829159
+--
+555 Delayed tap happened at 829190
+555 Autosync Tap at time: 829462
+--
+556 Delayed tap happened at 829493
+556 Autosync Tap at time: 829788
+--
+557 Delayed tap happened at 829820
+557 Autosync Tap at time: 830137
+--
+558 Delayed tap happened at 830168
+558 Autosync Tap at time: 830425
+--
+559 Delayed tap happened at 830456
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+560 Metro tak at time: 835752
+-
+561 Metro tak at time: 835953
+-
+562 Metro tak at time: 836155
+562Tap - Tak time: 73ms
+562 Finger Tap at time: 836228
+-
+563 Metro tak at time: 836357
+563Tap - Tak time: 63ms
+563 Finger Tap at time: 836420
+-
+564 Metro tak at time: 836558
+564Tap - Tak time: 53ms
+564 Finger Tap at time: 836611
+-
+565 Metro tak at time: 836759
+565Tap - Tak time: 15ms
+565 Finger Tap at time: 836774
+-
+566 Metro tak at time: 836960
+566Tap - Tak time: 12ms
+566 Finger Tap at time: 836972
+-
+567 Metro tak at time: 837161
+567Tap - Tak time: 3ms
+567 Finger Tap at time: 837164
+-
+568 Metro tak at time: 837363
+568Tap - Tak time: 2ms
+568 Finger Tap at time: 837365
+-
+569 Metro tak at time: 837564
+569Tap - Tak time: 5ms
+569 Finger Tap at time: 837569
+-
+570 Metro tak at time: 837765
+570Tap - Tak time: 6ms
+570 Finger Tap at time: 837771
+-
+571 Metro tak at time: 837966
+571Tap - Tak time: 1ms
+571 Finger Tap at time: 837967
+-
+572 Finger Tap at time: 838166
+572 Tak - Tap time: 1ms
+572 Metro tak at time: 838167
+-
+573 Finger Tap at time: 838355
+573 Tak - Tap time: 13ms
+573 Metro tak at time: 838368
+-
+574 Finger Tap at time: 838546
+574 Tak - Tap time: 23ms
+574 Metro tak at time: 838569
+-
+575 Finger Tap at time: 838740
+575 Tak - Tap time: 31ms
+575 Metro tak at time: 838771
+-
+576 Finger Tap at time: 838958
+576 Tak - Tap time: 14ms
+576 Metro tak at time: 838972
+-
+577 Finger Tap at time: 839148
+577 Tak - Tap time: 25ms
+577 Metro tak at time: 839173
+-
+578 Finger Tap at time: 839358
+578 Tak - Tap time: 16ms
+578 Metro tak at time: 839374
+-
+579 Finger Tap at time: 839562
+579 Tak - Tap time: 14ms
+579 Metro tak at time: 839576
+-
+580 Finger Tap at time: 839760
+580 Tak - Tap time: 17ms
+580 Metro tak at time: 839777
+-
+581 Finger Tap at time: 839969
+581 Tak - Tap time: 9ms
+581 Metro tak at time: 839978
+-
+582 Finger Tap at time: 840173
+582 Tak - Tap time: 6ms
+582 Metro tak at time: 840179
+-
+583 Finger Tap at time: 840368
+583 Tak - Tap time: 12ms
+583 Metro tak at time: 840380
+-
+584 Finger Tap at time: 840561
+584 Tak - Tap time: 20ms
+584 Metro tak at time: 840581
+-
+585 Finger Tap at time: 840770
+585 Tak - Tap time: 12ms
+585 Metro tak at time: 840782
+-
+586 Finger Tap at time: 840962
+586 Tak - Tap time: 21ms
+586 Metro tak at time: 840983
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+586 Autosync Tap at time: 841160
+--
+587 Delayed tap happened at 841191
+587 Autosync Tap at time: 841381
+--
+588 Delayed tap happened at 841412
+588 Autosync Tap at time: 841568
+--
+589 Delayed tap happened at 841599
+589 Autosync Tap at time: 841764
+--
+590 Delayed tap happened at 841796
+590 Autosync Tap at time: 841974
+--
+591 Delayed tap happened at 842006
+591 Autosync Tap at time: 842181
+--
+592 Delayed tap happened at 842213
+592 Autosync Tap at time: 842394
+--
+593 Delayed tap happened at 842426
+593 Autosync Tap at time: 842600
+--
+594 Delayed tap happened at 842631
+594 Autosync Tap at time: 842799
+--
+595 Delayed tap happened at 842830
+595 Autosync Tap at time: 842998
+--
+596 Delayed tap happened at 843029
+596 Autosync Tap at time: 843200
+--
+597 Delayed tap happened at 843231
+597 Autosync Tap at time: 843419
+--
+598 Delayed tap happened at 843450
+598 Autosync Tap at time: 843612
+--
+599 Delayed tap happened at 843643
+599 Autosync Tap at time: 843815
+--
+600 Delayed tap happened at 843846
+600 Autosync Tap at time: 844016
+--
+601 Delayed tap happened at 844048
+601 Autosync Tap at time: 844222
+--
+602 Delayed tap happened at 844253
+602 Autosync Tap at time: 844428
+--
+603 Delayed tap happened at 844460
+603 Autosync Tap at time: 844630
+--
+604 Delayed tap happened at 844661
+604 Autosync Tap at time: 844826
+--
+605 Delayed tap happened at 844857
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+606 Metro tak at time: 850674
+-
+607 Metro tak at time: 851342
+-
+608 Finger Tap at time: 851859
+608 Tak - Tap time: 150ms
+608 Metro tak at time: 852009
+-
+609 Finger Tap at time: 852446
+609 Tak - Tap time: 231ms
+609 Metro tak at time: 852677
+-
+610 Finger Tap at time: 853116
+610 Tak - Tap time: 228ms
+610 Metro tak at time: 853344
+-
+611 Finger Tap at time: 853849
+611 Tak - Tap time: 162ms
+611 Metro tak at time: 854011
+-
+612 Metro tak at time: 854678
+-
+613 Finger Tap at time: 855255
+613 Tak - Tap time: 90ms
+613 Metro tak at time: 855345
+-
+614 Finger Tap at time: 855866
+614 Tak - Tap time: 146ms
+614 Metro tak at time: 856012
+-
+615 Finger Tap at time: 856546
+615 Tak - Tap time: 133ms
+615 Metro tak at time: 856679
+-
+616 Finger Tap at time: 857303
+616 Tak - Tap time: 43ms
+616 Metro tak at time: 857346
+-
+617 Finger Tap at time: 857943
+617 Tak - Tap time: 70ms
+617 Metro tak at time: 858013
+-
+618 Finger Tap at time: 858626
+618 Tak - Tap time: 54ms
+618 Metro tak at time: 858680
+-
+619 Finger Tap at time: 859273
+619 Tak - Tap time: 75ms
+619 Metro tak at time: 859348
+-
+620 Finger Tap at time: 859910
+620 Tak - Tap time: 105ms
+620 Metro tak at time: 860015
+-
+621 Finger Tap at time: 860581
+621 Tak - Tap time: 102ms
+621 Metro tak at time: 860683
+-
+622 Finger Tap at time: 861241
+622 Tak - Tap time: 109ms
+622 Metro tak at time: 861350
+-
+623 Finger Tap at time: 861892
+623 Tak - Tap time: 125ms
+623 Metro tak at time: 862017
+-
+624 Finger Tap at time: 862528
+624 Tak - Tap time: 156ms
+624 Metro tak at time: 862684
+-
+625 Finger Tap at time: 863192
+625 Tak - Tap time: 160ms
+625 Metro tak at time: 863352
+-
+626 Finger Tap at time: 863936
+626 Tak - Tap time: 83ms
+626 Metro tak at time: 864019
+-
+627 Finger Tap at time: 864576
+627 Tak - Tap time: 110ms
+627 Metro tak at time: 864686
+-
+628 Finger Tap at time: 865223
+628 Tak - Tap time: 130ms
+628 Metro tak at time: 865353
+-
+629 Finger Tap at time: 865879
+629 Tak - Tap time: 141ms
+629 Metro tak at time: 866020
+-
+630 Finger Tap at time: 866556
+630 Tak - Tap time: 131ms
+630 Metro tak at time: 866687
+-
+631 Finger Tap at time: 867227
+631 Tak - Tap time: 127ms
+631 Metro tak at time: 867354
+-
+632 Finger Tap at time: 867924
+632 Tak - Tap time: 98ms
+632 Metro tak at time: 868022
+-
+633 Finger Tap at time: 868617
+633 Tak - Tap time: 72ms
+633 Metro tak at time: 868689
+-
+634 Finger Tap at time: 869268
+634 Tak - Tap time: 88ms
+634 Metro tak at time: 869356
+-
+635 Finger Tap at time: 869941
+635 Tak - Tap time: 83ms
+635 Metro tak at time: 870024
+-
+636 Finger Tap at time: 870621
+636 Tak - Tap time: 71ms
+636 Metro tak at time: 870692
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+636 Autosync Tap at time: 871310
+--
+637 Delayed tap happened at 871341
+637 Autosync Tap at time: 871930
+--
+638 Delayed tap happened at 871961
+638 Autosync Tap at time: 872601
+--
+639 Delayed tap happened at 872632
+639 Autosync Tap at time: 873240
+--
+640 Delayed tap happened at 873271
+640 Autosync Tap at time: 873904
+--
+641 Delayed tap happened at 873935
+641 Autosync Tap at time: 874539
+--
+642 Delayed tap happened at 874570
+642 Autosync Tap at time: 875188
+--
+643 Delayed tap happened at 875219
+643 Autosync Tap at time: 875810
+--
+644 Delayed tap happened at 875841
+644 Autosync Tap at time: 876528
+--
+645 Delayed tap happened at 876560
+645 Autosync Tap at time: 877188
+--
+646 Delayed tap happened at 877219
+646 Autosync Tap at time: 877818
+--
+647 Delayed tap happened at 877850
+647 Autosync Tap at time: 878440
+--
+648 Delayed tap happened at 878471
+648 Autosync Tap at time: 879073
+--
+649 Delayed tap happened at 879104
+649 Autosync Tap at time: 879702
+--
+650 Delayed tap happened at 879733
+650 Autosync Tap at time: 880329
+--
+651 Delayed tap happened at 880360
+651 Autosync Tap at time: 880930
+--
+652 Delayed tap happened at 880961
+652 Autosync Tap at time: 881555
+--
+653 Delayed tap happened at 881586
+653 Autosync Tap at time: 882168
+--
+654 Delayed tap happened at 882200
+654 Autosync Tap at time: 882821
+--
+655 Delayed tap happened at 882852
+655 Autosync Tap at time: 883432
+--
+656 Delayed tap happened at 883463
+656 Autosync Tap at time: 884070
+--
+657 Delayed tap happened at 884101
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+658 Metro tak at time: 911030
+-
+659 Metro tak at time: 911365
+-
+660 Finger Tap at time: 911645
+660 Tak - Tap time: 54ms
+660 Metro tak at time: 911699
+-
+661 Finger Tap at time: 911973
+661 Tak - Tap time: 60ms
+661 Metro tak at time: 912033
+-
+662 Finger Tap at time: 912337
+662 Tak - Tap time: 31ms
+662 Metro tak at time: 912368
+-
+663 Finger Tap at time: 912655
+663 Tak - Tap time: 47ms
+663 Metro tak at time: 912702
+-
+664 Finger Tap at time: 912947
+664 Tak - Tap time: 89ms
+664 Metro tak at time: 913036
+-
+665 Finger Tap at time: 913297
+665 Tak - Tap time: 73ms
+665 Metro tak at time: 913370
+-
+666 Finger Tap at time: 913643
+666 Tak - Tap time: 61ms
+666 Metro tak at time: 913704
+-
+667 Finger Tap at time: 914017
+667 Tak - Tap time: 21ms
+667 Metro tak at time: 914038
+-
+668 Finger Tap at time: 914342
+668 Tak - Tap time: 30ms
+668 Metro tak at time: 914372
+-
+669 Finger Tap at time: 914670
+669 Tak - Tap time: 36ms
+669 Metro tak at time: 914706
+-
+670 Finger Tap at time: 915002
+670 Tak - Tap time: 39ms
+670 Metro tak at time: 915041
+-
+671 Finger Tap at time: 915346
+671 Tak - Tap time: 30ms
+671 Metro tak at time: 915376
+-
+672 Finger Tap at time: 915673
+672 Tak - Tap time: 37ms
+672 Metro tak at time: 915710
+-
+673 Finger Tap at time: 915999
+673 Tak - Tap time: 45ms
+673 Metro tak at time: 916044
+-
+674 Finger Tap at time: 916310
+674 Tak - Tap time: 68ms
+674 Metro tak at time: 916378
+-
+675 Finger Tap at time: 916647
+675 Tak - Tap time: 66ms
+675 Metro tak at time: 916713
+-
+676 Finger Tap at time: 916980
+676 Tak - Tap time: 67ms
+676 Metro tak at time: 917047
+-
+677 Finger Tap at time: 917348
+677 Tak - Tap time: 34ms
+677 Metro tak at time: 917382
+-
+678 Finger Tap at time: 917699
+678 Tak - Tap time: 17ms
+678 Metro tak at time: 917716
+-
+679 Finger Tap at time: 918022
+679 Tak - Tap time: 29ms
+679 Metro tak at time: 918051
+-
+680 Finger Tap at time: 918368
+680 Tak - Tap time: 18ms
+680 Metro tak at time: 918386
+-
+681 Finger Tap at time: 918664
+681 Tak - Tap time: 57ms
+681 Metro tak at time: 918721
+-
+682 Finger Tap at time: 918970
+682 Tak - Tap time: 86ms
+682 Metro tak at time: 919056
+-
+683 Finger Tap at time: 919337
+683 Tak - Tap time: 53ms
+683 Metro tak at time: 919390
+-
+684 Finger Tap at time: 919658
+684 Tak - Tap time: 67ms
+684 Metro tak at time: 919725
+-
+685 Metro tak at time: 920060
+-
+686 Finger Tap at time: 920331
+686 Tak - Tap time: 63ms
+686 Metro tak at time: 920394
+-
+687 Finger Tap at time: 920653
+687 Tak - Tap time: 75ms
+687 Metro tak at time: 920728
+-
+688 Finger Tap at time: 920960
+688 Tak - Tap time: 103ms
+688 Metro tak at time: 921063
+-
+689 Finger Tap at time: 921302
+689 Tak - Tap time: 95ms
+689 Metro tak at time: 921397
+-
+690 Finger Tap at time: 921671
+690 Tak - Tap time: 60ms
+690 Metro tak at time: 921731
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+690 Autosync Tap at time: 921980
+--
+691 Delayed tap happened at 922071
+691 Autosync Tap at time: 922345
+--
+692 Delayed tap happened at 922436
+692 Autosync Tap at time: 922715
+--
+693 Delayed tap happened at 922806
+693 Autosync Tap at time: 923078
+--
+694 Delayed tap happened at 923170
+694 Autosync Tap at time: 923429
+--
+695 Delayed tap happened at 923520
+695 Autosync Tap at time: 923782
+--
+696 Delayed tap happened at 923873
+696 Autosync Tap at time: 924135
+--
+697 Delayed tap happened at 924226
+697 Autosync Tap at time: 924487
+--
+698 Delayed tap happened at 924578
+698 Autosync Tap at time: 924857
+--
+699 Delayed tap happened at 924948
+699 Autosync Tap at time: 925204
+--
+700 Delayed tap happened at 925295
+700 Autosync Tap at time: 925555
+--
+701 Delayed tap happened at 925647
+701 Autosync Tap at time: 925915
+--
+702 Delayed tap happened at 926006
+702 Autosync Tap at time: 926288
+--
+703 Delayed tap happened at 926380
+703 Autosync Tap at time: 926633
+--
+704 Delayed tap happened at 926724
+704 Autosync Tap at time: 926994
+--
+705 Delayed tap happened at 927085
+705 Autosync Tap at time: 927355
+--
+706 Delayed tap happened at 927446
+706 Autosync Tap at time: 927702
+--
+707 Delayed tap happened at 927794
+707 Autosync Tap at time: 928065
+--
+708 Delayed tap happened at 928156
+708 Autosync Tap at time: 928405
+--
+
+------ Autosync Phase ended, Pause ------ 
+
+709 Delayed tap happened at 928497
+-
+710 Metro tak at time: 933664
+-
+711 Metro tak at time: 933916
+-
+712 Metro tak at time: 934167
+-
+713 Finger Tap at time: 934293
+713 Tak - Tap time: 125ms
+713 Metro tak at time: 934418
+-
+714 Metro tak at time: 934669
+714Tap - Tak time: 29ms
+714 Finger Tap at time: 934698
+-
+715 Metro tak at time: 934920
+715Tap - Tak time: 2ms
+715 Finger Tap at time: 934922
+-
+716 Finger Tap at time: 935125
+716 Tak - Tap time: 46ms
+716 Metro tak at time: 935171
+-
+717 Finger Tap at time: 935376
+717 Tak - Tap time: 47ms
+717 Metro tak at time: 935423
+-
+718 Finger Tap at time: 935645
+718 Tak - Tap time: 29ms
+718 Metro tak at time: 935674
+-
+719 Finger Tap at time: 935895
+719 Tak - Tap time: 31ms
+719 Metro tak at time: 935926
+-
+720 Finger Tap at time: 936153
+720 Tak - Tap time: 24ms
+720 Metro tak at time: 936177
+-
+721 Finger Tap at time: 936413
+721 Tak - Tap time: 15ms
+721 Metro tak at time: 936428
+-
+722 Finger Tap at time: 936669
+722 Tak - Tap time: 10ms
+722 Metro tak at time: 936679
+-
+723 Finger Tap at time: 936910
+723 Tak - Tap time: 21ms
+723 Metro tak at time: 936931
+-
+724 Finger Tap at time: 937159
+724 Tak - Tap time: 23ms
+724 Metro tak at time: 937182
+-
+725 Finger Tap at time: 937426
+725 Tak - Tap time: 7ms
+725 Metro tak at time: 937433
+-
+726 Finger Tap at time: 937675
+726 Tak - Tap time: 9ms
+726 Metro tak at time: 937684
+-
+727 Finger Tap at time: 937922
+727 Tak - Tap time: 14ms
+727 Metro tak at time: 937936
+-
+728 Finger Tap at time: 938162
+728 Tak - Tap time: 25ms
+728 Metro tak at time: 938187
+-
+729 Finger Tap at time: 938401
+729 Tak - Tap time: 38ms
+729 Metro tak at time: 938439
+-
+730 Finger Tap at time: 938656
+730 Tak - Tap time: 34ms
+730 Metro tak at time: 938690
+-
+731 Finger Tap at time: 938924
+731 Tak - Tap time: 17ms
+731 Metro tak at time: 938941
+-
+732 Finger Tap at time: 939162
+732 Tak - Tap time: 30ms
+732 Metro tak at time: 939192
+-
+733 Finger Tap at time: 939412
+733 Tak - Tap time: 31ms
+733 Metro tak at time: 939443
+-
+734 Finger Tap at time: 939663
+734 Tak - Tap time: 32ms
+734 Metro tak at time: 939695
+-
+735 Finger Tap at time: 939923
+735 Tak - Tap time: 23ms
+735 Metro tak at time: 939946
+-
+736 Finger Tap at time: 940171
+736 Tak - Tap time: 27ms
+736 Metro tak at time: 940198
+-
+737 Finger Tap at time: 940425
+737 Tak - Tap time: 24ms
+737 Metro tak at time: 940449
+-
+738 Finger Tap at time: 940671
+738 Tak - Tap time: 30ms
+738 Metro tak at time: 940701
+-
+739 Finger Tap at time: 940906
+739 Tak - Tap time: 46ms
+739 Metro tak at time: 940952
+-
+740 Finger Tap at time: 941169
+740 Tak - Tap time: 34ms
+740 Metro tak at time: 941203
+-
+741 Finger Tap at time: 941423
+741 Tak - Tap time: 31ms
+741 Metro tak at time: 941454
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+741 Autosync Tap at time: 941669
+--
+742 Delayed tap happened at 941760
+742 Autosync Tap at time: 941919
+--
+743 Delayed tap happened at 942010
+743 Autosync Tap at time: 942203
+--
+744 Delayed tap happened at 942294
+744 Autosync Tap at time: 942475
+--
+745 Delayed tap happened at 942566
+745 Autosync Tap at time: 942734
+--
+746 Delayed tap happened at 942825
+746 Autosync Tap at time: 943024
+--
+747 Delayed tap happened at 943115
+747 Autosync Tap at time: 943312
+--
+748 Delayed tap happened at 943403
+748 Autosync Tap at time: 943587
+--
+749 Delayed tap happened at 943678
+749 Autosync Tap at time: 943875
+--
+750 Delayed tap happened at 943966
+750 Autosync Tap at time: 944132
+--
+751 Delayed tap happened at 944223
+751 Autosync Tap at time: 944400
+--
+752 Delayed tap happened at 944491
+752 Autosync Tap at time: 944679
+--
+753 Delayed tap happened at 944771
+753 Autosync Tap at time: 944950
+--
+754 Delayed tap happened at 945042
+754 Autosync Tap at time: 945219
+--
+755 Delayed tap happened at 945310
+755 Autosync Tap at time: 945492
+--
+756 Delayed tap happened at 945583
+756 Autosync Tap at time: 945811
+--
+757 Delayed tap happened at 945903
+757 Autosync Tap at time: 946114
+--
+758 Delayed tap happened at 946206
+758 Autosync Tap at time: 946434
+--
+
+------ Autosync Phase ended, Pause ------ 
+
+759 Delayed tap happened at 946525
+-
+760 Metro tak at time: 952244
+760Tap - Tak time: 320ms
+760 Finger Tap at time: 952564
+-
+761 Metro tak at time: 952912
+-
+762 Finger Tap at time: 953486
+762 Tak - Tap time: 93ms
+762 Metro tak at time: 953579
+-
+763 Finger Tap at time: 954104
+763 Tak - Tap time: 142ms
+763 Metro tak at time: 954246
+-
+764 Finger Tap at time: 954802
+764 Tak - Tap time: 111ms
+764 Metro tak at time: 954913
+-
+765 Finger Tap at time: 955464
+765 Tak - Tap time: 117ms
+765 Metro tak at time: 955581
+-
+766 Finger Tap at time: 956106
+766 Tak - Tap time: 142ms
+766 Metro tak at time: 956248
+-
+767 Finger Tap at time: 956778
+767 Tak - Tap time: 137ms
+767 Metro tak at time: 956915
+-
+768 Finger Tap at time: 957467
+768 Tak - Tap time: 115ms
+768 Metro tak at time: 957582
+-
+769 Finger Tap at time: 958111
+769 Tak - Tap time: 138ms
+769 Metro tak at time: 958249
+-
+770 Finger Tap at time: 958836
+770 Tak - Tap time: 80ms
+770 Metro tak at time: 958916
+-
+771 Finger Tap at time: 959500
+771 Tak - Tap time: 84ms
+771 Metro tak at time: 959584
+-
+772 Finger Tap at time: 960145
+772 Tak - Tap time: 106ms
+772 Metro tak at time: 960251
+-
+773 Finger Tap at time: 960757
+773 Tak - Tap time: 161ms
+773 Metro tak at time: 960918
+-
+774 Finger Tap at time: 961449
+774 Tak - Tap time: 136ms
+774 Metro tak at time: 961585
+-
+775 Finger Tap at time: 962095
+775 Tak - Tap time: 157ms
+775 Metro tak at time: 962252
+-
+776 Finger Tap at time: 962730
+776 Tak - Tap time: 189ms
+776 Metro tak at time: 962919
+-
+777 Finger Tap at time: 963393
+777 Tak - Tap time: 194ms
+777 Metro tak at time: 963587
+-
+778 Finger Tap at time: 964133
+778 Tak - Tap time: 121ms
+778 Metro tak at time: 964254
+-
+779 Finger Tap at time: 964796
+779 Tak - Tap time: 126ms
+779 Metro tak at time: 964922
+-
+780 Finger Tap at time: 965477
+780 Tak - Tap time: 112ms
+780 Metro tak at time: 965589
+-
+781 Finger Tap at time: 966148
+781 Tak - Tap time: 108ms
+781 Metro tak at time: 966256
+-
+782 Finger Tap at time: 966784
+782 Tak - Tap time: 139ms
+782 Metro tak at time: 966923
+-
+783 Finger Tap at time: 967447
+783 Tak - Tap time: 143ms
+783 Metro tak at time: 967590
+-
+784 Finger Tap at time: 968156
+784 Tak - Tap time: 102ms
+784 Metro tak at time: 968258
+-
+785 Finger Tap at time: 968793
+785 Tak - Tap time: 133ms
+785 Metro tak at time: 968926
+-
+786 Finger Tap at time: 969462
+786 Tak - Tap time: 132ms
+786 Metro tak at time: 969594
+-
+787 Finger Tap at time: 970067
+787 Tak - Tap time: 195ms
+787 Metro tak at time: 970262
+-
+788 Finger Tap at time: 970809
+788 Tak - Tap time: 121ms
+788 Metro tak at time: 970930
+-
+789 Finger Tap at time: 971385
+789 Tak - Tap time: 212ms
+789 Metro tak at time: 971597
+-
+790 Finger Tap at time: 972175
+790 Tak - Tap time: 89ms
+790 Metro tak at time: 972264
+-
+791 Finger Tap at time: 972818
+791 Tak - Tap time: 113ms
+791 Metro tak at time: 972931
+-
+792 Finger Tap at time: 973454
+792 Tak - Tap time: 145ms
+792 Metro tak at time: 973599
+-
+793 Finger Tap at time: 974107
+793 Tak - Tap time: 159ms
+793 Metro tak at time: 974266
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+793 Autosync Tap at time: 974711
+--
+794 Delayed tap happened at 974802
+794 Autosync Tap at time: 975423
+--
+795 Delayed tap happened at 975515
+795 Autosync Tap at time: 976055
+--
+796 Delayed tap happened at 976146
+796 Autosync Tap at time: 976716
+--
+797 Delayed tap happened at 976807
+797 Autosync Tap at time: 977352
+--
+798 Delayed tap happened at 977444
+798 Autosync Tap at time: 978006
+--
+799 Delayed tap happened at 978097
+799 Autosync Tap at time: 978629
+--
+800 Delayed tap happened at 978720
+800 Autosync Tap at time: 979266
+--
+801 Delayed tap happened at 979357
+801 Autosync Tap at time: 979918
+--
+802 Delayed tap happened at 980010
+802 Autosync Tap at time: 980586
+--
+803 Delayed tap happened at 980677
+803 Autosync Tap at time: 981263
+--
+804 Delayed tap happened at 981354
+804 Autosync Tap at time: 981923
+--
+805 Delayed tap happened at 982014
+805 Autosync Tap at time: 982651
+--
+806 Delayed tap happened at 982743
+806 Autosync Tap at time: 983245
+--
+807 Delayed tap happened at 983336
+807 Autosync Tap at time: 983907
+--
+808 Delayed tap happened at 983998
+808 Autosync Tap at time: 984577
+--
+809 Delayed tap happened at 984669
+809 Autosync Tap at time: 985241
+--
+810 Delayed tap happened at 985332
+810 Autosync Tap at time: 985852
+--
+811 Delayed tap happened at 985944
+811 Autosync Tap at time: 986572
+--
+812 Delayed tap happened at 986663
+812 Autosync Tap at time: 987178
+--
+813 Delayed tap happened at 987269
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+814 Metro tak at time: 993109
+-
+815 Metro tak at time: 993610
+-
+816 Finger Tap at time: 994064
+816 Tak - Tap time: 48ms
+816 Metro tak at time: 994112
+-
+817 Finger Tap at time: 994523
+817 Tak - Tap time: 90ms
+817 Metro tak at time: 994613
+-
+818 Finger Tap at time: 995005
+818 Tak - Tap time: 110ms
+818 Metro tak at time: 995115
+-
+819 Finger Tap at time: 995506
+819 Tak - Tap time: 111ms
+819 Metro tak at time: 995617
+-
+820 Finger Tap at time: 996032
+820 Tak - Tap time: 87ms
+820 Metro tak at time: 996119
+-
+821 Finger Tap at time: 996552
+821 Tak - Tap time: 69ms
+821 Metro tak at time: 996621
+-
+822 Finger Tap at time: 997044
+822 Tak - Tap time: 78ms
+822 Metro tak at time: 997122
+-
+823 Finger Tap at time: 997546
+823 Tak - Tap time: 77ms
+823 Metro tak at time: 997623
+-
+824 Finger Tap at time: 998055
+824 Tak - Tap time: 70ms
+824 Metro tak at time: 998125
+-
+825 Finger Tap at time: 998543
+825 Tak - Tap time: 83ms
+825 Metro tak at time: 998626
+-
+826 Finger Tap at time: 999068
+826 Tak - Tap time: 59ms
+826 Metro tak at time: 999127
+-
+827 Finger Tap at time: 999580
+827 Tak - Tap time: 48ms
+827 Metro tak at time: 999628
+-
+828 Finger Tap at time: 1.00004e+006
+828 Tak - Tap time: 91ms
+828 Metro tak at time: 1.00013e+006
+-
+829 Finger Tap at time: 1.00056e+006
+829 Tak - Tap time: 69ms
+829 Metro tak at time: 1.00063e+006
+-
+830 Finger Tap at time: 1.00104e+006
+830 Tak - Tap time: 96ms
+830 Metro tak at time: 1.00113e+006
+-
+831 Finger Tap at time: 1.00154e+006
+831 Tak - Tap time: 93ms
+831 Metro tak at time: 1.00164e+006
+-
+832 Finger Tap at time: 1.00205e+006
+832 Tak - Tap time: 88ms
+832 Metro tak at time: 1.00214e+006
+-
+833 Finger Tap at time: 1.00253e+006
+833 Tak - Tap time: 107ms
+833 Metro tak at time: 1.00264e+006
+-
+834 Finger Tap at time: 1.00306e+006
+834 Tak - Tap time: 84ms
+834 Metro tak at time: 1.00314e+006
+-
+835 Finger Tap at time: 1.00356e+006
+835 Tak - Tap time: 80ms
+835 Metro tak at time: 1.00364e+006
+-
+836 Finger Tap at time: 1.00408e+006
+836 Tak - Tap time: 63ms
+836 Metro tak at time: 1.00414e+006
+-
+837 Finger Tap at time: 1.00457e+006
+837 Tak - Tap time: 74ms
+837 Metro tak at time: 1.00464e+006
+-
+838 Finger Tap at time: 1.00506e+006
+838 Tak - Tap time: 88ms
+838 Metro tak at time: 1.00514e+006
+-
+839 Finger Tap at time: 1.00555e+006
+839 Tak - Tap time: 99ms
+839 Metro tak at time: 1.00565e+006
+-
+840 Finger Tap at time: 1.00601e+006
+840 Tak - Tap time: 141ms
+840 Metro tak at time: 1.00615e+006
+-
+841 Finger Tap at time: 1.00652e+006
+841 Tak - Tap time: 132ms
+841 Metro tak at time: 1.00665e+006
+-
+842 Finger Tap at time: 1.00703e+006
+842 Tak - Tap time: 120ms
+842 Metro tak at time: 1.00715e+006
+-
+843 Finger Tap at time: 1.00756e+006
+843 Tak - Tap time: 93ms
+843 Metro tak at time: 1.00765e+006
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+843 Autosync Tap at time: 1.0082e+006
+--
+844 Delayed tap happened at 1008289
+844 Autosync Tap at time: 1.00867e+006
+--
+845 Delayed tap happened at 1008758
+845 Autosync Tap at time: 1.00918e+006
+--
+846 Delayed tap happened at 1009270
+846 Autosync Tap at time: 1.00965e+006
+--
+847 Delayed tap happened at 1009738
+847 Autosync Tap at time: 1.01013e+006
+--
+848 Delayed tap happened at 1010220
+848 Autosync Tap at time: 1.01062e+006
+--
+849 Delayed tap happened at 1010714
+849 Autosync Tap at time: 1.01157e+006
+--
+850 Delayed tap happened at 1011660
+850 Autosync Tap at time: 1.01208e+006
+--
+851 Delayed tap happened at 1012171
+851 Autosync Tap at time: 1.01254e+006
+--
+852 Delayed tap happened at 1012634
+852 Autosync Tap at time: 1.01302e+006
+--
+853 Delayed tap happened at 1013107
+853 Autosync Tap at time: 1.0135e+006
+--
+854 Delayed tap happened at 1013592
+854 Autosync Tap at time: 1.01399e+006
+--
+855 Delayed tap happened at 1014084
+855 Autosync Tap at time: 1.0145e+006
+--
+856 Delayed tap happened at 1014595
+856 Autosync Tap at time: 1.01499e+006
+--
+857 Delayed tap happened at 1015076
+857 Autosync Tap at time: 1.01546e+006
+--
+858 Delayed tap happened at 1015547
+858 Autosync Tap at time: 1.01596e+006
+--
+859 Delayed tap happened at 1016050
+859 Autosync Tap at time: 1.01648e+006
+--
+860 Delayed tap happened at 1016570
+860 Autosync Tap at time: 1.01698e+006
+--
+861 Delayed tap happened at 1017068
+861 Autosync Tap at time: 1.01746e+006
+--
+862 Delayed tap happened at 1017551
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+863 Metro tak at time: 1.02478e+006
+863Tap - Tak time: 322ms
+863 Finger Tap at time: 1.0251e+006
+863Tap - Tak time: 969ms
+863 Finger Tap at time: 1.02575e+006
+-
+864 Metro tak at time: 1.02678e+006
+864Tap - Tak time: 162ms
+864 Finger Tap at time: 1.02694e+006
+-
+865 Metro tak at time: 1.02878e+006
+865Tap - Tak time: 160ms
+865 Finger Tap at time: 1.02894e+006
+-
+866 Metro tak at time: 1.03078e+006
+866Tap - Tak time: 130ms
+866 Finger Tap at time: 1.03091e+006
+-
+867 Finger Tap at time: 1.03271e+006
+867 Tak - Tap time: 78ms
+867 Metro tak at time: 1.03279e+006
+-
+868 Finger Tap at time: 1.03463e+006
+868 Tak - Tap time: 156ms
+868 Metro tak at time: 1.03479e+006
+-
+869 Finger Tap at time: 1.03657e+006
+869 Tak - Tap time: 216ms
+869 Metro tak at time: 1.03679e+006
+-
+870 Metro tak at time: 1.03879e+006
+870Tap - Tak time: 6ms
+870 Finger Tap at time: 1.0388e+006
+-
+871 Finger Tap at time: 1.0407e+006
+871 Tak - Tap time: 92ms
+871 Metro tak at time: 1.04079e+006
+-
+872 Finger Tap at time: 1.04259e+006
+872 Tak - Tap time: 203ms
+872 Metro tak at time: 1.04279e+006
+-
+873 Finger Tap at time: 1.04467e+006
+873 Tak - Tap time: 123ms
+873 Metro tak at time: 1.04479e+006
+-
+874 Finger Tap at time: 1.04655e+006
+874 Tak - Tap time: 249ms
+874 Metro tak at time: 1.0468e+006
+-
+875 Finger Tap at time: 1.0486e+006
+875 Tak - Tap time: 199ms
+875 Metro tak at time: 1.0488e+006
+-
+876 Finger Tap at time: 1.05073e+006
+876 Tak - Tap time: 65ms
+876 Metro tak at time: 1.0508e+006
+-
+877 Finger Tap at time: 1.05277e+006
+877 Tak - Tap time: 34ms
+877 Metro tak at time: 1.0528e+006
+-
+878 Finger Tap at time: 1.05467e+006
+878 Tak - Tap time: 136ms
+878 Metro tak at time: 1.0548e+006
+-
+879 Metro tak at time: 1.0568e+006
+-
+880 Finger Tap at time: 1.05862e+006
+880 Tak - Tap time: 188ms
+880 Metro tak at time: 1.0588e+006
+-
+881 Finger Tap at time: 1.06076e+006
+881 Tak - Tap time: 46ms
+881 Metro tak at time: 1.06081e+006
+-
+882 Metro tak at time: 1.06281e+006
+882Tap - Tak time: 59ms
+882 Finger Tap at time: 1.06287e+006
+-
+883 Finger Tap at time: 1.06477e+006
+883 Tak - Tap time: 35ms
+883 Metro tak at time: 1.06481e+006
+-
+884 Finger Tap at time: 1.06659e+006
+884 Tak - Tap time: 220ms
+884 Metro tak at time: 1.06681e+006
+-
+885 Metro tak at time: 1.06881e+006
+-
+886 Finger Tap at time: 1.07077e+006
+886 Tak - Tap time: 42ms
+886 Metro tak at time: 1.07081e+006
+-
+887 Finger Tap at time: 1.07277e+006
+887 Tak - Tap time: 43ms
+887 Metro tak at time: 1.07281e+006
+-
+888 Finger Tap at time: 1.07469e+006
+888 Tak - Tap time: 124ms
+888 Metro tak at time: 1.07481e+006
+-
+889 Metro tak at time: 1.07682e+006
+-
+890 Finger Tap at time: 1.07882e+006
+890 Tak - Tap time: 2ms
+890 Metro tak at time: 1.07882e+006
+-
+891 Finger Tap at time: 1.0808e+006
+891 Tak - Tap time: 22ms
+891 Metro tak at time: 1.08082e+006
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+891 Autosync Tap at time: 1.08257e+006
+--
+892 Delayed tap happened at 1082658
+892 Autosync Tap at time: 1.08501e+006
+--
+893 Delayed tap happened at 1085103
+893 Autosync Tap at time: 1.08702e+006
+--
+894 Delayed tap happened at 1087109
+894 Autosync Tap at time: 1.08924e+006
+--
+895 Delayed tap happened at 1089330
+895 Autosync Tap at time: 1.09181e+006
+--
+896 Delayed tap happened at 1091898
+896 Autosync Tap at time: 1.09399e+006
+--
+897 Delayed tap happened at 1094082
+897 Autosync Tap at time: 1.09614e+006
+--
+898 Delayed tap happened at 1096231
+898 Autosync Tap at time: 1.09825e+006
+--
+899 Delayed tap happened at 1098340
+899 Autosync Tap at time: 1.10073e+006
+--
+900 Delayed tap happened at 1100820
+900 Autosync Tap at time: 1.10331e+006
+--
+901 Delayed tap happened at 1103405
+901 Autosync Tap at time: 1.10568e+006
+--
+902 Delayed tap happened at 1105773
+902 Autosync Tap at time: 1.108e+006
+--
+903 Delayed tap happened at 1108095
+903 Autosync Tap at time: 1.11016e+006
+--
+904 Delayed tap happened at 1110254
+904 Autosync Tap at time: 1.1123e+006
+--
+905 Delayed tap happened at 1112390
+905 Autosync Tap at time: 1.11418e+006
+--
+906 Delayed tap happened at 1114273
+906 Autosync Tap at time: 1.11613e+006
+--
+907 Delayed tap happened at 1116222
+907 Autosync Tap at time: 1.11804e+006
+--
+908 Delayed tap happened at 1118129
+908 Autosync Tap at time: 1.12013e+006
+--
+909 Delayed tap happened at 1120224
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+910 Metro tak at time: 1.12684e+006
+-
+911 Metro tak at time: 1.12784e+006
+911Tap - Tak time: 268ms
+911 Finger Tap at time: 1.12811e+006
+-
+912 Metro tak at time: 1.12885e+006
+912Tap - Tak time: 81ms
+912 Finger Tap at time: 1.12893e+006
+-
+913 Metro tak at time: 1.12985e+006
+913Tap - Tak time: 6ms
+913 Finger Tap at time: 1.12985e+006
+-
+914 Finger Tap at time: 1.13077e+006
+914 Tak - Tap time: 75ms
+914 Metro tak at time: 1.13085e+006
+-
+915 Finger Tap at time: 1.13176e+006
+915 Tak - Tap time: 92ms
+915 Metro tak at time: 1.13185e+006
+-
+916 Finger Tap at time: 1.13277e+006
+916 Tak - Tap time: 85ms
+916 Metro tak at time: 1.13285e+006
+-
+917 Finger Tap at time: 1.13383e+006
+917 Tak - Tap time: 20ms
+917 Metro tak at time: 1.13385e+006
+-
+918 Finger Tap at time: 1.13482e+006
+918 Tak - Tap time: 33ms
+918 Metro tak at time: 1.13485e+006
+-
+919 Finger Tap at time: 1.13582e+006
+919 Tak - Tap time: 37ms
+919 Metro tak at time: 1.13585e+006
+-
+920 Finger Tap at time: 1.13682e+006
+920 Tak - Tap time: 40ms
+920 Metro tak at time: 1.13686e+006
+-
+921 Finger Tap at time: 1.13779e+006
+921 Tak - Tap time: 63ms
+921 Metro tak at time: 1.13786e+006
+-
+922 Finger Tap at time: 1.13877e+006
+922 Tak - Tap time: 93ms
+922 Metro tak at time: 1.13886e+006
+-
+923 Finger Tap at time: 1.13979e+006
+923 Tak - Tap time: 73ms
+923 Metro tak at time: 1.13986e+006
+-
+924 Finger Tap at time: 1.14081e+006
+924 Tak - Tap time: 49ms
+924 Metro tak at time: 1.14086e+006
+-
+925 Finger Tap at time: 1.14178e+006
+925 Tak - Tap time: 81ms
+925 Metro tak at time: 1.14186e+006
+-
+926 Finger Tap at time: 1.14281e+006
+926 Tak - Tap time: 52ms
+926 Metro tak at time: 1.14286e+006
+-
+927 Metro tak at time: 1.14386e+006
+-
+928 Finger Tap at time: 1.1448e+006
+928 Tak - Tap time: 66ms
+928 Metro tak at time: 1.14487e+006
+-
+929 Finger Tap at time: 1.14572e+006
+929 Tak - Tap time: 146ms
+929 Metro tak at time: 1.14587e+006
+-
+930 Finger Tap at time: 1.14673e+006
+930 Tak - Tap time: 136ms
+930 Metro tak at time: 1.14687e+006
+-
+931 Metro tak at time: 1.14787e+006
+-
+932 Metro tak at time: 1.14887e+006
+-
+933 Finger Tap at time: 1.14978e+006
+933 Tak - Tap time: 92ms
+933 Metro tak at time: 1.14987e+006
+-
+934 Metro tak at time: 1.15087e+006
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+934 Autosync Tap at time: 1.15286e+006
+--
+935 Delayed tap happened at 1152950
+935 Autosync Tap at time: 1.1539e+006
+--
+936 Delayed tap happened at 1153986
+936 Autosync Tap at time: 1.15496e+006
+--
+937 Delayed tap happened at 1155052
+937 Autosync Tap at time: 1.15599e+006
+--
+938 Delayed tap happened at 1156083
+938 Autosync Tap at time: 1.15699e+006
+--
+939 Delayed tap happened at 1157079
+939 Autosync Tap at time: 1.15808e+006
+--
+940 Delayed tap happened at 1158174
+940 Autosync Tap at time: 1.15954e+006
+--
+941 Delayed tap happened at 1159626
+941 Autosync Tap at time: 1.16066e+006
+--
+942 Delayed tap happened at 1160753
+942 Autosync Tap at time: 1.16193e+006
+--
+943 Delayed tap happened at 1162020
+943 Autosync Tap at time: 1.16296e+006
+--
+944 Delayed tap happened at 1163051
+944 Autosync Tap at time: 1.16401e+006
+--
+945 Delayed tap happened at 1164106
+945 Autosync Tap at time: 1.16514e+006
+--
+946 Delayed tap happened at 1165226
+946 Autosync Tap at time: 1.16664e+006
+--
+947 Delayed tap happened at 1166732
+947 Autosync Tap at time: 1.16771e+006
+--
+948 Delayed tap happened at 1167800
+948 Autosync Tap at time: 1.1688e+006
+--
+949 Delayed tap happened at 1168892
+949 Autosync Tap at time: 1.16992e+006
+--
+950 Delayed tap happened at 1170014
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+951 Metro tak at time: 1.1761e+006
+-
+952 Metro tak at time: 1.1763e+006
+-
+953 Metro tak at time: 1.1765e+006
+953Tap - Tak time: 1ms
+953 Finger Tap at time: 1.1765e+006
+-
+954 Metro tak at time: 1.1767e+006
+954Tap - Tak time: 17ms
+954 Finger Tap at time: 1.17672e+006
+-
+955 Metro tak at time: 1.1769e+006
+955Tap - Tak time: 8ms
+955 Finger Tap at time: 1.17691e+006
+-
+956 Metro tak at time: 1.1771e+006
+956Tap - Tak time: 21ms
+956 Finger Tap at time: 1.17712e+006
+-
+957 Metro tak at time: 1.1773e+006
+957Tap - Tak time: 31ms
+957 Finger Tap at time: 1.17734e+006
+-
+958 Metro tak at time: 1.17751e+006
+958Tap - Tak time: 36ms
+958 Finger Tap at time: 1.17754e+006
+-
+959 Metro tak at time: 1.17771e+006
+959Tap - Tak time: 31ms
+959 Finger Tap at time: 1.17774e+006
+-
+960 Metro tak at time: 1.17791e+006
+960Tap - Tak time: 26ms
+960 Finger Tap at time: 1.17793e+006
+-
+961 Metro tak at time: 1.17811e+006
+961Tap - Tak time: 31ms
+961 Finger Tap at time: 1.17814e+006
+-
+962 Metro tak at time: 1.17831e+006
+962Tap - Tak time: 23ms
+962 Finger Tap at time: 1.17833e+006
+-
+963 Metro tak at time: 1.17851e+006
+963Tap - Tak time: 33ms
+963 Finger Tap at time: 1.17854e+006
+-
+964 Metro tak at time: 1.17871e+006
+964Tap - Tak time: 24ms
+964 Finger Tap at time: 1.17874e+006
+-
+965 Metro tak at time: 1.17891e+006
+965Tap - Tak time: 15ms
+965 Finger Tap at time: 1.17893e+006
+-
+966 Metro tak at time: 1.17911e+006
+966Tap - Tak time: 8ms
+966 Finger Tap at time: 1.17912e+006
+-
+967 Metro tak at time: 1.17932e+006
+967Tap - Tak time: 2ms
+967 Finger Tap at time: 1.17932e+006
+-
+968 Metro tak at time: 1.17952e+006
+968Tap - Tak time: 0ms
+968 Finger Tap at time: 1.17952e+006
+-
+969 Finger Tap at time: 1.17972e+006
+969 Tak - Tap time: 2ms
+969 Metro tak at time: 1.17972e+006
+-
+970 Finger Tap at time: 1.17991e+006
+970 Tak - Tap time: 12ms
+970 Metro tak at time: 1.17992e+006
+-
+971 Finger Tap at time: 1.1801e+006
+971 Tak - Tap time: 20ms
+971 Metro tak at time: 1.18012e+006
+-
+972 Finger Tap at time: 1.1803e+006
+972 Tak - Tap time: 25ms
+972 Metro tak at time: 1.18032e+006
+-
+973 Finger Tap at time: 1.1805e+006
+973 Tak - Tap time: 24ms
+973 Metro tak at time: 1.18052e+006
+-
+974 Finger Tap at time: 1.1807e+006
+974 Tak - Tap time: 25ms
+974 Metro tak at time: 1.18072e+006
+-
+975 Finger Tap at time: 1.1809e+006
+975 Tak - Tap time: 28ms
+975 Metro tak at time: 1.18093e+006
+-
+976 Finger Tap at time: 1.1811e+006
+976 Tak - Tap time: 31ms
+976 Metro tak at time: 1.18113e+006
+-
+977 Finger Tap at time: 1.1813e+006
+977 Tak - Tap time: 25ms
+977 Metro tak at time: 1.18133e+006
+-
+978 Finger Tap at time: 1.1815e+006
+978 Tak - Tap time: 29ms
+978 Metro tak at time: 1.18153e+006
+-
+979 Finger Tap at time: 1.1817e+006
+979 Tak - Tap time: 27ms
+979 Metro tak at time: 1.18173e+006
+-
+980 Finger Tap at time: 1.18191e+006
+980 Tak - Tap time: 20ms
+980 Metro tak at time: 1.18193e+006
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+980 Autosync Tap at time: 1.18211e+006
+--
+981 Delayed tap happened at 1182198
+981 Autosync Tap at time: 1.1823e+006
+--
+982 Delayed tap happened at 1182389
+982 Autosync Tap at time: 1.18251e+006
+--
+983 Delayed tap happened at 1182597
+983 Autosync Tap at time: 1.18272e+006
+--
+984 Delayed tap happened at 1182810
+984 Autosync Tap at time: 1.18293e+006
+--
+985 Delayed tap happened at 1183022
+985 Autosync Tap at time: 1.18315e+006
+--
+986 Delayed tap happened at 1183240
+986 Autosync Tap at time: 1.18337e+006
+--
+987 Delayed tap happened at 1183456
+987 Autosync Tap at time: 1.18359e+006
+--
+988 Delayed tap happened at 1183676
+988 Autosync Tap at time: 1.1838e+006
+--
+989 Delayed tap happened at 1183895
+989 Autosync Tap at time: 1.18403e+006
+--
+990 Delayed tap happened at 1184125
+990 Autosync Tap at time: 1.18426e+006
+--
+991 Delayed tap happened at 1184349
+991 Autosync Tap at time: 1.18449e+006
+--
+992 Delayed tap happened at 1184580
+992 Autosync Tap at time: 1.18473e+006
+--
+993 Delayed tap happened at 1184816
+993 Autosync Tap at time: 1.18496e+006
+--
+994 Delayed tap happened at 1185048
+994 Autosync Tap at time: 1.18519e+006
+--
+995 Delayed tap happened at 1185278
+995 Autosync Tap at time: 1.18546e+006
+--
+996 Delayed tap happened at 1185555
+996 Autosync Tap at time: 1.18569e+006
+--
+997 Delayed tap happened at 1185782
+997 Autosync Tap at time: 1.18594e+006
+--
+
+------ Autosync Phase ended, Pause ------ 
+
+998 Delayed tap happened at 1186031
+-
+999 Metro tak at time: 1.2014e+006
+-
+1000 Metro tak at time: 1.20174e+006
+-
+1001 Finger Tap at time: 1.20204e+006
+1001 Tak - Tap time: 28ms
+1001 Metro tak at time: 1.20207e+006
+-
+1002 Finger Tap at time: 1.20239e+006
+1002 Tak - Tap time: 20ms
+1002 Metro tak at time: 1.20241e+006
+-
+1003 Finger Tap at time: 1.20266e+006
+1003 Tak - Tap time: 75ms
+1003 Metro tak at time: 1.20274e+006
+-
+1004 Finger Tap at time: 1.20302e+006
+1004 Tak - Tap time: 53ms
+1004 Metro tak at time: 1.20307e+006
+-
+1005 Finger Tap at time: 1.20336e+006
+1005 Tak - Tap time: 51ms
+1005 Metro tak at time: 1.20341e+006
+-
+1006 Finger Tap at time: 1.20368e+006
+1006 Tak - Tap time: 60ms
+1006 Metro tak at time: 1.20374e+006
+-
+1007 Finger Tap at time: 1.20403e+006
+1007 Tak - Tap time: 43ms
+1007 Metro tak at time: 1.20408e+006
+-
+1008 Finger Tap at time: 1.20438e+006
+1008 Tak - Tap time: 36ms
+1008 Metro tak at time: 1.20441e+006
+-
+1009 Finger Tap at time: 1.20473e+006
+1009 Tak - Tap time: 17ms
+1009 Metro tak at time: 1.20475e+006
+-
+1010 Finger Tap at time: 1.20506e+006
+1010 Tak - Tap time: 18ms
+1010 Metro tak at time: 1.20508e+006
+-
+1011 Finger Tap at time: 1.20539e+006
+1011 Tak - Tap time: 27ms
+1011 Metro tak at time: 1.20541e+006
+-
+1012 Finger Tap at time: 1.20572e+006
+1012 Tak - Tap time: 29ms
+1012 Metro tak at time: 1.20575e+006
+-
+1013 Finger Tap at time: 1.20606e+006
+1013 Tak - Tap time: 21ms
+1013 Metro tak at time: 1.20608e+006
+-
+1014 Finger Tap at time: 1.20639e+006
+1014 Tak - Tap time: 32ms
+1014 Metro tak at time: 1.20642e+006
+-
+1015 Finger Tap at time: 1.20669e+006
+1015 Tak - Tap time: 62ms
+1015 Metro tak at time: 1.20675e+006
+-
+1016 Finger Tap at time: 1.20702e+006
+1016 Tak - Tap time: 70ms
+1016 Metro tak at time: 1.20709e+006
+-
+1017 Finger Tap at time: 1.20737e+006
+1017 Tak - Tap time: 54ms
+1017 Metro tak at time: 1.20742e+006
+-
+1018 Metro tak at time: 1.20776e+006
+-
+1019 Finger Tap at time: 1.20806e+006
+1019 Tak - Tap time: 27ms
+1019 Metro tak at time: 1.20809e+006
+-
+1020 Finger Tap at time: 1.20837e+006
+1020 Tak - Tap time: 51ms
+1020 Metro tak at time: 1.20842e+006
+-
+1021 Finger Tap at time: 1.20871e+006
+1021 Tak - Tap time: 49ms
+1021 Metro tak at time: 1.20876e+006
+-
+1022 Finger Tap at time: 1.20905e+006
+1022 Tak - Tap time: 38ms
+1022 Metro tak at time: 1.20909e+006
+-
+1023 Finger Tap at time: 1.20937e+006
+1023 Tak - Tap time: 52ms
+1023 Metro tak at time: 1.20943e+006
+-
+1024 Finger Tap at time: 1.2097e+006
+1024 Tak - Tap time: 56ms
+1024 Metro tak at time: 1.20976e+006
+-
+1025 Finger Tap at time: 1.21005e+006
+1025 Tak - Tap time: 49ms
+1025 Metro tak at time: 1.21009e+006
+-
+1026 Finger Tap at time: 1.21038e+006
+1026 Tak - Tap time: 52ms
+1026 Metro tak at time: 1.21043e+006
+-
+1027 Finger Tap at time: 1.2107e+006
+1027 Tak - Tap time: 67ms
+1027 Metro tak at time: 1.21076e+006
+-
+1028 Finger Tap at time: 1.21107e+006
+1028 Tak - Tap time: 23ms
+1028 Metro tak at time: 1.2111e+006
+-
+1029 Finger Tap at time: 1.2114e+006
+1029 Tak - Tap time: 30ms
+1029 Metro tak at time: 1.21143e+006
+-
+1030 Finger Tap at time: 1.21174e+006
+1030 Tak - Tap time: 27ms
+1030 Metro tak at time: 1.21177e+006
+-
+1031 Finger Tap at time: 1.21206e+006
+1031 Tak - Tap time: 46ms
+1031 Metro tak at time: 1.2121e+006
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+1031 Autosync Tap at time: 1.21237e+006
+--
+1032 Delayed tap happened at 1212434
+1032 Autosync Tap at time: 1.21272e+006
+--
+1033 Delayed tap happened at 1212779
+1033 Autosync Tap at time: 1.21307e+006
+--
+1034 Delayed tap happened at 1213127
+1034 Autosync Tap at time: 1.21338e+006
+--
+1035 Delayed tap happened at 1213442
+1035 Autosync Tap at time: 1.21373e+006
+--
+1036 Delayed tap happened at 1213792
+1036 Autosync Tap at time: 1.21409e+006
+--
+1037 Delayed tap happened at 1214154
+1037 Autosync Tap at time: 1.21442e+006
+--
+1038 Delayed tap happened at 1214484
+1038 Autosync Tap at time: 1.21476e+006
+--
+1039 Delayed tap happened at 1214821
+1039 Autosync Tap at time: 1.21509e+006
+--
+1040 Delayed tap happened at 1215150
+1040 Autosync Tap at time: 1.21544e+006
+--
+1041 Delayed tap happened at 1215497
+1041 Autosync Tap at time: 1.21577e+006
+--
+1042 Delayed tap happened at 1215828
+1042 Autosync Tap at time: 1.2161e+006
+--
+1043 Delayed tap happened at 1216164
+1043 Autosync Tap at time: 1.21643e+006
+--
+1044 Delayed tap happened at 1216493
+1044 Autosync Tap at time: 1.21678e+006
+--
+1045 Delayed tap happened at 1216845
+1045 Autosync Tap at time: 1.21713e+006
+--
+1046 Delayed tap happened at 1217196
+1046 Autosync Tap at time: 1.21745e+006
+--
+1047 Delayed tap happened at 1217515
+1047 Autosync Tap at time: 1.21782e+006
+--
+1048 Delayed tap happened at 1217884
+1048 Autosync Tap at time: 1.21815e+006
+--
+1049 Delayed tap happened at 1218215
+1049 Autosync Tap at time: 1.21851e+006
+--
+1050 Delayed tap happened at 1218573
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+1051 Metro tak at time: 1.22578e+006
+-
+1052 Metro tak at time: 1.22778e+006
+1052Tap - Tak time: 155ms
+1052 Finger Tap at time: 1.22794e+006
+-
+1053 Metro tak at time: 1.22979e+006
+1053Tap - Tak time: 26ms
+1053 Finger Tap at time: 1.22981e+006
+-
+1054 Metro tak at time: 1.23179e+006
+1054Tap - Tak time: 76ms
+1054 Finger Tap at time: 1.23186e+006
+-
+1055 Finger Tap at time: 1.23364e+006
+1055 Tak - Tap time: 151ms
+1055 Metro tak at time: 1.23379e+006
+-
+1056 Finger Tap at time: 1.23567e+006
+1056 Tak - Tap time: 125ms
+1056 Metro tak at time: 1.23579e+006
+-
+1057 Finger Tap at time: 1.23771e+006
+1057 Tak - Tap time: 79ms
+1057 Metro tak at time: 1.23779e+006
+-
+1058 Finger Tap at time: 1.23974e+006
+1058 Tak - Tap time: 54ms
+1058 Metro tak at time: 1.23979e+006
+-
+1059 Finger Tap at time: 1.24157e+006
+1059 Tak - Tap time: 228ms
+1059 Metro tak at time: 1.2418e+006
+-
+1060 Finger Tap at time: 1.24355e+006
+1060 Tak - Tap time: 251ms
+1060 Metro tak at time: 1.2438e+006
+-
+1061 Metro tak at time: 1.2458e+006
+-
+1062 Finger Tap at time: 1.24775e+006
+1062 Tak - Tap time: 56ms
+1062 Metro tak at time: 1.2478e+006
+-
+1063 Finger Tap at time: 1.24967e+006
+1063 Tak - Tap time: 133ms
+1063 Metro tak at time: 1.2498e+006
+-
+1064 Metro tak at time: 1.2518e+006
+-
+1065 Finger Tap at time: 1.2538e+006
+1065 Tak - Tap time: 2ms
+1065 Metro tak at time: 1.2538e+006
+-
+1066 Finger Tap at time: 1.25561e+006
+1066 Tak - Tap time: 197ms
+1066 Metro tak at time: 1.25581e+006
+-
+1067 Finger Tap at time: 1.25754e+006
+1067 Tak - Tap time: 269ms
+1067 Metro tak at time: 1.25781e+006
+-
+1068 Finger Tap at time: 1.25957e+006
+1068 Tak - Tap time: 243ms
+1068 Metro tak at time: 1.25981e+006
+-
+1069 Finger Tap at time: 1.26153e+006
+1069 Tak - Tap time: 284ms
+1069 Metro tak at time: 1.26181e+006
+-
+1070 Metro tak at time: 1.26381e+006
+-
+1071 Metro tak at time: 1.26581e+006
+1071Tap - Tak time: 45ms
+1071 Finger Tap at time: 1.26586e+006
+-
+1072 Finger Tap at time: 1.26758e+006
+1072 Tak - Tap time: 231ms
+1072 Metro tak at time: 1.26781e+006
+-
+1073 Finger Tap at time: 1.26971e+006
+1073 Tak - Tap time: 109ms
+1073 Metro tak at time: 1.26982e+006
+-
+1074 Metro tak at time: 1.27182e+006
+1074Tap - Tak time: 159ms
+1074 Finger Tap at time: 1.27198e+006
+-
+1075 Finger Tap at time: 1.27366e+006
+1075 Tak - Tap time: 162ms
+1075 Metro tak at time: 1.27382e+006
+-
+1076 Finger Tap at time: 1.27574e+006
+1076 Tak - Tap time: 84ms
+1076 Metro tak at time: 1.27582e+006
+-
+1077 Metro tak at time: 1.27782e+006
+-
+1078 Finger Tap at time: 1.27981e+006
+1078 Tak - Tap time: 13ms
+1078 Metro tak at time: 1.27982e+006
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+1078 Autosync Tap at time: 1.28167e+006
+--
+1079 Delayed tap happened at 1281731
+1079 Autosync Tap at time: 1.28353e+006
+--
+1080 Delayed tap happened at 1283587
+1080 Autosync Tap at time: 1.28733e+006
+--
+1081 Delayed tap happened at 1287394
+1081 Autosync Tap at time: 1.28915e+006
+--
+1082 Delayed tap happened at 1289213
+1082 Autosync Tap at time: 1.29088e+006
+--
+1083 Delayed tap happened at 1290939
+1083 Autosync Tap at time: 1.29298e+006
+--
+1084 Delayed tap happened at 1293041
+1084 Autosync Tap at time: 1.29476e+006
+--
+1085 Delayed tap happened at 1294824
+1085 Autosync Tap at time: 1.29656e+006
+--
+1086 Delayed tap happened at 1296625
+1086 Autosync Tap at time: 1.29835e+006
+--
+1087 Delayed tap happened at 1298411
+1087 Autosync Tap at time: 1.30005e+006
+--
+1088 Delayed tap happened at 1300114
+1088 Autosync Tap at time: 1.30182e+006
+--
+1089 Delayed tap happened at 1301885
+1089 Autosync Tap at time: 1.30363e+006
+--
+1090 Delayed tap happened at 1303696
+1090 Autosync Tap at time: 1.30536e+006
+--
+1091 Delayed tap happened at 1305425
+1091 Autosync Tap at time: 1.30728e+006
+--
+1092 Delayed tap happened at 1307345
+1092 Autosync Tap at time: 1.30921e+006
+--
+1093 Delayed tap happened at 1309267
+1093 Autosync Tap at time: 1.31121e+006
+--
+1094 Delayed tap happened at 1311267
+1094 Autosync Tap at time: 1.3132e+006
+--
+1095 Delayed tap happened at 1313264
+1095 Autosync Tap at time: 1.3152e+006
+--
+1096 Delayed tap happened at 1315258
+1096 Autosync Tap at time: 1.31714e+006
+--
+1097 Delayed tap happened at 1317204
+1097 Autosync Tap at time: 1.31913e+006
+--
+1098 Delayed tap happened at 1319190
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+1099 Metro tak at time: 1.3251e+006
+-
+1100 Metro tak at time: 1.32535e+006
+-
+1101 Metro tak at time: 1.3256e+006
+-
+1102 Finger Tap at time: 1.32584e+006
+1102 Tak - Tap time: 13ms
+1102 Metro tak at time: 1.32585e+006
+-
+1103 Finger Tap at time: 1.32609e+006
+1103 Tak - Tap time: 12ms
+1103 Metro tak at time: 1.3261e+006
+-
+1104 Metro tak at time: 1.32635e+006
+1104Tap - Tak time: 2ms
+1104 Finger Tap at time: 1.32635e+006
+-
+1105 Finger Tap at time: 1.32659e+006
+1105 Tak - Tap time: 7ms
+1105 Metro tak at time: 1.3266e+006
+-
+1106 Finger Tap at time: 1.32684e+006
+1106 Tak - Tap time: 16ms
+1106 Metro tak at time: 1.32685e+006
+-
+1107 Finger Tap at time: 1.32708e+006
+1107 Tak - Tap time: 27ms
+1107 Metro tak at time: 1.3271e+006
+-
+1108 Finger Tap at time: 1.32731e+006
+1108 Tak - Tap time: 45ms
+1108 Metro tak at time: 1.32736e+006
+-
+1109 Finger Tap at time: 1.32755e+006
+1109 Tak - Tap time: 56ms
+1109 Metro tak at time: 1.32761e+006
+-
+1110 Finger Tap at time: 1.32782e+006
+1110 Tak - Tap time: 39ms
+1110 Metro tak at time: 1.32786e+006
+-
+1111 Finger Tap at time: 1.32807e+006
+1111 Tak - Tap time: 41ms
+1111 Metro tak at time: 1.32811e+006
+-
+1112 Finger Tap at time: 1.32833e+006
+1112 Tak - Tap time: 35ms
+1112 Metro tak at time: 1.32836e+006
+-
+1113 Finger Tap at time: 1.32857e+006
+1113 Tak - Tap time: 42ms
+1113 Metro tak at time: 1.32861e+006
+-
+1114 Finger Tap at time: 1.32883e+006
+1114 Tak - Tap time: 33ms
+1114 Metro tak at time: 1.32886e+006
+-
+1115 Finger Tap at time: 1.32908e+006
+1115 Tak - Tap time: 34ms
+1115 Metro tak at time: 1.32911e+006
+-
+1116 Finger Tap at time: 1.32934e+006
+1116 Tak - Tap time: 30ms
+1116 Metro tak at time: 1.32937e+006
+-
+1117 Finger Tap at time: 1.32957e+006
+1117 Tak - Tap time: 44ms
+1117 Metro tak at time: 1.32962e+006
+-
+1118 Finger Tap at time: 1.32982e+006
+1118 Tak - Tap time: 44ms
+1118 Metro tak at time: 1.32987e+006
+-
+1119 Finger Tap at time: 1.3301e+006
+1119 Tak - Tap time: 20ms
+1119 Metro tak at time: 1.33012e+006
+-
+1120 Finger Tap at time: 1.33032e+006
+1120 Tak - Tap time: 50ms
+1120 Metro tak at time: 1.33037e+006
+-
+1121 Finger Tap at time: 1.33058e+006
+1121 Tak - Tap time: 37ms
+1121 Metro tak at time: 1.33062e+006
+-
+1122 Finger Tap at time: 1.33085e+006
+1122 Tak - Tap time: 19ms
+1122 Metro tak at time: 1.33087e+006
+-
+1123 Finger Tap at time: 1.3311e+006
+1123 Tak - Tap time: 27ms
+1123 Metro tak at time: 1.33112e+006
+-
+1124 Finger Tap at time: 1.33134e+006
+1124 Tak - Tap time: 37ms
+1124 Metro tak at time: 1.33138e+006
+-
+1125 Finger Tap at time: 1.3316e+006
+1125 Tak - Tap time: 31ms
+1125 Metro tak at time: 1.33163e+006
+-
+1126 Finger Tap at time: 1.33186e+006
+1126 Tak - Tap time: 23ms
+1126 Metro tak at time: 1.33188e+006
+-
+1127 Finger Tap at time: 1.33209e+006
+1127 Tak - Tap time: 37ms
+1127 Metro tak at time: 1.33213e+006
+-
+1128 Finger Tap at time: 1.33235e+006
+1128 Tak - Tap time: 28ms
+1128 Metro tak at time: 1.33238e+006
+-
+1129 Finger Tap at time: 1.33259e+006
+1129 Tak - Tap time: 41ms
+1129 Metro tak at time: 1.33263e+006
+-
+1130 Finger Tap at time: 1.33283e+006
+1130 Tak - Tap time: 57ms
+1130 Metro tak at time: 1.33288e+006
+-
+1131 Finger Tap at time: 1.33308e+006
+1131 Tak - Tap time: 56ms
+1131 Metro tak at time: 1.33313e+006
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+1131 Autosync Tap at time: 1.33336e+006
+--
+1132 Delayed tap happened at 1333420
+1132 Autosync Tap at time: 1.33361e+006
+--
+1133 Delayed tap happened at 1333674
+1133 Autosync Tap at time: 1.33388e+006
+--
+1134 Delayed tap happened at 1333940
+1134 Autosync Tap at time: 1.33414e+006
+--
+1135 Delayed tap happened at 1334204
+1135 Autosync Tap at time: 1.33443e+006
+--
+1136 Delayed tap happened at 1334492
+1136 Autosync Tap at time: 1.33467e+006
+--
+1137 Delayed tap happened at 1334734
+1137 Autosync Tap at time: 1.33499e+006
+--
+1138 Delayed tap happened at 1335052
+1138 Autosync Tap at time: 1.33528e+006
+--
+1139 Delayed tap happened at 1335340
+1139 Autosync Tap at time: 1.33558e+006
+--
+1140 Delayed tap happened at 1335642
+1140 Autosync Tap at time: 1.33587e+006
+--
+1141 Delayed tap happened at 1335928
+1141 Autosync Tap at time: 1.33613e+006
+--
+1142 Delayed tap happened at 1336195
+1142 Autosync Tap at time: 1.33646e+006
+--
+1143 Delayed tap happened at 1336521
+1143 Autosync Tap at time: 1.33669e+006
+--
+1144 Delayed tap happened at 1336755
+1144 Autosync Tap at time: 1.33695e+006
+--
+1145 Delayed tap happened at 1337013
+1145 Autosync Tap at time: 1.33724e+006
+--
+1146 Delayed tap happened at 1337305
+1146 Autosync Tap at time: 1.33814e+006
+--
+1147 Delayed tap happened at 1338197
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+1148 Metro tak at time: 1.34426e+006
+-
+1149 Metro tak at time: 1.34526e+006
+1149Tap - Tak time: 147ms
+1149 Finger Tap at time: 1.34541e+006
+-
+1150 Finger Tap at time: 1.34625e+006
+1150 Tak - Tap time: 12ms
+1150 Metro tak at time: 1.34626e+006
+-
+1151 Finger Tap at time: 1.34714e+006
+1151 Tak - Tap time: 124ms
+1151 Metro tak at time: 1.34726e+006
+-
+1152 Finger Tap at time: 1.34816e+006
+1152 Tak - Tap time: 105ms
+1152 Metro tak at time: 1.34826e+006
+-
+1153 Finger Tap at time: 1.34919e+006
+1153 Tak - Tap time: 73ms
+1153 Metro tak at time: 1.34926e+006
+-
+1154 Finger Tap at time: 1.35017e+006
+1154 Tak - Tap time: 98ms
+1154 Metro tak at time: 1.35027e+006
+-
+1155 Finger Tap at time: 1.3511e+006
+1155 Tak - Tap time: 171ms
+1155 Metro tak at time: 1.35127e+006
+-
+1156 Finger Tap at time: 1.35223e+006
+1156 Tak - Tap time: 36ms
+1156 Metro tak at time: 1.35227e+006
+-
+1157 Finger Tap at time: 1.35321e+006
+1157 Tak - Tap time: 65ms
+1157 Metro tak at time: 1.35327e+006
+-
+1158 Finger Tap at time: 1.35423e+006
+1158 Tak - Tap time: 41ms
+1158 Metro tak at time: 1.35427e+006
+-
+1159 Finger Tap at time: 1.35518e+006
+1159 Tak - Tap time: 93ms
+1159 Metro tak at time: 1.35527e+006
+-
+1160 Finger Tap at time: 1.35615e+006
+1160 Tak - Tap time: 121ms
+1160 Metro tak at time: 1.35628e+006
+-
+1161 Finger Tap at time: 1.35718e+006
+1161 Tak - Tap time: 94ms
+1161 Metro tak at time: 1.35728e+006
+-
+1162 Finger Tap at time: 1.35819e+006
+1162 Tak - Tap time: 88ms
+1162 Metro tak at time: 1.35828e+006
+-
+1163 Finger Tap at time: 1.35918e+006
+1163 Tak - Tap time: 94ms
+1163 Metro tak at time: 1.35928e+006
+-
+1164 Finger Tap at time: 1.36022e+006
+1164 Tak - Tap time: 63ms
+1164 Metro tak at time: 1.36028e+006
+-
+1165 Finger Tap at time: 1.36126e+006
+1165 Tak - Tap time: 25ms
+1165 Metro tak at time: 1.36128e+006
+-
+1166 Finger Tap at time: 1.36228e+006
+1166 Tak - Tap time: 6ms
+1166 Metro tak at time: 1.36228e+006
+-
+1167 Finger Tap at time: 1.36323e+006
+1167 Tak - Tap time: 55ms
+1167 Metro tak at time: 1.36328e+006
+-
+1168 Finger Tap at time: 1.36425e+006
+1168 Tak - Tap time: 31ms
+1168 Metro tak at time: 1.36428e+006
+-
+1169 Finger Tap at time: 1.36524e+006
+1169 Tak - Tap time: 48ms
+1169 Metro tak at time: 1.36528e+006
+-
+1170 Finger Tap at time: 1.36622e+006
+1170 Tak - Tap time: 69ms
+1170 Metro tak at time: 1.36629e+006
+-
+1171 Finger Tap at time: 1.36723e+006
+1171 Tak - Tap time: 61ms
+1171 Metro tak at time: 1.36729e+006
+-
+1172 Finger Tap at time: 1.3682e+006
+1172 Tak - Tap time: 89ms
+1172 Metro tak at time: 1.36829e+006
+-
+1173 Finger Tap at time: 1.36923e+006
+1173 Tak - Tap time: 57ms
+1173 Metro tak at time: 1.36929e+006
+-
+1174 Finger Tap at time: 1.37022e+006
+1174 Tak - Tap time: 68ms
+1174 Metro tak at time: 1.37029e+006
+-
+1175 Finger Tap at time: 1.37123e+006
+1175 Tak - Tap time: 68ms
+1175 Metro tak at time: 1.37129e+006
+-
+1176 Finger Tap at time: 1.37222e+006
+1176 Tak - Tap time: 77ms
+1176 Metro tak at time: 1.37229e+006
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+1176 Autosync Tap at time: 1.37327e+006
+--
+1177 Delayed tap happened at 1373331
+1177 Autosync Tap at time: 1.37428e+006
+--
+1178 Delayed tap happened at 1374345
+1178 Autosync Tap at time: 1.37531e+006
+--
+1179 Delayed tap happened at 1375370
+1179 Autosync Tap at time: 1.37737e+006
+--
+1180 Delayed tap happened at 1377427
+1180 Autosync Tap at time: 1.37856e+006
+--
+1181 Delayed tap happened at 1378625
+1181 Autosync Tap at time: 1.37968e+006
+--
+1182 Delayed tap happened at 1379745
+1182 Autosync Tap at time: 1.38107e+006
+--
+1183 Delayed tap happened at 1381135
+1183 Autosync Tap at time: 1.38211e+006
+--
+1184 Delayed tap happened at 1382167
+1184 Autosync Tap at time: 1.38312e+006
+--
+1185 Delayed tap happened at 1383185
+1185 Autosync Tap at time: 1.38442e+006
+--
+1186 Delayed tap happened at 1384483
+1186 Autosync Tap at time: 1.38545e+006
+--
+1187 Delayed tap happened at 1385508
+1187 Autosync Tap at time: 1.3865e+006
+--
+1188 Delayed tap happened at 1386561
+1188 Autosync Tap at time: 1.38751e+006
+--
+1189 Delayed tap happened at 1387575
+1189 Autosync Tap at time: 1.38852e+006
+--
+1190 Delayed tap happened at 1388585
+1190 Autosync Tap at time: 1.38959e+006
+--
+1191 Delayed tap happened at 1389649
+1191 Autosync Tap at time: 1.39063e+006
+--
+1192 Delayed tap happened at 1390690
+1192 Autosync Tap at time: 1.39157e+006
+--
+1193 Delayed tap happened at 1391632
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+1194 Metro tak at time: 1.39752e+006
+-
+1195 Metro tak at time: 1.39772e+006
+-
+1196 Finger Tap at time: 1.39791e+006
+1196 Tak - Tap time: 6ms
+1196 Metro tak at time: 1.39792e+006
+-
+1197 Metro tak at time: 1.39812e+006
+1197Tap - Tak time: 5ms
+1197 Finger Tap at time: 1.39813e+006
+-
+1198 Metro tak at time: 1.39832e+006
+1198Tap - Tak time: 29ms
+1198 Finger Tap at time: 1.39835e+006
+-
+1199 Metro tak at time: 1.39852e+006
+1199Tap - Tak time: 34ms
+1199 Finger Tap at time: 1.39856e+006
+-
+1200 Metro tak at time: 1.39872e+006
+1200Tap - Tak time: 33ms
+1200 Finger Tap at time: 1.39876e+006
+-
+1201 Metro tak at time: 1.39893e+006
+1201Tap - Tak time: 31ms
+1201 Finger Tap at time: 1.39896e+006
+-
+1202 Metro tak at time: 1.39913e+006
+1202Tap - Tak time: 29ms
+1202 Finger Tap at time: 1.39916e+006
+-
+1203 Metro tak at time: 1.39933e+006
+1203Tap - Tak time: 19ms
+1203 Finger Tap at time: 1.39935e+006
+-
+1204 Metro tak at time: 1.39953e+006
+1204Tap - Tak time: 15ms
+1204 Finger Tap at time: 1.39955e+006
+-
+1205 Metro tak at time: 1.39973e+006
+1205Tap - Tak time: 12ms
+1205 Finger Tap at time: 1.39975e+006
+-
+1206 Metro tak at time: 1.39993e+006
+1206Tap - Tak time: 11ms
+1206 Finger Tap at time: 1.39995e+006
+-
+1207 Metro tak at time: 1.40014e+006
+1207Tap - Tak time: 5ms
+1207 Finger Tap at time: 1.40014e+006
+-
+1208 Finger Tap at time: 1.40033e+006
+1208 Tak - Tap time: 6ms
+1208 Metro tak at time: 1.40034e+006
+-
+1209 Metro tak at time: 1.40054e+006
+1209Tap - Tak time: 1ms
+1209 Finger Tap at time: 1.40054e+006
+-
+1210 Metro tak at time: 1.40074e+006
+1210Tap - Tak time: 9ms
+1210 Finger Tap at time: 1.40075e+006
+-
+1211 Metro tak at time: 1.40094e+006
+1211Tap - Tak time: 0ms
+1211 Finger Tap at time: 1.40094e+006
+-
+1212 Metro tak at time: 1.40114e+006
+1212Tap - Tak time: 0ms
+1212 Finger Tap at time: 1.40114e+006
+-
+1213 Finger Tap at time: 1.40133e+006
+1213 Tak - Tap time: 12ms
+1213 Metro tak at time: 1.40135e+006
+-
+1214 Finger Tap at time: 1.40153e+006
+1214 Tak - Tap time: 15ms
+1214 Metro tak at time: 1.40155e+006
+-
+1215 Finger Tap at time: 1.40173e+006
+1215 Tak - Tap time: 22ms
+1215 Metro tak at time: 1.40175e+006
+-
+1216 Finger Tap at time: 1.40193e+006
+1216 Tak - Tap time: 20ms
+1216 Metro tak at time: 1.40195e+006
+-
+1217 Finger Tap at time: 1.40213e+006
+1217 Tak - Tap time: 24ms
+1217 Metro tak at time: 1.40215e+006
+-
+1218 Finger Tap at time: 1.40233e+006
+1218 Tak - Tap time: 23ms
+1218 Metro tak at time: 1.40235e+006
+-
+1219 Finger Tap at time: 1.40252e+006
+1219 Tak - Tap time: 32ms
+1219 Metro tak at time: 1.40255e+006
+-
+1220 Finger Tap at time: 1.40273e+006
+1220 Tak - Tap time: 29ms
+1220 Metro tak at time: 1.40276e+006
+-
+1221 Metro tak at time: 1.40303e+006
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+1221 Autosync Tap at time: 1.40325e+006
+--
+1222 Delayed tap happened at 1403310
+1222 Autosync Tap at time: 1.40344e+006
+--
+1223 Delayed tap happened at 1403504
+1223 Autosync Tap at time: 1.40366e+006
+--
+1224 Delayed tap happened at 1403718
+1224 Autosync Tap at time: 1.40388e+006
+--
+1225 Delayed tap happened at 1403938
+1225 Autosync Tap at time: 1.40409e+006
+--
+1226 Delayed tap happened at 1404149
+1226 Autosync Tap at time: 1.4043e+006
+--
+1227 Delayed tap happened at 1404363
+1227 Autosync Tap at time: 1.40452e+006
+--
+1228 Delayed tap happened at 1404577
+1228 Autosync Tap at time: 1.40473e+006
+--
+1229 Delayed tap happened at 1404793
+1229 Autosync Tap at time: 1.40494e+006
+--
+1230 Delayed tap happened at 1405002
+1230 Autosync Tap at time: 1.40517e+006
+--
+1231 Delayed tap happened at 1405228
+1231 Autosync Tap at time: 1.40537e+006
+--
+1232 Delayed tap happened at 1405434
+1232 Autosync Tap at time: 1.4056e+006
+--
+1233 Delayed tap happened at 1405659
+1233 Autosync Tap at time: 1.40582e+006
+--
+1234 Delayed tap happened at 1405876
+1234 Autosync Tap at time: 1.40604e+006
+--
+1235 Delayed tap happened at 1406100
+1235 Autosync Tap at time: 1.40625e+006
+--
+1236 Delayed tap happened at 1406314
+1236 Autosync Tap at time: 1.40648e+006
+--
+1237 Delayed tap happened at 1406543
+1237 Autosync Tap at time: 1.40693e+006
+--
+1238 Delayed tap happened at 1406990
+1238 Autosync Tap at time: 1.40741e+006
+--
+1239 Delayed tap happened at 1407469
+1239 Autosync Tap at time: 1.40822e+006
+--
+1240 Delayed tap happened at 1408277
+1240 Autosync Tap at time: 1.4084e+006
+--
+1241 Delayed tap happened at 1408458
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+1242 Metro tak at time: 1.41406e+006
+-
+1243 Metro tak at time: 1.41456e+006
+1243Tap - Tak time: 146ms
+1243 Finger Tap at time: 1.4147e+006
+-
+1244 Metro tak at time: 1.41506e+006
+1244Tap - Tak time: 1ms
+1244 Finger Tap at time: 1.41506e+006
+-
+1245 Finger Tap at time: 1.41551e+006
+1245 Tak - Tap time: 46ms
+1245 Metro tak at time: 1.41556e+006
+-
+1246 Finger Tap at time: 1.41599e+006
+1246 Tak - Tap time: 75ms
+1246 Metro tak at time: 1.41606e+006
+-
+1247 Finger Tap at time: 1.41643e+006
+1247 Tak - Tap time: 130ms
+1247 Metro tak at time: 1.41656e+006
+-
+1248 Finger Tap at time: 1.41694e+006
+1248 Tak - Tap time: 118ms
+1248 Metro tak at time: 1.41706e+006
+-
+1249 Finger Tap at time: 1.41743e+006
+1249 Tak - Tap time: 130ms
+1249 Metro tak at time: 1.41756e+006
+-
+1250 Finger Tap at time: 1.41791e+006
+1250 Tak - Tap time: 152ms
+1250 Metro tak at time: 1.41807e+006
+-
+1251 Finger Tap at time: 1.41847e+006
+1251 Tak - Tap time: 100ms
+1251 Metro tak at time: 1.41857e+006
+-
+1252 Finger Tap at time: 1.41895e+006
+1252 Tak - Tap time: 121ms
+1252 Metro tak at time: 1.41907e+006
+-
+1253 Finger Tap at time: 1.41943e+006
+1253 Tak - Tap time: 134ms
+1253 Metro tak at time: 1.41957e+006
+-
+1254 Finger Tap at time: 1.41997e+006
+1254 Tak - Tap time: 104ms
+1254 Metro tak at time: 1.42007e+006
+-
+1255 Finger Tap at time: 1.42045e+006
+1255 Tak - Tap time: 118ms
+1255 Metro tak at time: 1.42057e+006
+-
+1256 Finger Tap at time: 1.42096e+006
+1256 Tak - Tap time: 112ms
+1256 Metro tak at time: 1.42107e+006
+-
+1257 Finger Tap at time: 1.42147e+006
+1257 Tak - Tap time: 103ms
+1257 Metro tak at time: 1.42157e+006
+-
+1258 Finger Tap at time: 1.422e+006
+1258 Tak - Tap time: 76ms
+1258 Metro tak at time: 1.42208e+006
+-
+1259 Finger Tap at time: 1.42249e+006
+1259 Tak - Tap time: 88ms
+1259 Metro tak at time: 1.42258e+006
+-
+1260 Finger Tap at time: 1.42298e+006
+1260 Tak - Tap time: 101ms
+1260 Metro tak at time: 1.42308e+006
+-
+1261 Finger Tap at time: 1.42351e+006
+1261 Tak - Tap time: 70ms
+1261 Metro tak at time: 1.42358e+006
+-
+1262 Finger Tap at time: 1.42398e+006
+1262 Tak - Tap time: 95ms
+1262 Metro tak at time: 1.42408e+006
+-
+1263 Finger Tap at time: 1.42446e+006
+1263 Tak - Tap time: 118ms
+1263 Metro tak at time: 1.42458e+006
+-
+1264 Finger Tap at time: 1.42501e+006
+1264 Tak - Tap time: 75ms
+1264 Metro tak at time: 1.42508e+006
+-
+1265 Finger Tap at time: 1.42553e+006
+1265 Tak - Tap time: 50ms
+1265 Metro tak at time: 1.42558e+006
+-
+1266 Finger Tap at time: 1.42603e+006
+1266 Tak - Tap time: 57ms
+1266 Metro tak at time: 1.42609e+006
+-
+1267 Finger Tap at time: 1.42651e+006
+1267 Tak - Tap time: 77ms
+1267 Metro tak at time: 1.42659e+006
+-
+1268 Finger Tap at time: 1.42697e+006
+1268 Tak - Tap time: 119ms
+1268 Metro tak at time: 1.42709e+006
+-
+1269 Finger Tap at time: 1.42747e+006
+1269 Tak - Tap time: 118ms
+1269 Metro tak at time: 1.42759e+006
+-
+1270 Finger Tap at time: 1.42802e+006
+1270 Tak - Tap time: 75ms
+1270 Metro tak at time: 1.42809e+006
+-
+1271 Finger Tap at time: 1.42848e+006
+1271 Tak - Tap time: 115ms
+1271 Metro tak at time: 1.42859e+006
+-
+1272 Finger Tap at time: 1.42897e+006
+1272 Tak - Tap time: 124ms
+1272 Metro tak at time: 1.42909e+006
+-
+1273 Finger Tap at time: 1.42947e+006
+1273 Tak - Tap time: 121ms
+1273 Metro tak at time: 1.42959e+006
+-
+1274 Finger Tap at time: 1.42998e+006
+1274 Tak - Tap time: 115ms
+1274 Metro tak at time: 1.43009e+006
+-
+1275 Finger Tap at time: 1.43048e+006
+1275 Tak - Tap time: 119ms
+1275 Metro tak at time: 1.4306e+006
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+1275 Autosync Tap at time: 1.43098e+006
+--
+1276 Delayed tap happened at 1431039
+1276 Autosync Tap at time: 1.43148e+006
+--
+1277 Delayed tap happened at 1431540
+1277 Autosync Tap at time: 1.43196e+006
+--
+1278 Delayed tap happened at 1432023
+1278 Autosync Tap at time: 1.43245e+006
+--
+1279 Delayed tap happened at 1432507
+1279 Autosync Tap at time: 1.43291e+006
+--
+1280 Delayed tap happened at 1432974
+1280 Autosync Tap at time: 1.43335e+006
+--
+1281 Delayed tap happened at 1433414
+1281 Autosync Tap at time: 1.43386e+006
+--
+1282 Delayed tap happened at 1433918
+1282 Autosync Tap at time: 1.43434e+006
+--
+1283 Delayed tap happened at 1434404
+1283 Autosync Tap at time: 1.43485e+006
+--
+1284 Delayed tap happened at 1434915
+1284 Autosync Tap at time: 1.43537e+006
+--
+1285 Delayed tap happened at 1435434
+1285 Autosync Tap at time: 1.43584e+006
+--
+1286 Delayed tap happened at 1435897
+1286 Autosync Tap at time: 1.43629e+006
+--
+1287 Delayed tap happened at 1436354
+1287 Autosync Tap at time: 1.43683e+006
+--
+1288 Delayed tap happened at 1436891
+1288 Autosync Tap at time: 1.43727e+006
+--
+1289 Delayed tap happened at 1437331
+1289 Autosync Tap at time: 1.43783e+006
+--
+1290 Delayed tap happened at 1437893
+1290 Autosync Tap at time: 1.43863e+006
+--
+1291 Delayed tap happened at 1438691
+1291 Autosync Tap at time: 1.43915e+006
+--
+1292 Delayed tap happened at 1439213
+1292 Autosync Tap at time: 1.43962e+006
+--
+1293 Delayed tap happened at 1439684
+1293 Autosync Tap at time: 1.44014e+006
+--
+1294 Delayed tap happened at 1440203
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+1295 Metro tak at time: 1.44628e+006
+-
+1296 Metro tak at time: 1.44695e+006
+-
+1297 Metro tak at time: 1.44762e+006
+-
+1298 Finger Tap at time: 1.44826e+006
+1298 Tak - Tap time: 25ms
+1298 Metro tak at time: 1.44829e+006
+-
+1299 Finger Tap at time: 1.44894e+006
+1299 Tak - Tap time: 17ms
+1299 Metro tak at time: 1.44895e+006
+-
+1300 Finger Tap at time: 1.44959e+006
+1300 Tak - Tap time: 32ms
+1300 Metro tak at time: 1.44962e+006
+-
+1301 Finger Tap at time: 1.45023e+006
+1301 Tak - Tap time: 57ms
+1301 Metro tak at time: 1.45029e+006
+-
+1302 Finger Tap at time: 1.45086e+006
+1302 Tak - Tap time: 93ms
+1302 Metro tak at time: 1.45095e+006
+-
+1303 Finger Tap at time: 1.4515e+006
+1303 Tak - Tap time: 125ms
+1303 Metro tak at time: 1.45162e+006
+-
+1304 Finger Tap at time: 1.45215e+006
+1304 Tak - Tap time: 134ms
+1304 Metro tak at time: 1.45229e+006
+-
+1305 Finger Tap at time: 1.45281e+006
+1305 Tak - Tap time: 143ms
+1305 Metro tak at time: 1.45296e+006
+-
+1306 Metro tak at time: 1.45362e+006
+-
+1307 Metro tak at time: 1.45429e+006
+-
+1308 Metro tak at time: 1.45496e+006
+-
+1309 Finger Tap at time: 1.45552e+006
+1309 Tak - Tap time: 106ms
+1309 Metro tak at time: 1.45563e+006
+-
+1310 Finger Tap at time: 1.4562e+006
+1310 Tak - Tap time: 95ms
+1310 Metro tak at time: 1.45629e+006
+-
+1311 Metro tak at time: 1.45696e+006
+-
+1312 Finger Tap at time: 1.45755e+006
+1312 Tak - Tap time: 80ms
+1312 Metro tak at time: 1.45763e+006
+-
+1313 Finger Tap at time: 1.45822e+006
+1313 Tak - Tap time: 74ms
+1313 Metro tak at time: 1.45829e+006
+-
+1314 Finger Tap at time: 1.45888e+006
+1314 Tak - Tap time: 77ms
+1314 Metro tak at time: 1.45896e+006
+-
+1315 Finger Tap at time: 1.45956e+006
+1315 Tak - Tap time: 72ms
+1315 Metro tak at time: 1.45963e+006
+-
+1316 Finger Tap at time: 1.46023e+006
+1316 Tak - Tap time: 63ms
+1316 Metro tak at time: 1.4603e+006
+-
+1317 Metro tak at time: 1.46096e+006
+-
+1318 Metro tak at time: 1.46163e+006
+-
+1319 Metro tak at time: 1.4623e+006
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+1319 Autosync Tap at time: 1.46351e+006
+--
+1320 Delayed tap happened at 1463573
+1320 Autosync Tap at time: 1.46482e+006
+--
+1321 Delayed tap happened at 1464886
+1321 Autosync Tap at time: 1.46543e+006
+--
+1322 Delayed tap happened at 1465489
+1322 Autosync Tap at time: 1.46609e+006
+--
+1323 Delayed tap happened at 1466148
+1323 Autosync Tap at time: 1.4667e+006
+--
+1324 Delayed tap happened at 1466757
+1324 Autosync Tap at time: 1.46737e+006
+--
+1325 Delayed tap happened at 1467432
+1325 Autosync Tap at time: 1.46879e+006
+--
+1326 Delayed tap happened at 1468854
+1326 Autosync Tap at time: 1.46942e+006
+--
+1327 Delayed tap happened at 1469482
+1327 Autosync Tap at time: 1.47007e+006
+--
+1328 Delayed tap happened at 1470126
+1328 Autosync Tap at time: 1.47141e+006
+--
+1329 Delayed tap happened at 1471470
+1329 Autosync Tap at time: 1.47212e+006
+--
+1330 Delayed tap happened at 1472183
+1330 Autosync Tap at time: 1.47298e+006
+--
+1331 Delayed tap happened at 1473037
+1331 Autosync Tap at time: 1.47362e+006
+--
+1332 Delayed tap happened at 1473680
+1332 Autosync Tap at time: 1.47419e+006
+--
+1333 Delayed tap happened at 1474247
+1333 Autosync Tap at time: 1.47484e+006
+--
+1334 Delayed tap happened at 1474903
+1334 Autosync Tap at time: 1.47549e+006
+--
+1335 Delayed tap happened at 1475551
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+1336 Metro tak at time: 1.50872e+006
+-
+1337 Metro tak at time: 1.50892e+006
+-
+1338 Finger Tap at time: 1.50906e+006
+1338 Tak - Tap time: 59ms
+1338 Metro tak at time: 1.50912e+006
+-
+1339 Finger Tap at time: 1.50924e+006
+1339 Tak - Tap time: 83ms
+1339 Metro tak at time: 1.50932e+006
+-
+1340 Finger Tap at time: 1.50947e+006
+1340 Tak - Tap time: 56ms
+1340 Metro tak at time: 1.50952e+006
+-
+1341 Finger Tap at time: 1.50971e+006
+1341 Tak - Tap time: 12ms
+1341 Metro tak at time: 1.50973e+006
+-
+1342 Metro tak at time: 1.50993e+006
+1342Tap - Tak time: 14ms
+1342 Finger Tap at time: 1.50994e+006
+-
+1343 Metro tak at time: 1.51013e+006
+1343Tap - Tak time: 15ms
+1343 Finger Tap at time: 1.51014e+006
+-
+1344 Metro tak at time: 1.51033e+006
+1344Tap - Tak time: 13ms
+1344 Finger Tap at time: 1.51034e+006
+-
+1345 Metro tak at time: 1.51053e+006
+1345Tap - Tak time: 12ms
+1345 Finger Tap at time: 1.51054e+006
+-
+1346 Metro tak at time: 1.51073e+006
+1346Tap - Tak time: 1ms
+1346 Finger Tap at time: 1.51073e+006
+-
+1347 Finger Tap at time: 1.51092e+006
+1347 Tak - Tap time: 16ms
+1347 Metro tak at time: 1.51093e+006
+-
+1348 Finger Tap at time: 1.51111e+006
+1348 Tak - Tap time: 20ms
+1348 Metro tak at time: 1.51113e+006
+-
+1349 Finger Tap at time: 1.51132e+006
+1349 Tak - Tap time: 19ms
+1349 Metro tak at time: 1.51134e+006
+-
+1350 Finger Tap at time: 1.51153e+006
+1350 Tak - Tap time: 7ms
+1350 Metro tak at time: 1.51154e+006
+-
+1351 Finger Tap at time: 1.51173e+006
+1351 Tak - Tap time: 12ms
+1351 Metro tak at time: 1.51174e+006
+-
+1352 Finger Tap at time: 1.51192e+006
+1352 Tak - Tap time: 17ms
+1352 Metro tak at time: 1.51194e+006
+-
+1353 Finger Tap at time: 1.51213e+006
+1353 Tak - Tap time: 8ms
+1353 Metro tak at time: 1.51214e+006
+-
+1354 Finger Tap at time: 1.51232e+006
+1354 Tak - Tap time: 23ms
+1354 Metro tak at time: 1.51234e+006
+-
+1355 Finger Tap at time: 1.5125e+006
+1355 Tak - Tap time: 39ms
+1355 Metro tak at time: 1.51254e+006
+-
+1356 Finger Tap at time: 1.5127e+006
+1356 Tak - Tap time: 41ms
+1356 Metro tak at time: 1.51274e+006
+-
+1357 Finger Tap at time: 1.51293e+006
+1357 Tak - Tap time: 19ms
+1357 Metro tak at time: 1.51294e+006
+-
+1358 Finger Tap at time: 1.5131e+006
+1358 Tak - Tap time: 43ms
+1358 Metro tak at time: 1.51315e+006
+-
+1359 Finger Tap at time: 1.51331e+006
+1359 Tak - Tap time: 35ms
+1359 Metro tak at time: 1.51335e+006
+-
+1360 Finger Tap at time: 1.51353e+006
+1360 Tak - Tap time: 22ms
+1360 Metro tak at time: 1.51355e+006
+-
+1361 Finger Tap at time: 1.51372e+006
+1361 Tak - Tap time: 30ms
+1361 Metro tak at time: 1.51375e+006
+-
+1362 Finger Tap at time: 1.51393e+006
+1362 Tak - Tap time: 21ms
+1362 Metro tak at time: 1.51395e+006
+-
+1363 Finger Tap at time: 1.51414e+006
+1363 Tak - Tap time: 14ms
+1363 Metro tak at time: 1.51415e+006
+-
+1364 Finger Tap at time: 1.51434e+006
+1364 Tak - Tap time: 10ms
+1364 Metro tak at time: 1.51435e+006
+-
+1365 Finger Tap at time: 1.51454e+006
+1365 Tak - Tap time: 12ms
+1365 Metro tak at time: 1.51456e+006
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+1365 Autosync Tap at time: 1.51473e+006
+--
+1366 Autosync Tap at time: 1.51494e+006
+--
+1367 Autosync Tap at time: 1.51514e+006
+--
+1368 Autosync Tap at time: 1.51534e+006
+--
+1369 Autosync Tap at time: 1.51554e+006
+--
+1370 Autosync Tap at time: 1.51574e+006
+--
+1371 Autosync Tap at time: 1.51594e+006
+--
+1372 Autosync Tap at time: 1.51613e+006
+--
+1373 Autosync Tap at time: 1.51632e+006
+--
+1374 Autosync Tap at time: 1.51652e+006
+--
+1375 Autosync Tap at time: 1.51673e+006
+--
+1376 Autosync Tap at time: 1.51691e+006
+--
+1377 Autosync Tap at time: 1.51712e+006
+--
+1378 Autosync Tap at time: 1.51732e+006
+--
+1379 Autosync Tap at time: 1.51752e+006
+--
+1380 Autosync Tap at time: 1.51772e+006
+--
+1381 Autosync Tap at time: 1.5179e+006
+--
+1382 Autosync Tap at time: 1.5181e+006
+--
+1383 Autosync Tap at time: 1.51829e+006
+--
+1384 Autosync Tap at time: 1.51849e+006
+--
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+1386 Metro tak at time: 1.52426e+006
+-
+1387 Metro tak at time: 1.52493e+006
+1387Tap - Tak time: 182ms
+1387 Finger Tap at time: 1.52511e+006
+-
+1388 Finger Tap at time: 1.52552e+006
+1388 Tak - Tap time: 81ms
+1388 Metro tak at time: 1.5256e+006
+-
+1389 Finger Tap at time: 1.52617e+006
+1389 Tak - Tap time: 91ms
+1389 Metro tak at time: 1.52626e+006
+-
+1390 Finger Tap at time: 1.52682e+006
+1390 Tak - Tap time: 111ms
+1390 Metro tak at time: 1.52693e+006
+-
+1391 Finger Tap at time: 1.52752e+006
+1391 Tak - Tap time: 82ms
+1391 Metro tak at time: 1.5276e+006
+-
+1392 Finger Tap at time: 1.52813e+006
+1392 Tak - Tap time: 135ms
+1392 Metro tak at time: 1.52827e+006
+-
+1393 Finger Tap at time: 1.5288e+006
+1393 Tak - Tap time: 134ms
+1393 Metro tak at time: 1.52893e+006
+-
+1394 Finger Tap at time: 1.52949e+006
+1394 Tak - Tap time: 110ms
+1394 Metro tak at time: 1.5296e+006
+-
+1395 Finger Tap at time: 1.53014e+006
+1395 Tak - Tap time: 127ms
+1395 Metro tak at time: 1.53027e+006
+-
+1396 Finger Tap at time: 1.53083e+006
+1396 Tak - Tap time: 109ms
+1396 Metro tak at time: 1.53094e+006
+-
+1397 Finger Tap at time: 1.53148e+006
+1397 Tak - Tap time: 120ms
+1397 Metro tak at time: 1.5316e+006
+-
+1398 Finger Tap at time: 1.53215e+006
+1398 Tak - Tap time: 121ms
+1398 Metro tak at time: 1.53227e+006
+-
+1399 Finger Tap at time: 1.53284e+006
+1399 Tak - Tap time: 99ms
+1399 Metro tak at time: 1.53294e+006
+-
+1400 Finger Tap at time: 1.53348e+006
+1400 Tak - Tap time: 123ms
+1400 Metro tak at time: 1.5336e+006
+-
+1401 Finger Tap at time: 1.53413e+006
+1401 Tak - Tap time: 138ms
+1401 Metro tak at time: 1.53427e+006
+-
+1402 Finger Tap at time: 1.53483e+006
+1402 Tak - Tap time: 110ms
+1402 Metro tak at time: 1.53494e+006
+-
+1403 Finger Tap at time: 1.53546e+006
+1403 Tak - Tap time: 145ms
+1403 Metro tak at time: 1.5356e+006
+-
+1404 Finger Tap at time: 1.53616e+006
+1404 Tak - Tap time: 108ms
+1404 Metro tak at time: 1.53627e+006
+-
+1405 Finger Tap at time: 1.53681e+006
+1405 Tak - Tap time: 127ms
+1405 Metro tak at time: 1.53694e+006
+-
+1406 Finger Tap at time: 1.53749e+006
+1406 Tak - Tap time: 117ms
+1406 Metro tak at time: 1.53761e+006
+-
+1407 Finger Tap at time: 1.53813e+006
+1407 Tak - Tap time: 142ms
+1407 Metro tak at time: 1.53827e+006
+-
+1408 Finger Tap at time: 1.5388e+006
+1408 Tak - Tap time: 144ms
+1408 Metro tak at time: 1.53894e+006
+-
+1409 Finger Tap at time: 1.53947e+006
+1409 Tak - Tap time: 138ms
+1409 Metro tak at time: 1.53961e+006
+-
+1410 Finger Tap at time: 1.54011e+006
+1410 Tak - Tap time: 162ms
+1410 Metro tak at time: 1.54027e+006
+-
+1411 Finger Tap at time: 1.54084e+006
+1411 Tak - Tap time: 104ms
+1411 Metro tak at time: 1.54094e+006
+-
+1412 Finger Tap at time: 1.54146e+006
+1412 Tak - Tap time: 148ms
+1412 Metro tak at time: 1.54161e+006
+-
+1413 Finger Tap at time: 1.54214e+006
+1413 Tak - Tap time: 134ms
+1413 Metro tak at time: 1.54228e+006
+-
+1414 Finger Tap at time: 1.54276e+006
+1414 Tak - Tap time: 188ms
+1414 Metro tak at time: 1.54295e+006
+-
+1415 Finger Tap at time: 1.54343e+006
+1415 Tak - Tap time: 183ms
+1415 Metro tak at time: 1.54361e+006
+-
+1416 Finger Tap at time: 1.54413e+006
+1416 Tak - Tap time: 154ms
+1416 Metro tak at time: 1.54428e+006
+-
+1417 Finger Tap at time: 1.54481e+006
+1417 Tak - Tap time: 140ms
+1417 Metro tak at time: 1.54495e+006
+-
+1418 Finger Tap at time: 1.54545e+006
+1418 Tak - Tap time: 171ms
+1418 Metro tak at time: 1.54562e+006
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+1418 Autosync Tap at time: 1.54631e+006
+--
+1419 Autosync Tap at time: 1.54695e+006
+--
+1420 Autosync Tap at time: 1.5476e+006
+--
+1421 Autosync Tap at time: 1.54825e+006
+--
+1422 Autosync Tap at time: 1.54889e+006
+--
+1423 Autosync Tap at time: 1.54951e+006
+--
+1424 Autosync Tap at time: 1.55023e+006
+--
+1425 Autosync Tap at time: 1.55086e+006
+--
+1426 Autosync Tap at time: 1.55146e+006
+--
+1427 Autosync Tap at time: 1.55208e+006
+--
+1428 Autosync Tap at time: 1.55268e+006
+--
+1429 Autosync Tap at time: 1.55333e+006
+--
+1430 Autosync Tap at time: 1.55395e+006
+--
+1431 Autosync Tap at time: 1.55451e+006
+--
+1432 Autosync Tap at time: 1.55521e+006
+--
+1433 Autosync Tap at time: 1.55579e+006
+--
+1434 Autosync Tap at time: 1.5564e+006
+--
+1435 Autosync Tap at time: 1.55699e+006
+--
+1436 Autosync Tap at time: 1.5576e+006
+--
+1437 Autosync Tap at time: 1.55829e+006
+--
+1438 Autosync Tap at time: 1.55886e+006
+--
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+1440 Metro tak at time: 1.5644e+006
+-
+1441 Metro tak at time: 1.56473e+006
+1441Tap - Tak time: 47ms
+1441 Finger Tap at time: 1.56478e+006
+-
+1442 Metro tak at time: 1.56506e+006
+1442Tap - Tak time: 1ms
+1442 Finger Tap at time: 1.56507e+006
+-
+1443 Finger Tap at time: 1.56538e+006
+1443 Tak - Tap time: 21ms
+1443 Metro tak at time: 1.5654e+006
+-
+1444 Finger Tap at time: 1.56569e+006
+1444 Tak - Tap time: 44ms
+1444 Metro tak at time: 1.56573e+006
+-
+1445 Finger Tap at time: 1.566e+006
+1445 Tak - Tap time: 65ms
+1445 Metro tak at time: 1.56607e+006
+-
+1446 Finger Tap at time: 1.56633e+006
+1446 Tak - Tap time: 70ms
+1446 Metro tak at time: 1.5664e+006
+-
+1447 Finger Tap at time: 1.5667e+006
+1447 Tak - Tap time: 36ms
+1447 Metro tak at time: 1.56674e+006
+-
+1448 Metro tak at time: 1.56707e+006
+-
+1449 Finger Tap at time: 1.56732e+006
+1449 Tak - Tap time: 85ms
+1449 Metro tak at time: 1.5674e+006
+-
+1450 Finger Tap at time: 1.56768e+006
+1450 Tak - Tap time: 59ms
+1450 Metro tak at time: 1.56774e+006
+-
+1451 Finger Tap at time: 1.56803e+006
+1451 Tak - Tap time: 47ms
+1451 Metro tak at time: 1.56807e+006
+-
+1452 Finger Tap at time: 1.56838e+006
+1452 Tak - Tap time: 30ms
+1452 Metro tak at time: 1.56841e+006
+-
+1453 Finger Tap at time: 1.56872e+006
+1453 Tak - Tap time: 22ms
+1453 Metro tak at time: 1.56874e+006
+-
+1454 Finger Tap at time: 1.56904e+006
+1454 Tak - Tap time: 34ms
+1454 Metro tak at time: 1.56908e+006
+-
+1455 Finger Tap at time: 1.56938e+006
+1455 Tak - Tap time: 25ms
+1455 Metro tak at time: 1.56941e+006
+-
+1456 Finger Tap at time: 1.56971e+006
+1456 Tak - Tap time: 35ms
+1456 Metro tak at time: 1.56974e+006
+-
+1457 Finger Tap at time: 1.57002e+006
+1457 Tak - Tap time: 55ms
+1457 Metro tak at time: 1.57008e+006
+-
+1458 Finger Tap at time: 1.57038e+006
+1458 Tak - Tap time: 36ms
+1458 Metro tak at time: 1.57041e+006
+-
+1459 Finger Tap at time: 1.57068e+006
+1459 Tak - Tap time: 65ms
+1459 Metro tak at time: 1.57075e+006
+-
+1460 Finger Tap at time: 1.57105e+006
+1460 Tak - Tap time: 34ms
+1460 Metro tak at time: 1.57108e+006
+-
+1461 Finger Tap at time: 1.57139e+006
+1461 Tak - Tap time: 24ms
+1461 Metro tak at time: 1.57142e+006
+-
+1462 Finger Tap at time: 1.57171e+006
+1462 Tak - Tap time: 40ms
+1462 Metro tak at time: 1.57175e+006
+-
+1463 Finger Tap at time: 1.57206e+006
+1463 Tak - Tap time: 27ms
+1463 Metro tak at time: 1.57208e+006
+-
+1464 Finger Tap at time: 1.57238e+006
+1464 Tak - Tap time: 40ms
+1464 Metro tak at time: 1.57242e+006
+-
+1465 Finger Tap at time: 1.57273e+006
+1465 Tak - Tap time: 29ms
+1465 Metro tak at time: 1.57275e+006
+-
+1466 Finger Tap at time: 1.57306e+006
+1466 Tak - Tap time: 28ms
+1466 Metro tak at time: 1.57309e+006
+-
+1467 Finger Tap at time: 1.57341e+006
+1467 Tak - Tap time: 8ms
+1467 Metro tak at time: 1.57342e+006
+-
+1468 Finger Tap at time: 1.57374e+006
+1468 Tak - Tap time: 14ms
+1468 Metro tak at time: 1.57376e+006
+-
+1469 Finger Tap at time: 1.57408e+006
+1469 Tak - Tap time: 9ms
+1469 Metro tak at time: 1.57409e+006
+-
+1470 Finger Tap at time: 1.57441e+006
+1470 Tak - Tap time: 17ms
+1470 Metro tak at time: 1.57443e+006
+-
+1471 Finger Tap at time: 1.57474e+006
+1471 Tak - Tap time: 17ms
+1471 Metro tak at time: 1.57476e+006
+-
+1472 Finger Tap at time: 1.57508e+006
+1472 Tak - Tap time: 11ms
+1472 Metro tak at time: 1.57509e+006
+-
+1473 Finger Tap at time: 1.57541e+006
+1473 Tak - Tap time: 19ms
+1473 Metro tak at time: 1.57543e+006
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+1473 Autosync Tap at time: 1.57574e+006
+--
+1474 Autosync Tap at time: 1.57605e+006
+--
+1475 Autosync Tap at time: 1.57638e+006
+--
+1476 Autosync Tap at time: 1.57673e+006
+--
+1477 Autosync Tap at time: 1.57706e+006
+--
+1478 Autosync Tap at time: 1.57739e+006
+--
+1479 Autosync Tap at time: 1.57772e+006
+--
+1480 Autosync Tap at time: 1.57805e+006
+--
+1481 Autosync Tap at time: 1.57837e+006
+--
+1482 Autosync Tap at time: 1.57869e+006
+--
+1483 Autosync Tap at time: 1.57901e+006
+--
+1484 Autosync Tap at time: 1.57934e+006
+--
+1485 Autosync Tap at time: 1.57966e+006
+--
+1486 Autosync Tap at time: 1.58001e+006
+--
+1487 Autosync Tap at time: 1.58034e+006
+--
+1488 Autosync Tap at time: 1.5807e+006
+--
+1489 Autosync Tap at time: 1.58101e+006
+--
+1490 Autosync Tap at time: 1.58135e+006
+--
+1491 Autosync Tap at time: 1.58166e+006
+--
+1492 Autosync Tap at time: 1.582e+006
+--
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+1494 Metro tak at time: 1.58911e+006
+1494Tap - Tak time: 305ms
+1494 Finger Tap at time: 1.58942e+006
+-
+1495 Metro tak at time: 1.59111e+006
+1495Tap - Tak time: 188ms
+1495 Finger Tap at time: 1.5913e+006
+-
+1496 Finger Tap at time: 1.59309e+006
+1496 Tak - Tap time: 20ms
+1496 Metro tak at time: 1.59311e+006
+-
+1497 Metro tak at time: 1.59511e+006
+1497Tap - Tak time: 0ms
+1497 Finger Tap at time: 1.59511e+006
+-
+1498 Finger Tap at time: 1.59694e+006
+1498 Tak - Tap time: 177ms
+1498 Metro tak at time: 1.59712e+006
+-
+1499 Finger Tap at time: 1.5989e+006
+1499 Tak - Tap time: 217ms
+1499 Metro tak at time: 1.59912e+006
+-
+1500 Finger Tap at time: 1.60089e+006
+1500 Tak - Tap time: 223ms
+1500 Metro tak at time: 1.60112e+006
+-
+1501 Metro tak at time: 1.60312e+006
+1501Tap - Tak time: 56ms
+1501 Finger Tap at time: 1.60318e+006
+-
+1502 Finger Tap at time: 1.60505e+006
+1502 Tak - Tap time: 72ms
+1502 Metro tak at time: 1.60512e+006
+-
+1503 Finger Tap at time: 1.60704e+006
+1503 Tak - Tap time: 77ms
+1503 Metro tak at time: 1.60712e+006
+-
+1504 Metro tak at time: 1.60912e+006
+1504Tap - Tak time: 168ms
+1504 Finger Tap at time: 1.60929e+006
+-
+1505 Finger Tap at time: 1.61107e+006
+1505 Tak - Tap time: 51ms
+1505 Metro tak at time: 1.61112e+006
+-
+1506 Finger Tap at time: 1.61281e+006
+1506 Tak - Tap time: 313ms
+1506 Metro tak at time: 1.61312e+006
+-
+1507 Finger Tap at time: 1.61488e+006
+1507 Tak - Tap time: 249ms
+1507 Metro tak at time: 1.61513e+006
+-
+1508 Finger Tap at time: 1.61692e+006
+1508 Tak - Tap time: 206ms
+1508 Metro tak at time: 1.61713e+006
+-
+1509 Finger Tap at time: 1.61902e+006
+1509 Tak - Tap time: 113ms
+1509 Metro tak at time: 1.61913e+006
+-
+1510 Finger Tap at time: 1.62107e+006
+1510 Tak - Tap time: 56ms
+1510 Metro tak at time: 1.62113e+006
+-
+1511 Finger Tap at time: 1.62285e+006
+1511 Tak - Tap time: 283ms
+1511 Metro tak at time: 1.62313e+006
+-
+1512 Finger Tap at time: 1.62499e+006
+1512 Tak - Tap time: 143ms
+1512 Metro tak at time: 1.62513e+006
+-
+1513 Finger Tap at time: 1.62695e+006
+1513 Tak - Tap time: 183ms
+1513 Metro tak at time: 1.62713e+006
+-
+1514 Finger Tap at time: 1.62898e+006
+1514 Tak - Tap time: 150ms
+1514 Metro tak at time: 1.62913e+006
+-
+1515 Finger Tap at time: 1.63091e+006
+1515 Tak - Tap time: 226ms
+1515 Metro tak at time: 1.63114e+006
+-
+1516 Finger Tap at time: 1.63296e+006
+1516 Tak - Tap time: 179ms
+1516 Metro tak at time: 1.63314e+006
+-
+1517 Finger Tap at time: 1.6351e+006
+1517 Tak - Tap time: 42ms
+1517 Metro tak at time: 1.63514e+006
+-
+1518 Finger Tap at time: 1.63704e+006
+1518 Tak - Tap time: 103ms
+1518 Metro tak at time: 1.63714e+006
+-
+1519 Finger Tap at time: 1.63892e+006
+1519 Tak - Tap time: 218ms
+1519 Metro tak at time: 1.63914e+006
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+1519 Autosync Tap at time: 1.64114e+006
+--
+1520 Autosync Tap at time: 1.643e+006
+--
+1521 Autosync Tap at time: 1.64475e+006
+--
+1522 Autosync Tap at time: 1.64657e+006
+--
+1523 Autosync Tap at time: 1.64826e+006
+--
+1524 Autosync Tap at time: 1.64988e+006
+--
+1525 Autosync Tap at time: 1.65163e+006
+--
+1526 Autosync Tap at time: 1.65319e+006
+--
+1527 Autosync Tap at time: 1.65507e+006
+--
+1528 Autosync Tap at time: 1.65684e+006
+--
+1529 Autosync Tap at time: 1.65863e+006
+--
+1530 Autosync Tap at time: 1.66025e+006
+--
+1531 Autosync Tap at time: 1.66177e+006
+--
+1532 Autosync Tap at time: 1.66332e+006
+--
+1533 Autosync Tap at time: 1.66497e+006
+--
+1534 Autosync Tap at time: 1.66663e+006
+--
+1535 Autosync Tap at time: 1.66825e+006
+--
+1536 Autosync Tap at time: 1.66999e+006
+--
+1537 Autosync Tap at time: 1.67161e+006
+--
+1538 Autosync Tap at time: 1.67359e+006
+--
+1539 Autosync Tap at time: 1.6753e+006
+--
+1540 Autosync Tap at time: 1.67731e+006
+--
+1541 Autosync Tap at time: 1.67901e+006
+--
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+1543 Metro tak at time: 1.68477e+006
+-
+1544 Metro tak at time: 1.68527e+006
+-
+1545 Finger Tap at time: 1.6857e+006
+1545 Tak - Tap time: 66ms
+1545 Metro tak at time: 1.68577e+006
+-
+1546 Finger Tap at time: 1.68615e+006
+1546 Tak - Tap time: 116ms
+1546 Metro tak at time: 1.68627e+006
+-
+1547 Finger Tap at time: 1.68666e+006
+1547 Tak - Tap time: 107ms
+1547 Metro tak at time: 1.68677e+006
+-
+1548 Finger Tap at time: 1.68719e+006
+1548 Tak - Tap time: 78ms
+1548 Metro tak at time: 1.68727e+006
+-
+1549 Finger Tap at time: 1.68773e+006
+1549 Tak - Tap time: 44ms
+1549 Metro tak at time: 1.68777e+006
+-
+1550 Finger Tap at time: 1.68824e+006
+1550 Tak - Tap time: 34ms
+1550 Metro tak at time: 1.68827e+006
+-
+1551 Finger Tap at time: 1.68872e+006
+1551 Tak - Tap time: 51ms
+1551 Metro tak at time: 1.68878e+006
+-
+1552 Finger Tap at time: 1.68923e+006
+1552 Tak - Tap time: 45ms
+1552 Metro tak at time: 1.68928e+006
+-
+1553 Finger Tap at time: 1.68972e+006
+1553 Tak - Tap time: 56ms
+1553 Metro tak at time: 1.68978e+006
+-
+1554 Finger Tap at time: 1.69021e+006
+1554 Tak - Tap time: 67ms
+1554 Metro tak at time: 1.69028e+006
+-
+1555 Finger Tap at time: 1.69072e+006
+1555 Tak - Tap time: 62ms
+1555 Metro tak at time: 1.69078e+006
+-
+1556 Finger Tap at time: 1.69122e+006
+1556 Tak - Tap time: 57ms
+1556 Metro tak at time: 1.69128e+006
+-
+1557 Finger Tap at time: 1.6917e+006
+1557 Tak - Tap time: 88ms
+1557 Metro tak at time: 1.69178e+006
+-
+1558 Finger Tap at time: 1.69215e+006
+1558 Tak - Tap time: 132ms
+1558 Metro tak at time: 1.69228e+006
+-
+1559 Finger Tap at time: 1.6927e+006
+1559 Tak - Tap time: 90ms
+1559 Metro tak at time: 1.69279e+006
+-
+1560 Finger Tap at time: 1.69319e+006
+1560 Tak - Tap time: 96ms
+1560 Metro tak at time: 1.69329e+006
+-
+1561 Finger Tap at time: 1.6937e+006
+1561 Tak - Tap time: 93ms
+1561 Metro tak at time: 1.69379e+006
+-
+1562 Finger Tap at time: 1.69419e+006
+1562 Tak - Tap time: 97ms
+1562 Metro tak at time: 1.69429e+006
+-
+1563 Finger Tap at time: 1.69468e+006
+1563 Tak - Tap time: 114ms
+1563 Metro tak at time: 1.69479e+006
+-
+1564 Finger Tap at time: 1.69515e+006
+1564 Tak - Tap time: 139ms
+1564 Metro tak at time: 1.69529e+006
+-
+1565 Finger Tap at time: 1.69566e+006
+1565 Tak - Tap time: 133ms
+1565 Metro tak at time: 1.69579e+006
+-
+1566 Finger Tap at time: 1.69619e+006
+1566 Tak - Tap time: 107ms
+1566 Metro tak at time: 1.69629e+006
+-
+1567 Finger Tap at time: 1.69667e+006
+1567 Tak - Tap time: 130ms
+1567 Metro tak at time: 1.6968e+006
+-
+1568 Finger Tap at time: 1.69715e+006
+1568 Tak - Tap time: 143ms
+1568 Metro tak at time: 1.6973e+006
+-
+1569 Finger Tap at time: 1.69768e+006
+1569 Tak - Tap time: 117ms
+1569 Metro tak at time: 1.6978e+006
+-
+1570 Finger Tap at time: 1.69818e+006
+1570 Tak - Tap time: 121ms
+1570 Metro tak at time: 1.6983e+006
+-
+1571 Finger Tap at time: 1.69869e+006
+1571 Tak - Tap time: 114ms
+1571 Metro tak at time: 1.6988e+006
+-
+1572 Finger Tap at time: 1.69919e+006
+1572 Tak - Tap time: 115ms
+1572 Metro tak at time: 1.6993e+006
+-
+1573 Finger Tap at time: 1.69967e+006
+1573 Tak - Tap time: 131ms
+1573 Metro tak at time: 1.69981e+006
+-
+1574 Finger Tap at time: 1.70017e+006
+1574 Tak - Tap time: 134ms
+1574 Metro tak at time: 1.70031e+006
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+1574 Autosync Tap at time: 1.70066e+006
+--
+1575 Autosync Tap at time: 1.70118e+006
+--
+1576 Autosync Tap at time: 1.70167e+006
+--
+1577 Autosync Tap at time: 1.70214e+006
+--
+1578 Autosync Tap at time: 1.70264e+006
+--
+1579 Autosync Tap at time: 1.70312e+006
+--
+1580 Autosync Tap at time: 1.7036e+006
+--
+1581 Autosync Tap at time: 1.70411e+006
+--
+1582 Autosync Tap at time: 1.70461e+006
+--
+1583 Autosync Tap at time: 1.70509e+006
+--
+1584 Autosync Tap at time: 1.70555e+006
+--
+1585 Autosync Tap at time: 1.70604e+006
+--
+1586 Autosync Tap at time: 1.70646e+006
+--
+1587 Autosync Tap at time: 1.70699e+006
+--
+1588 Autosync Tap at time: 1.70747e+006
+--
+1589 Autosync Tap at time: 1.70794e+006
+--
+1590 Autosync Tap at time: 1.70844e+006
+--
+1591 Autosync Tap at time: 1.70893e+006
+--
+1592 Autosync Tap at time: 1.70939e+006
+--
+1593 Autosync Tap at time: 1.70985e+006
+--
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+1595 Metro tak at time: 1.71633e+006
+1595Tap - Tak time: 394ms
+1595 Finger Tap at time: 1.71673e+006
+-
+1596 Metro tak at time: 1.71733e+006
+1596Tap - Tak time: 154ms
+1596 Finger Tap at time: 1.71749e+006
+-
+1597 Finger Tap at time: 1.71833e+006
+1597 Tak - Tap time: 6ms
+1597 Metro tak at time: 1.71833e+006
+-
+1598 Finger Tap at time: 1.71928e+006
+1598 Tak - Tap time: 51ms
+1598 Metro tak at time: 1.71933e+006
+-
+1599 Finger Tap at time: 1.72014e+006
+1599 Tak - Tap time: 201ms
+1599 Metro tak at time: 1.72034e+006
+-
+1600 Finger Tap at time: 1.72126e+006
+1600 Tak - Tap time: 79ms
+1600 Metro tak at time: 1.72134e+006
+-
+1601 Finger Tap at time: 1.72227e+006
+1601 Tak - Tap time: 64ms
+1601 Metro tak at time: 1.72234e+006
+-
+1602 Finger Tap at time: 1.72327e+006
+1602 Tak - Tap time: 70ms
+1602 Metro tak at time: 1.72334e+006
+-
+1603 Metro tak at time: 1.72434e+006
+1603Tap - Tak time: 33ms
+1603 Finger Tap at time: 1.72437e+006
+-
+1604 Finger Tap at time: 1.72533e+006
+1604 Tak - Tap time: 11ms
+1604 Metro tak at time: 1.72534e+006
+-
+1605 Finger Tap at time: 1.72633e+006
+1605 Tak - Tap time: 16ms
+1605 Metro tak at time: 1.72634e+006
+-
+1606 Finger Tap at time: 1.7273e+006
+1606 Tak - Tap time: 47ms
+1606 Metro tak at time: 1.72734e+006
+-
+1607 Finger Tap at time: 1.72831e+006
+1607 Tak - Tap time: 33ms
+1607 Metro tak at time: 1.72835e+006
+-
+1608 Metro tak at time: 1.72935e+006
+1608Tap - Tak time: 16ms
+1608 Finger Tap at time: 1.72936e+006
+-
+1609 Finger Tap at time: 1.73033e+006
+1609 Tak - Tap time: 21ms
+1609 Metro tak at time: 1.73035e+006
+-
+1610 Metro tak at time: 1.73135e+006
+-
+1611 Finger Tap at time: 1.73228e+006
+1611 Tak - Tap time: 71ms
+1611 Metro tak at time: 1.73235e+006
+-
+1612 Finger Tap at time: 1.73328e+006
+1612 Tak - Tap time: 72ms
+1612 Metro tak at time: 1.73335e+006
+-
+1613 Finger Tap at time: 1.73424e+006
+1613 Tak - Tap time: 110ms
+1613 Metro tak at time: 1.73435e+006
+-
+1614 Finger Tap at time: 1.73523e+006
+1614 Tak - Tap time: 122ms
+1614 Metro tak at time: 1.73536e+006
+-
+1615 Metro tak at time: 1.73636e+006
+1615Tap - Tak time: 6ms
+1615 Finger Tap at time: 1.73636e+006
+-
+1616 Finger Tap at time: 1.73733e+006
+1616 Tak - Tap time: 25ms
+1616 Metro tak at time: 1.73736e+006
+-
+1617 Metro tak at time: 1.73836e+006
+1617Tap - Tak time: 6ms
+1617 Finger Tap at time: 1.73837e+006
+-
+1618 Finger Tap at time: 1.73931e+006
+1618 Tak - Tap time: 50ms
+1618 Metro tak at time: 1.73936e+006
+-
+1619 Metro tak at time: 1.74036e+006
+-
+1620 Metro tak at time: 1.74136e+006
+1620Tap - Tak time: 16ms
+1620 Finger Tap at time: 1.74138e+006
+-
+1621 Metro tak at time: 1.74236e+006
+1621Tap - Tak time: 30ms
+1621 Finger Tap at time: 1.74239e+006
+-
+1622 Metro tak at time: 1.74336e+006
+1622Tap - Tak time: 99ms
+1622 Finger Tap at time: 1.74346e+006
+-
+1623 Metro tak at time: 1.74437e+006
+1623Tap - Tak time: 40ms
+1623 Finger Tap at time: 1.74441e+006
+-
+1624 Metro tak at time: 1.74537e+006
+1624Tap - Tak time: 49ms
+1624 Finger Tap at time: 1.74542e+006
+-
+1625 Metro tak at time: 1.74637e+006
+1625Tap - Tak time: 35ms
+1625 Finger Tap at time: 1.7464e+006
+-
+1626 Metro tak at time: 1.74737e+006
+1626Tap - Tak time: 8ms
+1626 Finger Tap at time: 1.74738e+006
+-
+1627 Metro tak at time: 1.74837e+006
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+1627 Autosync Tap at time: 1.74941e+006
+--
+1628 Autosync Tap at time: 1.75036e+006
+--
+1629 Autosync Tap at time: 1.75225e+006
+--
+1630 Autosync Tap at time: 1.75342e+006
+--
+1631 Autosync Tap at time: 1.75446e+006
+--
+1632 Autosync Tap at time: 1.75556e+006
+--
+1633 Autosync Tap at time: 1.75668e+006
+--
+1634 Autosync Tap at time: 1.75796e+006
+--
+1635 Autosync Tap at time: 1.75903e+006
+--
+1636 Autosync Tap at time: 1.76005e+006
+--
+1637 Autosync Tap at time: 1.76103e+006
+--
+1638 Autosync Tap at time: 1.76202e+006
+--
+1639 Autosync Tap at time: 1.76315e+006
+--
+1640 Autosync Tap at time: 1.7641e+006
+--
+1641 Autosync Tap at time: 1.76516e+006
+--
+1642 Autosync Tap at time: 1.76616e+006
+--
+1643 Autosync Tap at time: 1.7672e+006
+--
+1644 Autosync Tap at time: 1.76823e+006
+--
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+1646 Metro tak at time: 1.77376e+006
+-
+1647 Metro tak at time: 1.77401e+006
+-
+1648 Finger Tap at time: 1.77417e+006
+1648 Tak - Tap time: 86ms
+1648 Metro tak at time: 1.77426e+006
+-
+1649 Finger Tap at time: 1.77449e+006
+1649 Tak - Tap time: 27ms
+1649 Metro tak at time: 1.77451e+006
+-
+1650 Finger Tap at time: 1.77475e+006
+1650 Tak - Tap time: 9ms
+1650 Metro tak at time: 1.77476e+006
+-
+1651 Finger Tap at time: 1.77501e+006
+1651 Tak - Tap time: 7ms
+1651 Metro tak at time: 1.77501e+006
+-
+1652 Metro tak at time: 1.77527e+006
+1652Tap - Tak time: 4ms
+1652 Finger Tap at time: 1.77527e+006
+-
+1653 Finger Tap at time: 1.77551e+006
+1653 Tak - Tap time: 6ms
+1653 Metro tak at time: 1.77552e+006
+-
+1654 Finger Tap at time: 1.77576e+006
+1654 Tak - Tap time: 7ms
+1654 Metro tak at time: 1.77577e+006
+-
+1655 Finger Tap at time: 1.77601e+006
+1655 Tak - Tap time: 13ms
+1655 Metro tak at time: 1.77602e+006
+-
+1656 Finger Tap at time: 1.77626e+006
+1656 Tak - Tap time: 14ms
+1656 Metro tak at time: 1.77627e+006
+-
+1657 Finger Tap at time: 1.77651e+006
+1657 Tak - Tap time: 11ms
+1657 Metro tak at time: 1.77652e+006
+-
+1658 Finger Tap at time: 1.77676e+006
+1658 Tak - Tap time: 12ms
+1658 Metro tak at time: 1.77677e+006
+-
+1659 Finger Tap at time: 1.77701e+006
+1659 Tak - Tap time: 20ms
+1659 Metro tak at time: 1.77703e+006
+-
+1660 Finger Tap at time: 1.77726e+006
+1660 Tak - Tap time: 16ms
+1660 Metro tak at time: 1.77728e+006
+-
+1661 Finger Tap at time: 1.77751e+006
+1661 Tak - Tap time: 20ms
+1661 Metro tak at time: 1.77753e+006
+-
+1662 Finger Tap at time: 1.77777e+006
+1662 Tak - Tap time: 12ms
+1662 Metro tak at time: 1.77778e+006
+-
+1663 Finger Tap at time: 1.77801e+006
+1663 Tak - Tap time: 15ms
+1663 Metro tak at time: 1.77803e+006
+-
+1664 Finger Tap at time: 1.77826e+006
+1664 Tak - Tap time: 18ms
+1664 Metro tak at time: 1.77828e+006
+-
+1665 Finger Tap at time: 1.77851e+006
+1665 Tak - Tap time: 23ms
+1665 Metro tak at time: 1.77853e+006
+-
+1666 Finger Tap at time: 1.77877e+006
+1666 Tak - Tap time: 14ms
+1666 Metro tak at time: 1.77878e+006
+-
+1667 Finger Tap at time: 1.77899e+006
+1667 Tak - Tap time: 44ms
+1667 Metro tak at time: 1.77903e+006
+-
+1668 Finger Tap at time: 1.77926e+006
+1668 Tak - Tap time: 22ms
+1668 Metro tak at time: 1.77928e+006
+-
+1669 Finger Tap at time: 1.7795e+006
+1669 Tak - Tap time: 35ms
+1669 Metro tak at time: 1.77954e+006
+-
+1670 Finger Tap at time: 1.77977e+006
+1670 Tak - Tap time: 19ms
+1670 Metro tak at time: 1.77979e+006
+-
+1671 Finger Tap at time: 1.77999e+006
+1671 Tak - Tap time: 51ms
+1671 Metro tak at time: 1.78004e+006
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+1671 Autosync Tap at time: 1.78027e+006
+--
+1672 Autosync Tap at time: 1.78052e+006
+--
+1673 Autosync Tap at time: 1.78076e+006
+--
+1674 Autosync Tap at time: 1.781e+006
+--
+1675 Autosync Tap at time: 1.78125e+006
+--
+1676 Autosync Tap at time: 1.7815e+006
+--
+1677 Autosync Tap at time: 1.78175e+006
+--
+1678 Autosync Tap at time: 1.78199e+006
+--
+1679 Autosync Tap at time: 1.78224e+006
+--
+1680 Autosync Tap at time: 1.78248e+006
+--
+1681 Autosync Tap at time: 1.78272e+006
+--
+1682 Autosync Tap at time: 1.78297e+006
+--
+1683 Autosync Tap at time: 1.78321e+006
+--
+1684 Autosync Tap at time: 1.78347e+006
+--
+1685 Autosync Tap at time: 1.78371e+006
+--
+1686 Autosync Tap at time: 1.78395e+006
+--
+1687 Autosync Tap at time: 1.78419e+006
+--
+1688 Autosync Tap at time: 1.78445e+006
+--
+1689 Autosync Tap at time: 1.78469e+006
+--
+1690 Autosync Tap at time: 1.78494e+006
+--
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+1692 Metro tak at time: 1.79397e+006
+1692Tap - Tak time: 330ms
+1692 Finger Tap at time: 1.7943e+006
+-
+1693 Metro tak at time: 1.79464e+006
+1693Tap - Tak time: 99ms
+1693 Finger Tap at time: 1.79474e+006
+-
+1694 Finger Tap at time: 1.79528e+006
+1694 Tak - Tap time: 31ms
+1694 Metro tak at time: 1.79531e+006
+-
+1695 Finger Tap at time: 1.79597e+006
+1695 Tak - Tap time: 10ms
+1695 Metro tak at time: 1.79598e+006
+-
+1696 Finger Tap at time: 1.79659e+006
+1696 Tak - Tap time: 56ms
+1696 Metro tak at time: 1.79664e+006
+-
+1697 Finger Tap at time: 1.79728e+006
+1697 Tak - Tap time: 27ms
+1697 Metro tak at time: 1.79731e+006
+-
+1698 Metro tak at time: 1.79798e+006
+1698Tap - Tak time: 30ms
+1698 Finger Tap at time: 1.79801e+006
+-
+1699 Finger Tap at time: 1.79863e+006
+1699 Tak - Tap time: 13ms
+1699 Metro tak at time: 1.79864e+006
+-
+1700 Finger Tap at time: 1.79929e+006
+1700 Tak - Tap time: 23ms
+1700 Metro tak at time: 1.79931e+006
+-
+1701 Finger Tap at time: 1.79997e+006
+1701 Tak - Tap time: 12ms
+1701 Metro tak at time: 1.79998e+006
+-
+1702 Finger Tap at time: 1.80064e+006
+1702 Tak - Tap time: 4ms
+1702 Metro tak at time: 1.80065e+006
+-
+1703 Finger Tap at time: 1.80131e+006
+1703 Tak - Tap time: 4ms
+1703 Metro tak at time: 1.80131e+006
+-
+1704 Finger Tap at time: 1.80196e+006
+1704 Tak - Tap time: 23ms
+1704 Metro tak at time: 1.80198e+006
+-
+1705 Finger Tap at time: 1.80262e+006
+1705 Tak - Tap time: 28ms
+1705 Metro tak at time: 1.80265e+006
+-
+1706 Metro tak at time: 1.80331e+006
+1706Tap - Tak time: 16ms
+1706 Finger Tap at time: 1.80333e+006
+-
+1707 Finger Tap at time: 1.8039e+006
+1707 Tak - Tap time: 83ms
+1707 Metro tak at time: 1.80398e+006
+-
+1708 Finger Tap at time: 1.80456e+006
+1708 Tak - Tap time: 90ms
+1708 Metro tak at time: 1.80465e+006
+-
+1709 Finger Tap at time: 1.80526e+006
+1709 Tak - Tap time: 61ms
+1709 Metro tak at time: 1.80532e+006
+-
+1710 Finger Tap at time: 1.80592e+006
+1710 Tak - Tap time: 66ms
+1710 Metro tak at time: 1.80598e+006
+-
+1711 Finger Tap at time: 1.80662e+006
+1711 Tak - Tap time: 33ms
+1711 Metro tak at time: 1.80665e+006
+-
+1712 Finger Tap at time: 1.80726e+006
+1712 Tak - Tap time: 56ms
+1712 Metro tak at time: 1.80732e+006
+-
+1713 Finger Tap at time: 1.80794e+006
+1713 Tak - Tap time: 50ms
+1713 Metro tak at time: 1.80799e+006
+-
+1714 Finger Tap at time: 1.8086e+006
+1714 Tak - Tap time: 57ms
+1714 Metro tak at time: 1.80865e+006
+-
+1715 Finger Tap at time: 1.80925e+006
+1715 Tak - Tap time: 74ms
+1715 Metro tak at time: 1.80932e+006
+-
+1716 Finger Tap at time: 1.80992e+006
+1716 Tak - Tap time: 71ms
+1716 Metro tak at time: 1.80999e+006
+-
+1717 Finger Tap at time: 1.81064e+006
+1717 Tak - Tap time: 14ms
+1717 Metro tak at time: 1.81066e+006
+-
+1718 Finger Tap at time: 1.81132e+006
+1718 Tak - Tap time: 8ms
+1718 Metro tak at time: 1.81132e+006
+-
+1719 Finger Tap at time: 1.81197e+006
+1719 Tak - Tap time: 17ms
+1719 Metro tak at time: 1.81199e+006
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+1719 Autosync Tap at time: 1.81259e+006
+--
+1720 Delayed tap happened at 1812740
+1720 Autosync Tap at time: 1.81324e+006
+--
+1721 Delayed tap happened at 1813386
+1721 Autosync Tap at time: 1.81395e+006
+--
+1722 Delayed tap happened at 1814098
+1722 Autosync Tap at time: 1.81464e+006
+--
+1723 Delayed tap happened at 1814792
+1723 Autosync Tap at time: 1.81542e+006
+--
+1724 Delayed tap happened at 1815572
+1724 Autosync Tap at time: 1.81624e+006
+--
+1725 Delayed tap happened at 1816393
+1725 Autosync Tap at time: 1.81703e+006
+--
+1726 Delayed tap happened at 1817181
+1726 Autosync Tap at time: 1.81786e+006
+--
+1727 Delayed tap happened at 1818014
+1727 Autosync Tap at time: 1.81868e+006
+--
+1728 Delayed tap happened at 1818829
+1728 Autosync Tap at time: 1.81949e+006
+--
+1729 Delayed tap happened at 1819646
+1729 Autosync Tap at time: 1.82032e+006
+--
+1730 Delayed tap happened at 1820475
+1730 Autosync Tap at time: 1.82111e+006
+--
+1731 Delayed tap happened at 1821261
+1731 Autosync Tap at time: 1.82189e+006
+--
+1732 Delayed tap happened at 1822044
+1732 Autosync Tap at time: 1.8227e+006
+--
+1733 Delayed tap happened at 1822848
+1733 Autosync Tap at time: 1.82342e+006
+--
+1734 Delayed tap happened at 1823572
+1734 Autosync Tap at time: 1.82422e+006
+--
+1735 Delayed tap happened at 1824368
+1735 Autosync Tap at time: 1.82503e+006
+--
+1736 Delayed tap happened at 1825179
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+1737 Metro tak at time: 1.83064e+006
+-
+1738 Metro tak at time: 1.83084e+006
+-
+1739 Finger Tap at time: 1.831e+006
+1739 Tak - Tap time: 39ms
+1739 Metro tak at time: 1.83104e+006
+-
+1740 Finger Tap at time: 1.83123e+006
+1740 Tak - Tap time: 8ms
+1740 Metro tak at time: 1.83124e+006
+-
+1741 Metro tak at time: 1.83144e+006
+1741Tap - Tak time: 10ms
+1741 Finger Tap at time: 1.83145e+006
+-
+1742 Metro tak at time: 1.83164e+006
+1742Tap - Tak time: 6ms
+1742 Finger Tap at time: 1.83165e+006
+-
+1743 Metro tak at time: 1.83184e+006
+1743Tap - Tak time: 11ms
+1743 Finger Tap at time: 1.83186e+006
+-
+1744 Metro tak at time: 1.83205e+006
+1744Tap - Tak time: 12ms
+1744 Finger Tap at time: 1.83206e+006
+-
+1745 Metro tak at time: 1.83225e+006
+1745Tap - Tak time: 7ms
+1745 Finger Tap at time: 1.83225e+006
+-
+1746 Finger Tap at time: 1.83244e+006
+1746 Tak - Tap time: 4ms
+1746 Metro tak at time: 1.83245e+006
+-
+1747 Finger Tap at time: 1.83264e+006
+1747 Tak - Tap time: 12ms
+1747 Metro tak at time: 1.83265e+006
+-
+1748 Finger Tap at time: 1.83283e+006
+1748 Tak - Tap time: 18ms
+1748 Metro tak at time: 1.83285e+006
+-
+1749 Finger Tap at time: 1.83304e+006
+1749 Tak - Tap time: 14ms
+1749 Metro tak at time: 1.83305e+006
+-
+1750 Finger Tap at time: 1.83325e+006
+1750 Tak - Tap time: 8ms
+1750 Metro tak at time: 1.83325e+006
+-
+1751 Finger Tap at time: 1.83345e+006
+1751 Tak - Tap time: 4ms
+1751 Metro tak at time: 1.83345e+006
+-
+1752 Finger Tap at time: 1.83364e+006
+1752 Tak - Tap time: 14ms
+1752 Metro tak at time: 1.83366e+006
+-
+1753 Finger Tap at time: 1.83384e+006
+1753 Tak - Tap time: 21ms
+1753 Metro tak at time: 1.83386e+006
+-
+1754 Finger Tap at time: 1.83404e+006
+1754 Tak - Tap time: 18ms
+1754 Metro tak at time: 1.83406e+006
+-
+1755 Finger Tap at time: 1.83425e+006
+1755 Tak - Tap time: 14ms
+1755 Metro tak at time: 1.83426e+006
+-
+1756 Finger Tap at time: 1.83446e+006
+1756 Tak - Tap time: 7ms
+1756 Metro tak at time: 1.83446e+006
+-
+1757 Finger Tap at time: 1.83466e+006
+1757 Tak - Tap time: 5ms
+1757 Metro tak at time: 1.83466e+006
+-
+1758 Finger Tap at time: 1.83486e+006
+1758 Tak - Tap time: 5ms
+1758 Metro tak at time: 1.83486e+006
+-
+1759 Finger Tap at time: 1.83505e+006
+1759 Tak - Tap time: 13ms
+1759 Metro tak at time: 1.83507e+006
+-
+1760 Finger Tap at time: 1.83525e+006
+1760 Tak - Tap time: 18ms
+1760 Metro tak at time: 1.83527e+006
+-
+1761 Finger Tap at time: 1.83544e+006
+1761 Tak - Tap time: 23ms
+1761 Metro tak at time: 1.83547e+006
+-
+1762 Finger Tap at time: 1.83564e+006
+1762 Tak - Tap time: 26ms
+1762 Metro tak at time: 1.83567e+006
+-
+1763 Finger Tap at time: 1.83584e+006
+1763 Tak - Tap time: 31ms
+1763 Metro tak at time: 1.83587e+006
+-
+1764 Finger Tap at time: 1.83604e+006
+1764 Tak - Tap time: 30ms
+1764 Metro tak at time: 1.83607e+006
+-
+1765 Finger Tap at time: 1.83625e+006
+1765 Tak - Tap time: 25ms
+1765 Metro tak at time: 1.83627e+006
+-
+1766 Finger Tap at time: 1.83647e+006
+1766 Tak - Tap time: 4ms
+1766 Metro tak at time: 1.83647e+006
+-
+1767 Finger Tap at time: 1.83667e+006
+1767 Tak - Tap time: 7ms
+1767 Metro tak at time: 1.83668e+006
+-
+1768 Finger Tap at time: 1.83687e+006
+1768 Tak - Tap time: 6ms
+1768 Metro tak at time: 1.83688e+006
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+1768 Autosync Tap at time: 1.83707e+006
+--
+1769 Delayed tap happened at 1837217
+1769 Autosync Tap at time: 1.83726e+006
+--
+1770 Delayed tap happened at 1837408
+1770 Autosync Tap at time: 1.83746e+006
+--
+1771 Delayed tap happened at 1837612
+1771 Autosync Tap at time: 1.83767e+006
+--
+1772 Delayed tap happened at 1837816
+1772 Autosync Tap at time: 1.83787e+006
+--
+1773 Delayed tap happened at 1838025
+1773 Autosync Tap at time: 1.83807e+006
+--
+1774 Delayed tap happened at 1838219
+1774 Autosync Tap at time: 1.83826e+006
+--
+1775 Delayed tap happened at 1838413
+1775 Autosync Tap at time: 1.83845e+006
+--
+1776 Delayed tap happened at 1838604
+1776 Autosync Tap at time: 1.83865e+006
+--
+1777 Delayed tap happened at 1838801
+1777 Autosync Tap at time: 1.83885e+006
+--
+1778 Delayed tap happened at 1839001
+1778 Autosync Tap at time: 1.83904e+006
+--
+1779 Delayed tap happened at 1839195
+1779 Autosync Tap at time: 1.83924e+006
+--
+1780 Delayed tap happened at 1839387
+1780 Autosync Tap at time: 1.83944e+006
+--
+1781 Delayed tap happened at 1839592
+1781 Autosync Tap at time: 1.83964e+006
+--
+1782 Delayed tap happened at 1839791
+1782 Autosync Tap at time: 1.83983e+006
+--
+1783 Delayed tap happened at 1839986
+1783 Autosync Tap at time: 1.84003e+006
+--
+1784 Delayed tap happened at 1840176
+1784 Autosync Tap at time: 1.84022e+006
+--
+1785 Delayed tap happened at 1840374
+1785 Autosync Tap at time: 1.84042e+006
+--
+1786 Delayed tap happened at 1840569
+1786 Autosync Tap at time: 1.84061e+006
+--
+1787 Delayed tap happened at 1840764
+1787 Autosync Tap at time: 1.84081e+006
+--
+
+------ Autosync Phase ended, Pause ------ 
+
+1788 Delayed tap happened at 1840958
+-
+1789 Metro tak at time: 1.8479e+006
+1789Tap - Tak time: 360ms
+1789 Finger Tap at time: 1.84826e+006
+-
+1790 Metro tak at time: 1.8499e+006
+1790Tap - Tak time: 177ms
+1790 Finger Tap at time: 1.85008e+006
+-
+1791 Finger Tap at time: 1.85185e+006
+1791 Tak - Tap time: 51ms
+1791 Metro tak at time: 1.8519e+006
+-
+1792 Finger Tap at time: 1.85369e+006
+1792 Tak - Tap time: 212ms
+1792 Metro tak at time: 1.8539e+006
+-
+1793 Finger Tap at time: 1.85569e+006
+1793 Tak - Tap time: 218ms
+1793 Metro tak at time: 1.85591e+006
+-
+1794 Finger Tap at time: 1.85748e+006
+1794 Tak - Tap time: 423ms
+1794 Metro tak at time: 1.85791e+006
+-
+1795 Finger Tap at time: 1.85958e+006
+1795 Tak - Tap time: 326ms
+1795 Metro tak at time: 1.85991e+006
+-
+1796 Finger Tap at time: 1.86166e+006
+1796 Tak - Tap time: 246ms
+1796 Metro tak at time: 1.86191e+006
+-
+1797 Finger Tap at time: 1.86368e+006
+1797 Tak - Tap time: 227ms
+1797 Metro tak at time: 1.86391e+006
+-
+1798 Finger Tap at time: 1.8656e+006
+1798 Tak - Tap time: 314ms
+1798 Metro tak at time: 1.86591e+006
+-
+1799 Finger Tap at time: 1.86757e+006
+1799 Tak - Tap time: 342ms
+1799 Metro tak at time: 1.86791e+006
+-
+1800 Finger Tap at time: 1.86944e+006
+1800 Tak - Tap time: 473ms
+1800 Metro tak at time: 1.86992e+006
+-
+1801 Finger Tap at time: 1.87141e+006
+1801 Tak - Tap time: 508ms
+1801 Metro tak at time: 1.87192e+006
+-
+1802 Finger Tap at time: 1.87388e+006
+1802 Tak - Tap time: 38ms
+1802 Metro tak at time: 1.87392e+006
+-
+1803 Finger Tap at time: 1.87586e+006
+1803 Tak - Tap time: 60ms
+1803 Metro tak at time: 1.87592e+006
+-
+1804 Metro tak at time: 1.87792e+006
+1804Tap - Tak time: 210ms
+1804 Finger Tap at time: 1.87813e+006
+-
+1805 Finger Tap at time: 1.8799e+006
+1805 Tak - Tap time: 25ms
+1805 Metro tak at time: 1.87992e+006
+-
+1806 Metro tak at time: 1.88192e+006
+1806Tap - Tak time: 74ms
+1806 Finger Tap at time: 1.882e+006
+-
+1807 Finger Tap at time: 1.88374e+006
+1807 Tak - Tap time: 182ms
+1807 Metro tak at time: 1.88392e+006
+-
+1808 Finger Tap at time: 1.88548e+006
+1808 Tak - Tap time: 444ms
+1808 Metro tak at time: 1.88593e+006
+-
+1809 Finger Tap at time: 1.88777e+006
+1809 Tak - Tap time: 153ms
+1809 Metro tak at time: 1.88793e+006
+-
+1810 Finger Tap at time: 1.88986e+006
+1810 Tak - Tap time: 66ms
+1810 Metro tak at time: 1.88993e+006
+-
+1811 Metro tak at time: 1.89193e+006
+-
+1812 Finger Tap at time: 1.89362e+006
+1812 Tak - Tap time: 310ms
+1812 Metro tak at time: 1.89393e+006
+-
+1813 Metro tak at time: 1.89593e+006
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+1813 Autosync Tap at time: 1.89789e+006
+--
+1814 Delayed tap happened at 1898038
+1814 Autosync Tap at time: 1.90023e+006
+--
+1815 Delayed tap happened at 1900383
+1815 Autosync Tap at time: 1.90259e+006
+--
+1816 Delayed tap happened at 1902740
+1816 Autosync Tap at time: 1.9047e+006
+--
+1817 Delayed tap happened at 1904854
+1817 Autosync Tap at time: 1.90666e+006
+--
+1818 Delayed tap happened at 1906808
+1818 Autosync Tap at time: 1.90857e+006
+--
+1819 Delayed tap happened at 1908724
+1819 Autosync Tap at time: 1.91049e+006
+--
+1820 Delayed tap happened at 1910644
+1820 Autosync Tap at time: 1.91241e+006
+--
+1821 Delayed tap happened at 1912558
+1821 Autosync Tap at time: 1.91431e+006
+--
+1822 Delayed tap happened at 1914460
+1822 Autosync Tap at time: 1.91613e+006
+--
+1823 Delayed tap happened at 1916280
+1823 Autosync Tap at time: 1.91809e+006
+--
+1824 Delayed tap happened at 1918240
+1824 Autosync Tap at time: 1.92023e+006
+--
+1825 Delayed tap happened at 1920385
+1825 Autosync Tap at time: 1.9222e+006
+--
+1826 Delayed tap happened at 1922351
+1826 Autosync Tap at time: 1.92404e+006
+--
+1827 Delayed tap happened at 1924191
+1827 Autosync Tap at time: 1.92591e+006
+--
+1828 Delayed tap happened at 1926056
+1828 Autosync Tap at time: 1.92776e+006
+--
+1829 Delayed tap happened at 1927907
+1829 Autosync Tap at time: 1.92957e+006
+--
+1830 Delayed tap happened at 1929724
+1830 Autosync Tap at time: 1.93123e+006
+--
+1831 Delayed tap happened at 1931383
+1831 Autosync Tap at time: 1.93306e+006
+--
+1832 Delayed tap happened at 1933213
+1832 Autosync Tap at time: 1.93481e+006
+--
+1833 Delayed tap happened at 1934957
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+1834 Metro tak at time: 1.94195e+006
+-
+1835 Finger Tap at time: 1.94264e+006
+1835 Tak - Tap time: 311ms
+1835 Metro tak at time: 1.94295e+006
+-
+1836 Finger Tap at time: 1.9438e+006
+1836 Tak - Tap time: 158ms
+1836 Metro tak at time: 1.94396e+006
+-
+1837 Finger Tap at time: 1.94481e+006
+1837 Tak - Tap time: 147ms
+1837 Metro tak at time: 1.94496e+006
+-
+1838 Finger Tap at time: 1.94587e+006
+1838 Tak - Tap time: 91ms
+1838 Metro tak at time: 1.94596e+006
+-
+1839 Finger Tap at time: 1.94687e+006
+1839 Tak - Tap time: 90ms
+1839 Metro tak at time: 1.94696e+006
+-
+1840 Finger Tap at time: 1.94788e+006
+1840 Tak - Tap time: 79ms
+1840 Metro tak at time: 1.94796e+006
+-
+1841 Metro tak at time: 1.94896e+006
+1841Tap - Tak time: 12ms
+1841 Finger Tap at time: 1.94897e+006
+-
+1842 Finger Tap at time: 1.94987e+006
+1842 Tak - Tap time: 87ms
+1842 Metro tak at time: 1.94996e+006
+-
+1843 Finger Tap at time: 1.95089e+006
+1843 Tak - Tap time: 73ms
+1843 Metro tak at time: 1.95096e+006
+-
+1844 Finger Tap at time: 1.95188e+006
+1844 Tak - Tap time: 87ms
+1844 Metro tak at time: 1.95196e+006
+-
+1845 Finger Tap at time: 1.95281e+006
+1845 Tak - Tap time: 159ms
+1845 Metro tak at time: 1.95297e+006
+-
+1846 Finger Tap at time: 1.95379e+006
+1846 Tak - Tap time: 182ms
+1846 Metro tak at time: 1.95397e+006
+-
+1847 Finger Tap at time: 1.95483e+006
+1847 Tak - Tap time: 140ms
+1847 Metro tak at time: 1.95497e+006
+-
+1848 Finger Tap at time: 1.9558e+006
+1848 Tak - Tap time: 168ms
+1848 Metro tak at time: 1.95597e+006
+-
+1849 Finger Tap at time: 1.95687e+006
+1849 Tak - Tap time: 106ms
+1849 Metro tak at time: 1.95697e+006
+-
+1850 Finger Tap at time: 1.95787e+006
+1850 Tak - Tap time: 106ms
+1850 Metro tak at time: 1.95797e+006
+-
+1851 Finger Tap at time: 1.95889e+006
+1851 Tak - Tap time: 81ms
+1851 Metro tak at time: 1.95897e+006
+-
+1852 Finger Tap at time: 1.9599e+006
+1852 Tak - Tap time: 72ms
+1852 Metro tak at time: 1.95998e+006
+-
+1853 Metro tak at time: 1.96098e+006
+1853Tap - Tak time: 17ms
+1853 Finger Tap at time: 1.96099e+006
+-
+1854 Finger Tap at time: 1.96195e+006
+1854 Tak - Tap time: 30ms
+1854 Metro tak at time: 1.96198e+006
+-
+1855 Finger Tap at time: 1.96292e+006
+1855 Tak - Tap time: 55ms
+1855 Metro tak at time: 1.96298e+006
+-
+1856 Finger Tap at time: 1.96396e+006
+1856 Tak - Tap time: 20ms
+1856 Metro tak at time: 1.96398e+006
+-
+1857 Metro tak at time: 1.96498e+006
+1857Tap - Tak time: 15ms
+1857 Finger Tap at time: 1.965e+006
+-
+1858 Finger Tap at time: 1.96598e+006
+1858 Tak - Tap time: 7ms
+1858 Metro tak at time: 1.96598e+006
+-
+1859 Finger Tap at time: 1.96694e+006
+1859 Tak - Tap time: 48ms
+1859 Metro tak at time: 1.96698e+006
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+1859 Autosync Tap at time: 1.96798e+006
+--
+1860 Delayed tap happened at 1968126
+1860 Autosync Tap at time: 1.96904e+006
+--
+1861 Delayed tap happened at 1969194
+1861 Autosync Tap at time: 1.97004e+006
+--
+1862 Delayed tap happened at 1970196
+1862 Autosync Tap at time: 1.97113e+006
+--
+1863 Delayed tap happened at 1971282
+1863 Autosync Tap at time: 1.97223e+006
+--
+1864 Delayed tap happened at 1972377
+1864 Autosync Tap at time: 1.97357e+006
+--
+1865 Delayed tap happened at 1973724
+1865 Autosync Tap at time: 1.97467e+006
+--
+1866 Delayed tap happened at 1974825
+1866 Autosync Tap at time: 1.97575e+006
+--
+1867 Delayed tap happened at 1975896
+1867 Autosync Tap at time: 1.97676e+006
+--
+1868 Delayed tap happened at 1976909
+1868 Autosync Tap at time: 1.97782e+006
+--
+1869 Delayed tap happened at 1977972
+1869 Autosync Tap at time: 1.97898e+006
+--
+1870 Delayed tap happened at 1979132
+1870 Autosync Tap at time: 1.98118e+006
+--
+1871 Delayed tap happened at 1981327
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+1872 Metro tak at time: 1.99234e+006
+-
+1873 Metro tak at time: 1.99267e+006
+-
+1874 Finger Tap at time: 1.99288e+006
+1874 Tak - Tap time: 131ms
+1874 Metro tak at time: 1.99301e+006
+-
+1875 Finger Tap at time: 1.99327e+006
+1875 Tak - Tap time: 71ms
+1875 Metro tak at time: 1.99334e+006
+-
+1876 Finger Tap at time: 1.99363e+006
+1876 Tak - Tap time: 44ms
+1876 Metro tak at time: 1.99368e+006
+-
+1877 Finger Tap at time: 1.994e+006
+1877 Tak - Tap time: 13ms
+1877 Metro tak at time: 1.99401e+006
+-
+1878 Finger Tap at time: 1.99432e+006
+1878 Tak - Tap time: 27ms
+1878 Metro tak at time: 1.99435e+006
+-
+1879 Finger Tap at time: 1.99462e+006
+1879 Tak - Tap time: 61ms
+1879 Metro tak at time: 1.99468e+006
+-
+1880 Finger Tap at time: 1.99496e+006
+1880 Tak - Tap time: 51ms
+1880 Metro tak at time: 1.99501e+006
+-
+1881 Finger Tap at time: 1.99531e+006
+1881 Tak - Tap time: 41ms
+1881 Metro tak at time: 1.99535e+006
+-
+1882 Finger Tap at time: 1.99567e+006
+1882 Tak - Tap time: 13ms
+1882 Metro tak at time: 1.99568e+006
+-
+1883 Metro tak at time: 1.99602e+006
+1883Tap - Tak time: 26ms
+1883 Finger Tap at time: 1.99604e+006
+-
+1884 Metro tak at time: 1.99635e+006
+1884Tap - Tak time: 43ms
+1884 Finger Tap at time: 1.99639e+006
+-
+1885 Finger Tap at time: 1.99668e+006
+1885 Tak - Tap time: 10ms
+1885 Metro tak at time: 1.99669e+006
+-
+1886 Finger Tap at time: 1.99697e+006
+1886 Tak - Tap time: 54ms
+1886 Metro tak at time: 1.99702e+006
+-
+1887 Finger Tap at time: 1.99733e+006
+1887 Tak - Tap time: 28ms
+1887 Metro tak at time: 1.99735e+006
+-
+1888 Metro tak at time: 1.99769e+006
+1888Tap - Tak time: 1ms
+1888 Finger Tap at time: 1.99769e+006
+-
+1889 Finger Tap at time: 1.99801e+006
+1889 Tak - Tap time: 17ms
+1889 Metro tak at time: 1.99802e+006
+-
+1890 Finger Tap at time: 1.99833e+006
+1890 Tak - Tap time: 28ms
+1890 Metro tak at time: 1.99836e+006
+-
+1891 Finger Tap at time: 1.99865e+006
+1891 Tak - Tap time: 45ms
+1891 Metro tak at time: 1.99869e+006
+-
+1892 Finger Tap at time: 1.999e+006
+1892 Tak - Tap time: 26ms
+1892 Metro tak at time: 1.99902e+006
+-
+1893 Finger Tap at time: 1.99928e+006
+1893 Tak - Tap time: 76ms
+1893 Metro tak at time: 1.99936e+006
+-
+1894 Finger Tap at time: 1.99963e+006
+1894 Tak - Tap time: 63ms
+1894 Metro tak at time: 1.99969e+006
+-
+1895 Finger Tap at time: 2e+006
+1895 Tak - Tap time: 32ms
+1895 Metro tak at time: 2.00003e+006
+-
+1896 Finger Tap at time: 2.00034e+006
+1896 Tak - Tap time: 17ms
+1896 Metro tak at time: 2.00036e+006
+-
+1897 Finger Tap at time: 2.00068e+006
+1897 Tak - Tap time: 20ms
+1897 Metro tak at time: 2.0007e+006
+-
+1898 Finger Tap at time: 2.00098e+006
+1898 Tak - Tap time: 49ms
+1898 Metro tak at time: 2.00103e+006
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+1898 Autosync Tap at time: 2.00134e+006
+--
+1899 Delayed tap happened at 2001491
+1899 Autosync Tap at time: 2.00175e+006
+--
+1900 Delayed tap happened at 2001903
+1900 Autosync Tap at time: 2.00217e+006
+--
+1901 Delayed tap happened at 2002324
+1901 Autosync Tap at time: 2.00259e+006
+--
+1902 Delayed tap happened at 2002745
+1902 Autosync Tap at time: 2.00299e+006
+--
+1903 Delayed tap happened at 2003145
+1903 Autosync Tap at time: 2.00346e+006
+--
+1904 Delayed tap happened at 2003606
+1904 Autosync Tap at time: 2.0039e+006
+--
+1905 Delayed tap happened at 2004048
+1905 Autosync Tap at time: 2.00436e+006
+--
+1906 Delayed tap happened at 2004512
+1906 Autosync Tap at time: 2.00478e+006
+--
+1907 Delayed tap happened at 2004935
+1907 Autosync Tap at time: 2.0052e+006
+--
+1908 Delayed tap happened at 2005353
+1908 Autosync Tap at time: 2.00568e+006
+--
+1909 Delayed tap happened at 2005831
+1909 Autosync Tap at time: 2.00612e+006
+--
+1910 Delayed tap happened at 2006273
+1910 Autosync Tap at time: 2.00655e+006
+--
+1911 Delayed tap happened at 2006702
+1911 Autosync Tap at time: 2.00703e+006
+--
+1912 Delayed tap happened at 2007181
+1912 Autosync Tap at time: 2.00743e+006
+--
+1913 Delayed tap happened at 2007577
+
+------ Autosync Phase ended, Pause ------ 
+
+-
+1914 Metro tak at time: 2.01296e+006
+-
+1915 Metro tak at time: 2.01322e+006
+-
+1916 Metro tak at time: 2.01347e+006
+1916Tap - Tak time: 90ms
+1916 Finger Tap at time: 2.01356e+006
+-
+1917 Metro tak at time: 2.01372e+006
+1917Tap - Tak time: 64ms
+1917 Finger Tap at time: 2.01378e+006
+-
+1918 Metro tak at time: 2.01397e+006
+1918Tap - Tak time: 35ms
+1918 Finger Tap at time: 2.01401e+006
+-
+1919 Metro tak at time: 2.01422e+006
+1919Tap - Tak time: 11ms
+1919 Finger Tap at time: 2.01423e+006
+-
+1920 Metro tak at time: 2.01447e+006
+1920Tap - Tak time: 2ms
+1920 Finger Tap at time: 2.01448e+006
+-
+1921 Finger Tap at time: 2.01472e+006
+1921 Tak - Tap time: 9ms
+1921 Metro tak at time: 2.01473e+006
+-
+1922 Metro tak at time: 2.01498e+006
+1922Tap - Tak time: 2ms
+1922 Finger Tap at time: 2.01498e+006
+-
+1923 Finger Tap at time: 2.01521e+006
+1923 Tak - Tap time: 17ms
+1923 Metro tak at time: 2.01523e+006
+-
+1924 Finger Tap at time: 2.01545e+006
+1924 Tak - Tap time: 27ms
+1924 Metro tak at time: 2.01548e+006
+-
+1925 Finger Tap at time: 2.01571e+006
+1925 Tak - Tap time: 21ms
+1925 Metro tak at time: 2.01573e+006
+-
+1926 Finger Tap at time: 2.01597e+006
+1926 Tak - Tap time: 11ms
+1926 Metro tak at time: 2.01598e+006
+-
+1927 Finger Tap at time: 2.01621e+006
+1927 Tak - Tap time: 24ms
+1927 Metro tak at time: 2.01623e+006
+-
+1928 Finger Tap at time: 2.01646e+006
+1928 Tak - Tap time: 22ms
+1928 Metro tak at time: 2.01648e+006
+-
+1929 Metro tak at time: 2.01681e+006
+1929Tap - Tak time: 0ms
+1929 Finger Tap at time: 2.01681e+006
+-
+1930 Finger Tap at time: 2.01706e+006
+1930 Tak - Tap time: 1ms
+1930 Metro tak at time: 2.01706e+006
+-
+1931 Finger Tap at time: 2.01731e+006
+1931 Tak - Tap time: 2ms
+1931 Metro tak at time: 2.01732e+006
+-
+1932 Finger Tap at time: 2.01756e+006
+1932 Tak - Tap time: 7ms
+1932 Metro tak at time: 2.01757e+006
+-
+1933 Finger Tap at time: 2.0178e+006
+1933 Tak - Tap time: 15ms
+1933 Metro tak at time: 2.01782e+006
+-
+1934 Finger Tap at time: 2.01805e+006
+1934 Tak - Tap time: 18ms
+1934 Metro tak at time: 2.01807e+006
+-
+1935 Finger Tap at time: 2.01829e+006
+1935 Tak - Tap time: 28ms
+1935 Metro tak at time: 2.01832e+006
+-
+1936 Finger Tap at time: 2.01855e+006
+1936 Tak - Tap time: 20ms
+1936 Metro tak at time: 2.01857e+006
+-
+1937 Finger Tap at time: 2.0188e+006
+1937 Tak - Tap time: 23ms
+1937 Metro tak at time: 2.01882e+006
+-
+1938 Finger Tap at time: 2.01903e+006
+1938 Tak - Tap time: 48ms
+1938 Metro tak at time: 2.01908e+006
+-
+1939 Finger Tap at time: 2.01931e+006
+1939 Tak - Tap time: 19ms
+1939 Metro tak at time: 2.01933e+006
+-
+1940 Finger Tap at time: 2.01956e+006
+1940 Tak - Tap time: 23ms
+1940 Metro tak at time: 2.01958e+006
+-
+1941 Metro tak at time: 2.01983e+006
+-
+1942 Metro tak at time: 2.02008e+006
+1942Tap - Tak time: 18ms
+1942 Finger Tap at time: 2.0201e+006
+-
+1943 Metro tak at time: 2.02033e+006
+-
+1944 Metro tak at time: 2.02058e+006
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+1944 Autosync Tap at time: 2.02088e+006
+--
+1945 Delayed tap happened at 2021027
+1945 Autosync Tap at time: 2.02114e+006
+--
+1946 Delayed tap happened at 2021293
+1946 Autosync Tap at time: 2.0214e+006
+--
+1947 Delayed tap happened at 2021547
+1947 Autosync Tap at time: 2.02168e+006
+--
+1948 Delayed tap happened at 2021836
+1948 Autosync Tap at time: 2.02198e+006
+--
+1949 Delayed tap happened at 2022128
+1949 Autosync Tap at time: 2.02227e+006
+--
+1950 Delayed tap happened at 2022419
+1950 Autosync Tap at time: 2.02259e+006
+--
+1951 Delayed tap happened at 2022739
+1951 Autosync Tap at time: 2.02291e+006
+--
+1952 Delayed tap happened at 2023058
+1952 Autosync Tap at time: 2.02317e+006
+--
+1953 Delayed tap happened at 2023318
+1953 Autosync Tap at time: 2.02353e+006
+--
+1954 Delayed tap happened at 2023680
+1954 Autosync Tap at time: 2.0238e+006
+--
+1955 Delayed tap happened at 2023952
+1955 Autosync Tap at time: 2.02403e+006
+--
+1956 Delayed tap happened at 2024180
+1956 Autosync Tap at time: 2.02458e+006
+--
+1957 Delayed tap happened at 2024734
+1957 Autosync Tap at time: 2.02551e+006
+--
+
+------ Autosync Phase ended, Pause ------ 
+
+1958 Delayed tap happened at 2025658
+-
+1959 Metro tak at time: 2.03111e+006
+-
+1960 Finger Tap at time: 2.0314e+006
+1960 Tak - Tap time: 212ms
+1960 Metro tak at time: 2.03161e+006
+1960Tap - Tak time: 184ms
+1960 Finger Tap at time: 2.03179e+006
+-
+1961 Finger Tap at time: 2.03207e+006
+1961 Tak - Tap time: 35ms
+1961 Metro tak at time: 2.03211e+006
+-
+1962 Finger Tap at time: 2.03254e+006
+1962 Tak - Tap time: 65ms
+1962 Metro tak at time: 2.03261e+006
+-
+1963 Finger Tap at time: 2.03302e+006
+1963 Tak - Tap time: 86ms
+1963 Metro tak at time: 2.03311e+006
+-
+1964 Finger Tap at time: 2.03353e+006
+1964 Tak - Tap time: 84ms
+1964 Metro tak at time: 2.03361e+006
+-
+1965 Finger Tap at time: 2.03406e+006
+1965 Tak - Tap time: 49ms
+1965 Metro tak at time: 2.03411e+006
+-
+1966 Finger Tap at time: 2.0346e+006
+1966 Tak - Tap time: 18ms
+1966 Metro tak at time: 2.03461e+006
+-
+1967 Finger Tap at time: 2.03508e+006
+1967 Tak - Tap time: 37ms
+1967 Metro tak at time: 2.03512e+006
+-
+1968 Finger Tap at time: 2.03556e+006
+1968 Tak - Tap time: 60ms
+1968 Metro tak at time: 2.03562e+006
+-
+1969 Finger Tap at time: 2.03604e+006
+1969 Tak - Tap time: 76ms
+1969 Metro tak at time: 2.03612e+006
+-
+1970 Finger Tap at time: 2.03657e+006
+1970 Tak - Tap time: 51ms
+1970 Metro tak at time: 2.03662e+006
+-
+1971 Finger Tap at time: 2.03711e+006
+1971 Tak - Tap time: 9ms
+1971 Metro tak at time: 2.03712e+006
+-
+1972 Finger Tap at time: 2.0376e+006
+1972 Tak - Tap time: 25ms
+1972 Metro tak at time: 2.03762e+006
+-
+1973 Finger Tap at time: 2.03812e+006
+1973 Tak - Tap time: 3ms
+1973 Metro tak at time: 2.03812e+006
+-
+1974 Finger Tap at time: 2.03861e+006
+1974 Tak - Tap time: 13ms
+1974 Metro tak at time: 2.03862e+006
+-
+1975 Metro tak at time: 2.03913e+006
+1975Tap - Tak time: 6ms
+1975 Finger Tap at time: 2.03913e+006
+-
+1976 Finger Tap at time: 2.03961e+006
+1976 Tak - Tap time: 18ms
+1976 Metro tak at time: 2.03963e+006
+-
+1977 Finger Tap at time: 2.04009e+006
+1977 Tak - Tap time: 42ms
+1977 Metro tak at time: 2.04013e+006
+-
+1978 Finger Tap at time: 2.04057e+006
+1978 Tak - Tap time: 59ms
+1978 Metro tak at time: 2.04063e+006
+-
+1979 Finger Tap at time: 2.04109e+006
+1979 Tak - Tap time: 46ms
+1979 Metro tak at time: 2.04113e+006
+-
+1980 Finger Tap at time: 2.0416e+006
+1980 Tak - Tap time: 37ms
+1980 Metro tak at time: 2.04163e+006
+-
+1981 Finger Tap at time: 2.04208e+006
+1981 Tak - Tap time: 52ms
+1981 Metro tak at time: 2.04213e+006
+-
+1982 Finger Tap at time: 2.04255e+006
+1982 Tak - Tap time: 90ms
+1982 Metro tak at time: 2.04264e+006
+-
+1983 Finger Tap at time: 2.04299e+006
+1983 Tak - Tap time: 146ms
+1983 Metro tak at time: 2.04314e+006
+-
+1984 Finger Tap at time: 2.04349e+006
+1984 Tak - Tap time: 153ms
+1984 Metro tak at time: 2.04364e+006
+-
+1985 Finger Tap at time: 2.04397e+006
+1985 Tak - Tap time: 171ms
+1985 Metro tak at time: 2.04414e+006
+1985Tap - Tak time: 101ms
+1985 Finger Tap at time: 2.04424e+006
+-
+1986 Finger Tap at time: 2.04457e+006
+1986 Tak - Tap time: 71ms
+1986 Metro tak at time: 2.04464e+006
+-
+1987 Finger Tap at time: 2.04502e+006
+1987 Tak - Tap time: 118ms
+1987 Metro tak at time: 2.04514e+006
+-
+1988 Finger Tap at time: 2.04556e+006
+1988 Tak - Tap time: 88ms
+1988 Metro tak at time: 2.04564e+006
+-
+1989 Finger Tap at time: 2.04601e+006
+1989 Tak - Tap time: 134ms
+1989 Metro tak at time: 2.04615e+006
+-
+1990 Finger Tap at time: 2.04658e+006
+1990 Tak - Tap time: 65ms
+1990 Metro tak at time: 2.04665e+006
+
+------ Metronome Phase ended, autosync phase on ------ 
+
+1990 Autosync Tap at time: 2.04709e+006
+--
+1991 Delayed tap happened at 2047241
+1991 Autosync Tap at time: 2.04801e+006
+--
+1992 Delayed tap happened at 2048165
+1992 Autosync Tap at time: 2.04826e+006
+--
+1993 Delayed tap happened at 2048416
+1993 Autosync Tap at time: 2.04882e+006
+--
+1994 Delayed tap happened at 2048968
+1994 Autosync Tap at time: 2.04974e+006
+--
+1995 Delayed tap happened at 2049888
+1995 Autosync Tap at time: 2.05065e+006
+--
+1996 Delayed tap happened at 2050801
+1996 Autosync Tap at time: 2.05154e+006
+--
+1997 Delayed tap happened at 2051695
+1997 Autosync Tap at time: 2.05269e+006
+--
+1998 Delayed tap happened at 2052836
+1998 Autosync Tap at time: 2.0556e+006
+--
+1999 Delayed tap happened at 2055752
+
+------ Autosync Phase ended, Pause ------ 
+

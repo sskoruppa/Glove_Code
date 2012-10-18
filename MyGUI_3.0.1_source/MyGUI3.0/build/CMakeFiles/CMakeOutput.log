@@ -1,0 +1,353 @@
+The system is: Windows - 5.1 - x86
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe cmTryCompileExec.vcxproj /p:Configuration=Debug
+Microsoft (R)-Buildmodul, Version 4.0.30319.1
+[Microsoft .NET Framework, Version 4.0.30319.239]
+Copyright (C) Microsoft Corporation 2007. Alle Rechte vorbehalten.
+
+Der Buildvorgang wurde am 29.02.2012 14:26:51 gestartet.
+Projekt "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\cmTryCompileExec.vcxproj" auf Knoten "1" (Standardziele).
+InitializeBuildStatus:
+  "cmTryCompileExec.dir\Debug\cmTryCompileExec.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+ClCompile:
+  C:\Programme\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec.dir\Debug\\" /Fd"C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\testCCompiler.c"  /Zm1000 
+  Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 16.00.30319.01 for 80x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec.dir\Debug\\" /Fd"C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\testCCompiler.c"  /Zm1000 
+  
+  testCCompiler.c
+ManifestResourceCompile:
+  C:\Programme\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest.res" cmTryCompileExec.dir\Debug\cmTryCompileExec_manifest.rc 
+Link:
+  C:\Programme\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /ManifestFile:"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.pdb" /SUBSYSTEM:CONSOLE /STACK:"10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec.lib" /MACHINE:X86 cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest.res
+  cmTryCompileExec.dir\Debug\testCCompiler.obj  /machine:X86 /debug 
+Manifest:
+  C:\Programme\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest" /manifest cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.intermediate.manifest
+  C:\Programme\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest.res" cmTryCompileExec.dir\Debug\cmTryCompileExec_manifest.rc 
+LinkEmbedManifest:
+  C:\Programme\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /ManifestFile:"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.pdb" /SUBSYSTEM:CONSOLE /STACK:"10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec.lib" /MACHINE:X86 cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest.res
+  cmTryCompileExec.dir\Debug\testCCompiler.obj  /machine:X86 /debug 
+  cmTryCompileExec.vcxproj -> C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.exe
+FinalizeBuildStatus:
+  Die Datei "cmTryCompileExec.dir\Debug\cmTryCompileExec.unsuccessfulbuild" wird gelîscht.
+  Aktualisieren des Timestamps von "cmTryCompileExec.dir\Debug\cmTryCompileExec.lastbuildstate".
+Die Erstellung von Projekt "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\cmTryCompileExec.vcxproj" ist abgeschlossen (Standardziele).
+
+Der Buildvorgang wurde erfolgreich ausgefÅhrt.
+    0 Warnung(en)
+    0 Fehler
+
+Verstrichene Zeit 00:00:01.10
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe cmTryCompileExec.vcxproj /p:Configuration=Debug
+Microsoft (R)-Buildmodul, Version 4.0.30319.1
+[Microsoft .NET Framework, Version 4.0.30319.239]
+Copyright (C) Microsoft Corporation 2007. Alle Rechte vorbehalten.
+
+Der Buildvorgang wurde am 29.02.2012 14:26:52 gestartet.
+Projekt "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\cmTryCompileExec.vcxproj" auf Knoten "1" (Standardziele).
+InitializeBuildStatus:
+  "cmTryCompileExec.dir\Debug\cmTryCompileExec.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+ClCompile:
+  C:\Programme\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec.dir\Debug\\" /Fd"C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeCCompilerABI.c"  /Zm1000 
+  Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 16.00.30319.01 for 80x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec.dir\Debug\\" /Fd"C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeCCompilerABI.c"  /Zm1000 
+  
+  CMakeCCompilerABI.c
+ManifestResourceCompile:
+  C:\Programme\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest.res" cmTryCompileExec.dir\Debug\cmTryCompileExec_manifest.rc 
+Link:
+  C:\Programme\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.pdb" /SUBSYSTEM:CONSOLE /STACK:"10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec.lib" /MACHINE:X86 cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest.res
+  cmTryCompileExec.dir\Debug\CMakeCCompilerABI.obj  /machine:X86 /debug 
+Manifest:
+  C:\Programme\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest" /manifest cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.intermediate.manifest
+  C:\Programme\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest.res" cmTryCompileExec.dir\Debug\cmTryCompileExec_manifest.rc 
+LinkEmbedManifest:
+  C:\Programme\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.pdb" /SUBSYSTEM:CONSOLE /STACK:"10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec.lib" /MACHINE:X86 cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest.res
+  cmTryCompileExec.dir\Debug\CMakeCCompilerABI.obj  /machine:X86 /debug 
+  cmTryCompileExec.vcxproj -> C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.exe
+FinalizeBuildStatus:
+  Die Datei "cmTryCompileExec.dir\Debug\cmTryCompileExec.unsuccessfulbuild" wird gelîscht.
+  Aktualisieren des Timestamps von "cmTryCompileExec.dir\Debug\cmTryCompileExec.lastbuildstate".
+Die Erstellung von Projekt "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\cmTryCompileExec.vcxproj" ist abgeschlossen (Standardziele).
+
+Der Buildvorgang wurde erfolgreich ausgefÅhrt.
+    0 Warnung(en)
+    0 Fehler
+
+Verstrichene Zeit 00:00:01.06
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe cmTryCompileExec.vcxproj /p:Configuration=Debug
+Microsoft (R)-Buildmodul, Version 4.0.30319.1
+[Microsoft .NET Framework, Version 4.0.30319.239]
+Copyright (C) Microsoft Corporation 2007. Alle Rechte vorbehalten.
+
+Der Buildvorgang wurde am 29.02.2012 14:26:54 gestartet.
+Projekt "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\cmTryCompileExec.vcxproj" auf Knoten "1" (Standardziele).
+InitializeBuildStatus:
+  "cmTryCompileExec.dir\Debug\cmTryCompileExec.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+ClCompile:
+  C:\Programme\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec.dir\Debug\\" /Fd"C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"  /Zm1000 
+  Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 16.00.30319.01 for 80x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec.dir\Debug\\" /Fd"C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"  /Zm1000 
+  
+  testCXXCompiler.cxx
+ManifestResourceCompile:
+  C:\Programme\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest.res" cmTryCompileExec.dir\Debug\cmTryCompileExec_manifest.rc 
+Link:
+  C:\Programme\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /ManifestFile:"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.pdb" /SUBSYSTEM:CONSOLE /STACK:"10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec.lib" /MACHINE:X86 cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest.res
+  cmTryCompileExec.dir\Debug\testCXXCompiler.obj  /machine:X86 /debug 
+Manifest:
+  C:\Programme\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest" /manifest cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.intermediate.manifest
+  C:\Programme\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest.res" cmTryCompileExec.dir\Debug\cmTryCompileExec_manifest.rc 
+LinkEmbedManifest:
+  C:\Programme\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /ManifestFile:"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.pdb" /SUBSYSTEM:CONSOLE /STACK:"10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec.lib" /MACHINE:X86 cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest.res
+  cmTryCompileExec.dir\Debug\testCXXCompiler.obj  /machine:X86 /debug 
+  cmTryCompileExec.vcxproj -> C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.exe
+FinalizeBuildStatus:
+  Die Datei "cmTryCompileExec.dir\Debug\cmTryCompileExec.unsuccessfulbuild" wird gelîscht.
+  Aktualisieren des Timestamps von "cmTryCompileExec.dir\Debug\cmTryCompileExec.lastbuildstate".
+Die Erstellung von Projekt "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\cmTryCompileExec.vcxproj" ist abgeschlossen (Standardziele).
+
+Der Buildvorgang wurde erfolgreich ausgefÅhrt.
+    0 Warnung(en)
+    0 Fehler
+
+Verstrichene Zeit 00:00:01.07
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe cmTryCompileExec.vcxproj /p:Configuration=Debug
+Microsoft (R)-Buildmodul, Version 4.0.30319.1
+[Microsoft .NET Framework, Version 4.0.30319.239]
+Copyright (C) Microsoft Corporation 2007. Alle Rechte vorbehalten.
+
+Der Buildvorgang wurde am 29.02.2012 14:26:55 gestartet.
+Projekt "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\cmTryCompileExec.vcxproj" auf Knoten "1" (Standardziele).
+InitializeBuildStatus:
+  "cmTryCompileExec.dir\Debug\cmTryCompileExec.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+ClCompile:
+  C:\Programme\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec.dir\Debug\\" /Fd"C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeCXXCompilerABI.cpp"  /Zm1000 
+  Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 16.00.30319.01 for 80x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec.dir\Debug\\" /Fd"C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeCXXCompilerABI.cpp"  /Zm1000 
+  
+  CMakeCXXCompilerABI.cpp
+ManifestResourceCompile:
+  C:\Programme\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest.res" cmTryCompileExec.dir\Debug\cmTryCompileExec_manifest.rc 
+Link:
+  C:\Programme\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.pdb" /SUBSYSTEM:CONSOLE /STACK:"10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec.lib" /MACHINE:X86 cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest.res
+  cmTryCompileExec.dir\Debug\CMakeCXXCompilerABI.obj  /machine:X86 /debug 
+Manifest:
+  C:\Programme\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest" /manifest cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.intermediate.manifest
+  C:\Programme\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest.res" cmTryCompileExec.dir\Debug\cmTryCompileExec_manifest.rc 
+LinkEmbedManifest:
+  C:\Programme\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.pdb" /SUBSYSTEM:CONSOLE /STACK:"10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec.lib" /MACHINE:X86 cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest.res
+  cmTryCompileExec.dir\Debug\CMakeCXXCompilerABI.obj  /machine:X86 /debug 
+  cmTryCompileExec.vcxproj -> C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.exe
+FinalizeBuildStatus:
+  Die Datei "cmTryCompileExec.dir\Debug\cmTryCompileExec.unsuccessfulbuild" wird gelîscht.
+  Aktualisieren des Timestamps von "cmTryCompileExec.dir\Debug\cmTryCompileExec.lastbuildstate".
+Die Erstellung von Projekt "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\cmTryCompileExec.vcxproj" ist abgeschlossen (Standardziele).
+
+Der Buildvorgang wurde erfolgreich ausgefÅhrt.
+    0 Warnung(en)
+    0 Fehler
+
+Verstrichene Zeit 00:00:01.06
+
+
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe cmTryCompileExec.vcxproj /p:Configuration=Debug
+Microsoft (R)-Buildmodul, Version 4.0.30319.1
+[Microsoft .NET Framework, Version 4.0.30319.239]
+Copyright (C) Microsoft Corporation 2007. Alle Rechte vorbehalten.
+
+Der Buildvorgang wurde am 29.02.2012 14:26:56 gestartet.
+Projekt "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\cmTryCompileExec.vcxproj" auf Knoten "1" (Standardziele).
+InitializeBuildStatus:
+  "cmTryCompileExec.dir\Debug\cmTryCompileExec.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+ClCompile:
+  C:\Programme\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec.dir\Debug\\" /Fd"C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"  /Zm1000 
+  Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 16.00.30319.01 for 80x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec.dir\Debug\\" /Fd"C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"  /Zm1000 
+  
+  CheckIncludeFile.c
+ManifestResourceCompile:
+  C:\Programme\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest.res" cmTryCompileExec.dir\Debug\cmTryCompileExec_manifest.rc 
+Link:
+  C:\Programme\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /ManifestFile:"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.pdb" /SUBSYSTEM:CONSOLE /STACK:"10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec.lib" /MACHINE:X86 cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest.res
+  cmTryCompileExec.dir\Debug\CheckIncludeFile.obj  /machine:X86 /debug 
+Manifest:
+  C:\Programme\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest" /manifest cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.intermediate.manifest
+  C:\Programme\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest.res" cmTryCompileExec.dir\Debug\cmTryCompileExec_manifest.rc 
+LinkEmbedManifest:
+  C:\Programme\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /ManifestFile:"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.pdb" /SUBSYSTEM:CONSOLE /STACK:"10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec.lib" /MACHINE:X86 cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest.res
+  cmTryCompileExec.dir\Debug\CheckIncludeFile.obj  /machine:X86 /debug 
+  cmTryCompileExec.vcxproj -> C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.exe
+FinalizeBuildStatus:
+  Die Datei "cmTryCompileExec.dir\Debug\cmTryCompileExec.unsuccessfulbuild" wird gelîscht.
+  Aktualisieren des Timestamps von "cmTryCompileExec.dir\Debug\cmTryCompileExec.lastbuildstate".
+Die Erstellung von Projekt "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\cmTryCompileExec.vcxproj" ist abgeschlossen (Standardziele).
+
+Der Buildvorgang wurde erfolgreich ausgefÅhrt.
+    0 Warnung(en)
+    0 Fehler
+
+Verstrichene Zeit 00:00:01.04
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe cmTryCompileExec.vcxproj /p:Configuration=Debug
+Microsoft (R)-Buildmodul, Version 4.0.30319.1
+[Microsoft .NET Framework, Version 4.0.30319.239]
+Copyright (C) Microsoft Corporation 2007. Alle Rechte vorbehalten.
+
+Der Buildvorgang wurde am 29.02.2012 14:26:58 gestartet.
+Projekt "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\cmTryCompileExec.vcxproj" auf Knoten "1" (Standardziele).
+InitializeBuildStatus:
+  "cmTryCompileExec.dir\Debug\cmTryCompileExec.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+ClCompile:
+  C:\Programme\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec.dir\Debug\\" /Fd"C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"  /Zm1000 
+  Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 16.00.30319.01 for 80x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec.dir\Debug\\" /Fd"C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"  /Zm1000 
+  
+  CheckIncludeFile.c
+ManifestResourceCompile:
+  C:\Programme\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest.res" cmTryCompileExec.dir\Debug\cmTryCompileExec_manifest.rc 
+Link:
+  C:\Programme\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /ManifestFile:"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.pdb" /SUBSYSTEM:CONSOLE /STACK:"10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec.lib" /MACHINE:X86 cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest.res
+  cmTryCompileExec.dir\Debug\CheckIncludeFile.obj  /machine:X86 /debug 
+Manifest:
+  C:\Programme\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest" /manifest cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.intermediate.manifest
+  C:\Programme\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest.res" cmTryCompileExec.dir\Debug\cmTryCompileExec_manifest.rc 
+LinkEmbedManifest:
+  C:\Programme\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /ManifestFile:"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.pdb" /SUBSYSTEM:CONSOLE /STACK:"10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec.lib" /MACHINE:X86 cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest.res
+  cmTryCompileExec.dir\Debug\CheckIncludeFile.obj  /machine:X86 /debug 
+  cmTryCompileExec.vcxproj -> C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.exe
+FinalizeBuildStatus:
+  Die Datei "cmTryCompileExec.dir\Debug\cmTryCompileExec.unsuccessfulbuild" wird gelîscht.
+  Aktualisieren des Timestamps von "cmTryCompileExec.dir\Debug\cmTryCompileExec.lastbuildstate".
+Die Erstellung von Projekt "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\cmTryCompileExec.vcxproj" ist abgeschlossen (Standardziele).
+
+Der Buildvorgang wurde erfolgreich ausgefÅhrt.
+    0 Warnung(en)
+    0 Fehler
+
+Verstrichene Zeit 00:00:01.06
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe cmTryCompileExec.vcxproj /p:Configuration=Debug
+Microsoft (R)-Buildmodul, Version 4.0.30319.1
+[Microsoft .NET Framework, Version 4.0.30319.239]
+Copyright (C) Microsoft Corporation 2007. Alle Rechte vorbehalten.
+
+Der Buildvorgang wurde am 29.02.2012 14:26:59 gestartet.
+Projekt "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\cmTryCompileExec.vcxproj" auf Knoten "1" (Standardziele).
+InitializeBuildStatus:
+  "cmTryCompileExec.dir\Debug\cmTryCompileExec.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+ClCompile:
+  C:\Programme\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec.dir\Debug\\" /Fd"C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"  /Zm1000 
+  Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 16.00.30319.01 for 80x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec.dir\Debug\\" /Fd"C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"  /Zm1000 
+  
+  CheckIncludeFile.c
+ManifestResourceCompile:
+  C:\Programme\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest.res" cmTryCompileExec.dir\Debug\cmTryCompileExec_manifest.rc 
+Link:
+  C:\Programme\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /ManifestFile:"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.pdb" /SUBSYSTEM:CONSOLE /STACK:"10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec.lib" /MACHINE:X86 cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest.res
+  cmTryCompileExec.dir\Debug\CheckIncludeFile.obj  /machine:X86 /debug 
+Manifest:
+  C:\Programme\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest" /manifest cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.intermediate.manifest
+  C:\Programme\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest.res" cmTryCompileExec.dir\Debug\cmTryCompileExec_manifest.rc 
+LinkEmbedManifest:
+  C:\Programme\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /ManifestFile:"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.pdb" /SUBSYSTEM:CONSOLE /STACK:"10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec.lib" /MACHINE:X86 cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest.res
+  cmTryCompileExec.dir\Debug\CheckIncludeFile.obj  /machine:X86 /debug 
+  cmTryCompileExec.vcxproj -> C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.exe
+FinalizeBuildStatus:
+  Die Datei "cmTryCompileExec.dir\Debug\cmTryCompileExec.unsuccessfulbuild" wird gelîscht.
+  Aktualisieren des Timestamps von "cmTryCompileExec.dir\Debug\cmTryCompileExec.lastbuildstate".
+Die Erstellung von Projekt "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\cmTryCompileExec.vcxproj" ist abgeschlossen (Standardziele).
+
+Der Buildvorgang wurde erfolgreich ausgefÅhrt.
+    0 Warnung(en)
+    0 Fehler
+
+Verstrichene Zeit 00:00:01.07
+
+
+Determining size of unsigned short passed with the following output:
+Change Dir: C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe cmTryCompileExec.vcxproj /p:Configuration=Debug
+Microsoft (R)-Buildmodul, Version 4.0.30319.1
+[Microsoft .NET Framework, Version 4.0.30319.239]
+Copyright (C) Microsoft Corporation 2007. Alle Rechte vorbehalten.
+
+Der Buildvorgang wurde am 29.02.2012 14:27:00 gestartet.
+Projekt "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\cmTryCompileExec.vcxproj" auf Knoten "1" (Standardziele).
+InitializeBuildStatus:
+  "cmTryCompileExec.dir\Debug\cmTryCompileExec.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+ClCompile:
+  C:\Programme\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec.dir\Debug\\" /Fd"C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CheckTypeSize\CMAKE_SIZEOF_UNSIGNED_SHORT.c"  /Zm1000 
+  Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 16.00.30319.01 for 80x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec.dir\Debug\\" /Fd"C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CheckTypeSize\CMAKE_SIZEOF_UNSIGNED_SHORT.c"  /Zm1000 
+  
+  CMAKE_SIZEOF_UNSIGNED_SHORT.c
+ManifestResourceCompile:
+  C:\Programme\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest.res" cmTryCompileExec.dir\Debug\cmTryCompileExec_manifest.rc 
+Link:
+  C:\Programme\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /ManifestFile:"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.pdb" /SUBSYSTEM:CONSOLE /STACK:"10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec.lib" /MACHINE:X86 cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest.res
+  cmTryCompileExec.dir\Debug\CMAKE_SIZEOF_UNSIGNED_SHORT.obj  /machine:X86 /debug 
+Manifest:
+  C:\Programme\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest" /manifest cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.intermediate.manifest
+  C:\Programme\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest.res" cmTryCompileExec.dir\Debug\cmTryCompileExec_manifest.rc 
+LinkEmbedManifest:
+  C:\Programme\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /ManifestFile:"cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.pdb" /SUBSYSTEM:CONSOLE /STACK:"10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec.lib" /MACHINE:X86 cmTryCompileExec.dir\Debug\cmTryCompileExec.exe.embed.manifest.res
+  cmTryCompileExec.dir\Debug\CMAKE_SIZEOF_UNSIGNED_SHORT.obj  /machine:X86 /debug 
+  cmTryCompileExec.vcxproj -> C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec.exe
+FinalizeBuildStatus:
+  Die Datei "cmTryCompileExec.dir\Debug\cmTryCompileExec.unsuccessfulbuild" wird gelîscht.
+  Aktualisieren des Timestamps von "cmTryCompileExec.dir\Debug\cmTryCompileExec.lastbuildstate".
+Die Erstellung von Projekt "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeTmp\cmTryCompileExec.vcxproj" ist abgeschlossen (Standardziele).
+
+Der Buildvorgang wurde erfolgreich ausgefÅhrt.
+    0 Warnung(en)
+    0 Fehler
+
+Verstrichene Zeit 00:00:01.06
+
+

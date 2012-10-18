@@ -1,0 +1,849 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_Button.cpp">
+      <Filter>Source Files\Widget\Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_Canvas.cpp">
+      <Filter>Source Files\Widget\Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_ComboBox.cpp">
+      <Filter>Source Files\Widget\Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_DDContainer.cpp">
+      <Filter>Source Files\Widget\Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_Edit.cpp">
+      <Filter>Source Files\Widget\Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_HScroll.cpp">
+      <Filter>Source Files\Widget\Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_ItemBox.cpp">
+      <Filter>Source Files\Widget\Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_List.cpp">
+      <Filter>Source Files\Widget\Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_ListBox.cpp">
+      <Filter>Source Files\Widget\Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_ListCtrl.cpp">
+      <Filter>Source Files\Widget\Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_MenuBar.cpp">
+      <Filter>Source Files\Widget\Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_MenuCtrl.cpp">
+      <Filter>Source Files\Widget\Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_MenuItem.cpp">
+      <Filter>Source Files\Widget\Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_Message.cpp">
+      <Filter>Source Files\Widget\Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_MultiList.cpp">
+      <Filter>Source Files\Widget\Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_PopupMenu.cpp">
+      <Filter>Source Files\Widget\Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_Progress.cpp">
+      <Filter>Source Files\Widget\Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_ScrollView.cpp">
+      <Filter>Source Files\Widget\Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_StaticImage.cpp">
+      <Filter>Source Files\Widget\Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_StaticText.cpp">
+      <Filter>Source Files\Widget\Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_Tab.cpp">
+      <Filter>Source Files\Widget\Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_TabItem.cpp">
+      <Filter>Source Files\Widget\Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_VScroll.cpp">
+      <Filter>Source Files\Widget\Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_Widget.cpp">
+      <Filter>Source Files\Widget\Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_Window.cpp">
+      <Filter>Source Files\Widget\Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_EditText.cpp">
+      <Filter>Source Files\Core\SubWidget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_MainSkin.cpp">
+      <Filter>Source Files\Core\SubWidget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_RawRect.cpp">
+      <Filter>Source Files\Core\SubWidget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_RotatingSkin.cpp">
+      <Filter>Source Files\Core\SubWidget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_SimpleText.cpp">
+      <Filter>Source Files\Core\SubWidget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_SubSkin.cpp">
+      <Filter>Source Files\Core\SubWidget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_TileRect.cpp">
+      <Filter>Source Files\Core\SubWidget</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_LayerItem.cpp">
+      <Filter>Source Files\Core\LayerItem</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_LayerNode.cpp">
+      <Filter>Source Files\Core\LayerItem</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_OverlappedLayer.cpp">
+      <Filter>Source Files\Core\LayerItem</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_RenderItem.cpp">
+      <Filter>Source Files\Core\LayerItem</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_SharedLayer.cpp">
+      <Filter>Source Files\Core\LayerItem</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_SharedLayerNode.cpp">
+      <Filter>Source Files\Core\LayerItem</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_ActionController.cpp">
+      <Filter>Source Files\Core\Controller</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_ControllerEdgeHide.cpp">
+      <Filter>Source Files\Core\Controller</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_ControllerFadeAlpha.cpp">
+      <Filter>Source Files\Core\Controller</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_ControllerPosition.cpp">
+      <Filter>Source Files\Core\Controller</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_Exception.cpp">
+      <Filter>Source Files\Core\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_Precompiled.cpp">
+      <Filter>Source Files\Core\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_IWidgetCreator.cpp">
+      <Filter>Source Files\Core\Common\Interfaces</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_ScrollViewBase.cpp">
+      <Filter>Source Files\Core\Common\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_ResourceImageSet.cpp">
+      <Filter>Source Files\Core\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_ResourceImageSetPointer.cpp">
+      <Filter>Source Files\Core\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_ResourceManualFont.cpp">
+      <Filter>Source Files\Core\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_ResourceManualPointer.cpp">
+      <Filter>Source Files\Core\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_ResourceSkin.cpp">
+      <Filter>Source Files\Core\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_ResourceTrueTypeFont.cpp">
+      <Filter>Source Files\Core\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_MaskPickInfo.cpp">
+      <Filter>Source Files\Core\Resource\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_Any.cpp">
+      <Filter>Source Files\Core\Types</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_Colour.cpp">
+      <Filter>Source Files\Core\Types</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_ClipboardManager.cpp">
+      <Filter>Source Files\Core\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_ControllerManager.cpp">
+      <Filter>Source Files\Core\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_DataManager.cpp">
+      <Filter>Source Files\Core\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_DynLibManager.cpp">
+      <Filter>Source Files\Core\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_FactoryManager.cpp">
+      <Filter>Source Files\Core\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_FontManager.cpp">
+      <Filter>Source Files\Core\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_Gui.cpp">
+      <Filter>Source Files\Core\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_InputManager.cpp">
+      <Filter>Source Files\Core\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_LanguageManager.cpp">
+      <Filter>Source Files\Core\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_LayerManager.cpp">
+      <Filter>Source Files\Core\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_LayoutManager.cpp">
+      <Filter>Source Files\Core\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_PluginManager.cpp">
+      <Filter>Source Files\Core\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_PointerManager.cpp">
+      <Filter>Source Files\Core\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_RenderManager.cpp">
+      <Filter>Source Files\Core\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_ResourceManager.cpp">
+      <Filter>Source Files\Core\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_SkinManager.cpp">
+      <Filter>Source Files\Core\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_SubWidgetManager.cpp">
+      <Filter>Source Files\Core\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_WidgetManager.cpp">
+      <Filter>Source Files\Core\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_DataFileStream.cpp">
+      <Filter>Source Files\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_DataStream.cpp">
+      <Filter>Source Files\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_DynLib.cpp">
+      <Filter>Source Files\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_Guid.cpp">
+      <Filter>Source Files\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_RenderOut.cpp">
+      <Filter>Source Files\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_TextIterator.cpp">
+      <Filter>Source Files\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_TextureUtility.cpp">
+      <Filter>Source Files\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_Timer.cpp">
+      <Filter>Source Files\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_XmlDocument.cpp">
+      <Filter>Source Files\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_LogManager.cpp">
+      <Filter>Source Files\Utility\Logging</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\src\MyGUI_LogStream.cpp">
+      <Filter>Source Files\Utility\Logging</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_Allocator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_CustomAllocator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_DDItemInfo.h">
+      <Filter>Header Files\Widget\Types</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_IBItemInfo.h">
+      <Filter>Header Files\Widget\Types</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_MenuItemType.h">
+      <Filter>Header Files\Widget\Types</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_MessageStyle.h">
+      <Filter>Header Files\Widget\Types</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_WidgetToolTip.h">
+      <Filter>Header Files\Widget\Types</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_Button.h">
+      <Filter>Header Files\Widget\Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_Canvas.h">
+      <Filter>Header Files\Widget\Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_ComboBox.h">
+      <Filter>Header Files\Widget\Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_DDContainer.h">
+      <Filter>Header Files\Widget\Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_Edit.h">
+      <Filter>Header Files\Widget\Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_HScroll.h">
+      <Filter>Header Files\Widget\Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_ItemBox.h">
+      <Filter>Header Files\Widget\Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_List.h">
+      <Filter>Header Files\Widget\Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_ListBox.h">
+      <Filter>Header Files\Widget\Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_ListCtrl.h">
+      <Filter>Header Files\Widget\Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_MenuBar.h">
+      <Filter>Header Files\Widget\Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_MenuCtrl.h">
+      <Filter>Header Files\Widget\Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_MenuItem.h">
+      <Filter>Header Files\Widget\Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_Message.h">
+      <Filter>Header Files\Widget\Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_MultiList.h">
+      <Filter>Header Files\Widget\Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_PopupMenu.h">
+      <Filter>Header Files\Widget\Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_Progress.h">
+      <Filter>Header Files\Widget\Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_ScrollView.h">
+      <Filter>Header Files\Widget\Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_StaticImage.h">
+      <Filter>Header Files\Widget\Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_StaticText.h">
+      <Filter>Header Files\Widget\Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_Tab.h">
+      <Filter>Header Files\Widget\Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_TabItem.h">
+      <Filter>Header Files\Widget\Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_VScroll.h">
+      <Filter>Header Files\Widget\Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_Widget.h">
+      <Filter>Header Files\Widget\Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_Window.h">
+      <Filter>Header Files\Widget\Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_IWidgetFactory.h">
+      <Filter>Header Files\Widget\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_Bitwise.h">
+      <Filter>Header Files\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_CoordConverter.h">
+      <Filter>Header Files\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_DataFileStream.h">
+      <Filter>Header Files\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_DataStream.h">
+      <Filter>Header Files\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_Delegate.h">
+      <Filter>Header Files\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_DelegateImplement.h">
+      <Filter>Header Files\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_DynLib.h">
+      <Filter>Header Files\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_Enumerator.h">
+      <Filter>Header Files\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_EventPair.h">
+      <Filter>Header Files\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_Guid.h">
+      <Filter>Header Files\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_RenderOut.h">
+      <Filter>Header Files\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_TextChangeHistory.h">
+      <Filter>Header Files\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_TextIterator.h">
+      <Filter>Header Files\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_TextureUtility.h">
+      <Filter>Header Files\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_TextView.h">
+      <Filter>Header Files\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_Timer.h">
+      <Filter>Header Files\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_UString.h">
+      <Filter>Header Files\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_Utility.h">
+      <Filter>Header Files\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_WidgetTranslate.h">
+      <Filter>Header Files\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_XmlDocument.h">
+      <Filter>Header Files\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_LogManager.h">
+      <Filter>Header Files\Utility\Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_LogStream.h">
+      <Filter>Header Files\Utility\Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI.h">
+      <Filter>Header Files\Core\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_CastWidget.h">
+      <Filter>Header Files\Core\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_Common.h">
+      <Filter>Header Files\Core\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_Diagnostic.h">
+      <Filter>Header Files\Core\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_Exception.h">
+      <Filter>Header Files\Core\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_GenericFactory.h">
+      <Filter>Header Files\Core\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_Macros.h">
+      <Filter>Header Files\Core\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_Platform.h">
+      <Filter>Header Files\Core\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_Precompiled.h">
+      <Filter>Header Files\Core\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_Prerequest.h">
+      <Filter>Header Files\Core\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_RenderFormat.h">
+      <Filter>Header Files\Core\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_ResourceHolder.h">
+      <Filter>Header Files\Core\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_WidgetDefines.h">
+      <Filter>Header Files\Core\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_ICroppedRectangle.h">
+      <Filter>Header Files\Core\Common\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_IDataStream.h">
+      <Filter>Header Files\Core\Common\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_Instance.h">
+      <Filter>Header Files\Core\Common\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_IObject.h">
+      <Filter>Header Files\Core\Common\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_ISerializable.h">
+      <Filter>Header Files\Core\Common\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_ITexture.h">
+      <Filter>Header Files\Core\Common\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_IUnlinkWidget.h">
+      <Filter>Header Files\Core\Common\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_IVertexBuffer.h">
+      <Filter>Header Files\Core\Common\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_IWidgetCreator.h">
+      <Filter>Header Files\Core\Common\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_Plugin.h">
+      <Filter>Header Files\Core\Common\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_RTTI.h">
+      <Filter>Header Files\Core\Common\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_BiIndexBase.h">
+      <Filter>Header Files\Core\Common\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_ScrollViewBase.h">
+      <Filter>Header Files\Core\Common\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_WidgetEvent.h">
+      <Filter>Header Files\Core\Common\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_WidgetUserData.h">
+      <Filter>Header Files\Core\Common\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_EditText.h">
+      <Filter>Header Files\Core\SubWidget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_MainSkin.h">
+      <Filter>Header Files\Core\SubWidget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_RawRect.h">
+      <Filter>Header Files\Core\SubWidget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_RotatingSkin.h">
+      <Filter>Header Files\Core\SubWidget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_SimpleText.h">
+      <Filter>Header Files\Core\SubWidget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_SubSkin.h">
+      <Filter>Header Files\Core\SubWidget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_TileRect.h">
+      <Filter>Header Files\Core\SubWidget</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_IStateInfo.h">
+      <Filter>Header Files\Core\SubWidget\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_ISubWidget.h">
+      <Filter>Header Files\Core\SubWidget\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_ISubWidgetRect.h">
+      <Filter>Header Files\Core\SubWidget\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_ISubWidgetText.h">
+      <Filter>Header Files\Core\SubWidget\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_LayerItem.h">
+      <Filter>Header Files\Core\LayerItem</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_LayerNode.h">
+      <Filter>Header Files\Core\LayerItem</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_OverlappedLayer.h">
+      <Filter>Header Files\Core\LayerItem</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_RenderItem.h">
+      <Filter>Header Files\Core\LayerItem</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_SharedLayer.h">
+      <Filter>Header Files\Core\LayerItem</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_SharedLayerNode.h">
+      <Filter>Header Files\Core\LayerItem</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_ILayer.h">
+      <Filter>Header Files\Core\LayerItem\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_ILayerItem.h">
+      <Filter>Header Files\Core\LayerItem\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_ILayerNode.h">
+      <Filter>Header Files\Core\LayerItem\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_IRenderTarget.h">
+      <Filter>Header Files\Core\LayerItem\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_ActionController.h">
+      <Filter>Header Files\Core\Controller</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_ControllerEdgeHide.h">
+      <Filter>Header Files\Core\Controller</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_ControllerFadeAlpha.h">
+      <Filter>Header Files\Core\Controller</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_ControllerItem.h">
+      <Filter>Header Files\Core\Controller</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_ControllerPosition.h">
+      <Filter>Header Files\Core\Controller</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_ResourceImageSet.h">
+      <Filter>Header Files\Core\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_ResourceImageSetPointer.h">
+      <Filter>Header Files\Core\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_ResourceManualFont.h">
+      <Filter>Header Files\Core\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_ResourceManualPointer.h">
+      <Filter>Header Files\Core\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_ResourceSkin.h">
+      <Filter>Header Files\Core\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_ResourceTrueTypeFont.h">
+      <Filter>Header Files\Core\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_IFont.h">
+      <Filter>Header Files\Core\Resource\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_IPointer.h">
+      <Filter>Header Files\Core\Resource\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_IResource.h">
+      <Filter>Header Files\Core\Resource\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_ChildSkinInfo.h">
+      <Filter>Header Files\Core\Resource\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_FontData.h">
+      <Filter>Header Files\Core\Resource\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_MaskPickInfo.h">
+      <Filter>Header Files\Core\Resource\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_SubWidgetBinding.h">
+      <Filter>Header Files\Core\Resource\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_SubWidgetInfo.h">
+      <Filter>Header Files\Core\Resource\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_Align.h">
+      <Filter>Header Files\Core\Types</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_Any.h">
+      <Filter>Header Files\Core\Types</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_Colour.h">
+      <Filter>Header Files\Core\Types</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_CommonStateInfo.h">
+      <Filter>Header Files\Core\Types</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_ImageInfo.h">
+      <Filter>Header Files\Core\Types</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_InputDefine.h">
+      <Filter>Header Files\Core\Types</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_RenderTargetInfo.h">
+      <Filter>Header Files\Core\Types</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_TCoord.h">
+      <Filter>Header Files\Core\Types</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_TPoint.h">
+      <Filter>Header Files\Core\Types</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_TRect.h">
+      <Filter>Header Files\Core\Types</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_TSize.h">
+      <Filter>Header Files\Core\Types</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_Types.h">
+      <Filter>Header Files\Core\Types</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_Version.h">
+      <Filter>Header Files\Core\Types</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_VertexData.h">
+      <Filter>Header Files\Core\Types</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_WidgetStyle.h">
+      <Filter>Header Files\Core\Types</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_ClipboardManager.h">
+      <Filter>Header Files\Core\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_ControllerManager.h">
+      <Filter>Header Files\Core\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_DataManager.h">
+      <Filter>Header Files\Core\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_DynLibManager.h">
+      <Filter>Header Files\Core\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_FactoryManager.h">
+      <Filter>Header Files\Core\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_FontManager.h">
+      <Filter>Header Files\Core\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_Gui.h">
+      <Filter>Header Files\Core\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_InputManager.h">
+      <Filter>Header Files\Core\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_LanguageManager.h">
+      <Filter>Header Files\Core\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_LayerManager.h">
+      <Filter>Header Files\Core\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_LayoutManager.h">
+      <Filter>Header Files\Core\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_PluginManager.h">
+      <Filter>Header Files\Core\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_PointerManager.h">
+      <Filter>Header Files\Core\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_RenderManager.h">
+      <Filter>Header Files\Core\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_ResourceManager.h">
+      <Filter>Header Files\Core\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_SkinManager.h">
+      <Filter>Header Files\Core\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_SubWidgetManager.h">
+      <Filter>Header Files\Core\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include\MyGUI_WidgetManager.h">
+      <Filter>Header Files\Core\Manager</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="..\..\MyGUIEngine\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files\Widget\Widget">
+      <UniqueIdentifier>{C3239D05-A46A-487C-8DD5-8182D1515F2A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core\Common\Interfaces">
+      <UniqueIdentifier>{23B46897-543B-4510-B59E-3F9B0105660D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core\Common\Base">
+      <UniqueIdentifier>{F76ECD5B-2DDE-4CA8-984F-34405B267AAC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Core\Common\Interfaces">
+      <UniqueIdentifier>{0AA6BFDD-935E-4339-AE80-CE580100AF7A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Core\Common\Base">
+      <UniqueIdentifier>{C94BB54F-E7B3-49A8-92EB-8E326A1039C1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core\Resource\Interface">
+      <UniqueIdentifier>{8F9C82A0-0FAB-44D6-AC83-3BC66D8C3486}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core\Resource\Data">
+      <UniqueIdentifier>{D764DF5C-DEF0-4CB0-BF72-A82004C44388}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Utility\Logging">
+      <UniqueIdentifier>{25CBE04E-D132-422A-9339-6F713B8CD36D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core\SubWidget\Interfaces">
+      <UniqueIdentifier>{6BC8DA7B-6E52-41A1-B05E-74B9397521F6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core\LayerItem\Interfaces">
+      <UniqueIdentifier>{BFCF74F2-98DF-4B24-A833-05D5A5ABE887}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Utility\Logging">
+      <UniqueIdentifier>{AC869BA1-8092-4D2B-9966-499590CAD8B4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Core\Resource\Data">
+      <UniqueIdentifier>{00B8DBFD-966B-41CB-9016-0E7600ADAFD6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Widget">
+      <UniqueIdentifier>{DE28CEC0-292B-4444-AC65-7F70C5F3F56C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Utility">
+      <UniqueIdentifier>{24E78ED2-D696-411D-ADEB-88FADB0CB531}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core">
+      <UniqueIdentifier>{FE9CDF46-FCB7-4A5C-B186-AE09F0FAC9AA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{97C9477C-546A-4FC7-AE9A-319A5B94EBAF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{FBEBCB07-3CE7-4F8C-9DE4-82B222A326DD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Widget">
+      <UniqueIdentifier>{4F79E811-E1E8-4CE7-9E9D-30E58CFF6C1B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Core">
+      <UniqueIdentifier>{932E4A16-0AB2-42CA-89EB-17F88E21A45E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Utility">
+      <UniqueIdentifier>{C1D5F4C9-E982-44B1-B3AD-ABA534E233F5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Core\SubWidget">
+      <UniqueIdentifier>{5804AF8B-7D8B-4B00-B4F0-BA4D4A43630E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Core\LayerItem">
+      <UniqueIdentifier>{39049310-6593-442A-BBDE-BCA315243C9F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Core\Controller">
+      <UniqueIdentifier>{DD7A11AF-507B-444F-AFB4-EDB57D78791C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Core\Common">
+      <UniqueIdentifier>{A9BE02C2-5E91-458B-B861-E13F286E88A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Core\Resource">
+      <UniqueIdentifier>{B8E89F4C-DBF5-4A4F-9808-060891C14E43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Core\Types">
+      <UniqueIdentifier>{6E5F9B02-DC9B-4F75-BE43-C4E44E12DA88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Core\Manager">
+      <UniqueIdentifier>{BC2C7CB7-7BB3-45E9-A247-280D13A06758}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Widget\Types">
+      <UniqueIdentifier>{EA62825A-19F7-48DD-BCAE-1A22122FD625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Widget\Widget">
+      <UniqueIdentifier>{4F84FD8F-3008-4E7F-BC23-C33887D705AD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Widget\Interfaces">
+      <UniqueIdentifier>{F667A2B5-1CC0-4308-B53A-EF3C4D02C10C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core\Common">
+      <UniqueIdentifier>{9F0F07CF-CE47-4529-981B-55C792669401}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core\SubWidget">
+      <UniqueIdentifier>{8DD1D224-5B45-494A-AB1D-D65ED7B9BAB8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core\LayerItem">
+      <UniqueIdentifier>{CD4432B2-5DD8-4747-8003-26F63F66D4EF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core\Controller">
+      <UniqueIdentifier>{39136D44-35CD-412D-BD6A-1B1C9A3F51BD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core\Resource">
+      <UniqueIdentifier>{CCCBE093-190C-4BB3-A58A-405493D1C530}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core\Types">
+      <UniqueIdentifier>{E56B5D36-C889-4510-9B73-4F883BF677B8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core\Manager">
+      <UniqueIdentifier>{CFD97DC8-616A-45CC-8F80-4D629455FDBF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MyGUI type="Layout">
+    <Widget type="Button" skin="Button" position="8 10 112 40" align="Default" layer="Back" name="btnAbout">
+        <Property key="Widget_Caption" value="About"/>
+    </Widget>
+    <Widget type="Button" skin="Button" position="8 49 112 40" layer="Back" name="btnCalibrate">
+        <Property key="Widget_Caption" value="Calibrate"/>
+    </Widget>
+    <Widget type="Button" skin="Button" position="8 127 112 40" layer="Back" name="btnGraphicsSettings">
+        <Property key="Widget_Caption" value="Settings"/>
+    </Widget>
+    <Widget type="Window" skin="WindowCSX" position="313 196 397 320" align="HCenter VCenter" layer="Popup" name="wndAbout">
+        <Property key="Widget_Caption" value="5DT 3D Glove Demo"/>
+        <Property key="Widget_Visible" value="true"/>
+        <Property key="Widget_Alpha" value="1"/>
+        <Property key="Window_AutoAlpha" value="false"/>
+        <UserString key="" value=""/>
+        <Widget type="Button" skin="Button" position="269 232 108 40" align="Right Bottom" name="btnAboutExit">
+            <Property key="Widget_Caption" value="OK"/>
+        </Widget>
+        <Widget type="Edit" skin="WordWrapSimple" position="14 17 370 227">
+            <Property key="Widget_Caption" value="blaaaaa"/>
+        </Widget>
+    </Widget>
+    <Widget type="Window" skin="WindowCSX" position="313 196 397 320" align="HCenter VCenter" layer="Popup" name="wndColor">
+	<Property key="Widget_Caption" value="5DT 3D Glove Demo"/>
+        <Property key="Widget_Visible" value="true"/>
+        <Property key="Widget_Alpha" value="1"/>
+        <Property key="Window_AutoAlpha" value="false"/>
+        <UserString key="" value=""/>
+	<Widget type="Button" skin="Button" position="269 232 108 40" align="Right Bottom" name="btnAboutExit">
+            <Property key="Widget_Caption" value="OK"/>
+        </Widget>
+	<Widget type="Edit" skin="WordWrapSimple" position="14 17 370 227">
+            <Property key="Widget_Caption" value="Color response enabled"/>
+        </Widget>
+    </Widget>
+    <Widget type="Widget" skin="Panel" position_real="0.0078125 0.9375 0.140625 0.0507813" layer="Back" name="pnlFPS">
+        <Widget type="StaticText" skin="StaticText" position="8 8 40 16">
+            <Property key="Widget_Caption" value="FPS:"/>
+        </Widget>
+        <Widget type="StaticText" skin="StaticText" position="56 8 72 16" name="txtFPS"/>
+    </Widget>
+    <Widget type="Window" skin="WindowCSX" position="254 160 356 229" layer="Back" name="wndGraphicsSettings">
+        <Property key="Widget_Caption" value="Graphics Settings"/>
+        <Widget type="StaticText" skin="StaticText" position="14 17 86 22">
+            <Property key="Widget_Caption" value="Resolution:"/>
+        </Widget>
+        <Widget type="Button" skin="CheckBox" position="18 78 208 25" name="chkFullScreen">
+            <Property key="Widget_Caption" value="Fullscreen"/>
+        </Widget>
+        <Widget type="Button" skin="Button" position="226 137 108 40" align="Right Bottom" name="btnGraphicsOptionsApply">
+            <Property key="Widget_Caption" value="Apply"/>
+        </Widget>
+        <Widget type="ComboBox" skin="ComboBox" position="120 14 209 24" name="cmbResolution"/>
+        <Widget type="StaticText" skin="StaticText" position="14 40 93 25">
+            <Property key="Widget_Caption" value="Anti Aliasing:"/>
+        </Widget>
+        <Widget type="ComboBox" skin="ComboBox" position="120 40 209 24" name="cmbAA"/>
+    </Widget>
+    <Widget type="Button" skin="Button" position="8 88 112 40" layer="Back" name="btnSaveCal">
+        <Property key="Widget_Caption" value="Export"/>
+    </Widget>
+    <Widget type="Button" skin="Button" position="8 166 112 40" layer="Back" name="btnExit">
+        <Property key="Widget_Caption" value="Exit"/>
+    </Widget>
+</MyGUI>

@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|Win32">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|Win32">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGUID>{FD4AE55B-14B7-4CA6-ABAA-D907939E2A81}</ProjectGUID>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>Win32</Platform>
+    <ProjectName>ALL_BUILD</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+    <PropertyGroup>
+      <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/MyGUIEngine/include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/MyGUIEngine/include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/MyGUIEngine/include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/MyGUIEngine/include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="CMakeFiles\ALL_BUILD.rule">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Build all projects</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">setlocal
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/ALL_BUILD.rule;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\ALL_BUILD</Outputs>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Build all projects</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">setlocal
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/ALL_BUILD.rule;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\ALL_BUILD</Outputs>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">Build all projects</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">setlocal
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/ALL_BUILD.rule;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\ALL_BUILD</Outputs>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">Build all projects</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">setlocal
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/CMakeFiles/ALL_BUILD.rule;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\ALL_BUILD</Outputs>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="..\CMakeLists.txt">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Building Custom Rule C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">setlocal
+"C:\Programme\CMake 2.8\bin\cmake.exe" "-HC:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0" "-BC:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build" --check-stamp-file "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/CMakeLists.txt;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMakeLists.txt;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeSystem.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeCCompiler.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeCXXCompiler.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeSystemSpecificInformation.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeGenericSystem.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\Platform\Windows.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\Platform\WindowsPaths.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeCInformation.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\Platform\Windows-cl.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeCPlatform.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeCXXPlatform.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\Platform\cl.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeRCCompiler.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeRCInformation.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeCommonLanguageInclude.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeCXXInformation.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\Platform\Windows-cl.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeCPlatform.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeCXXPlatform.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\Platform\cl.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeCommonLanguageInclude.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeDependentOption.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\MacroLogFeature.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\MyGUIConfigTargets.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\PreprocessorUtils.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\MyGUIGetVersion.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\PreprocessorUtils.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\TestBigEndian.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Dependencies.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\FindPkgMacros.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\MyGUIInstallDependencies.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Packages\FindFreetype.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\FindPkgMacros.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\FindPkgConfig.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Packages\FindOGRE.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\FindPkgMacros.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\PreprocessorUtils.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\FindPkgConfig.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Packages\FindOIS.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\FindPkgMacros.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\FindPkgConfig.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\FindDoxygen.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\FindPackageHandleStandardArgs.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\FindPackageMessage.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeParseArguments.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\ConfigureBuild.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\InstallResources.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\resources.xml.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\resources.xml.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\resources.xml.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\resources.xml.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\plugins_d.cfg.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\plugins.cfg.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\plugins.cfg.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\plugins.cfg.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Packaging.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CPack.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CPackComponent.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Templates\CPackConfig.cmake.in;C:\Programme\CMake 2.8\share\cmake-2.8\Templates\CPackConfig.cmake.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\generate.stamp</Outputs>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Building Custom Rule C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">setlocal
+"C:\Programme\CMake 2.8\bin\cmake.exe" "-HC:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0" "-BC:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build" --check-stamp-file "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/CMakeLists.txt;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMakeLists.txt;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeSystem.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeCCompiler.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeCXXCompiler.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeSystemSpecificInformation.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeGenericSystem.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\Platform\Windows.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\Platform\WindowsPaths.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeCInformation.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\Platform\Windows-cl.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeCPlatform.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeCXXPlatform.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\Platform\cl.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeRCCompiler.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeRCInformation.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeCommonLanguageInclude.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeCXXInformation.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\Platform\Windows-cl.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeCPlatform.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeCXXPlatform.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\Platform\cl.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeCommonLanguageInclude.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeDependentOption.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\MacroLogFeature.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\MyGUIConfigTargets.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\PreprocessorUtils.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\MyGUIGetVersion.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\PreprocessorUtils.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\TestBigEndian.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Dependencies.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\FindPkgMacros.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\MyGUIInstallDependencies.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Packages\FindFreetype.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\FindPkgMacros.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\FindPkgConfig.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Packages\FindOGRE.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\FindPkgMacros.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\PreprocessorUtils.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\FindPkgConfig.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Packages\FindOIS.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\FindPkgMacros.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\FindPkgConfig.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\FindDoxygen.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\FindPackageHandleStandardArgs.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\FindPackageMessage.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeParseArguments.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\ConfigureBuild.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\InstallResources.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\resources.xml.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\resources.xml.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\resources.xml.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\resources.xml.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\plugins_d.cfg.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\plugins.cfg.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\plugins.cfg.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\plugins.cfg.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Packaging.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CPack.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CPackComponent.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Templates\CPackConfig.cmake.in;C:\Programme\CMake 2.8\share\cmake-2.8\Templates\CPackConfig.cmake.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\generate.stamp</Outputs>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">Building Custom Rule C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">setlocal
+"C:\Programme\CMake 2.8\bin\cmake.exe" "-HC:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0" "-BC:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build" --check-stamp-file "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/CMakeLists.txt;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMakeLists.txt;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeSystem.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeCCompiler.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeCXXCompiler.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeSystemSpecificInformation.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeGenericSystem.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\Platform\Windows.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\Platform\WindowsPaths.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeCInformation.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\Platform\Windows-cl.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeCPlatform.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeCXXPlatform.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\Platform\cl.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeRCCompiler.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeRCInformation.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeCommonLanguageInclude.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeCXXInformation.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\Platform\Windows-cl.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeCPlatform.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeCXXPlatform.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\Platform\cl.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeCommonLanguageInclude.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeDependentOption.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\MacroLogFeature.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\MyGUIConfigTargets.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\PreprocessorUtils.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\MyGUIGetVersion.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\PreprocessorUtils.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\TestBigEndian.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Dependencies.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\FindPkgMacros.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\MyGUIInstallDependencies.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Packages\FindFreetype.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\FindPkgMacros.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\FindPkgConfig.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Packages\FindOGRE.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\FindPkgMacros.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\PreprocessorUtils.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\FindPkgConfig.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Packages\FindOIS.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\FindPkgMacros.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\FindPkgConfig.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\FindDoxygen.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\FindPackageHandleStandardArgs.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\FindPackageMessage.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeParseArguments.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\ConfigureBuild.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\InstallResources.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\resources.xml.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\resources.xml.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\resources.xml.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\resources.xml.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\plugins_d.cfg.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\plugins.cfg.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\plugins.cfg.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\plugins.cfg.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Packaging.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CPack.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CPackComponent.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Templates\CPackConfig.cmake.in;C:\Programme\CMake 2.8\share\cmake-2.8\Templates\CPackConfig.cmake.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\generate.stamp</Outputs>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">Building Custom Rule C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">setlocal
+"C:\Programme\CMake 2.8\bin\cmake.exe" "-HC:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0" "-BC:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build" --check-stamp-file "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/CMakeLists.txt;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMakeLists.txt;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeSystem.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeCCompiler.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeCXXCompiler.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeSystemSpecificInformation.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeGenericSystem.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\Platform\Windows.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\Platform\WindowsPaths.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeCInformation.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\Platform\Windows-cl.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeCPlatform.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeCXXPlatform.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\Platform\cl.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeRCCompiler.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeRCInformation.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeCommonLanguageInclude.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeCXXInformation.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\Platform\Windows-cl.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeCPlatform.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\CMakeCXXPlatform.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\Platform\cl.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeCommonLanguageInclude.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeDependentOption.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\MacroLogFeature.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\MyGUIConfigTargets.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\PreprocessorUtils.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\MyGUIGetVersion.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\PreprocessorUtils.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\TestBigEndian.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Dependencies.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\FindPkgMacros.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\MyGUIInstallDependencies.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Packages\FindFreetype.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\FindPkgMacros.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\FindPkgConfig.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Packages\FindOGRE.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\FindPkgMacros.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\PreprocessorUtils.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\FindPkgConfig.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Packages\FindOIS.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Utils\FindPkgMacros.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\FindPkgConfig.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\FindDoxygen.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\FindPackageHandleStandardArgs.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\FindPackageMessage.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CMakeParseArguments.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\ConfigureBuild.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\InstallResources.cmake;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\resources.xml.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\resources.xml.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\resources.xml.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\resources.xml.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\plugins_d.cfg.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\plugins.cfg.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\plugins.cfg.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Templates\plugins.cfg.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMake\Packaging.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CPack.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Modules\CPackComponent.cmake;C:\Programme\CMake 2.8\share\cmake-2.8\Templates\CPackConfig.cmake.in;C:\Programme\CMake 2.8\share\cmake-2.8\Templates\CPackConfig.cmake.in;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\generate.stamp</Outputs>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\CMakeFiles\ALL_BUILD" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/Demos/Demo_Colour/Demo_Colour.vcxproj">
+      <Project>DB05D336-C5E1-48EE-B4C0-10C3C6D295B9</Project>
+    </ProjectReference>
+    <ProjectReference Include="C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/Demos/Demo_Console/Demo_Console.vcxproj">
+      <Project>9116A091-B2C4-40AB-90DB-1E25FD0FCC88</Project>
+    </ProjectReference>
+    <ProjectReference Include="C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/Demos/Demo_Controllers/Demo_Controllers.vcxproj">
+      <Project>95514C93-B8BD-4E30-BAB3-9F155C1A38F1</Project>
+    </ProjectReference>
+    <ProjectReference Include="C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/Demos/Demo_Gui/Demo_Gui.vcxproj">
+      <Project>3F1E4563-9F4E-4B48-8CC7-8306F9DB7CEA</Project>
+    </ProjectReference>
+    <ProjectReference Include="C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/Demos/Demo_ItemBox/Demo_ItemBox.vcxproj">
+      <Project>229F1ADC-464D-468C-BE84-B1E1E7BFEBE3</Project>
+    </ProjectReference>
+    <ProjectReference Include="C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/Demos/Demo_PanelView/Demo_PanelView.vcxproj">
+      <Project>29A60061-1C1F-4AFD-85ED-BBCBA51134BD</Project>
+    </ProjectReference>
+    <ProjectReference Include="C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/Demos/Demo_Picking/Demo_Picking.vcxproj">
+      <Project>DDD95A66-5FF9-45E0-8016-675C9C553A6F</Project>
+    </ProjectReference>
+    <ProjectReference Include="C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/Demos/Demo_PluginStrangeButton/Demo_PluginStrangeButton.vcxproj">
+      <Project>92EF81DB-6C04-4C5D-A6AD-14DB15819CBA</Project>
+    </ProjectReference>
+    <ProjectReference Include="C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/Demos/Demo_Pointers/Demo_Pointers.vcxproj">
+      <Project>E093AFC8-9EAF-4CFB-B8AB-5F5200803FEE</Project>
+    </ProjectReference>
+    <ProjectReference Include="C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/Demos/Demo_RenderBox/Demo_RenderBox.vcxproj">
+      <Project>46D6DB3F-A185-490D-B29F-9E152321E6A1</Project>
+    </ProjectReference>
+    <ProjectReference Include="C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/Demos/Demo_ScrollView/Demo_ScrollView.vcxproj">
+      <Project>5DE30547-D8F5-468C-926A-45C26028CCD0</Project>
+    </ProjectReference>
+    <ProjectReference Include="C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/Demos/Demo_Themes/Demo_Themes.vcxproj">
+      <Project>483C14E6-49B1-4288-AFED-5972721B6927</Project>
+    </ProjectReference>
+    <ProjectReference Include="C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/Tools/FontViewer/FontViewer.vcxproj">
+      <Project>F8E6FFB9-FFA3-48EE-BD51-5384653DEB6B</Project>
+    </ProjectReference>
+    <ProjectReference Include="C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/Tools/ImageSetViewer/ImageSetViewer.vcxproj">
+      <Project>477A9386-654F-4633-948E-32562BFED347</Project>
+    </ProjectReference>
+    <ProjectReference Include="C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/Tools/LayoutEditor/LayoutEditor.vcxproj">
+      <Project>133A80B4-7B2A-4BF6-855E-7CE4D1A399B8</Project>
+    </ProjectReference>
+    <ProjectReference Include="C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/Platforms/Ogre/OgrePlatform/MyGUI.OgrePlatform.vcxproj">
+      <Project>9DEDABC0-885A-4C7C-99AC-AFDED1D49558</Project>
+    </ProjectReference>
+    <ProjectReference Include="C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/MyGUIEngine/MyGUIEngine.vcxproj">
+      <Project>0BF3B4D0-743E-4593-9212-6DBA78F005B5</Project>
+    </ProjectReference>
+    <ProjectReference Include="C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/Plugins/Plugin_AwesomiumWidget/Plugin_AwesomiumWidget.vcxproj">
+      <Project>CE500AEB-D4F7-4774-815C-C6A2D453E487</Project>
+    </ProjectReference>
+    <ProjectReference Include="C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/Plugins/Plugin_HikariWidget/Plugin_HikariWidget.vcxproj">
+      <Project>18BDA8F5-1ACD-4AAC-AEE8-DCF79EB4DE46</Project>
+    </ProjectReference>
+    <ProjectReference Include="C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/Plugins/Plugin_StrangeButton/Plugin_StrangeButton.vcxproj">
+      <Project>CF8AF461-AC96-423C-9364-120BEDF1A217</Project>
+    </ProjectReference>
+    <ProjectReference Include="C:/Dokumente und Einstellungen/superuser/Eigene Dateien/Samplecode/Glove Demo/MyGUI_3.0.1_source/MyGUI3.0/build/ZERO_CHECK.vcxproj">
+      <Project>D3430719-B088-4102-8E73-E70EE379F25F</Project>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

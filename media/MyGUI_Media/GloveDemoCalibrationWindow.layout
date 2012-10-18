@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MyGUI type="Layout">
+    <Widget type="Window" skin="WindowCSX" position="185 51 445 560" layer="Main" name="wndCalibration">
+        <Property key="Widget_Caption" value="Calibration"/>
+        <Widget type="Button" skin="Button" position="310 472 108 40" align="Right Bottom" name="btnCalibOK">
+            <Property key="Widget_Caption" value="OK"/>
+        </Widget>
+        <Widget type="Button" skin="Button" position="197 471 108 40" align="Right Bottom" name="btnCalibSave">
+            <Property key="Widget_Caption" value="Save"/>
+            <Property key="Text_FontName" value="font_DejaVuSans.17"/>
+        </Widget>
+        <Widget type="Button" skin="ButtonImage" position="14 256 200 200" name="picSpreadFingers">
+            <Property key="Button_ImageResource" value="RIS_SpreadFingers"/>
+            <Property key="Button_ModeImage" value="true"/>
+            <Widget type="Button" skin="ButtonImage" position="418 126 8 184"/>
+        </Widget>
+        <Widget type="StaticText" skin="StaticText" position="14 16 504 24">
+            <Property key="Widget_Caption" value="Pose hand as indicated in the picture, then click to calibrate:"/>
+        </Widget>
+        <Widget type="Button" skin="Button" position="12 470 178 40" align="Right Bottom" name="btnAdvCalibration">
+            <Property key="Widget_Caption" value="Advanced Calibration"/>
+        </Widget>
+        <Widget type="Button" skin="ButtonImage" position="14 49 200 200" name="picFist">
+            <Property key="Button_ImageResource" value="RIS_Fist"/>
+        </Widget>
+        <Widget type="Button" skin="ButtonImage" position="223 49 200 200" name="picOpenHand">
+            <Property key="Button_ImageResource" value="RIS_OpenHand"/>
+        </Widget>
+        <Widget type="Button" skin="ButtonImage" position="223 258 200 200" name="picFlatHand">
+            <Property key="Button_ImageResource" value="RIS_FlatHand"/>
+        </Widget>
+    </Widget>
+    <Widget type="Window" skin="WindowCSX" position="114 112 604 545" layer="Popup" name="wndAdvCalibration">
+        <Property key="Widget_Caption" value="Advanced Calibration"/>
+        <UserString key="" value=""/>
+        <Widget type="Button" skin="Button" position="475 457 108 40" align="Right Bottom" name="btnAdvCalibOK">
+            <Property key="Widget_Caption" value="OK"/>
+        </Widget>
+        <Widget type="Button" skin="Button" position="364 457 108 40" align="Right Bottom" name="btnAdvCalibSave">
+            <Property key="Widget_Caption" value="Save"/>
+        </Widget>
+        <Widget type="StaticImage" skin="StaticImage" position="14 38 400 400">
+            <Property key="Image_Texture" value="GloveRight.png"/>
+            <Widget type="Button" skin="RadioBox" position="57 267 27 27" name="chkSensor1">
+                <UserString key="Index" value="1"/>
+            </Widget>
+            <Widget type="Button" skin="RadioBox" position="125 269 22 20" name="chkSensor2">
+                <UserString key="Index" value="2"/>
+            </Widget>
+            <Widget type="Button" skin="RadioBox" position="109 315 24 24" name="chkSensor0">
+                <Property key="Button_Pressed" value="false"/>
+                <UserString key="Index" value="0"/>
+            </Widget>
+            <Widget type="Button" skin="RadioBox" position="178 185 24 23" name="chkSensor5">
+                <UserString key="Index" value="5"/>
+            </Widget>
+            <Widget type="Button" skin="RadioBox" position="228 188 22 21" name="chkSensor8">
+                <UserString key="Index" value="8"/>
+            </Widget>
+            <Widget type="Button" skin="RadioBox" position="278 209 20 23" name="chkSensor11">
+                <UserString key="Index" value="11"/>
+            </Widget>
+            <Widget type="Button" skin="RadioBox" position="155 222 23 24" name="chkSensor3">
+                <Property key="Widget_Caption" value="chkSensor3"/>
+                <UserString key="Index" value="3"/>
+            </Widget>
+            <Widget type="Button" skin="RadioBox" position="200 216 23 20" name="chkSensor6">
+                <UserString key="Index" value="6"/>
+            </Widget>
+            <Widget type="Button" skin="RadioBox" position="245 221 19 21" name="chkSensor9">
+                <UserString key="Index" value="9"/>
+            </Widget>
+            <Widget type="Button" skin="RadioBox" position="281 244 19 21" name="chkSensor12">
+                <UserString key="Index" value="12"/>
+            </Widget>
+            <Widget type="Button" skin="RadioBox" position="140 153 21 19" name="chkSensor4">
+                <UserString key="Index" value="4"/>
+            </Widget>
+            <Widget type="Button" skin="RadioBox" position="208 138 21 23" name="chkSensor7">
+                <UserString key="Index" value="7"/>
+            </Widget>
+            <Widget type="Button" skin="RadioBox" position="273 153 18 18" name="chkSensor10">
+                <UserString key="Index" value="10"/>
+            </Widget>
+            <Widget type="Button" skin="RadioBox" position="319 210 19 19" name="chkSensor13">
+                <UserString key="Index" value="13"/>
+            </Widget>
+        </Widget>
+        <Widget type="Button" skin="Button" position="435 201 108 40" name="btnCalSetMax">
+            <Property key="Widget_Caption" value="Set Max"/>
+        </Widget>
+        <Widget type="Button" skin="Button" position="435 159 108 40" name="btnCalSetMin">
+            <Property key="Widget_Caption" value="Set Min"/>
+        </Widget>
+        <Widget type="StaticText" skin="StaticText" position="436 48 79 24">
+            <Property key="Widget_Caption" value="Scaled Val:"/>
+        </Widget>
+        <Widget type="StaticText" skin="StaticText" position="14 17 320 16">
+            <Property key="Widget_Caption" value="Select a sensor to calibrate it:"/>
+        </Widget>
+        <Widget type="StaticText" skin="StaticText" position="436 102 41 24">
+            <Property key="Widget_Caption" value="Max:"/>
+        </Widget>
+        <Widget type="StaticText" skin="StaticText" position="436 75 76 24">
+            <Property key="Widget_Caption" value="Raw Val:"/>
+        </Widget>
+        <Widget type="StaticText" skin="StaticText" position="436 130 39 24">
+            <Property key="Widget_Caption" value="Min:"/>
+        </Widget>
+        <Widget type="Edit" skin="Edit" position="510 48 72 24" name="txtScaledVal"/>
+        <Widget type="Edit" skin="Edit" position="510 75 72 24" name="txtRawVal"/>
+        <Widget type="Edit" skin="Edit" position="510 102 72 24" name="txtMaxCal"/>
+        <Widget type="Edit" skin="Edit" position="510 130 72 24" name="txtMinCal"/>
+        <Widget type="Button" skin="Button" position="253 457 108 40" align="Right Bottom" name="btnCalibReset">
+            <Property key="Widget_Caption" value="Reset"/>
+        </Widget>
+        <Widget type="Edit" skin="WordWrapSimple" position="437 255 143 130">
+            <Property key="Edit_ReadOnly" value="true"/>
+            <Property key="Edit_MultiLine" value="true"/>
+            <Property key="Widget_Caption" value="The Scaled Value of a sensor is calculated by normalizing the Raw Value between the Max and Min values."/>
+        </Widget>
+    </Widget>
+</MyGUI>

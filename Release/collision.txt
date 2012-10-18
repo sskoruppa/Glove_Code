@@ -1,0 +1,1932 @@
+discCoords are 1.#QNAN, 6.10552e+036, 6.10552e+036, 
+discCoords are 18.9923, 17.4896, 17.4896, 
+discCoords are 18.8921, 17.2706, 17.2706, 
+discCoords are 18.9469, 17.4296, 17.4296, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+discCoords are 19.0423, 17.7551, 17.7551, 
+Tap Buffer size is 1 where last value is: 749970 and first is 749970
+tap sound after delay of 121 after the tap at 749970 
+Tap Buffer size is 1 where last value is: 750218 and first is 750218
+tap sound after delay of 121 after the tap at 750218 
+Tap Buffer size is 1 where last value is: 750515 and first is 750515
+tap sound after delay of 121 after the tap at 750515 
+Tap Buffer size is 1 where last value is: 750715 and first is 750715
+tap sound after delay of 121 after the tap at 750715 
+Tap Buffer size is 1 where last value is: 750963 and first is 750963
+tap sound after delay of 121 after the tap at 750963 
+Tap Buffer size is 1 where last value is: 751142 and first is 751142
+tap sound after delay of 121 after the tap at 751142 
+Tap Buffer size is 1 where last value is: 751446 and first is 751446
+tap sound after delay of 121 after the tap at 751446 
+Tap Buffer size is 1 where last value is: 751645 and first is 751645
+tap sound after delay of 121 after the tap at 751645 
+Tap Buffer size is 1 where last value is: 751820 and first is 751820
+tap sound after delay of 121 after the tap at 751820 
+Tap Buffer size is 1 where last value is: 752016 and first is 752016
+tap sound after delay of 121 after the tap at 752016 
+Tap Buffer size is 1 where last value is: 752260 and first is 752260
+tap sound after delay of 121 after the tap at 752260 
+Tap Buffer size is 1 where last value is: 752456 and first is 752456
+tap sound after delay of 121 after the tap at 752456 
+Tap Buffer size is 1 where last value is: 752716 and first is 752716
+tap sound after delay of 121 after the tap at 752716 
+Tap Buffer size is 1 where last value is: 752956 and first is 752956
+tap sound after delay of 121 after the tap at 752956 
+Tap Buffer size is 1 where last value is: 753199 and first is 753199
+tap sound after delay of 121 after the tap at 753199 
+Tap Buffer size is 1 where last value is: 753494 and first is 753494
+tap sound after delay of 121 after the tap at 753494 
+Tap Buffer size is 1 where last value is: 753687 and first is 753687
+tap sound after delay of 121 after the tap at 753687 
+Tap Buffer size is 1 where last value is: 753886 and first is 753886
+tap sound after delay of 121 after the tap at 753886 
+Tap Buffer size is 1 where last value is: 754147 and first is 754147
+tap sound after delay of 121 after the tap at 754147 
+Tap Buffer size is 1 where last value is: 754313 and first is 754313
+tap sound after delay of 121 after the tap at 754313 
+Tap Buffer size is 1 where last value is: 754473 and first is 754473
+tap sound after delay of 121 after the tap at 754473 
+Tap Buffer size is 1 where last value is: 754636 and first is 754636
+tap sound after delay of 121 after the tap at 754636 
+Tap Buffer size is 1 where last value is: 776565 and first is 776565
+tap sound after delay of 121 after the tap at 776565 
+Tap Buffer size is 1 where last value is: 777072 and first is 777072
+tap sound after delay of 121 after the tap at 777072 
+Tap Buffer size is 1 where last value is: 777425 and first is 777425
+tap sound after delay of 121 after the tap at 777425 
+Tap Buffer size is 1 where last value is: 777738 and first is 777738
+tap sound after delay of 121 after the tap at 777738 
+Tap Buffer size is 1 where last value is: 778092 and first is 778092
+tap sound after delay of 121 after the tap at 778092 
+Tap Buffer size is 1 where last value is: 778437 and first is 778437
+tap sound after delay of 121 after the tap at 778437 
+Tap Buffer size is 1 where last value is: 778802 and first is 778802
+tap sound after delay of 121 after the tap at 778802 
+Tap Buffer size is 1 where last value is: 779139 and first is 779139
+tap sound after delay of 121 after the tap at 779139 
+Tap Buffer size is 1 where last value is: 779487 and first is 779487
+tap sound after delay of 121 after the tap at 779487 
+Tap Buffer size is 1 where last value is: 779814 and first is 779814
+tap sound after delay of 121 after the tap at 779814 
+Tap Buffer size is 1 where last value is: 780147 and first is 780147
+tap sound after delay of 121 after the tap at 780147 
+Tap Buffer size is 1 where last value is: 780430 and first is 780430
+tap sound after delay of 121 after the tap at 780430 
+Tap Buffer size is 1 where last value is: 780716 and first is 780716
+tap sound after delay of 121 after the tap at 780716 
+Tap Buffer size is 1 where last value is: 781092 and first is 781092
+tap sound after delay of 121 after the tap at 781092 
+Tap Buffer size is 1 where last value is: 781393 and first is 781393
+tap sound after delay of 121 after the tap at 781393 
+Tap Buffer size is 1 where last value is: 781749 and first is 781749
+tap sound after delay of 121 after the tap at 781749 
+Tap Buffer size is 1 where last value is: 782114 and first is 782114
+tap sound after delay of 121 after the tap at 782114 
+Tap Buffer size is 1 where last value is: 782467 and first is 782467
+tap sound after delay of 121 after the tap at 782467 
+Tap Buffer size is 1 where last value is: 782829 and first is 782829
+tap sound after delay of 121 after the tap at 782829 
+Tap Buffer size is 1 where last value is: 783194 and first is 783194
+tap sound after delay of 121 after the tap at 783194 
+Tap Buffer size is 1 where last value is: 783553 and first is 783553
+tap sound after delay of 121 after the tap at 783553 
+Tap Buffer size is 1 where last value is: 783916 and first is 783916
+tap sound after delay of 121 after the tap at 783916 
+Tap Buffer size is 1 where last value is: 784276 and first is 784276
+tap sound after delay of 121 after the tap at 784276 
+Tap Buffer size is 1 where last value is: 784614 and first is 784614
+tap sound after delay of 121 after the tap at 784614 
+Tap Buffer size is 1 where last value is: 784955 and first is 784955
+tap sound after delay of 121 after the tap at 784955 
+Tap Buffer size is 1 where last value is: 785310 and first is 785310
+tap sound after delay of 121 after the tap at 785310 
+Tap Buffer size is 1 where last value is: 785585 and first is 785585
+tap sound after delay of 121 after the tap at 785585 
+Tap Buffer size is 1 where last value is: 785986 and first is 785986
+tap sound after delay of 121 after the tap at 785986 
+Tap Buffer size is 1 where last value is: 796751 and first is 796751
+tap sound after delay of 121 after the tap at 796751 
+Tap Buffer size is 1 where last value is: 796961 and first is 796961
+tap sound after delay of 121 after the tap at 796961 
+Tap Buffer size is 1 where last value is: 797396 and first is 797396
+tap sound after delay of 121 after the tap at 797396 
+Tap Buffer size is 1 where last value is: 797738 and first is 797738
+tap sound after delay of 121 after the tap at 797738 
+Tap Buffer size is 1 where last value is: 798167 and first is 798167
+tap sound after delay of 121 after the tap at 798167 
+Tap Buffer size is 1 where last value is: 798593 and first is 798593
+tap sound after delay of 121 after the tap at 798593 
+Tap Buffer size is 1 where last value is: 799036 and first is 799036
+tap sound after delay of 121 after the tap at 799036 
+Tap Buffer size is 1 where last value is: 799466 and first is 799466
+tap sound after delay of 121 after the tap at 799466 
+Tap Buffer size is 1 where last value is: 799893 and first is 799893
+tap sound after delay of 121 after the tap at 799893 
+Tap Buffer size is 1 where last value is: 800339 and first is 800339
+tap sound after delay of 121 after the tap at 800339 
+Tap Buffer size is 1 where last value is: 817140 and first is 817140
+tap sound after delay of 121 after the tap at 817140 
+Tap Buffer size is 1 where last value is: 817509 and first is 817509
+tap sound after delay of 121 after the tap at 817509 
+Tap Buffer size is 1 where last value is: 817994 and first is 817994
+tap sound after delay of 121 after the tap at 817994 
+Tap Buffer size is 1 where last value is: 818478 and first is 818478
+tap sound after delay of 121 after the tap at 818478 
+Tap Buffer size is 1 where last value is: 818950 and first is 818950
+tap sound after delay of 121 after the tap at 818950 
+Tap Buffer size is 1 where last value is: 819437 and first is 819437
+tap sound after delay of 121 after the tap at 819437 
+Tap Buffer size is 1 where last value is: 819932 and first is 819932
+tap sound after delay of 121 after the tap at 819932 
+Tap Buffer size is 1 where last value is: 820397 and first is 820397
+tap sound after delay of 121 after the tap at 820397 
+Tap Buffer size is 1 where last value is: 820919 and first is 820919
+tap sound after delay of 121 after the tap at 820919 
+Tap Buffer size is 1 where last value is: 821495 and first is 821495
+tap sound after delay of 121 after the tap at 821495 
+Tap Buffer size is 1 where last value is: 822057 and first is 822057
+tap sound after delay of 121 after the tap at 822057 
+Tap Buffer size is 1 where last value is: 822657 and first is 822657
+tap sound after delay of 121 after the tap at 822657 
+Tap Buffer size is 1 where last value is: 823187 and first is 823187
+tap sound after delay of 121 after the tap at 823187 
+Tap Buffer size is 1 where last value is: 854451 and first is 854451
+tap sound after delay of 121 after the tap at 854451 
+Tap Buffer size is 1 where last value is: 855476 and first is 855476
+tap sound after delay of 121 after the tap at 855476 
+Tap Buffer size is 1 where last value is: 856537 and first is 856537
+tap sound after delay of 121 after the tap at 856537 
+Tap Buffer size is 1 where last value is: 857622 and first is 857622
+tap sound after delay of 121 after the tap at 857622 
+Tap Buffer size is 1 where last value is: 858756 and first is 858756
+tap sound after delay of 121 after the tap at 858756 
+Tap Buffer size is 1 where last value is: 859835 and first is 859835
+tap sound after delay of 121 after the tap at 859835 
+Tap Buffer size is 1 where last value is: 860841 and first is 860841
+tap sound after delay of 121 after the tap at 860841 
+Tap Buffer size is 1 where last value is: 861852 and first is 861852
+tap sound after delay of 121 after the tap at 861852 
+Tap Buffer size is 1 where last value is: 862847 and first is 862847
+tap sound after delay of 121 after the tap at 862847 
+Tap Buffer size is 1 where last value is: 863853 and first is 863853
+tap sound after delay of 121 after the tap at 863853 
+Tap Buffer size is 1 where last value is: 864826 and first is 864826
+tap sound after delay of 121 after the tap at 864826 
+Tap Buffer size is 1 where last value is: 865851 and first is 865851
+tap sound after delay of 121 after the tap at 865851 
+Tap Buffer size is 1 where last value is: 866819 and first is 866819
+tap sound after delay of 123 after the tap at 866819 
+Tap Buffer size is 1 where last value is: 867737 and first is 867737
+tap sound after delay of 121 after the tap at 867737 
+Tap Buffer size is 1 where last value is: 868678 and first is 868678
+tap sound after delay of 121 after the tap at 868678 
+Tap Buffer size is 1 where last value is: 869681 and first is 869681
+tap sound after delay of 121 after the tap at 869681 
+Tap Buffer size is 1 where last value is: 870669 and first is 870669
+tap sound after delay of 121 after the tap at 870669 
+Tap Buffer size is 1 where last value is: 871614 and first is 871614
+tap sound after delay of 121 after the tap at 871614 
+Tap Buffer size is 1 where last value is: 872552 and first is 872552
+tap sound after delay of 121 after the tap at 872552 
+Tap Buffer size is 1 where last value is: 873640 and first is 873640
+tap sound after delay of 121 after the tap at 873640 
+Tap Buffer size is 1 where last value is: 942612 and first is 942612
+tap sound after delay of 121 after the tap at 942612 
+Tap Buffer size is 1 where last value is: 944374 and first is 944374
+tap sound after delay of 121 after the tap at 944374 
+Tap Buffer size is 1 where last value is: 946140 and first is 946140
+tap sound after delay of 121 after the tap at 946140 
+Tap Buffer size is 1 where last value is: 947973 and first is 947973
+tap sound after delay of 121 after the tap at 947973 
+Tap Buffer size is 1 where last value is: 949891 and first is 949891
+tap sound after delay of 121 after the tap at 949891 
+Tap Buffer size is 1 where last value is: 951901 and first is 951901
+tap sound after delay of 121 after the tap at 951901 
+Tap Buffer size is 1 where last value is: 953716 and first is 953716
+tap sound after delay of 121 after the tap at 953716 
+Tap Buffer size is 1 where last value is: 955545 and first is 955545
+tap sound after delay of 121 after the tap at 955545 
+Tap Buffer size is 1 where last value is: 957412 and first is 957412
+tap sound after delay of 121 after the tap at 957412 
+Tap Buffer size is 1 where last value is: 959264 and first is 959264
+tap sound after delay of 121 after the tap at 959264 
+Tap Buffer size is 1 where last value is: 961120 and first is 961120
+tap sound after delay of 121 after the tap at 961120 
+Tap Buffer size is 1 where last value is: 963031 and first is 963031
+tap sound after delay of 121 after the tap at 963031 
+Tap Buffer size is 1 where last value is: 964729 and first is 964729
+tap sound after delay of 121 after the tap at 964729 
+Tap Buffer size is 1 where last value is: 966350 and first is 966350
+tap sound after delay of 121 after the tap at 966350 
+Tap Buffer size is 1 where last value is: 968223 and first is 968223
+tap sound after delay of 121 after the tap at 968223 
+Tap Buffer size is 1 where last value is: 970179 and first is 970179
+tap sound after delay of 121 after the tap at 970179 
+Tap Buffer size is 1 where last value is: 972041 and first is 972041
+tap sound after delay of 121 after the tap at 972041 
+Tap Buffer size is 1 where last value is: 973883 and first is 973883
+tap sound after delay of 121 after the tap at 973883 
+Tap Buffer size is 1 where last value is: 975608 and first is 975608
+tap sound after delay of 121 after the tap at 975608 
+Tap Buffer size is 1 where last value is: 977506 and first is 977506
+tap sound after delay of 121 after the tap at 977506 
+Tap Buffer size is 1 where last value is: 979359 and first is 979359
+tap sound after delay of 121 after the tap at 979359 
+Tap Buffer size is 1 where last value is: 1007769 and first is 1007769
+tap sound after delay of 121 after the tap at 1007769 
+Tap Buffer size is 1 where last value is: 1008419 and first is 1008419
+tap sound after delay of 121 after the tap at 1008419 
+Tap Buffer size is 1 where last value is: 1009050 and first is 1009050
+tap sound after delay of 121 after the tap at 1009050 
+Tap Buffer size is 1 where last value is: 1009670 and first is 1009670
+tap sound after delay of 121 after the tap at 1009670 
+Tap Buffer size is 1 where last value is: 1010274 and first is 1010274
+tap sound after delay of 121 after the tap at 1010274 
+Tap Buffer size is 1 where last value is: 1010919 and first is 1010919
+tap sound after delay of 121 after the tap at 1010919 
+Tap Buffer size is 1 where last value is: 1011507 and first is 1011507
+tap sound after delay of 121 after the tap at 1011507 
+Tap Buffer size is 1 where last value is: 1012128 and first is 1012128
+tap sound after delay of 121 after the tap at 1012128 
+Tap Buffer size is 1 where last value is: 1012706 and first is 1012706
+tap sound after delay of 121 after the tap at 1012706 
+Tap Buffer size is 1 where last value is: 1013306 and first is 1013306
+tap sound after delay of 121 after the tap at 1013306 
+Tap Buffer size is 1 where last value is: 1013877 and first is 1013877
+tap sound after delay of 121 after the tap at 1013877 
+Tap Buffer size is 1 where last value is: 1014473 and first is 1014473
+tap sound after delay of 121 after the tap at 1014473 
+Tap Buffer size is 1 where last value is: 1015076 and first is 1015076
+tap sound after delay of 121 after the tap at 1015076 
+Tap Buffer size is 1 where last value is: 1015641 and first is 1015641
+tap sound after delay of 121 after the tap at 1015641 
+Tap Buffer size is 1 where last value is: 1016220 and first is 1016220
+tap sound after delay of 121 after the tap at 1016220 
+Tap Buffer size is 1 where last value is: 1016788 and first is 1016788
+tap sound after delay of 121 after the tap at 1016788 
+Tap Buffer size is 1 where last value is: 1017326 and first is 1017326
+tap sound after delay of 121 after the tap at 1017326 
+Tap Buffer size is 1 where last value is: 1017825 and first is 1017825
+tap sound after delay of 121 after the tap at 1017825 
+Tap Buffer size is 1 where last value is: 1018309 and first is 1018309
+tap sound after delay of 121 after the tap at 1018309 
+Tap Buffer size is 1 where last value is: 1018833 and first is 1018833
+tap sound after delay of 121 after the tap at 1018833 
+Tap Buffer size is 1 where last value is: 1019320 and first is 1019320
+tap sound after delay of 121 after the tap at 1019320 
+Tap Buffer size is 1 where last value is: 1019812 and first is 1019812
+tap sound after delay of 121 after the tap at 1019812 
+Tap Buffer size is 1 where last value is: 1020317 and first is 1020317
+tap sound after delay of 121 after the tap at 1020317 
+Tap Buffer size is 1 where last value is: 1211389 and first is 1211389
+tap sound after delay of 31 after the tap at 1211389 
+Tap Buffer size is 1 where last value is: 1211754 and first is 1211754
+tap sound after delay of 31 after the tap at 1211754 
+Tap Buffer size is 1 where last value is: 1212089 and first is 1212089
+tap sound after delay of 31 after the tap at 1212089 
+Tap Buffer size is 1 where last value is: 1212425 and first is 1212425
+tap sound after delay of 31 after the tap at 1212425 
+Tap Buffer size is 1 where last value is: 1212740 and first is 1212740
+tap sound after delay of 31 after the tap at 1212740 
+Tap Buffer size is 1 where last value is: 1213104 and first is 1213104
+tap sound after delay of 31 after the tap at 1213104 
+Tap Buffer size is 1 where last value is: 1213449 and first is 1213449
+tap sound after delay of 31 after the tap at 1213449 
+Tap Buffer size is 1 where last value is: 1213792 and first is 1213792
+tap sound after delay of 31 after the tap at 1213792 
+Tap Buffer size is 1 where last value is: 1214136 and first is 1214136
+tap sound after delay of 31 after the tap at 1214136 
+Tap Buffer size is 1 where last value is: 1214494 and first is 1214494
+tap sound after delay of 31 after the tap at 1214494 
+Tap Buffer size is 1 where last value is: 1214838 and first is 1214838
+tap sound after delay of 31 after the tap at 1214838 
+Tap Buffer size is 1 where last value is: 1215181 and first is 1215181
+tap sound after delay of 31 after the tap at 1215181 
+Tap Buffer size is 1 where last value is: 1215523 and first is 1215523
+tap sound after delay of 31 after the tap at 1215523 
+Tap Buffer size is 1 where last value is: 1215826 and first is 1215826
+tap sound after delay of 31 after the tap at 1215826 
+Tap Buffer size is 1 where last value is: 1216189 and first is 1216189
+tap sound after delay of 31 after the tap at 1216189 
+Tap Buffer size is 1 where last value is: 1216477 and first is 1216477
+tap sound after delay of 31 after the tap at 1216477 
+Tap Buffer size is 1 where last value is: 1216827 and first is 1216827
+tap sound after delay of 31 after the tap at 1216827 
+Tap Buffer size is 1 where last value is: 1217125 and first is 1217125
+tap sound after delay of 31 after the tap at 1217125 
+Tap Buffer size is 1 where last value is: 1217445 and first is 1217445
+tap sound after delay of 31 after the tap at 1217445 
+Tap Buffer size is 1 where last value is: 1217748 and first is 1217748
+tap sound after delay of 31 after the tap at 1217748 
+Tap Buffer size is 1 where last value is: 1257505 and first is 1257505
+tap sound after delay of 31 after the tap at 1257505 
+Tap Buffer size is 1 where last value is: 1258010 and first is 1258010
+tap sound after delay of 31 after the tap at 1258010 
+Tap Buffer size is 1 where last value is: 1258423 and first is 1258423
+tap sound after delay of 31 after the tap at 1258423 
+Tap Buffer size is 1 where last value is: 1258769 and first is 1258769
+tap sound after delay of 31 after the tap at 1258769 
+Tap Buffer size is 1 where last value is: 1259103 and first is 1259103
+tap sound after delay of 31 after the tap at 1259103 
+Tap Buffer size is 1 where last value is: 1259434 and first is 1259434
+tap sound after delay of 31 after the tap at 1259434 
+Tap Buffer size is 1 where last value is: 1259744 and first is 1259744
+tap sound after delay of 31 after the tap at 1259744 
+Tap Buffer size is 1 where last value is: 1260068 and first is 1260068
+tap sound after delay of 31 after the tap at 1260068 
+Tap Buffer size is 1 where last value is: 1260384 and first is 1260384
+tap sound after delay of 31 after the tap at 1260384 
+Tap Buffer size is 1 where last value is: 1260716 and first is 1260716
+tap sound after delay of 31 after the tap at 1260716 
+Tap Buffer size is 1 where last value is: 1261011 and first is 1261011
+tap sound after delay of 31 after the tap at 1261011 
+Tap Buffer size is 1 where last value is: 1261332 and first is 1261332
+tap sound after delay of 31 after the tap at 1261332 
+Tap Buffer size is 1 where last value is: 1261608 and first is 1261608
+tap sound after delay of 31 after the tap at 1261608 
+Tap Buffer size is 1 where last value is: 1261904 and first is 1261904
+tap sound after delay of 31 after the tap at 1261904 
+Tap Buffer size is 1 where last value is: 1262215 and first is 1262215
+tap sound after delay of 31 after the tap at 1262215 
+Tap Buffer size is 1 where last value is: 1262505 and first is 1262505
+tap sound after delay of 31 after the tap at 1262505 
+Tap Buffer size is 1 where last value is: 1262826 and first is 1262826
+tap sound after delay of 31 after the tap at 1262826 
+Tap Buffer size is 1 where last value is: 1263120 and first is 1263120
+tap sound after delay of 31 after the tap at 1263120 
+Tap Buffer size is 1 where last value is: 1263453 and first is 1263453
+tap sound after delay of 31 after the tap at 1263453 
+Tap Buffer size is 1 where last value is: 1263743 and first is 1263743
+tap sound after delay of 31 after the tap at 1263743 
+Tap Buffer size is 1 where last value is: 1264066 and first is 1264066
+tap sound after delay of 31 after the tap at 1264066 
+Tap Buffer size is 1 where last value is: 1264350 and first is 1264350
+tap sound after delay of 31 after the tap at 1264350 
+Tap Buffer size is 1 where last value is: 1264675 and first is 1264675
+tap sound after delay of 31 after the tap at 1264675 
+Tap Buffer size is 1 where last value is: 1264996 and first is 1264996
+tap sound after delay of 37 after the tap at 1264996 
+Tap Buffer size is 1 where last value is: 1265334 and first is 1265334
+tap sound after delay of 31 after the tap at 1265334 
+Tap Buffer size is 1 where last value is: 1265628 and first is 1265628
+tap sound after delay of 31 after the tap at 1265628 
+Tap Buffer size is 1 where last value is: 1265943 and first is 1265943
+tap sound after delay of 31 after the tap at 1265943 
+Tap Buffer size is 1 where last value is: 1266245 and first is 1266245
+tap sound after delay of 31 after the tap at 1266245 
+Tap Buffer size is 1 where last value is: 1266530 and first is 1266530
+tap sound after delay of 31 after the tap at 1266530 
+Tap Buffer size is 1 where last value is: 1266865 and first is 1266865
+tap sound after delay of 31 after the tap at 1266865 
+Tap Buffer size is 1 where last value is: 1267160 and first is 1267160
+tap sound after delay of 31 after the tap at 1267160 
+Tap Buffer size is 1 where last value is: 1267452 and first is 1267452
+tap sound after delay of 31 after the tap at 1267452 
+Tap Buffer size is 1 where last value is: 1267755 and first is 1267755
+tap sound after delay of 31 after the tap at 1267755 
+Tap Buffer size is 1 where last value is: 1268096 and first is 1268096
+tap sound after delay of 31 after the tap at 1268096 
+Tap Buffer size is 1 where last value is: 1268388 and first is 1268388
+tap sound after delay of 31 after the tap at 1268388 
+Tap Buffer size is 1 where last value is: 1268668 and first is 1268668
+tap sound after delay of 31 after the tap at 1268668 
+Tap Buffer size is 1 where last value is: 1268950 and first is 1268950
+tap sound after delay of 31 after the tap at 1268950 
+Tap Buffer size is 1 where last value is: 1269219 and first is 1269219
+tap sound after delay of 31 after the tap at 1269219 
+Tap Buffer size is 1 where last value is: 1269469 and first is 1269469
+tap sound after delay of 31 after the tap at 1269469 
+Tap Buffer size is 1 where last value is: 1269739 and first is 1269739
+tap sound after delay of 31 after the tap at 1269739 
+Tap Buffer size is 1 where last value is: 1269961 and first is 1269961
+tap sound after delay of 31 after the tap at 1269961 
+Tap Buffer size is 1 where last value is: 1270194 and first is 1270194
+tap sound after delay of 31 after the tap at 1270194 
+Tap Buffer size is 1 where last value is: 1270389 and first is 1270389
+tap sound after delay of 31 after the tap at 1270389 
+Tap Buffer size is 1 where last value is: 1270577 and first is 1270577
+tap sound after delay of 31 after the tap at 1270577 
+Tap Buffer size is 1 where last value is: 1270788 and first is 1270788
+tap sound after delay of 31 after the tap at 1270788 
+Tap Buffer size is 1 where last value is: 1270969 and first is 1270969
+tap sound after delay of 31 after the tap at 1270969 
+Tap Buffer size is 1 where last value is: 1271151 and first is 1271151
+tap sound after delay of 31 after the tap at 1271151 
+Tap Buffer size is 1 where last value is: 1271315 and first is 1271315
+tap sound after delay of 31 after the tap at 1271315 
+Tap Buffer size is 1 where last value is: 1271485 and first is 1271485
+tap sound after delay of 31 after the tap at 1271485 
+Tap Buffer size is 1 where last value is: 1271660 and first is 1271660
+tap sound after delay of 31 after the tap at 1271660 
+Tap Buffer size is 1 where last value is: 1271832 and first is 1271832
+tap sound after delay of 31 after the tap at 1271832 
+Tap Buffer size is 1 where last value is: 1271993 and first is 1271993
+tap sound after delay of 31 after the tap at 1271993 
+Tap Buffer size is 1 where last value is: 1272143 and first is 1272143
+tap sound after delay of 31 after the tap at 1272143 
+Tap Buffer size is 1 where last value is: 1272320 and first is 1272320
+tap sound after delay of 31 after the tap at 1272320 
+Tap Buffer size is 1 where last value is: 1272478 and first is 1272478
+tap sound after delay of 31 after the tap at 1272478 
+Tap Buffer size is 1 where last value is: 1272635 and first is 1272635
+tap sound after delay of 31 after the tap at 1272635 
+Tap Buffer size is 1 where last value is: 1272795 and first is 1272795
+tap sound after delay of 31 after the tap at 1272795 
+Tap Buffer size is 1 where last value is: 1272953 and first is 1272953
+tap sound after delay of 31 after the tap at 1272953 
+Tap Buffer size is 1 where last value is: 1273117 and first is 1273117
+tap sound after delay of 31 after the tap at 1273117 
+Tap Buffer size is 1 where last value is: 1273288 and first is 1273288
+tap sound after delay of 31 after the tap at 1273288 
+Tap Buffer size is 1 where last value is: 1273494 and first is 1273494
+tap sound after delay of 31 after the tap at 1273494 
+Tap Buffer size is 1 where last value is: 1273668 and first is 1273668
+tap sound after delay of 31 after the tap at 1273668 
+Tap Buffer size is 1 where last value is: 1273899 and first is 1273899
+tap sound after delay of 31 after the tap at 1273899 
+Tap Buffer size is 1 where last value is: 1274074 and first is 1274074
+tap sound after delay of 31 after the tap at 1274074 
+Tap Buffer size is 1 where last value is: 1274257 and first is 1274257
+tap sound after delay of 31 after the tap at 1274257 
+Tap Buffer size is 1 where last value is: 1274449 and first is 1274449
+tap sound after delay of 31 after the tap at 1274449 
+Tap Buffer size is 1 where last value is: 1274620 and first is 1274620
+tap sound after delay of 31 after the tap at 1274620 
+Tap Buffer size is 1 where last value is: 1274807 and first is 1274807
+tap sound after delay of 31 after the tap at 1274807 
+Tap Buffer size is 1 where last value is: 1275000 and first is 1275000
+tap sound after delay of 31 after the tap at 1275000 
+Tap Buffer size is 1 where last value is: 1275190 and first is 1275190
+tap sound after delay of 31 after the tap at 1275190 
+Tap Buffer size is 1 where last value is: 1275358 and first is 1275358
+tap sound after delay of 31 after the tap at 1275358 
+Tap Buffer size is 1 where last value is: 1275531 and first is 1275531
+tap sound after delay of 31 after the tap at 1275531 
+Tap Buffer size is 1 where last value is: 1275713 and first is 1275713
+tap sound after delay of 31 after the tap at 1275713 
+Tap Buffer size is 1 where last value is: 1275884 and first is 1275884
+tap sound after delay of 33 after the tap at 1275884 
+Tap Buffer size is 1 where last value is: 1276050 and first is 1276050
+tap sound after delay of 31 after the tap at 1276050 
+Tap Buffer size is 1 where last value is: 1276216 and first is 1276216
+tap sound after delay of 31 after the tap at 1276216 
+Tap Buffer size is 1 where last value is: 1276400 and first is 1276400
+tap sound after delay of 31 after the tap at 1276400 
+Tap Buffer size is 1 where last value is: 1276564 and first is 1276564
+tap sound after delay of 31 after the tap at 1276564 
+Tap Buffer size is 1 where last value is: 1276737 and first is 1276737
+tap sound after delay of 31 after the tap at 1276737 
+Tap Buffer size is 1 where last value is: 1287919 and first is 1287919
+tap sound after delay of 31 after the tap at 1287919 
+Tap Buffer size is 1 where last value is: 1288410 and first is 1288410
+tap sound after delay of 31 after the tap at 1288410 
+Tap Buffer size is 1 where last value is: 1288825 and first is 1288825
+tap sound after delay of 31 after the tap at 1288825 
+Tap Buffer size is 1 where last value is: 1289235 and first is 1289235
+tap sound after delay of 31 after the tap at 1289235 
+Tap Buffer size is 1 where last value is: 1289585 and first is 1289585
+tap sound after delay of 31 after the tap at 1289585 
+Tap Buffer size is 1 where last value is: 1289929 and first is 1289929
+tap sound after delay of 31 after the tap at 1289929 
+Tap Buffer size is 1 where last value is: 1290218 and first is 1290218
+tap sound after delay of 31 after the tap at 1290218 
+Tap Buffer size is 1 where last value is: 1290560 and first is 1290560
+tap sound after delay of 31 after the tap at 1290560 
+Tap Buffer size is 1 where last value is: 1290854 and first is 1290854
+tap sound after delay of 31 after the tap at 1290854 
+Tap Buffer size is 1 where last value is: 1291136 and first is 1291136
+tap sound after delay of 31 after the tap at 1291136 
+Tap Buffer size is 1 where last value is: 1291407 and first is 1291407
+tap sound after delay of 31 after the tap at 1291407 
+Tap Buffer size is 1 where last value is: 1303108 and first is 1303108
+tap sound after delay of 31 after the tap at 1303108 
+Tap Buffer size is 1 where last value is: 1303335 and first is 1303335
+tap sound after delay of 31 after the tap at 1303335 
+Tap Buffer size is 1 where last value is: 1303616 and first is 1303616
+tap sound after delay of 31 after the tap at 1303616 
+Tap Buffer size is 1 where last value is: 1303807 and first is 1303807
+tap sound after delay of 31 after the tap at 1303807 
+Tap Buffer size is 1 where last value is: 1304039 and first is 1304039
+tap sound after delay of 31 after the tap at 1304039 
+Tap Buffer size is 1 where last value is: 1304216 and first is 1304216
+tap sound after delay of 31 after the tap at 1304216 
+Tap Buffer size is 1 where last value is: 1304401 and first is 1304401
+tap sound after delay of 31 after the tap at 1304401 
+Tap Buffer size is 1 where last value is: 1304650 and first is 1304650
+tap sound after delay of 31 after the tap at 1304650 
+Tap Buffer size is 1 where last value is: 1304910 and first is 1304910
+tap sound after delay of 31 after the tap at 1304910 
+Tap Buffer size is 1 where last value is: 1305084 and first is 1305084
+tap sound after delay of 31 after the tap at 1305084 
+Tap Buffer size is 1 where last value is: 1305265 and first is 1305265
+tap sound after delay of 31 after the tap at 1305265 
+Tap Buffer size is 1 where last value is: 1305463 and first is 1305463
+tap sound after delay of 31 after the tap at 1305463 
+Tap Buffer size is 1 where last value is: 1305767 and first is 1305767
+tap sound after delay of 31 after the tap at 1305767 
+Tap Buffer size is 1 where last value is: 1305950 and first is 1305950
+tap sound after delay of 31 after the tap at 1305950 
+Tap Buffer size is 1 where last value is: 1306122 and first is 1306122
+tap sound after delay of 31 after the tap at 1306122 
+Tap Buffer size is 1 where last value is: 1306316 and first is 1306316
+tap sound after delay of 31 after the tap at 1306316 
+Tap Buffer size is 1 where last value is: 1306627 and first is 1306627
+tap sound after delay of 31 after the tap at 1306627 
+Tap Buffer size is 1 where last value is: 1306806 and first is 1306806
+tap sound after delay of 31 after the tap at 1306806 
+Tap Buffer size is 1 where last value is: 1306974 and first is 1306974
+tap sound after delay of 31 after the tap at 1306974 
+Tap Buffer size is 1 where last value is: 1307145 and first is 1307145
+tap sound after delay of 31 after the tap at 1307145 
+Tap Buffer size is 1 where last value is: 1307427 and first is 1307427
+tap sound after delay of 31 after the tap at 1307427 
+Tap Buffer size is 1 where last value is: 1307601 and first is 1307601
+tap sound after delay of 31 after the tap at 1307601 
+Tap Buffer size is 1 where last value is: 1307752 and first is 1307752
+tap sound after delay of 31 after the tap at 1307752 
+Tap Buffer size is 1 where last value is: 1307923 and first is 1307923
+tap sound after delay of 31 after the tap at 1307923 
+Tap Buffer size is 1 where last value is: 1326360 and first is 1326360
+tap sound after delay of 31 after the tap at 1326360 
+Tap Buffer size is 1 where last value is: 1326653 and first is 1326653
+tap sound after delay of 31 after the tap at 1326653 
+Tap Buffer size is 1 where last value is: 1326872 and first is 1326872
+tap sound after delay of 31 after the tap at 1326872 
+Tap Buffer size is 1 where last value is: 1327069 and first is 1327069
+tap sound after delay of 31 after the tap at 1327069 
+Tap Buffer size is 1 where last value is: 1327242 and first is 1327242
+tap sound after delay of 31 after the tap at 1327242 
+Tap Buffer size is 1 where last value is: 1327400 and first is 1327400
+tap sound after delay of 31 after the tap at 1327400 
+Tap Buffer size is 1 where last value is: 1327551 and first is 1327551
+tap sound after delay of 31 after the tap at 1327551 
+Tap Buffer size is 1 where last value is: 1327707 and first is 1327707
+tap sound after delay of 31 after the tap at 1327707 
+Tap Buffer size is 1 where last value is: 1327867 and first is 1327867
+tap sound after delay of 31 after the tap at 1327867 
+Tap Buffer size is 1 where last value is: 1328013 and first is 1328013
+tap sound after delay of 31 after the tap at 1328013 
+Tap Buffer size is 1 where last value is: 1328175 and first is 1328175
+tap sound after delay of 31 after the tap at 1328175 
+Tap Buffer size is 1 where last value is: 1328330 and first is 1328330
+tap sound after delay of 31 after the tap at 1328330 
+Tap Buffer size is 1 where last value is: 1328478 and first is 1328478
+tap sound after delay of 31 after the tap at 1328478 
+Tap Buffer size is 1 where last value is: 1328630 and first is 1328630
+tap sound after delay of 31 after the tap at 1328630 
+Tap Buffer size is 1 where last value is: 1328791 and first is 1328791
+tap sound after delay of 31 after the tap at 1328791 
+Tap Buffer size is 1 where last value is: 1328933 and first is 1328933
+tap sound after delay of 31 after the tap at 1328933 
+Tap Buffer size is 1 where last value is: 1329115 and first is 1329115
+tap sound after delay of 31 after the tap at 1329115 
+Tap Buffer size is 1 where last value is: 1329276 and first is 1329276
+tap sound after delay of 31 after the tap at 1329276 
+Tap Buffer size is 1 where last value is: 1329435 and first is 1329435
+tap sound after delay of 31 after the tap at 1329435 
+Tap Buffer size is 1 where last value is: 1329596 and first is 1329596
+tap sound after delay of 31 after the tap at 1329596 
+Tap Buffer size is 1 where last value is: 1329766 and first is 1329766
+tap sound after delay of 31 after the tap at 1329766 
+Tap Buffer size is 1 where last value is: 1329936 and first is 1329936
+tap sound after delay of 31 after the tap at 1329936 
+Tap Buffer size is 1 where last value is: 1330113 and first is 1330113
+tap sound after delay of 31 after the tap at 1330113 
+Tap Buffer size is 1 where last value is: 1330284 and first is 1330284
+tap sound after delay of 31 after the tap at 1330284 
+Tap Buffer size is 1 where last value is: 1330450 and first is 1330450
+tap sound after delay of 31 after the tap at 1330450 
+Tap Buffer size is 1 where last value is: 1330635 and first is 1330635
+tap sound after delay of 31 after the tap at 1330635 
+Tap Buffer size is 1 where last value is: 1330815 and first is 1330815
+tap sound after delay of 31 after the tap at 1330815 
+Tap Buffer size is 1 where last value is: 1330989 and first is 1330989
+tap sound after delay of 31 after the tap at 1330989 
+Tap Buffer size is 1 where last value is: 1331170 and first is 1331170
+tap sound after delay of 31 after the tap at 1331170 
+Tap Buffer size is 1 where last value is: 1331331 and first is 1331331
+tap sound after delay of 31 after the tap at 1331331 
+Tap Buffer size is 1 where last value is: 1331503 and first is 1331503
+tap sound after delay of 31 after the tap at 1331503 
+Tap Buffer size is 1 where last value is: 1331829 and first is 1331829
+tap sound after delay of 31 after the tap at 1331829 
+Tap Buffer size is 1 where last value is: 1332272 and first is 1332272
+tap sound after delay of 31 after the tap at 1332272 
+Tap Buffer size is 1 where last value is: 1332644 and first is 1332644
+tap sound after delay of 31 after the tap at 1332644 
+Tap Buffer size is 1 where last value is: 1332964 and first is 1332964
+tap sound after delay of 31 after the tap at 1332964 
+Tap Buffer size is 1 where last value is: 1333271 and first is 1333271
+tap sound after delay of 31 after the tap at 1333271 
+Tap Buffer size is 1 where last value is: 1333535 and first is 1333535
+tap sound after delay of 31 after the tap at 1333535 
+Tap Buffer size is 1 where last value is: 1333801 and first is 1333801
+tap sound after delay of 31 after the tap at 1333801 
+Tap Buffer size is 1 where last value is: 1334033 and first is 1334033
+tap sound after delay of 31 after the tap at 1334033 
+Tap Buffer size is 1 where last value is: 1334286 and first is 1334286
+tap sound after delay of 31 after the tap at 1334286 
+Tap Buffer size is 1 where last value is: 1334510 and first is 1334510
+tap sound after delay of 31 after the tap at 1334510 
+Tap Buffer size is 1 where last value is: 1334735 and first is 1334735
+tap sound after delay of 31 after the tap at 1334735 
+Tap Buffer size is 1 where last value is: 1334953 and first is 1334953
+tap sound after delay of 31 after the tap at 1334953 
+Tap Buffer size is 1 where last value is: 1335201 and first is 1335201
+tap sound after delay of 31 after the tap at 1335201 
+Tap Buffer size is 1 where last value is: 1335438 and first is 1335438
+tap sound after delay of 31 after the tap at 1335438 
+Tap Buffer size is 1 where last value is: 1335661 and first is 1335661
+tap sound after delay of 31 after the tap at 1335661 
+Tap Buffer size is 1 where last value is: 1335860 and first is 1335860
+tap sound after delay of 31 after the tap at 1335860 
+Tap Buffer size is 1 where last value is: 1364260 and first is 1364260
+tap sound after delay of 31 after the tap at 1364260 
+Tap Buffer size is 1 where last value is: 1364699 and first is 1364699
+tap sound after delay of 31 after the tap at 1364699 
+Tap Buffer size is 1 where last value is: 1365064 and first is 1365064
+tap sound after delay of 31 after the tap at 1365064 
+Tap Buffer size is 1 where last value is: 1365352 and first is 1365352
+tap sound after delay of 31 after the tap at 1365352 
+Tap Buffer size is 1 where last value is: 1365643 and first is 1365643
+tap sound after delay of 31 after the tap at 1365643 
+Tap Buffer size is 1 where last value is: 1365924 and first is 1365924
+tap sound after delay of 31 after the tap at 1365924 
+Tap Buffer size is 1 where last value is: 1366251 and first is 1366251
+tap sound after delay of 31 after the tap at 1366251 
+Tap Buffer size is 1 where last value is: 1366541 and first is 1366541
+tap sound after delay of 31 after the tap at 1366541 
+Tap Buffer size is 1 where last value is: 1366823 and first is 1366823
+tap sound after delay of 31 after the tap at 1366823 
+Tap Buffer size is 1 where last value is: 1367088 and first is 1367088
+tap sound after delay of 31 after the tap at 1367088 
+Tap Buffer size is 1 where last value is: 1367370 and first is 1367370
+tap sound after delay of 31 after the tap at 1367370 
+Tap Buffer size is 1 where last value is: 1367619 and first is 1367619
+tap sound after delay of 31 after the tap at 1367619 
+Tap Buffer size is 1 where last value is: 1367943 and first is 1367943
+tap sound after delay of 31 after the tap at 1367943 
+Tap Buffer size is 1 where last value is: 1368214 and first is 1368214
+tap sound after delay of 31 after the tap at 1368214 
+Tap Buffer size is 1 where last value is: 1368499 and first is 1368499
+tap sound after delay of 31 after the tap at 1368499 
+Tap Buffer size is 1 where last value is: 1368760 and first is 1368760
+tap sound after delay of 31 after the tap at 1368760 
+Tap Buffer size is 1 where last value is: 1369016 and first is 1369016
+tap sound after delay of 31 after the tap at 1369016 
+Tap Buffer size is 1 where last value is: 1369273 and first is 1369273
+tap sound after delay of 31 after the tap at 1369273 
+Tap Buffer size is 1 where last value is: 1369516 and first is 1369516
+tap sound after delay of 31 after the tap at 1369516 
+Tap Buffer size is 1 where last value is: 1369753 and first is 1369753
+tap sound after delay of 31 after the tap at 1369753 
+Tap Buffer size is 1 where last value is: 1370009 and first is 1370009
+tap sound after delay of 31 after the tap at 1370009 
+Tap Buffer size is 1 where last value is: 1370263 and first is 1370263
+tap sound after delay of 31 after the tap at 1370263 
+Tap Buffer size is 1 where last value is: 1370480 and first is 1370480
+tap sound after delay of 31 after the tap at 1370480 
+Tap Buffer size is 1 where last value is: 1370684 and first is 1370684
+tap sound after delay of 31 after the tap at 1370684 
+Tap Buffer size is 1 where last value is: 1370893 and first is 1370893
+tap sound after delay of 31 after the tap at 1370893 
+Tap Buffer size is 1 where last value is: 1371080 and first is 1371080
+tap sound after delay of 31 after the tap at 1371080 
+Tap Buffer size is 1 where last value is: 1371262 and first is 1371262
+tap sound after delay of 31 after the tap at 1371262 
+Tap Buffer size is 1 where last value is: 1371432 and first is 1371432
+tap sound after delay of 31 after the tap at 1371432 
+Tap Buffer size is 1 where last value is: 1371611 and first is 1371611
+tap sound after delay of 31 after the tap at 1371611 
+Tap Buffer size is 1 where last value is: 1371787 and first is 1371787
+tap sound after delay of 31 after the tap at 1371787 
+Tap Buffer size is 1 where last value is: 1371959 and first is 1371959
+tap sound after delay of 31 after the tap at 1371959 
+Tap Buffer size is 1 where last value is: 1372119 and first is 1372119
+tap sound after delay of 31 after the tap at 1372119 
+Tap Buffer size is 1 where last value is: 1372287 and first is 1372287
+tap sound after delay of 31 after the tap at 1372287 
+Tap Buffer size is 1 where last value is: 1372453 and first is 1372453
+tap sound after delay of 31 after the tap at 1372453 
+Tap Buffer size is 1 where last value is: 1372618 and first is 1372618
+tap sound after delay of 31 after the tap at 1372618 
+Tap Buffer size is 1 where last value is: 1372779 and first is 1372779
+tap sound after delay of 31 after the tap at 1372779 
+Tap Buffer size is 1 where last value is: 1372938 and first is 1372938
+tap sound after delay of 31 after the tap at 1372938 
+Tap Buffer size is 1 where last value is: 1373097 and first is 1373097
+tap sound after delay of 31 after the tap at 1373097 
+Tap Buffer size is 1 where last value is: 1373246 and first is 1373246
+tap sound after delay of 31 after the tap at 1373246 
+Tap Buffer size is 1 where last value is: 1373407 and first is 1373407
+tap sound after delay of 31 after the tap at 1373407 
+Tap Buffer size is 1 where last value is: 1373571 and first is 1373571
+tap sound after delay of 31 after the tap at 1373571 
+Tap Buffer size is 1 where last value is: 1373752 and first is 1373752
+tap sound after delay of 31 after the tap at 1373752 
+Tap Buffer size is 1 where last value is: 1373943 and first is 1373943
+tap sound after delay of 31 after the tap at 1373943 
+Tap Buffer size is 1 where last value is: 1374126 and first is 1374126
+tap sound after delay of 31 after the tap at 1374126 
+Tap Buffer size is 1 where last value is: 1374290 and first is 1374290
+tap sound after delay of 31 after the tap at 1374290 
+Tap Buffer size is 1 where last value is: 1374457 and first is 1374457
+tap sound after delay of 31 after the tap at 1374457 
+Tap Buffer size is 1 where last value is: 1374625 and first is 1374625
+tap sound after delay of 31 after the tap at 1374625 
+Tap Buffer size is 1 where last value is: 1374799 and first is 1374799
+tap sound after delay of 31 after the tap at 1374799 
+Tap Buffer size is 1 where last value is: 1374967 and first is 1374967
+tap sound after delay of 31 after the tap at 1374967 
+Tap Buffer size is 1 where last value is: 1375138 and first is 1375138
+tap sound after delay of 31 after the tap at 1375138 
+Tap Buffer size is 1 where last value is: 1375333 and first is 1375333
+tap sound after delay of 31 after the tap at 1375333 
+Tap Buffer size is 1 where last value is: 1375513 and first is 1375513
+tap sound after delay of 31 after the tap at 1375513 
+Tap Buffer size is 1 where last value is: 1375678 and first is 1375678
+tap sound after delay of 31 after the tap at 1375678 
+Tap Buffer size is 1 where last value is: 1375862 and first is 1375862
+tap sound after delay of 31 after the tap at 1375862 
+Tap Buffer size is 1 where last value is: 1376040 and first is 1376040
+tap sound after delay of 31 after the tap at 1376040 
+Tap Buffer size is 1 where last value is: 1376231 and first is 1376231
+tap sound after delay of 31 after the tap at 1376231 
+Tap Buffer size is 1 where last value is: 1376389 and first is 1376389
+tap sound after delay of 31 after the tap at 1376389 
+Tap Buffer size is 1 where last value is: 1376558 and first is 1376558
+tap sound after delay of 33 after the tap at 1376558 
+Tap Buffer size is 1 where last value is: 1376722 and first is 1376722
+tap sound after delay of 31 after the tap at 1376722 
+Tap Buffer size is 1 where last value is: 1376918 and first is 1376918
+tap sound after delay of 31 after the tap at 1376918 
+Tap Buffer size is 1 where last value is: 1439805 and first is 1439805
+tap sound after delay of 31 after the tap at 1439805 
+Tap Buffer size is 1 where last value is: 1441746 and first is 1441746
+tap sound after delay of 31 after the tap at 1441746 
+Tap Buffer size is 1 where last value is: 1443686 and first is 1443686
+tap sound after delay of 31 after the tap at 1443686 
+Tap Buffer size is 1 where last value is: 1445717 and first is 1445717
+tap sound after delay of 31 after the tap at 1445717 
+Tap Buffer size is 1 where last value is: 1447992 and first is 1447992
+tap sound after delay of 31 after the tap at 1447992 
+Tap Buffer size is 1 where last value is: 1450336 and first is 1450336
+tap sound after delay of 31 after the tap at 1450336 
+Tap Buffer size is 1 where last value is: 1452598 and first is 1452598
+tap sound after delay of 31 after the tap at 1452598 
+Tap Buffer size is 1 where last value is: 1454723 and first is 1454723
+tap sound after delay of 31 after the tap at 1454723 
+Tap Buffer size is 1 where last value is: 1456627 and first is 1456627
+tap sound after delay of 31 after the tap at 1456627 
+Tap Buffer size is 1 where last value is: 1458691 and first is 1458691
+tap sound after delay of 31 after the tap at 1458691 
+Tap Buffer size is 1 where last value is: 1460802 and first is 1460802
+tap sound after delay of 31 after the tap at 1460802 
+Tap Buffer size is 1 where last value is: 1462504 and first is 1462504
+tap sound after delay of 31 after the tap at 1462504 
+Tap Buffer size is 1 where last value is: 1464650 and first is 1464650
+tap sound after delay of 31 after the tap at 1464650 
+Tap Buffer size is 1 where last value is: 1466568 and first is 1466568
+tap sound after delay of 31 after the tap at 1466568 
+Tap Buffer size is 1 where last value is: 1468482 and first is 1468482
+tap sound after delay of 31 after the tap at 1468482 
+Tap Buffer size is 1 where last value is: 1470813 and first is 1470813
+tap sound after delay of 31 after the tap at 1470813 
+Tap Buffer size is 1 where last value is: 1473037 and first is 1473037
+tap sound after delay of 31 after the tap at 1473037 
+Tap Buffer size is 1 where last value is: 1475214 and first is 1475214
+tap sound after delay of 31 after the tap at 1475214 
+Tap Buffer size is 1 where last value is: 1477403 and first is 1477403
+tap sound after delay of 31 after the tap at 1477403 
+Tap Buffer size is 1 where last value is: 1617717 and first is 1617717
+tap sound after delay of 91 after the tap at 1617717 
+Tap Buffer size is 1 where last value is: 1618769 and first is 1618769
+tap sound after delay of 91 after the tap at 1618769 
+Tap Buffer size is 1 where last value is: 1619741 and first is 1619741
+tap sound after delay of 91 after the tap at 1619741 
+Tap Buffer size is 1 where last value is: 1620642 and first is 1620642
+tap sound after delay of 91 after the tap at 1620642 
+Tap Buffer size is 1 where last value is: 1621556 and first is 1621556
+tap sound after delay of 91 after the tap at 1621556 
+Tap Buffer size is 1 where last value is: 1622361 and first is 1622361
+tap sound after delay of 91 after the tap at 1622361 
+Tap Buffer size is 1 where last value is: 1623173 and first is 1623173
+tap sound after delay of 91 after the tap at 1623173 
+Tap Buffer size is 1 where last value is: 1623993 and first is 1623993
+tap sound after delay of 91 after the tap at 1623993 
+Tap Buffer size is 1 where last value is: 1624709 and first is 1624709
+tap sound after delay of 91 after the tap at 1624709 
+Tap Buffer size is 1 where last value is: 1625375 and first is 1625375
+tap sound after delay of 91 after the tap at 1625375 
+Tap Buffer size is 1 where last value is: 1625961 and first is 1625961
+tap sound after delay of 91 after the tap at 1625961 
+Tap Buffer size is 1 where last value is: 1626531 and first is 1626531
+tap sound after delay of 91 after the tap at 1626531 
+Tap Buffer size is 1 where last value is: 1626997 and first is 1626997
+tap sound after delay of 91 after the tap at 1626997 
+Tap Buffer size is 1 where last value is: 1627506 and first is 1627506
+tap sound after delay of 91 after the tap at 1627506 
+Tap Buffer size is 1 where last value is: 1627993 and first is 1627993
+tap sound after delay of 91 after the tap at 1627993 
+Tap Buffer size is 1 where last value is: 1628532 and first is 1628532
+tap sound after delay of 92 after the tap at 1628532 
+Tap Buffer size is 1 where last value is: 1629060 and first is 1629060
+tap sound after delay of 91 after the tap at 1629060 
+Tap Buffer size is 1 where last value is: 1629612 and first is 1629612
+tap sound after delay of 91 after the tap at 1629612 
+Tap Buffer size is 1 where last value is: 1630149 and first is 1630149
+tap sound after delay of 91 after the tap at 1630149 
+Tap Buffer size is 1 where last value is: 1630658 and first is 1630658
+tap sound after delay of 91 after the tap at 1630658 
+Tap Buffer size is 1 where last value is: 1631134 and first is 1631134
+tap sound after delay of 91 after the tap at 1631134 
+Tap Buffer size is 1 where last value is: 1631602 and first is 1631602
+tap sound after delay of 91 after the tap at 1631602 
+Tap Buffer size is 1 where last value is: 1632082 and first is 1632082
+tap sound after delay of 91 after the tap at 1632082 
+Tap Buffer size is 1 where last value is: 1632498 and first is 1632498
+tap sound after delay of 91 after the tap at 1632498 
+Tap Buffer size is 1 where last value is: 1632937 and first is 1632937
+tap sound after delay of 91 after the tap at 1632937 
+Tap Buffer size is 1 where last value is: 1633356 and first is 1633356
+tap sound after delay of 91 after the tap at 1633356 
+Tap Buffer size is 1 where last value is: 1633749 and first is 1633749
+tap sound after delay of 91 after the tap at 1633749 
+Tap Buffer size is 1 where last value is: 1634107 and first is 1634107
+tap sound after delay of 91 after the tap at 1634107 
+Tap Buffer size is 1 where last value is: 1634489 and first is 1634489
+tap sound after delay of 91 after the tap at 1634489 
+Tap Buffer size is 1 where last value is: 1634866 and first is 1634866
+tap sound after delay of 91 after the tap at 1634866 
+Tap Buffer size is 1 where last value is: 1635209 and first is 1635209
+tap sound after delay of 91 after the tap at 1635209 
+Tap Buffer size is 1 where last value is: 1635569 and first is 1635569
+tap sound after delay of 91 after the tap at 1635569 
+Tap Buffer size is 1 where last value is: 1635921 and first is 1635921
+tap sound after delay of 91 after the tap at 1635921 
+Tap Buffer size is 1 where last value is: 1636295 and first is 1636295
+tap sound after delay of 91 after the tap at 1636295 
+Tap Buffer size is 1 where last value is: 1636647 and first is 1636647
+tap sound after delay of 91 after the tap at 1636647 
+Tap Buffer size is 1 where last value is: 1653149 and first is 1653149
+tap sound after delay of 91 after the tap at 1653149 
+Tap Buffer size is 1 where last value is: 1653504 and first is 1653504
+tap sound after delay of 91 after the tap at 1653504 
+Tap Buffer size is 1 where last value is: 1653853 and first is 1653853
+tap sound after delay of 91 after the tap at 1653853 
+Tap Buffer size is 1 where last value is: 1654178 and first is 1654178
+tap sound after delay of 91 after the tap at 1654178 
+Tap Buffer size is 1 where last value is: 1654524 and first is 1654524
+tap sound after delay of 91 after the tap at 1654524 
+Tap Buffer size is 1 where last value is: 1654785 and first is 1654785
+tap sound after delay of 184 after the tap at 1654785 
+Tap Buffer size is 1 where last value is: 1655169 and first is 1655169
+tap sound after delay of 91 after the tap at 1655169 
+Tap Buffer size is 1 where last value is: 1655373 and first is 1655373
+tap sound after delay of 91 after the tap at 1655373 
+Tap Buffer size is 1 where last value is: 1655559 and first is 1655559
+tap sound after delay of 91 after the tap at 1655559 
+Tap Buffer size is 1 where last value is: 1655714 and first is 1655714
+tap sound after delay of 91 after the tap at 1655714 
+Tap Buffer size is 1 where last value is: 1655865 and first is 1655865
+tap sound after delay of 91 after the tap at 1655865 
+Tap Buffer size is 1 where last value is: 1656022 and first is 1656022
+tap sound after delay of 91 after the tap at 1656022 
+Tap Buffer size is 1 where last value is: 1656160 and first is 1656160
+tap sound after delay of 91 after the tap at 1656160 
+Tap Buffer size is 1 where last value is: 1656360 and first is 1656360
+tap sound after delay of 91 after the tap at 1656360 
+Tap Buffer size is 1 where last value is: 1656516 and first is 1656516
+tap sound after delay of 91 after the tap at 1656516 
+Tap Buffer size is 1 where last value is: 1656770 and first is 1656770
+tap sound after delay of 105 after the tap at 1656770 
+Tap Buffer size is 1 where last value is: 1656943 and first is 1656943
+tap sound after delay of 91 after the tap at 1656943 
+Tap Buffer size is 1 where last value is: 1657112 and first is 1657112
+tap sound after delay of 91 after the tap at 1657112 
+Tap Buffer size is 1 where last value is: 1657277 and first is 1657277
+tap sound after delay of 91 after the tap at 1657277 
+Tap Buffer size is 1 where last value is: 1657443 and first is 1657443
+tap sound after delay of 91 after the tap at 1657443 
+Tap Buffer size is 1 where last value is: 1657608 and first is 1657608
+tap sound after delay of 91 after the tap at 1657608 
+Tap Buffer size is 1 where last value is: 1657782 and first is 1657782
+tap sound after delay of 91 after the tap at 1657782 
+Tap Buffer size is 1 where last value is: 1657947 and first is 1657947
+tap sound after delay of 91 after the tap at 1657947 
+Tap Buffer size is 1 where last value is: 1658112 and first is 1658112
+tap sound after delay of 91 after the tap at 1658112 
+Tap Buffer size is 1 where last value is: 1658276 and first is 1658276
+tap sound after delay of 91 after the tap at 1658276 
+Tap Buffer size is 1 where last value is: 1658448 and first is 1658448
+tap sound after delay of 91 after the tap at 1658448 
+Tap Buffer size is 1 where last value is: 1658629 and first is 1658629
+tap sound after delay of 91 after the tap at 1658629 
+Tap Buffer size is 1 where last value is: 1658797 and first is 1658797
+tap sound after delay of 91 after the tap at 1658797 
+Tap Buffer size is 1 where last value is: 1658956 and first is 1658956
+tap sound after delay of 91 after the tap at 1658956 
+Tap Buffer size is 1 where last value is: 1659121 and first is 1659121
+tap sound after delay of 91 after the tap at 1659121 
+Tap Buffer size is 1 where last value is: 1659309 and first is 1659309
+tap sound after delay of 91 after the tap at 1659309 
+Tap Buffer size is 1 where last value is: 1659486 and first is 1659486
+tap sound after delay of 91 after the tap at 1659486 
+Tap Buffer size is 1 where last value is: 1659648 and first is 1659648
+tap sound after delay of 91 after the tap at 1659648 
+Tap Buffer size is 1 where last value is: 1679591 and first is 1679591
+tap sound after delay of 91 after the tap at 1679591 
+Tap Buffer size is 1 where last value is: 1680055 and first is 1680055
+tap sound after delay of 91 after the tap at 1680055 
+Tap Buffer size is 1 where last value is: 1680481 and first is 1680481
+tap sound after delay of 91 after the tap at 1680481 
+Tap Buffer size is 1 where last value is: 1680838 and first is 1680838
+tap sound after delay of 91 after the tap at 1680838 
+Tap Buffer size is 1 where last value is: 1681235 and first is 1681235
+tap sound after delay of 91 after the tap at 1681235 
+Tap Buffer size is 1 where last value is: 1681587 and first is 1681587
+tap sound after delay of 91 after the tap at 1681587 
+Tap Buffer size is 1 where last value is: 1681926 and first is 1681926
+tap sound after delay of 91 after the tap at 1681926 
+Tap Buffer size is 1 where last value is: 1682263 and first is 1682263
+tap sound after delay of 91 after the tap at 1682263 
+Tap Buffer size is 1 where last value is: 1682563 and first is 1682563
+tap sound after delay of 91 after the tap at 1682563 
+Tap Buffer size is 1 where last value is: 1682840 and first is 1682840
+tap sound after delay of 91 after the tap at 1682840 
+Tap Buffer size is 1 where last value is: 1683183 and first is 1683183
+tap sound after delay of 91 after the tap at 1683183 
+Tap Buffer size is 1 where last value is: 1683510 and first is 1683510
+tap sound after delay of 91 after the tap at 1683510 
+Tap Buffer size is 1 where last value is: 1683858 and first is 1683858
+tap sound after delay of 91 after the tap at 1683858 
+Tap Buffer size is 1 where last value is: 1684184 and first is 1684184
+tap sound after delay of 91 after the tap at 1684184 
+Tap Buffer size is 1 where last value is: 1684423 and first is 1684423
+tap sound after delay of 91 after the tap at 1684423 
+Tap Buffer size is 1 where last value is: 1684745 and first is 1684745
+tap sound after delay of 91 after the tap at 1684745 
+Tap Buffer size is 1 where last value is: 1685034 and first is 1685034
+tap sound after delay of 91 after the tap at 1685034 
+Tap Buffer size is 1 where last value is: 1685403 and first is 1685403
+tap sound after delay of 91 after the tap at 1685403 
+Tap Buffer size is 1 where last value is: 1685635 and first is 1685635
+tap sound after delay of 91 after the tap at 1685635 
+Tap Buffer size is 1 where last value is: 1686001 and first is 1686001
+tap sound after delay of 91 after the tap at 1686001 
+Tap Buffer size is 1 where last value is: 1686189 and first is 1686189
+tap sound after delay of 91 after the tap at 1686189 
+Tap Buffer size is 1 where last value is: 1686596 and first is 1686596
+tap sound after delay of 91 after the tap at 1686596 
+Tap Buffer size is 1 where last value is: 1686768 and first is 1686768
+tap sound after delay of 91 after the tap at 1686768 
+Tap Buffer size is 1 where last value is: 1687182 and first is 1687182
+tap sound after delay of 91 after the tap at 1687182 
+Tap Buffer size is 1 where last value is: 1687363 and first is 1687363
+tap sound after delay of 91 after the tap at 1687363 
+Tap Buffer size is 1 where last value is: 1687766 and first is 1687766
+tap sound after delay of 91 after the tap at 1687766 
+Tap Buffer size is 1 where last value is: 1687943 and first is 1687943
+tap sound after delay of 91 after the tap at 1687943 
+Tap Buffer size is 1 where last value is: 1688317 and first is 1688317
+tap sound after delay of 91 after the tap at 1688317 
+Tap Buffer size is 1 where last value is: 1688484 and first is 1688484
+tap sound after delay of 91 after the tap at 1688484 
+Tap Buffer size is 1 where last value is: 1688894 and first is 1688894
+tap sound after delay of 91 after the tap at 1688894 
+Tap Buffer size is 1 where last value is: 1689064 and first is 1689064
+tap sound after delay of 91 after the tap at 1689064 
+Tap Buffer size is 1 where last value is: 1758157 and first is 1758157
+tap sound after delay of 91 after the tap at 1758157 
+Tap Buffer size is 1 where last value is: 1760057 and first is 1760057
+tap sound after delay of 91 after the tap at 1760057 
+Tap Buffer size is 1 where last value is: 1761983 and first is 1761983
+tap sound after delay of 91 after the tap at 1761983 
+Tap Buffer size is 1 where last value is: 1764302 and first is 1764302
+tap sound after delay of 91 after the tap at 1764302 
+Tap Buffer size is 1 where last value is: 1766541 and first is 1766541
+tap sound after delay of 91 after the tap at 1766541 
+Tap Buffer size is 1 where last value is: 1768747 and first is 1768747
+tap sound after delay of 91 after the tap at 1768747 
+Tap Buffer size is 1 where last value is: 1771041 and first is 1771041
+tap sound after delay of 91 after the tap at 1771041 
+Tap Buffer size is 1 where last value is: 1773302 and first is 1773302
+tap sound after delay of 91 after the tap at 1773302 
+Tap Buffer size is 1 where last value is: 1775633 and first is 1775633
+tap sound after delay of 96 after the tap at 1775633 
+Tap Buffer size is 1 where last value is: 1777640 and first is 1777640
+tap sound after delay of 91 after the tap at 1777640 
+Tap Buffer size is 1 where last value is: 1779887 and first is 1779887
+tap sound after delay of 91 after the tap at 1779887 
+Tap Buffer size is 1 where last value is: 1782191 and first is 1782191
+tap sound after delay of 91 after the tap at 1782191 
+Tap Buffer size is 1 where last value is: 1784402 and first is 1784402
+tap sound after delay of 91 after the tap at 1784402 
+Tap Buffer size is 1 where last value is: 1786339 and first is 1786339
+tap sound after delay of 91 after the tap at 1786339 
+Tap Buffer size is 1 where last value is: 1788484 and first is 1788484
+tap sound after delay of 91 after the tap at 1788484 
+Tap Buffer size is 1 where last value is: 1791094 and first is 1791094
+tap sound after delay of 91 after the tap at 1791094 
+Tap Buffer size is 1 where last value is: 1793020 and first is 1793020
+tap sound after delay of 91 after the tap at 1793020 
+Tap Buffer size is 1 where last value is: 1795369 and first is 1795369
+tap sound after delay of 91 after the tap at 1795369 
+Tap Buffer size is 1 where last value is: 1809825 and first is 1809825
+tap sound after delay of 91 after the tap at 1809825 
+Tap Buffer size is 1 where last value is: 1810088 and first is 1810088
+tap sound after delay of 91 after the tap at 1810088 
+Tap Buffer size is 1 where last value is: 1810306 and first is 1810306
+tap sound after delay of 91 after the tap at 1810306 
+Tap Buffer size is 1 where last value is: 1810493 and first is 1810493
+tap sound after delay of 91 after the tap at 1810493 
+Tap Buffer size is 1 where last value is: 1810665 and first is 1810665
+tap sound after delay of 91 after the tap at 1810665 
+Tap Buffer size is 1 where last value is: 1810834 and first is 1810834
+tap sound after delay of 91 after the tap at 1810834 
+Tap Buffer size is 1 where last value is: 1810991 and first is 1810991
+tap sound after delay of 91 after the tap at 1810991 
+Tap Buffer size is 1 where last value is: 1811150 and first is 1811150
+tap sound after delay of 91 after the tap at 1811150 
+Tap Buffer size is 1 where last value is: 1811302 and first is 1811302
+tap sound after delay of 91 after the tap at 1811302 
+Tap Buffer size is 1 where last value is: 1811448 and first is 1811448
+tap sound after delay of 91 after the tap at 1811448 
+Tap Buffer size is 1 where last value is: 1811598 and first is 1811598
+tap sound after delay of 91 after the tap at 1811598 
+Tap Buffer size is 1 where last value is: 1811750 and first is 1811750
+tap sound after delay of 100 after the tap at 1811750 
+Tap Buffer size is 1 where last value is: 1812034 and first is 1812034
+tap sound after delay of 91 after the tap at 1812034 
+Tap Buffer size is 1 where last value is: 1812210 and first is 1812210
+tap sound after delay of 91 after the tap at 1812210 
+Tap Buffer size is 1 where last value is: 1812414 and first is 1812414
+tap sound after delay of 91 after the tap at 1812414 
+Tap Buffer size is 1 where last value is: 1812679 and first is 1812679
+tap sound after delay of 91 after the tap at 1812679 
+Tap Buffer size is 1 where last value is: 1812918 and first is 1812918
+tap sound after delay of 91 after the tap at 1812918 
+Tap Buffer size is 1 where last value is: 1813074 and first is 1813074
+tap sound after delay of 91 after the tap at 1813074 
+Tap Buffer size is 1 where last value is: 1813470 and first is 1813470
+tap sound after delay of 91 after the tap at 1813470 
+Tap Buffer size is 1 where last value is: 1813638 and first is 1813638
+tap sound after delay of 91 after the tap at 1813638 
+Tap Buffer size is 1 where last value is: 1813760 and first is 1813760
+tap sound after delay of 91 after the tap at 1813760 
+Tap Buffer size is 1 where last value is: 1813914 and first is 1813914
+tap sound after delay of 91 after the tap at 1813914 
+Tap Buffer size is 1 where last value is: 1814234 and first is 1814234
+tap sound after delay of 91 after the tap at 1814234 
+Tap Buffer size is 1 where last value is: 1814426 and first is 1814426
+tap sound after delay of 91 after the tap at 1814426 
+Tap Buffer size is 1 where last value is: 1814571 and first is 1814571
+tap sound after delay of 91 after the tap at 1814571 
+Tap Buffer size is 1 where last value is: 1841626 and first is 1841626
+tap sound after delay of 91 after the tap at 1841626 
+Tap Buffer size is 1 where last value is: 1842302 and first is 1842302
+tap sound after delay of 91 after the tap at 1842302 
+Tap Buffer size is 1 where last value is: 1843003 and first is 1843003
+tap sound after delay of 91 after the tap at 1843003 
+Tap Buffer size is 1 where last value is: 1843677 and first is 1843677
+tap sound after delay of 91 after the tap at 1843677 
+Tap Buffer size is 1 where last value is: 1844372 and first is 1844372
+tap sound after delay of 91 after the tap at 1844372 
+Tap Buffer size is 1 where last value is: 1845058 and first is 1845058
+tap sound after delay of 91 after the tap at 1845058 
+Tap Buffer size is 1 where last value is: 1845748 and first is 1845748
+tap sound after delay of 91 after the tap at 1845748 
+Tap Buffer size is 1 where last value is: 1846495 and first is 1846495
+tap sound after delay of 91 after the tap at 1846495 
+Tap Buffer size is 1 where last value is: 1847144 and first is 1847144
+tap sound after delay of 91 after the tap at 1847144 
+Tap Buffer size is 1 where last value is: 1847814 and first is 1847814
+tap sound after delay of 91 after the tap at 1847814 
+Tap Buffer size is 1 where last value is: 1848527 and first is 1848527
+tap sound after delay of 91 after the tap at 1848527 
+Tap Buffer size is 1 where last value is: 1849265 and first is 1849265
+tap sound after delay of 91 after the tap at 1849265 
+Tap Buffer size is 1 where last value is: 1849924 and first is 1849924
+tap sound after delay of 91 after the tap at 1849924 
+Tap Buffer size is 1 where last value is: 1850594 and first is 1850594
+tap sound after delay of 91 after the tap at 1850594 
+Tap Buffer size is 1 where last value is: 1851239 and first is 1851239
+tap sound after delay of 91 after the tap at 1851239 
+Tap Buffer size is 1 where last value is: 1851887 and first is 1851887
+tap sound after delay of 91 after the tap at 1851887 
+Tap Buffer size is 1 where last value is: 1852515 and first is 1852515
+tap sound after delay of 91 after the tap at 1852515 
+Tap Buffer size is 1 where last value is: 1853059 and first is 1853059
+tap sound after delay of 91 after the tap at 1853059 
+Tap Buffer size is 1 where last value is: 1853532 and first is 1853532
+tap sound after delay of 91 after the tap at 1853532 
+Tap Buffer size is 1 where last value is: 1853947 and first is 1853947
+tap sound after delay of 91 after the tap at 1853947 
+Tap Buffer size is 1 where last value is: 1854316 and first is 1854316
+tap sound after delay of 91 after the tap at 1854316 
+Tap Buffer size is 1 where last value is: 1866257 and first is 1866257
+tap sound after delay of 91 after the tap at 1866257 
+Tap Buffer size is 1 where last value is: 1866586 and first is 1866586
+tap sound after delay of 91 after the tap at 1866586 
+Tap Buffer size is 1 where last value is: 1866976 and first is 1866976
+tap sound after delay of 91 after the tap at 1866976 
+Tap Buffer size is 1 where last value is: 1867350 and first is 1867350
+tap sound after delay of 91 after the tap at 1867350 
+Tap Buffer size is 1 where last value is: 1867727 and first is 1867727
+tap sound after delay of 91 after the tap at 1867727 
+Tap Buffer size is 1 where last value is: 1868074 and first is 1868074
+tap sound after delay of 91 after the tap at 1868074 
+Tap Buffer size is 1 where last value is: 1868433 and first is 1868433
+tap sound after delay of 91 after the tap at 1868433 
+Tap Buffer size is 1 where last value is: 1868800 and first is 1868800
+tap sound after delay of 91 after the tap at 1868800 
+Tap Buffer size is 1 where last value is: 1869164 and first is 1869164
+tap sound after delay of 91 after the tap at 1869164 
+Tap Buffer size is 1 where last value is: 1869570 and first is 1869570
+tap sound after delay of 91 after the tap at 1869570 
+Tap Buffer size is 1 where last value is: 1869947 and first is 1869947
+tap sound after delay of 91 after the tap at 1869947 
+Tap Buffer size is 1 where last value is: 1932369 and first is 1932369
+tap sound after delay of 61 after the tap at 1932369 
+Tap Buffer size is 1 where last value is: 1932536 and first is 1932536
+tap sound after delay of 61 after the tap at 1932536 
+Tap Buffer size is 1 where last value is: 1932709 and first is 1932709
+tap sound after delay of 61 after the tap at 1932709 
+Tap Buffer size is 1 where last value is: 1932863 and first is 1932863
+tap sound after delay of 61 after the tap at 1932863 
+Tap Buffer size is 1 where last value is: 1933004 and first is 1933004
+tap sound after delay of 61 after the tap at 1933004 
+Tap Buffer size is 1 where last value is: 1933152 and first is 1933152
+tap sound after delay of 61 after the tap at 1933152 
+Tap Buffer size is 1 where last value is: 1933303 and first is 1933303
+tap sound after delay of 61 after the tap at 1933303 
+Tap Buffer size is 1 where last value is: 1933448 and first is 1933448
+tap sound after delay of 61 after the tap at 1933448 
+Tap Buffer size is 1 where last value is: 1933604 and first is 1933604
+tap sound after delay of 61 after the tap at 1933604 
+Tap Buffer size is 1 where last value is: 1933745 and first is 1933745
+tap sound after delay of 61 after the tap at 1933745 
+Tap Buffer size is 1 where last value is: 1933896 and first is 1933896
+tap sound after delay of 61 after the tap at 1933896 
+Tap Buffer size is 1 where last value is: 1934042 and first is 1934042
+tap sound after delay of 61 after the tap at 1934042 
+Tap Buffer size is 1 where last value is: 1934189 and first is 1934189
+tap sound after delay of 63 after the tap at 1934189 
+Tap Buffer size is 1 where last value is: 1934335 and first is 1934335
+tap sound after delay of 61 after the tap at 1934335 
+Tap Buffer size is 1 where last value is: 1934510 and first is 1934510
+tap sound after delay of 61 after the tap at 1934510 
+Tap Buffer size is 1 where last value is: 1934767 and first is 1934767
+tap sound after delay of 61 after the tap at 1934767 
+Tap Buffer size is 1 where last value is: 1934950 and first is 1934950
+tap sound after delay of 61 after the tap at 1934950 
+Tap Buffer size is 1 where last value is: 1935106 and first is 1935106
+tap sound after delay of 61 after the tap at 1935106 
+Tap Buffer size is 1 where last value is: 1935273 and first is 1935273
+tap sound after delay of 61 after the tap at 1935273 
+Tap Buffer size is 1 where last value is: 1935414 and first is 1935414
+tap sound after delay of 61 after the tap at 1935414 
+Tap Buffer size is 1 where last value is: 1935576 and first is 1935576
+tap sound after delay of 61 after the tap at 1935576 
+Tap Buffer size is 1 where last value is: 1935795 and first is 1935795
+tap sound after delay of 61 after the tap at 1935795 
+Tap Buffer size is 1 where last value is: 1935970 and first is 1935970
+tap sound after delay of 61 after the tap at 1935970 
+Tap Buffer size is 1 where last value is: 1936118 and first is 1936118
+tap sound after delay of 61 after the tap at 1936118 
+Tap Buffer size is 1 where last value is: 1936273 and first is 1936273
+tap sound after delay of 61 after the tap at 1936273 
+Tap Buffer size is 1 where last value is: 1936430 and first is 1936430
+tap sound after delay of 61 after the tap at 1936430 
+Tap Buffer size is 1 where last value is: 1936575 and first is 1936575
+tap sound after delay of 61 after the tap at 1936575 
+Tap Buffer size is 1 where last value is: 1936729 and first is 1936729
+tap sound after delay of 61 after the tap at 1936729 
+Tap Buffer size is 1 where last value is: 1936892 and first is 1936892
+tap sound after delay of 61 after the tap at 1936892 
+Tap Buffer size is 1 where last value is: 1937051 and first is 1937051
+tap sound after delay of 61 after the tap at 1937051 
+Tap Buffer size is 1 where last value is: 1972202 and first is 1972202
+tap sound after delay of 61 after the tap at 1972202 
+Tap Buffer size is 1 where last value is: 1973164 and first is 1973164
+tap sound after delay of 61 after the tap at 1973164 
+Tap Buffer size is 1 where last value is: 1974183 and first is 1974183
+tap sound after delay of 61 after the tap at 1974183 
+Tap Buffer size is 1 where last value is: 1975013 and first is 1975013
+tap sound after delay of 61 after the tap at 1975013 
+Tap Buffer size is 1 where last value is: 1975716 and first is 1975716
+tap sound after delay of 61 after the tap at 1975716 
+Tap Buffer size is 1 where last value is: 1976259 and first is 1976259
+tap sound after delay of 61 after the tap at 1976259 
+Tap Buffer size is 1 where last value is: 1976666 and first is 1976666
+tap sound after delay of 61 after the tap at 1976666 
+Tap Buffer size is 1 where last value is: 1977054 and first is 1977054
+tap sound after delay of 61 after the tap at 1977054 
+Tap Buffer size is 1 where last value is: 1977391 and first is 1977391
+tap sound after delay of 61 after the tap at 1977391 
+Tap Buffer size is 1 where last value is: 1977735 and first is 1977735
+tap sound after delay of 61 after the tap at 1977735 
+Tap Buffer size is 1 where last value is: 1978060 and first is 1978060
+tap sound after delay of 61 after the tap at 1978060 
+Tap Buffer size is 1 where last value is: 1978391 and first is 1978391
+tap sound after delay of 61 after the tap at 1978391 
+Tap Buffer size is 1 where last value is: 1978690 and first is 1978690
+tap sound after delay of 61 after the tap at 1978690 
+Tap Buffer size is 1 where last value is: 1979049 and first is 1979049
+tap sound after delay of 61 after the tap at 1979049 
+Tap Buffer size is 1 where last value is: 1979360 and first is 1979360
+tap sound after delay of 61 after the tap at 1979360 
+Tap Buffer size is 1 where last value is: 1979744 and first is 1979744
+tap sound after delay of 61 after the tap at 1979744 
+Tap Buffer size is 1 where last value is: 1980078 and first is 1980078
+tap sound after delay of 61 after the tap at 1980078 
+Tap Buffer size is 1 where last value is: 1980400 and first is 1980400
+tap sound after delay of 61 after the tap at 1980400 
+Tap Buffer size is 1 where last value is: 1980739 and first is 1980739
+tap sound after delay of 63 after the tap at 1980739 
+Tap Buffer size is 1 where last value is: 1981081 and first is 1981081
+tap sound after delay of 61 after the tap at 1981081 
+Tap Buffer size is 1 where last value is: 1981400 and first is 1981400
+tap sound after delay of 61 after the tap at 1981400 
+Tap Buffer size is 1 where last value is: 1981733 and first is 1981733
+tap sound after delay of 61 after the tap at 1981733 
+Tap Buffer size is 1 where last value is: 1982010 and first is 1982010
+tap sound after delay of 61 after the tap at 1982010 
+Tap Buffer size is 1 where last value is: 1982306 and first is 1982306
+tap sound after delay of 61 after the tap at 1982306 
+Tap Buffer size is 1 where last value is: 1982602 and first is 1982602
+tap sound after delay of 61 after the tap at 1982602 
+Tap Buffer size is 1 where last value is: 1982855 and first is 1982855
+tap sound after delay of 61 after the tap at 1982855 
+Tap Buffer size is 1 where last value is: 1983117 and first is 1983117
+tap sound after delay of 61 after the tap at 1983117 
+Tap Buffer size is 1 where last value is: 1983288 and first is 1983288
+tap sound after delay of 61 after the tap at 1983288 
+Tap Buffer size is 1 where last value is: 1983448 and first is 1983448
+tap sound after delay of 61 after the tap at 1983448 
+Tap Buffer size is 1 where last value is: 1983598 and first is 1983598
+tap sound after delay of 61 after the tap at 1983598 
+Tap Buffer size is 1 where last value is: 1983743 and first is 1983743
+tap sound after delay of 61 after the tap at 1983743 
+Tap Buffer size is 1 where last value is: 1983891 and first is 1983891
+tap sound after delay of 61 after the tap at 1983891 
+Tap Buffer size is 1 where last value is: 1984036 and first is 1984036
+tap sound after delay of 61 after the tap at 1984036 
+Tap Buffer size is 1 where last value is: 1984174 and first is 1984174
+tap sound after delay of 61 after the tap at 1984174 
+Tap Buffer size is 1 where last value is: 1984323 and first is 1984323
+tap sound after delay of 61 after the tap at 1984323 
+Tap Buffer size is 1 where last value is: 1984490 and first is 1984490
+tap sound after delay of 61 after the tap at 1984490 
+Tap Buffer size is 1 where last value is: 1984620 and first is 1984620
+tap sound after delay of 61 after the tap at 1984620 
+Tap Buffer size is 1 where last value is: 1984776 and first is 1984776
+tap sound after delay of 61 after the tap at 1984776 
+Tap Buffer size is 1 where last value is: 1984924 and first is 1984924
+tap sound after delay of 61 after the tap at 1984924 
+Tap Buffer size is 1 where last value is: 1985081 and first is 1985081
+tap sound after delay of 61 after the tap at 1985081 
+Tap Buffer size is 1 where last value is: 1985235 and first is 1985235
+tap sound after delay of 61 after the tap at 1985235 
+Tap Buffer size is 1 where last value is: 1985394 and first is 1985394
+tap sound after delay of 61 after the tap at 1985394 
+Tap Buffer size is 1 where last value is: 1985542 and first is 1985542
+tap sound after delay of 61 after the tap at 1985542 
+Tap Buffer size is 1 where last value is: 1985704 and first is 1985704
+tap sound after delay of 61 after the tap at 1985704 
+Tap Buffer size is 1 where last value is: 1985857 and first is 1985857
+tap sound after delay of 61 after the tap at 1985857 
+Tap Buffer size is 1 where last value is: 1986031 and first is 1986031
+tap sound after delay of 61 after the tap at 1986031 
+Tap Buffer size is 1 where last value is: 1986352 and first is 1986352
+tap sound after delay of 61 after the tap at 1986352 
+Tap Buffer size is 1 where last value is: 1986832 and first is 1986832
+tap sound after delay of 61 after the tap at 1986832 
+Tap Buffer size is 1 where last value is: 1987292 and first is 1987292
+tap sound after delay of 61 after the tap at 1987292 
+Tap Buffer size is 1 where last value is: 1987669 and first is 1987669
+tap sound after delay of 61 after the tap at 1987669 
+Tap Buffer size is 1 where last value is: 1988018 and first is 1988018
+tap sound after delay of 61 after the tap at 1988018 
+Tap Buffer size is 1 where last value is: 1988331 and first is 1988331
+tap sound after delay of 61 after the tap at 1988331 
+Tap Buffer size is 1 where last value is: 1988610 and first is 1988610
+tap sound after delay of 61 after the tap at 1988610 
+Tap Buffer size is 1 where last value is: 1988930 and first is 1988930
+tap sound after delay of 61 after the tap at 1988930 
+Tap Buffer size is 1 where last value is: 1989254 and first is 1989254
+tap sound after delay of 61 after the tap at 1989254 
+Tap Buffer size is 1 where last value is: 1989579 and first is 1989579
+tap sound after delay of 61 after the tap at 1989579 
+Tap Buffer size is 1 where last value is: 1989904 and first is 1989904
+tap sound after delay of 61 after the tap at 1989904 
+Tap Buffer size is 1 where last value is: 1990210 and first is 1990210
+tap sound after delay of 61 after the tap at 1990210 
+Tap Buffer size is 1 where last value is: 1990517 and first is 1990517
+tap sound after delay of 61 after the tap at 1990517 
+Tap Buffer size is 1 where last value is: 1990828 and first is 1990828
+tap sound after delay of 61 after the tap at 1990828 
+Tap Buffer size is 1 where last value is: 1991093 and first is 1991093
+tap sound after delay of 61 after the tap at 1991093 
+Tap Buffer size is 1 where last value is: 2013157 and first is 2013157
+tap sound after delay of 61 after the tap at 2013157 
+Tap Buffer size is 1 where last value is: 2013511 and first is 2013511
+tap sound after delay of 61 after the tap at 2013511 
+Tap Buffer size is 1 where last value is: 2013681 and first is 2013681
+tap sound after delay of 61 after the tap at 2013681 
+Tap Buffer size is 1 where last value is: 2013907 and first is 2013907
+tap sound after delay of 61 after the tap at 2013907 
+Tap Buffer size is 1 where last value is: 2014077 and first is 2014077
+tap sound after delay of 61 after the tap at 2014077 
+Tap Buffer size is 1 where last value is: 2014231 and first is 2014231
+tap sound after delay of 61 after the tap at 2014231 
+Tap Buffer size is 1 where last value is: 2014383 and first is 2014383
+tap sound after delay of 61 after the tap at 2014383 
+Tap Buffer size is 1 where last value is: 2014530 and first is 2014530
+tap sound after delay of 61 after the tap at 2014530 
+Tap Buffer size is 1 where last value is: 2014666 and first is 2014666
+tap sound after delay of 61 after the tap at 2014666 
+Tap Buffer size is 1 where last value is: 2014813 and first is 2014813
+tap sound after delay of 61 after the tap at 2014813 
+Tap Buffer size is 1 where last value is: 2014958 and first is 2014958
+tap sound after delay of 61 after the tap at 2014958 
+Tap Buffer size is 1 where last value is: 2015104 and first is 2015104
+tap sound after delay of 61 after the tap at 2015104 
+Tap Buffer size is 1 where last value is: 2015246 and first is 2015246
+tap sound after delay of 61 after the tap at 2015246 
+Tap Buffer size is 1 where last value is: 2015405 and first is 2015405
+tap sound after delay of 61 after the tap at 2015405 
+Tap Buffer size is 1 where last value is: 2015558 and first is 2015558
+tap sound after delay of 61 after the tap at 2015558 
+Tap Buffer size is 1 where last value is: 2015711 and first is 2015711
+tap sound after delay of 61 after the tap at 2015711 
+Tap Buffer size is 1 where last value is: 2015874 and first is 2015874
+tap sound after delay of 61 after the tap at 2015874 
+Tap Buffer size is 1 where last value is: 2016019 and first is 2016019
+tap sound after delay of 61 after the tap at 2016019 
+Tap Buffer size is 1 where last value is: 2016173 and first is 2016173
+tap sound after delay of 61 after the tap at 2016173 
+Tap Buffer size is 1 where last value is: 2016383 and first is 2016383
+tap sound after delay of 61 after the tap at 2016383 
+Tap Buffer size is 1 where last value is: 2016577 and first is 2016577
+tap sound after delay of 61 after the tap at 2016577 
+Tap Buffer size is 1 where last value is: 2016733 and first is 2016733
+tap sound after delay of 61 after the tap at 2016733 
+Tap Buffer size is 1 where last value is: 2016893 and first is 2016893
+tap sound after delay of 61 after the tap at 2016893 
+Tap Buffer size is 1 where last value is: 2017041 and first is 2017041
+tap sound after delay of 61 after the tap at 2017041 
+Tap Buffer size is 1 where last value is: 2017214 and first is 2017214
+tap sound after delay of 61 after the tap at 2017214 
+Tap Buffer size is 1 where last value is: 2017380 and first is 2017380
+tap sound after delay of 61 after the tap at 2017380 
+Tap Buffer size is 1 where last value is: 2017548 and first is 2017548
+tap sound after delay of 61 after the tap at 2017548 
+Tap Buffer size is 1 where last value is: 2017715 and first is 2017715
+tap sound after delay of 61 after the tap at 2017715 
+Tap Buffer size is 1 where last value is: 2017891 and first is 2017891
+tap sound after delay of 61 after the tap at 2017891 
+Tap Buffer size is 1 where last value is: 2018063 and first is 2018063
+tap sound after delay of 61 after the tap at 2018063 
+Tap Buffer size is 1 where last value is: 2018228 and first is 2018228
+tap sound after delay of 61 after the tap at 2018228 
+Tap Buffer size is 1 where last value is: 2018388 and first is 2018388
+tap sound after delay of 61 after the tap at 2018388 
+Tap Buffer size is 1 where last value is: 2018545 and first is 2018545
+tap sound after delay of 61 after the tap at 2018545 
+Tap Buffer size is 1 where last value is: 2018694 and first is 2018694
+tap sound after delay of 61 after the tap at 2018694 
+Tap Buffer size is 1 where last value is: 2018866 and first is 2018866
+tap sound after delay of 61 after the tap at 2018866 
+Tap Buffer size is 1 where last value is: 2019083 and first is 2019083
+tap sound after delay of 61 after the tap at 2019083 
+Tap Buffer size is 1 where last value is: 2019271 and first is 2019271
+tap sound after delay of 61 after the tap at 2019271 
+Tap Buffer size is 1 where last value is: 2019425 and first is 2019425
+tap sound after delay of 61 after the tap at 2019425 
+Tap Buffer size is 1 where last value is: 2019573 and first is 2019573
+tap sound after delay of 61 after the tap at 2019573 
+Tap Buffer size is 1 where last value is: 2019721 and first is 2019721
+tap sound after delay of 61 after the tap at 2019721 
+Tap Buffer size is 1 where last value is: 2019897 and first is 2019897
+tap sound after delay of 61 after the tap at 2019897 
+Tap Buffer size is 1 where last value is: 2020056 and first is 2020056
+tap sound after delay of 61 after the tap at 2020056 
+Tap Buffer size is 1 where last value is: 2020220 and first is 2020220
+tap sound after delay of 61 after the tap at 2020220 
+Tap Buffer size is 1 where last value is: 2020374 and first is 2020374
+tap sound after delay of 61 after the tap at 2020374 
+Tap Buffer size is 1 where last value is: 2020531 and first is 2020531
+tap sound after delay of 61 after the tap at 2020531 
+Tap Buffer size is 1 where last value is: 2020701 and first is 2020701
+tap sound after delay of 61 after the tap at 2020701 
+Tap Buffer size is 1 where last value is: 2020904 and first is 2020904
+tap sound after delay of 61 after the tap at 2020904 
+Tap Buffer size is 1 where last value is: 2021044 and first is 2021044
+tap sound after delay of 61 after the tap at 2021044 
+Tap Buffer size is 1 where last value is: 2021205 and first is 2021205
+tap sound after delay of 61 after the tap at 2021205 
+Tap Buffer size is 1 where last value is: 2021368 and first is 2021368
+tap sound after delay of 61 after the tap at 2021368 
+Tap Buffer size is 1 where last value is: 2021524 and first is 2021524
+tap sound after delay of 61 after the tap at 2021524 
+Tap Buffer size is 1 where last value is: 2021679 and first is 2021679
+tap sound after delay of 61 after the tap at 2021679 
+Tap Buffer size is 1 where last value is: 2021844 and first is 2021844
+tap sound after delay of 61 after the tap at 2021844 
+Tap Buffer size is 1 where last value is: 2022011 and first is 2022011
+tap sound after delay of 61 after the tap at 2022011 
+Tap Buffer size is 1 where last value is: 2022238 and first is 2022238
+tap sound after delay of 61 after the tap at 2022238 
+Tap Buffer size is 1 where last value is: 2022392 and first is 2022392
+tap sound after delay of 61 after the tap at 2022392 
+Tap Buffer size is 1 where last value is: 2022565 and first is 2022565
+tap sound after delay of 61 after the tap at 2022565 
+Tap Buffer size is 1 where last value is: 2022730 and first is 2022730
+tap sound after delay of 62 after the tap at 2022730 
+Tap Buffer size is 1 where last value is: 2093673 and first is 2093673
+tap sound after delay of 61 after the tap at 2093673 
+Tap Buffer size is 1 where last value is: 2095666 and first is 2095666
+tap sound after delay of 61 after the tap at 2095666 
+Tap Buffer size is 1 where last value is: 2097838 and first is 2097838
+tap sound after delay of 61 after the tap at 2097838 
+Tap Buffer size is 1 where last value is: 2100196 and first is 2100196
+tap sound after delay of 61 after the tap at 2100196 
+Tap Buffer size is 1 where last value is: 2102347 and first is 2102347
+tap sound after delay of 61 after the tap at 2102347 
+Tap Buffer size is 1 where last value is: 2104586 and first is 2104586
+tap sound after delay of 61 after the tap at 2104586 
+Tap Buffer size is 1 where last value is: 2106627 and first is 2106627
+tap sound after delay of 61 after the tap at 2106627 
+Tap Buffer size is 1 where last value is: 2109042 and first is 2109042
+tap sound after delay of 61 after the tap at 2109042 
+Tap Buffer size is 1 where last value is: 2111398 and first is 2111398
+tap sound after delay of 61 after the tap at 2111398 
+Tap Buffer size is 1 where last value is: 2113678 and first is 2113678
+tap sound after delay of 61 after the tap at 2113678 
+Tap Buffer size is 1 where last value is: 2116734 and first is 2116734
+tap sound after delay of 61 after the tap at 2116734 
+Tap Buffer size is 1 where last value is: 2119157 and first is 2119157
+tap sound after delay of 61 after the tap at 2119157 
+Tap Buffer size is 1 where last value is: 2121644 and first is 2121644
+tap sound after delay of 61 after the tap at 2121644 
+Tap Buffer size is 1 where last value is: 2123986 and first is 2123986
+tap sound after delay of 61 after the tap at 2123986 
+Tap Buffer size is 1 where last value is: 2126506 and first is 2126506
+tap sound after delay of 61 after the tap at 2126506 
+Tap Buffer size is 1 where last value is: 2128912 and first is 2128912
+tap sound after delay of 61 after the tap at 2128912 
+Tap Buffer size is 1 where last value is: 2131476 and first is 2131476
+tap sound after delay of 61 after the tap at 2131476 
+Tap Buffer size is 1 where last value is: 2145620 and first is 2145620
+tap sound after delay of 61 after the tap at 2145620 
+Tap Buffer size is 1 where last value is: 2145960 and first is 2145960
+tap sound after delay of 61 after the tap at 2145960 
+Tap Buffer size is 1 where last value is: 2146272 and first is 2146272
+tap sound after delay of 61 after the tap at 2146272 
+Tap Buffer size is 1 where last value is: 2146611 and first is 2146611
+tap sound after delay of 61 after the tap at 2146611 
+Tap Buffer size is 1 where last value is: 2146929 and first is 2146929
+tap sound after delay of 61 after the tap at 2146929 
+Tap Buffer size is 1 where last value is: 2147291 and first is 2147291
+tap sound after delay of 61 after the tap at 2147291 
+Tap Buffer size is 1 where last value is: 2147555 and first is 2147555
+tap sound after delay of 61 after the tap at 2147555 
+Tap Buffer size is 1 where last value is: 2147881 and first is 2147881
+tap sound after delay of 61 after the tap at 2147881 
+Tap Buffer size is 1 where last value is: 2148111 and first is 2148111
+tap sound after delay of 61 after the tap at 2148111 
+Tap Buffer size is 1 where last value is: 2148271 and first is 2148271
+tap sound after delay of 61 after the tap at 2148271 
+Tap Buffer size is 1 where last value is: 2148537 and first is 2148537
+tap sound after delay of 61 after the tap at 2148537 
+Tap Buffer size is 1 where last value is: 2148734 and first is 2148734
+tap sound after delay of 61 after the tap at 2148734 
+Tap Buffer size is 1 where last value is: 2148890 and first is 2148890
+tap sound after delay of 61 after the tap at 2148890 
+Tap Buffer size is 1 where last value is: 2149037 and first is 2149037
+tap sound after delay of 61 after the tap at 2149037 
+Tap Buffer size is 1 where last value is: 2149317 and first is 2149317
+tap sound after delay of 61 after the tap at 2149317 
+Tap Buffer size is 1 where last value is: 2149488 and first is 2149488
+tap sound after delay of 61 after the tap at 2149488 
+Tap Buffer size is 1 where last value is: 2149624 and first is 2149624
+tap sound after delay of 61 after the tap at 2149624 
+Tap Buffer size is 1 where last value is: 2149767 and first is 2149767
+tap sound after delay of 61 after the tap at 2149767 
+Tap Buffer size is 1 where last value is: 2149920 and first is 2149920
+tap sound after delay of 61 after the tap at 2149920 
+Tap Buffer size is 1 where last value is: 2150263 and first is 2150263
+tap sound after delay of 61 after the tap at 2150263 
+Tap Buffer size is 1 where last value is: 2150417 and first is 2150417
+tap sound after delay of 61 after the tap at 2150417 
+Tap Buffer size is 1 where last value is: 2150555 and first is 2150555
+tap sound after delay of 61 after the tap at 2150555 
+Tap Buffer size is 1 where last value is: 2150704 and first is 2150704
+tap sound after delay of 61 after the tap at 2150704 
+Tap Buffer size is 1 where last value is: 2150865 and first is 2150865
+tap sound after delay of 61 after the tap at 2150865 
+Tap Buffer size is 1 where last value is: 2151183 and first is 2151183
+tap sound after delay of 61 after the tap at 2151183 
+Tap Buffer size is 1 where last value is: 2151349 and first is 2151349
+tap sound after delay of 61 after the tap at 2151349 
+Tap Buffer size is 1 where last value is: 2151494 and first is 2151494
+tap sound after delay of 61 after the tap at 2151494 
+Tap Buffer size is 1 where last value is: 2151639 and first is 2151639
+tap sound after delay of 61 after the tap at 2151639 
+Tap Buffer size is 1 where last value is: 2151808 and first is 2151808
+tap sound after delay of 61 after the tap at 2151808 
+Tap Buffer size is 1 where last value is: 2162316 and first is 2162316
+tap sound after delay of 61 after the tap at 2162316 
+Tap Buffer size is 1 where last value is: 2162583 and first is 2162583
+tap sound after delay of 61 after the tap at 2162583 
+Tap Buffer size is 1 where last value is: 2162798 and first is 2162798
+tap sound after delay of 61 after the tap at 2162798 
+Tap Buffer size is 1 where last value is: 2162946 and first is 2162946
+tap sound after delay of 61 after the tap at 2162946 
+Tap Buffer size is 1 where last value is: 2163108 and first is 2163108
+tap sound after delay of 61 after the tap at 2163108 
+Tap Buffer size is 1 where last value is: 2163270 and first is 2163270
+tap sound after delay of 61 after the tap at 2163270 
+Tap Buffer size is 1 where last value is: 2163439 and first is 2163439
+tap sound after delay of 61 after the tap at 2163439 
+Tap Buffer size is 1 where last value is: 2163609 and first is 2163609
+tap sound after delay of 61 after the tap at 2163609 
+Tap Buffer size is 1 where last value is: 2163816 and first is 2163816
+tap sound after delay of 61 after the tap at 2163816 
+Tap Buffer size is 1 where last value is: 2163979 and first is 2163979
+tap sound after delay of 61 after the tap at 2163979 
+Tap Buffer size is 1 where last value is: 2164141 and first is 2164141
+tap sound after delay of 61 after the tap at 2164141 
+Tap Buffer size is 1 where last value is: 2164309 and first is 2164309
+tap sound after delay of 61 after the tap at 2164309 
+Tap Buffer size is 1 where last value is: 2164476 and first is 2164476
+tap sound after delay of 61 after the tap at 2164476 
+Tap Buffer size is 1 where last value is: 2164637 and first is 2164637
+tap sound after delay of 61 after the tap at 2164637 
+Tap Buffer size is 1 where last value is: 2164817 and first is 2164817
+tap sound after delay of 61 after the tap at 2164817 
+Tap Buffer size is 1 where last value is: 2164985 and first is 2164985
+tap sound after delay of 61 after the tap at 2164985 
+Tap Buffer size is 1 where last value is: 2165156 and first is 2165156
+tap sound after delay of 61 after the tap at 2165156 
+Tap Buffer size is 1 where last value is: 2165331 and first is 2165331
+tap sound after delay of 61 after the tap at 2165331 
+Tap Buffer size is 1 where last value is: 2165507 and first is 2165507
+tap sound after delay of 61 after the tap at 2165507 
+Tap Buffer size is 1 where last value is: 2165679 and first is 2165679
+tap sound after delay of 61 after the tap at 2165679 
+Tap Buffer size is 1 where last value is: 2165849 and first is 2165849
+tap sound after delay of 61 after the tap at 2165849 
+Tap Buffer size is 1 where last value is: 2166031 and first is 2166031
+tap sound after delay of 61 after the tap at 2166031 
+Tap Buffer size is 1 where last value is: 2188949 and first is 2188949
+tap sound after delay of 61 after the tap at 2188949 
+Tap Buffer size is 1 where last value is: 2189402 and first is 2189402
+tap sound after delay of 61 after the tap at 2189402 
+Tap Buffer size is 1 where last value is: 2189805 and first is 2189805
+tap sound after delay of 61 after the tap at 2189805 
+Tap Buffer size is 1 where last value is: 2190110 and first is 2190110
+tap sound after delay of 61 after the tap at 2190110 
+Tap Buffer size is 1 where last value is: 2190432 and first is 2190432
+tap sound after delay of 61 after the tap at 2190432 
+Tap Buffer size is 1 where last value is: 2190726 and first is 2190726
+tap sound after delay of 71 after the tap at 2190726 
+Tap Buffer size is 1 where last value is: 2191009 and first is 2191009
+tap sound after delay of 61 after the tap at 2191009 
+Tap Buffer size is 1 where last value is: 2191275 and first is 2191275
+tap sound after delay of 61 after the tap at 2191275 
+Tap Buffer size is 1 where last value is: 2191507 and first is 2191507
+tap sound after delay of 61 after the tap at 2191507 
+Tap Buffer size is 1 where last value is: 2191725 and first is 2191725
+tap sound after delay of 61 after the tap at 2191725 
+Tap Buffer size is 1 where last value is: 2191976 and first is 2191976
+tap sound after delay of 61 after the tap at 2191976 
+Tap Buffer size is 1 where last value is: 2192155 and first is 2192155
+tap sound after delay of 61 after the tap at 2192155 
+Tap Buffer size is 1 where last value is: 2192329 and first is 2192329
+tap sound after delay of 61 after the tap at 2192329 
+Tap Buffer size is 1 where last value is: 2192504 and first is 2192504
+tap sound after delay of 61 after the tap at 2192504 
+Tap Buffer size is 1 where last value is: 2192652 and first is 2192652
+tap sound after delay of 61 after the tap at 2192652 
+Tap Buffer size is 1 where last value is: 2192807 and first is 2192807
+tap sound after delay of 61 after the tap at 2192807 
+Tap Buffer size is 1 where last value is: 2192976 and first is 2192976
+tap sound after delay of 61 after the tap at 2192976 
+Tap Buffer size is 1 where last value is: 2193148 and first is 2193148
+tap sound after delay of 61 after the tap at 2193148 
+Tap Buffer size is 1 where last value is: 2193327 and first is 2193327
+tap sound after delay of 61 after the tap at 2193327 
+Tap Buffer size is 1 where last value is: 2193509 and first is 2193509
+tap sound after delay of 61 after the tap at 2193509 
+Tap Buffer size is 1 where last value is: 2193672 and first is 2193672
+tap sound after delay of 61 after the tap at 2193672 
+Tap Buffer size is 1 where last value is: 2193891 and first is 2193891
+tap sound after delay of 61 after the tap at 2193891 
+Tap Buffer size is 1 where last value is: 2194073 and first is 2194073
+tap sound after delay of 61 after the tap at 2194073 
+Tap Buffer size is 1 where last value is: 2194258 and first is 2194258
+tap sound after delay of 61 after the tap at 2194258 
+Tap Buffer size is 1 where last value is: 2194446 and first is 2194446
+tap sound after delay of 61 after the tap at 2194446 
+Tap Buffer size is 1 where last value is: 2194638 and first is 2194638
+tap sound after delay of 61 after the tap at 2194638 
+Tap Buffer size is 1 where last value is: 2194807 and first is 2194807
+tap sound after delay of 61 after the tap at 2194807 
+Tap Buffer size is 1 where last value is: 2195005 and first is 2195005
+tap sound after delay of 61 after the tap at 2195005 
+Tap Buffer size is 1 where last value is: 2195192 and first is 2195192
+tap sound after delay of 61 after the tap at 2195192 
+Tap Buffer size is 1 where last value is: 2195381 and first is 2195381
+tap sound after delay of 61 after the tap at 2195381 
+Tap Buffer size is 1 where last value is: 2195572 and first is 2195572
+tap sound after delay of 61 after the tap at 2195572 
+Tap Buffer size is 1 where last value is: 2195731 and first is 2195731
+tap sound after delay of 65 after the tap at 2195731 
+Tap Buffer size is 1 where last value is: 2195903 and first is 2195903
+tap sound after delay of 61 after the tap at 2195903 
+Tap Buffer size is 1 where last value is: 2196099 and first is 2196099
+tap sound after delay of 61 after the tap at 2196099 
+Tap Buffer size is 1 where last value is: 2196278 and first is 2196278
+tap sound after delay of 61 after the tap at 2196278 
+Tap Buffer size is 1 where last value is: 2196494 and first is 2196494
+tap sound after delay of 61 after the tap at 2196494 
+Tap Buffer size is 1 where last value is: 2196693 and first is 2196693
+tap sound after delay of 61 after the tap at 2196693 
+Tap Buffer size is 1 where last value is: 2196875 and first is 2196875
+tap sound after delay of 61 after the tap at 2196875 
+Tap Buffer size is 1 where last value is: 2197056 and first is 2197056
+tap sound after delay of 61 after the tap at 2197056 
+Tap Buffer size is 1 where last value is: 2197425 and first is 2197425
+tap sound after delay of 61 after the tap at 2197425 
+Tap Buffer size is 1 where last value is: 2197883 and first is 2197883
+tap sound after delay of 61 after the tap at 2197883 
+Tap Buffer size is 1 where last value is: 2198265 and first is 2198265
+tap sound after delay of 61 after the tap at 2198265 
+Tap Buffer size is 1 where last value is: 2198670 and first is 2198670
+tap sound after delay of 61 after the tap at 2198670 
+Tap Buffer size is 1 where last value is: 2199058 and first is 2199058
+tap sound after delay of 61 after the tap at 2199058 
+Tap Buffer size is 1 where last value is: 2199440 and first is 2199440
+tap sound after delay of 61 after the tap at 2199440 
+Tap Buffer size is 1 where last value is: 2199797 and first is 2199797
+tap sound after delay of 61 after the tap at 2199797 
+Tap Buffer size is 1 where last value is: 2200145 and first is 2200145
+tap sound after delay of 61 after the tap at 2200145 
+Tap Buffer size is 1 where last value is: 2200474 and first is 2200474
+tap sound after delay of 61 after the tap at 2200474 
+Tap Buffer size is 1 where last value is: 2200804 and first is 2200804
+tap sound after delay of 61 after the tap at 2200804 
+Tap Buffer size is 1 where last value is: 2201096 and first is 2201096
+tap sound after delay of 61 after the tap at 2201096 
+Tap Buffer size is 1 where last value is: 2201351 and first is 2201351
+tap sound after delay of 61 after the tap at 2201351 
+Tap Buffer size is 1 where last value is: 2201618 and first is 2201618
+tap sound after delay of 61 after the tap at 2201618 
+Tap Buffer size is 1 where last value is: 2568664 and first is 2568664
+tap sound after delay of 151 after the tap at 2568664 
+Tap Buffer size is 1 where last value is: 2569743 and first is 2569743
+tap sound after delay of 151 after the tap at 2569743 
+Tap Buffer size is 1 where last value is: 2572350 and first is 2572350
+tap sound after delay of 151 after the tap at 2572350 
+Tap Buffer size is 1 where last value is: 2589851 and first is 2589851
+tap sound after delay of 151 after the tap at 2589851 
+Tap Buffer size is 1 where last value is: 2590013 and first is 2590013
+tap sound after delay of 151 after the tap at 2590013 
+Tap Buffer size is 1 where last value is: 2590236 and first is 2590236
+tap sound after delay of 151 after the tap at 2590236 
+Tap Buffer size is 1 where last value is: 2590694 and first is 2590694
+tap sound after delay of 151 after the tap at 2590694 
+Tap Buffer size is 1 where last value is: 2591112 and first is 2591112
+tap sound after delay of 151 after the tap at 2591112 
+Tap Buffer size is 1 where last value is: 2591309 and first is 2591309
+tap sound after delay of 151 after the tap at 2591309 
+Tap Buffer size is 1 where last value is: 2592444 and first is 2592444
+tap sound after delay of 151 after the tap at 2592444 
+Tap Buffer size is 2 where last value is: 2593260 and first is 2593117
+tap sound after delay of 151 after the tap at 2593117 
+Tap Buffer size is 1 where last value is: 2593260 and first is 2593260
+tap sound after delay of 151 after the tap at 2593260 
+Tap Buffer size is 1 where last value is: 2606642 and first is 2606642
+tap sound after delay of 151 after the tap at 2606642 
+Tap Buffer size is 1 where last value is: 2606819 and first is 2606819
+tap sound after delay of 151 after the tap at 2606819 
+Tap Buffer size is 1 where last value is: 2669145 and first is 2669145
+tap sound after delay of 151 after the tap at 2669145 
+Tap Buffer size is 1 where last value is: 2670889 and first is 2670889
+tap sound after delay of 151 after the tap at 2670889 
+Tap Buffer size is 1 where last value is: 2672297 and first is 2672297
+tap sound after delay of 151 after the tap at 2672297 
+Tap Buffer size is 1 where last value is: 2698380 and first is 2698380
+tap sound after delay of 151 after the tap at 2698380 
+Tap Buffer size is 1 where last value is: 2717669 and first is 2717669
+tap sound after delay of 151 after the tap at 2717669 
+Tap Buffer size is 1 where last value is: 2718143 and first is 2718143
+tap sound after delay of 151 after the tap at 2718143 
+Tap Buffer size is 1 where last value is: 2718605 and first is 2718605
+tap sound after delay of 151 after the tap at 2718605 
+Tap Buffer size is 1 where last value is: 2719075 and first is 2719075
+tap sound after delay of 151 after the tap at 2719075 
+Tap Buffer size is 1 where last value is: 2719551 and first is 2719551
+tap sound after delay of 151 after the tap at 2719551 
+Tap Buffer size is 1 where last value is: 2720063 and first is 2720063
+tap sound after delay of 151 after the tap at 2720063 
