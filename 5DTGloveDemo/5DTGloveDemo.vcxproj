@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{E5553192-E116-460A-B297-E4451B98943F}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>ogreTest</RootNamespace>
+    <ProjectName>5DTGloveDemo</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v90</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <IncludePath>..\MyGUI_3.0.1_source\MyGUI3.0\Common;..\MyGUI_3.0.1_source\MyGUI3.0\MyGUIEngine\include;..\MyGUI_3.0.1_source\MyGUI3.0\Platforms\Ogre\OgrePlatform\include;$(IncludePath)</IncludePath>
+    <LibraryPath>..\libs\;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Dokumente und Einstellungen\superuser\Eigene Dateien\irrklang\irrKlang-1.3.0\examples\common;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\irrklang\irrKlang-1.3.0\include;C:\Ogre\OgreSDK_vc9_v1-7-1\Samples\Common\include;C:\Ogre\OgreSDK_vc9_v1-7-1\boost_1_42;C:\Ogre\OgreSDK_vc9_v1-7-1\include\OGRE;C:\Ogre\OgreSDK_vc9_v1-7-1\include\OIS</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalLibraryDirectories>C:\Dokumente und Einstellungen\superuser\Eigene Dateien\irrklang\irrKlang-1.3.0\lib\Win32-visualStudio;C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\bin\release;C:\Ogre\OgreSDK_vc9_v1-7-1\bin\release;C:\Ogre\OgreSDK_vc9_v1-7-1\lib\$(Configuration);C:\Ogre\OgreSDK_vc9_v1-7-1\boost_1_42\lib</AdditionalLibraryDirectories>
+      <AdditionalDependencies>OgreMain.lib;OIS.lib;fglove.lib;MyGUIEngine.lib;MyGUI.OgrePlatform.lib;irrKlang.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <IgnoreAllDefaultLibraries>false</IgnoreAllDefaultLibraries>
+      <IgnoreSpecificDefaultLibraries>
+      </IgnoreSpecificDefaultLibraries>
+      <LinkTimeCodeGeneration>
+      </LinkTimeCodeGeneration>
+    </Link>
+    <PostBuildEvent>
+      <Command>copy "$(OutDir)\$(TargetFileName)" "$(OGRE_HOME)\Bin\$(Configuration)"
+
+</Command>
+    </PostBuildEvent>
+    <PreBuildEvent>
+      <Command>copy "$(OutDir)..\fglove.dll" "$(OGRE_HOME)\Bin\$(Configuration)"
+copy "$(OutDir)..\MyGUIEngine.dll" "$(OGRE_HOME)\Bin\$(Configuration)"
+copy "$(OutDir)..\OgreData\resources.cfg" "$(OGRE_HOME)\Bin\$(Configuration)"
+copy "$(OutDir)..\HandModelData\tex.png" "$(OGRE_HOME)\media\materials\textures\"
+copy "$(OutDir)..\HandModelData\preview.material" "$(OGRE_HOME)\media\materials\scripts\"
+copy "$(OutDir)..\HandModelData\5DTLHand.mesh" "$(OGRE_HOME)\media\models\"
+copy "$(OutDir)..\HandModelData\5DTLHand.skeleton" "$(OGRE_HOME)\media\models\"
+copy "$(OutDir)..\HandModelData\5DTRHand.mesh" "$(OGRE_HOME)\media\models\"
+copy "$(OutDir)..\HandModelData\5DTRHand.skeleton" "$(OGRE_HOME)\media\models\"
+mkdir $(OGRE_HOME)\media\MyGUI_Media\
+copy "$(OutDir)..\MyGUI_3.0.1_source\MyGUI3.0\Media\MyGUI_Media\*.*" "$(OGRE_HOME)\media\MyGUI_Media\"
+copy "$(OutDir)..\MyGUIData\*.*" "$(OGRE_HOME)\media\MyGUI_Media\"</Command>
+    </PreBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="BaseApplication.cpp" />
+    <ClCompile Include="OpenSaveFileDialog.cpp" />
+    <ClCompile Include="TutorialApplication.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BaseApplication.h" />
+    <ClInclude Include="OpenSaveFileDialog.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="TutorialApplication.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="5DT.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="5DT.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

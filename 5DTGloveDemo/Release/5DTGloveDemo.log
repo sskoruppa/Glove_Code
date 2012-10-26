@@ -1,0 +1,203 @@
+﻿Build started 28.03.2012 14:38:51.
+     1>Project "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\5DTGloveDemo\5DTGloveDemo.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\5DTGloveDemo.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       PreBuildEvent:
+         copy "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\fglove.dll" "C:\Ogre\OgreSDK_vc9_v1-7-1\Bin\Release"
+         copy "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUIEngine.dll" "C:\Ogre\OgreSDK_vc9_v1-7-1\Bin\Release"
+         copy "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\OgreData\resources.cfg" "C:\Ogre\OgreSDK_vc9_v1-7-1\Bin\Release"
+         copy "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\HandModelData\tex.png" "C:\Ogre\OgreSDK_vc9_v1-7-1\media\materials\textures\"
+         copy "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\HandModelData\preview.material" "C:\Ogre\OgreSDK_vc9_v1-7-1\media\materials\scripts\"
+         copy "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\HandModelData\5DTLHand.mesh" "C:\Ogre\OgreSDK_vc9_v1-7-1\media\models\"
+         copy "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\HandModelData\5DTLHand.skeleton" "C:\Ogre\OgreSDK_vc9_v1-7-1\media\models\"
+         copy "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\HandModelData\5DTRHand.mesh" "C:\Ogre\OgreSDK_vc9_v1-7-1\media\models\"
+         copy "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\HandModelData\5DTRHand.skeleton" "C:\Ogre\OgreSDK_vc9_v1-7-1\media\models\"
+         mkdir C:\Ogre\OgreSDK_vc9_v1-7-1\media\MyGUI_Media\
+         copy "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUI_3.0.1_source\MyGUI3.0\Media\MyGUI_Media\*.*" "C:\Ogre\OgreSDK_vc9_v1-7-1\media\MyGUI_Media\"
+         copy "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUIData\*.*" "C:\Ogre\OgreSDK_vc9_v1-7-1\media\MyGUI_Media\"
+         :VCEnd
+         Ein Unterverzeichnis oder eine Datei mit dem Namen "C:\Ogre\OgreSDK_vc9_v1-7-1\media\MyGUI_Media\" existiert bereits.
+                 1 Datei(en) kopiert.
+                 1 Datei(en) kopiert.
+                 1 Datei(en) kopiert.
+                 1 Datei(en) kopiert.
+                 1 Datei(en) kopiert.
+                 1 Datei(en) kopiert.
+                 1 Datei(en) kopiert.
+                 1 Datei(en) kopiert.
+                 1 Datei(en) kopiert.
+         C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUI_3.0.1_source\MyGUI3.0\Media\MyGUI_Media\core.png
+         C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUI_3.0.1_source\MyGUI3.0\Media\MyGUI_Media\core.xml
+         C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUI_3.0.1_source\MyGUI3.0\Media\MyGUI_Media\core_black_blue.png
+         C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUI_3.0.1_source\MyGUI3.0\Media\MyGUI_Media\core_black_orange.png
+         C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUI_3.0.1_source\MyGUI3.0\Media\MyGUI_Media\core_font.xml
+         C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUI_3.0.1_source\MyGUI3.0\Media\MyGUI_Media\core_language.xml
+         C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUI_3.0.1_source\MyGUI3.0\Media\MyGUI_Media\core_language_english_tag.xml
+         C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUI_3.0.1_source\MyGUI3.0\Media\MyGUI_Media\core_language_russian_tag.xml
+         C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUI_3.0.1_source\MyGUI3.0\Media\MyGUI_Media\core_layer.xml
+         C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUI_3.0.1_source\MyGUI3.0\Media\MyGUI_Media\core_micro_font.PNG
+         C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUI_3.0.1_source\MyGUI3.0\Media\MyGUI_Media\core_pointer.png
+         C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUI_3.0.1_source\MyGUI3.0\Media\MyGUI_Media\core_pointer.xml
+         C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUI_3.0.1_source\MyGUI3.0\Media\MyGUI_Media\core_pointers_W32.xml
+         C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUI_3.0.1_source\MyGUI3.0\Media\MyGUI_Media\core_resource.xml
+         C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUI_3.0.1_source\MyGUI3.0\Media\MyGUI_Media\core_settings.xml
+         C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUI_3.0.1_source\MyGUI3.0\Media\MyGUI_Media\core_skin.xml
+         C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUI_3.0.1_source\MyGUI3.0\Media\MyGUI_Media\core_theme.xml
+         C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUI_3.0.1_source\MyGUI3.0\Media\MyGUI_Media\core_theme_black_blue_tag.xml
+         C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUI_3.0.1_source\MyGUI3.0\Media\MyGUI_Media\core_theme_black_orange_tag.xml
+         C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUI_3.0.1_source\MyGUI3.0\Media\MyGUI_Media\core_theme_tag.xml
+         C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUI_3.0.1_source\MyGUI3.0\Media\MyGUI_Media\DejaVuSans-ExtraLight.ttf
+         C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUI_3.0.1_source\MyGUI3.0\Media\MyGUI_Media\DejaVuSans.ttf
+                22 Datei(en) kopiert.
+         C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUIData\5dt_logo.png
+         C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUIData\ButtonImage.resource
+         C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUIData\Fist.png
+         C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUIData\FlatHand.png
+         C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUIData\GloveDemoCalibrationWindow.layout
+         C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUIData\GloveDemoMainMenu.layout
+         C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUIData\GloveRight.png
+         C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUIData\OpenHand.png
+         C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUIData\OpenSaveFileDialog.layout
+         C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUIData\sdk_logo.png
+         C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\..\MyGUIData\SpreadFingers.png
+                11 Datei(en) kopiert.
+       ClCompile:
+         C:\Programme\Microsoft Visual Studio 9.0\VC\bin\CL.exe /c /I"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\irrklang\irrKlang-1.3.0\examples\common" /I"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\irrklang\irrKlang-1.3.0\include" /I"C:\Ogre\OgreSDK_vc9_v1-7-1\Samples\Common\include" /I"C:\Ogre\OgreSDK_vc9_v1-7-1\boost_1_42" /I"C:\Ogre\OgreSDK_vc9_v1-7-1\include\OGRE" /I"C:\Ogre\OgreSDK_vc9_v1-7-1\include\OIS" /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc90.pdb" /Gd /TP /analyze- /errorReport:prompt TutorialApplication.cpp
+         TutorialApplication.cpp
+     1>c:\dokumente und einstellungen\superuser\eigene dateien\samplecode\glove demo\5dtglovedemo\OpenSaveFileDialog.h(37): warning C4996: 'MyGUI::castWidget': use : template<typename Type> Type* Widget::castType(bool _throw)
+                 c:\dokumente und einstellungen\superuser\eigene dateien\samplecode\glove demo\mygui_3.0.1_source\mygui3.0\myguiengine\include\MyGUI_CastWidget.h(37) : see declaration of 'MyGUI::castWidget'
+     1>TutorialApplication.cpp(994): warning C4996: 'MyGUI::EventPair<EventObsolete,Event>::operator =': use : signature : Event::IDelegate * _delegate
+                 with
+                 [
+                     EventObsolete=MyGUI::EventHandle_WidgetString,
+                     Event=MyGUI::EventHandle_WindowPtrCStringRef
+                 ]
+                 c:\dokumente und einstellungen\superuser\eigene dateien\samplecode\glove demo\mygui_3.0.1_source\mygui3.0\myguiengine\include\MyGUI_EventPair.h(38) : see declaration of 'MyGUI::EventPair<EventObsolete,Event>::operator ='
+                 with
+                 [
+                     EventObsolete=MyGUI::EventHandle_WidgetString,
+                     Event=MyGUI::EventHandle_WindowPtrCStringRef
+                 ]
+     1>TutorialApplication.cpp(1002): warning C4996: 'MyGUI::EventPair<EventObsolete,Event>::operator =': use : signature : Event::IDelegate * _delegate
+                 with
+                 [
+                     EventObsolete=MyGUI::EventHandle_WidgetString,
+                     Event=MyGUI::EventHandle_WindowPtrCStringRef
+                 ]
+                 c:\dokumente und einstellungen\superuser\eigene dateien\samplecode\glove demo\mygui_3.0.1_source\mygui3.0\myguiengine\include\MyGUI_EventPair.h(38) : see declaration of 'MyGUI::EventPair<EventObsolete,Event>::operator ='
+                 with
+                 [
+                     EventObsolete=MyGUI::EventHandle_WidgetString,
+                     Event=MyGUI::EventHandle_WindowPtrCStringRef
+                 ]
+     1>TutorialApplication.cpp(1008): warning C4996: 'MyGUI::EventPair<EventObsolete,Event>::operator =': use : signature : Event::IDelegate * _delegate
+                 with
+                 [
+                     EventObsolete=MyGUI::EventHandle_WidgetString,
+                     Event=MyGUI::EventHandle_WindowPtrCStringRef
+                 ]
+                 c:\dokumente und einstellungen\superuser\eigene dateien\samplecode\glove demo\mygui_3.0.1_source\mygui3.0\myguiengine\include\MyGUI_EventPair.h(38) : see declaration of 'MyGUI::EventPair<EventObsolete,Event>::operator ='
+                 with
+                 [
+                     EventObsolete=MyGUI::EventHandle_WidgetString,
+                     Event=MyGUI::EventHandle_WindowPtrCStringRef
+                 ]
+     1>TutorialApplication.cpp(1014): warning C4996: 'MyGUI::EventPair<EventObsolete,Event>::operator =': use : signature : Event::IDelegate * _delegate
+                 with
+                 [
+                     EventObsolete=MyGUI::EventHandle_WidgetString,
+                     Event=MyGUI::EventHandle_WindowPtrCStringRef
+                 ]
+                 c:\dokumente und einstellungen\superuser\eigene dateien\samplecode\glove demo\mygui_3.0.1_source\mygui3.0\myguiengine\include\MyGUI_EventPair.h(38) : see declaration of 'MyGUI::EventPair<EventObsolete,Event>::operator ='
+                 with
+                 [
+                     EventObsolete=MyGUI::EventHandle_WidgetString,
+                     Event=MyGUI::EventHandle_WindowPtrCStringRef
+                 ]
+     1>TutorialApplication.cpp(1020): warning C4996: 'MyGUI::EventPair<EventObsolete,Event>::operator =': use : signature : Event::IDelegate * _delegate
+                 with
+                 [
+                     EventObsolete=MyGUI::EventHandle_WidgetString,
+                     Event=MyGUI::EventHandle_WindowPtrCStringRef
+                 ]
+                 c:\dokumente und einstellungen\superuser\eigene dateien\samplecode\glove demo\mygui_3.0.1_source\mygui3.0\myguiengine\include\MyGUI_EventPair.h(38) : see declaration of 'MyGUI::EventPair<EventObsolete,Event>::operator ='
+                 with
+                 [
+                     EventObsolete=MyGUI::EventHandle_WidgetString,
+                     Event=MyGUI::EventHandle_WindowPtrCStringRef
+                 ]
+     1>TutorialApplication.cpp(1026): warning C4996: 'MyGUI::EventPair<EventObsolete,Event>::operator =': use : signature : Event::IDelegate * _delegate
+                 with
+                 [
+                     EventObsolete=MyGUI::EventHandle_WidgetString,
+                     Event=MyGUI::EventHandle_WindowPtrCStringRef
+                 ]
+                 c:\dokumente und einstellungen\superuser\eigene dateien\samplecode\glove demo\mygui_3.0.1_source\mygui3.0\myguiengine\include\MyGUI_EventPair.h(38) : see declaration of 'MyGUI::EventPair<EventObsolete,Event>::operator ='
+                 with
+                 [
+                     EventObsolete=MyGUI::EventHandle_WidgetString,
+                     Event=MyGUI::EventHandle_WindowPtrCStringRef
+                 ]
+     1>TutorialApplication.cpp(1033): warning C4996: 'MyGUI::EventPair<EventObsolete,Event>::operator =': use : signature : Event::IDelegate * _delegate
+                 with
+                 [
+                     EventObsolete=MyGUI::EventHandle_WidgetString,
+                     Event=MyGUI::EventHandle_WindowPtrCStringRef
+                 ]
+                 c:\dokumente und einstellungen\superuser\eigene dateien\samplecode\glove demo\mygui_3.0.1_source\mygui3.0\myguiengine\include\MyGUI_EventPair.h(38) : see declaration of 'MyGUI::EventPair<EventObsolete,Event>::operator ='
+                 with
+                 [
+                     EventObsolete=MyGUI::EventHandle_WidgetString,
+                     Event=MyGUI::EventHandle_WindowPtrCStringRef
+                 ]
+     1>TutorialApplication.cpp(1046): warning C4996: 'MyGUI::EventPair<EventObsolete,Event>::operator =': use : signature : Event::IDelegate * _delegate
+                 with
+                 [
+                     EventObsolete=MyGUI::EventHandle_WidgetString,
+                     Event=MyGUI::EventHandle_WindowPtrCStringRef
+                 ]
+                 c:\dokumente und einstellungen\superuser\eigene dateien\samplecode\glove demo\mygui_3.0.1_source\mygui3.0\myguiengine\include\MyGUI_EventPair.h(38) : see declaration of 'MyGUI::EventPair<EventObsolete,Event>::operator ='
+                 with
+                 [
+                     EventObsolete=MyGUI::EventHandle_WidgetString,
+                     Event=MyGUI::EventHandle_WindowPtrCStringRef
+                 ]
+     1>TutorialApplication.cpp(1077): warning C4996: 'MyGUI::EventPair<EventObsolete,Event>::operator =': use : signature : Event::IDelegate * _delegate
+                 with
+                 [
+                     EventObsolete=MyGUI::EventHandle_WidgetString,
+                     Event=MyGUI::EventHandle_WindowPtrCStringRef
+                 ]
+                 c:\dokumente und einstellungen\superuser\eigene dateien\samplecode\glove demo\mygui_3.0.1_source\mygui3.0\myguiengine\include\MyGUI_EventPair.h(38) : see declaration of 'MyGUI::EventPair<EventObsolete,Event>::operator ='
+                 with
+                 [
+                     EventObsolete=MyGUI::EventHandle_WidgetString,
+                     Event=MyGUI::EventHandle_WindowPtrCStringRef
+                 ]
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Programme\Microsoft Visual Studio 9.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\5DTGloveDemo.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\irrklang\irrKlang-1.3.0\lib\Win32-visualStudio" /LIBPATH:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\MyGUI_3.0.1_source\MyGUI3.0\build\bin\release" /LIBPATH:"C:\Ogre\OgreSDK_vc9_v1-7-1\bin\release" /LIBPATH:"C:\Ogre\OgreSDK_vc9_v1-7-1\lib\Release" /LIBPATH:"C:\Ogre\OgreSDK_vc9_v1-7-1\boost_1_42\lib" OgreMain.lib OIS.lib fglove.lib MyGUIEngine.lib MyGUI.OgrePlatform.lib irrKlang.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\5DTGloveDemo.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\5DTGloveDemo.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\5DTGloveDemo.lib" /MACHINE:X86 Release\5DT.res
+         Release\BaseApplication.obj
+         Release\OpenSaveFileDialog.obj
+         Release\TutorialApplication.obj
+         BaseApplication.obj : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+         Generating code
+         Finished generating code
+         5DTGloveDemo.vcxproj -> C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\5DTGloveDemo.exe
+       Manifest:
+         C:\Programme\Microsoft SDKs\Windows\v6.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\5DTGloveDemo.exe;#1" /manifest Release\5DTGloveDemo.exe.intermediate.manifest
+       PostBuildEvent:
+         copy "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\Release\\5DTGloveDemo.exe" "C:\Ogre\OgreSDK_vc9_v1-7-1\Bin\Release"
+         
+         
+         :VCEnd
+                 1 Datei(en) kopiert.
+       FinalizeBuildStatus:
+         Deleting file "Release\5DTGloveDemo.unsuccessfulbuild".
+         Touching "Release\5DTGloveDemo.lastbuildstate".
+     1>Done Building Project "C:\Dokumente und Einstellungen\superuser\Eigene Dateien\Samplecode\Glove Demo\5DTGloveDemo\5DTGloveDemo.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:37.18
