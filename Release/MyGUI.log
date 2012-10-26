@@ -1,211 +1,211 @@
  ---------------------------------------------------------------------------------------------------------------------------------- 
-                                          loging report for : 10/05/2012   17:09:15
+                                          loging report for : 10/26/2012   11:01:37
  ---------------------------------------------------------------------------------------------------------------------------------- 
 
-17:09:15  |  Platform  |  Info  |  * Initialise: OgreRenderManager  |  ..\..\..\..\Platforms\Ogre\OgrePlatform\src\MyGUI_OgreRenderManager.cpp  |  26
-17:09:15  |  Platform  |  Info  |  OgreRenderManager successfully initialized  |  ..\..\..\..\Platforms\Ogre\OgrePlatform\src\MyGUI_OgreRenderManager.cpp  |  54
-17:09:15  |  Platform  |  Info  |  * Initialise: OgreDataManager  |  ..\..\..\..\Platforms\Ogre\OgrePlatform\src\MyGUI_OgreDataManager.cpp  |  45
-17:09:15  |  Platform  |  Info  |  OgreDataManager successfully initialized  |  ..\..\..\..\Platforms\Ogre\OgrePlatform\src\MyGUI_OgreDataManager.cpp  |  49
-17:09:15  |  Core  |  Info  |  * Initialise: Gui  |  ..\..\MyGUIEngine\src\MyGUI_Gui.cpp  |  82
-17:09:15  |  Core  |  Info  |  * MyGUI version 3.0.1  |  ..\..\MyGUIEngine\src\MyGUI_Gui.cpp  |  86
-17:09:15  |  Core  |  Info  |  * Initialise: ResourceManager  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  43
-17:09:15  |  Core  |  Info  |  ResourceManager successfully initialized  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  51
-17:09:15  |  Core  |  Info  |  * Initialise: LayerManager  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  44
-17:09:15  |  Core  |  Info  |  LayerManager successfully initialized  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  52
-17:09:15  |  Core  |  Info  |  * Initialise: WidgetManager  |  ..\..\MyGUIEngine\src\MyGUI_WidgetManager.cpp  |  66
-17:09:15  |  Core  |  Info  |  WidgetManager successfully initialized  |  ..\..\MyGUIEngine\src\MyGUI_WidgetManager.cpp  |  105
-17:09:15  |  Core  |  Info  |  * Initialise: InputManager  |  ..\..\MyGUIEngine\src\MyGUI_InputManager.cpp  |  41
-17:09:15  |  Core  |  Info  |  InputManager successfully initialized  |  ..\..\MyGUIEngine\src\MyGUI_InputManager.cpp  |  58
-17:09:15  |  Core  |  Info  |  * Initialise: SubWidgetManager  |  ..\..\MyGUIEngine\src\MyGUI_SubWidgetManager.cpp  |  44
-17:09:15  |  Core  |  Info  |  SubWidgetManager successfully initialized  |  ..\..\MyGUIEngine\src\MyGUI_SubWidgetManager.cpp  |  64
-17:09:15  |  Core  |  Info  |  * Initialise: SkinManager  |  ..\..\MyGUIEngine\src\MyGUI_SkinManager.cpp  |  46
-17:09:15  |  Core  |  Info  |  SkinManager successfully initialized  |  ..\..\MyGUIEngine\src\MyGUI_SkinManager.cpp  |  54
-17:09:15  |  Core  |  Info  |  * Initialise: FontManager  |  ..\..\MyGUIEngine\src\MyGUI_FontManager.cpp  |  43
-17:09:15  |  Core  |  Info  |  FontManager successfully initialized  |  ..\..\MyGUIEngine\src\MyGUI_FontManager.cpp  |  52
-17:09:15  |  Core  |  Info  |  * Initialise: ControllerManager  |  ..\..\MyGUIEngine\src\MyGUI_ControllerManager.cpp  |  41
-17:09:15  |  Core  |  Info  |  ControllerManager successfully initialized  |  ..\..\MyGUIEngine\src\MyGUI_ControllerManager.cpp  |  51
-17:09:15  |  Core  |  Info  |  * Initialise: PointerManager  |  ..\..\MyGUIEngine\src\MyGUI_PointerManager.cpp  |  51
-17:09:15  |  Core  |  Info  |  PointerManager successfully initialized  |  ..\..\MyGUIEngine\src\MyGUI_PointerManager.cpp  |  69
-17:09:15  |  Core  |  Info  |  * Initialise: ClipboardManager  |  ..\..\MyGUIEngine\src\MyGUI_ClipboardManager.cpp  |  82
-17:09:15  |  Core  |  Info  |  ClipboardManager successfully initialized  |  ..\..\MyGUIEngine\src\MyGUI_ClipboardManager.cpp  |  96
-17:09:15  |  Core  |  Info  |  * Initialise: LayoutManager  |  ..\..\MyGUIEngine\src\MyGUI_LayoutManager.cpp  |  42
-17:09:15  |  Core  |  Info  |  LayoutManager successfully initialized  |  ..\..\MyGUIEngine\src\MyGUI_LayoutManager.cpp  |  48
-17:09:15  |  Core  |  Info  |  * Initialise: DynLibManager  |  ..\..\MyGUIEngine\src\MyGUI_DynLibManager.cpp  |  34
-17:09:15  |  Core  |  Info  |  DynLibManager successfully initialized  |  ..\..\MyGUIEngine\src\MyGUI_DynLibManager.cpp  |  36
-17:09:15  |  Core  |  Info  |  * Initialise: PluginManager  |  ..\..\MyGUIEngine\src\MyGUI_PluginManager.cpp  |  36
-17:09:15  |  Core  |  Info  |  PluginManager successfully initialized  |  ..\..\MyGUIEngine\src\MyGUI_PluginManager.cpp  |  40
-17:09:15  |  Core  |  Info  |  * Initialise: LanguageManager  |  ..\..\MyGUIEngine\src\MyGUI_LanguageManager.cpp  |  40
-17:09:15  |  Core  |  Info  |  LanguageManager successfully initialized  |  ..\..\MyGUIEngine\src\MyGUI_LanguageManager.cpp  |  44
-17:09:15  |  Core  |  Info  |  * Initialise: FactoryManager  |  ..\..\MyGUIEngine\src\MyGUI_FactoryManager.cpp  |  34
-17:09:15  |  Core  |  Info  |  FactoryManager successfully initialized  |  ..\..\MyGUIEngine\src\MyGUI_FactoryManager.cpp  |  37
-17:09:15  |  Core  |  Info  |  Load ini file 'core_theme.xml'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  152
-17:09:15  |  Core  |  Info  |  Load ini file 'core_language.xml'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  152
-17:09:15  |  Core  |  Info  |  Load ini file 'core_font.xml'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  152
-17:09:16  |  Core  |  Info  |  ResourceTrueTypeFont 'font_DejaVuSans.17' using texture size 512 x 256  |  ..\..\MyGUIEngine\src\MyGUI_ResourceTrueTypeFont.cpp  |  203
-17:09:16  |  Core  |  Info  |  ResourceTrueTypeFont 'font_DejaVuSans.17' using real height 17 pixels  |  ..\..\MyGUIEngine\src\MyGUI_ResourceTrueTypeFont.cpp  |  204
-17:09:16  |  Core  |  Info  |  ResourceTrueTypeFont 'font_DejaVuSans.14' using texture size 256 x 256  |  ..\..\MyGUIEngine\src\MyGUI_ResourceTrueTypeFont.cpp  |  203
-17:09:16  |  Core  |  Info  |  ResourceTrueTypeFont 'font_DejaVuSans.14' using real height 14 pixels  |  ..\..\MyGUIEngine\src\MyGUI_ResourceTrueTypeFont.cpp  |  204
-17:09:16  |  Core  |  Info  |  Load ini file 'core_resource.xml'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  152
-17:09:16  |  Core  |  Info  |  Load ini file 'core_skin.xml'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  152
-17:09:16  |  Core  |  Info  |  Load ini file 'core_pointer.xml'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  152
-17:09:16  |  Core  |  Info  |  Load ini file 'core_layer.xml'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  152
-17:09:16  |  Core  |  Info  |  Load ini file 'core_settings.xml'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  152
-17:09:16  |  Core  |  Info  |  Gui successfully initialized  |  ..\..\MyGUIEngine\src\MyGUI_Gui.cpp  |  129
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'RotatingSkin'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'RawRect'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'StaticText'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'FlowContainer'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'Spacer'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'StaticImage'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'skin_Pointer'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'Canvas'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'RenderBox'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'TestRenderBox'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'TileClient'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'DefaultClient'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'Separator4'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'Separator3'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'Separator2'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'Separator1'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'MarkerGreen'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'MarkerYellow'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'MarkerBlack'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'MarkerWhite'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'RectBlue'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'RectGreen'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'StretchRectangleLeft'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'StretchRectangleRight'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'StretchRectangleHorz'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'StretchRectangleVert'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'StretchRectangle'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'StatisticRect'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'ItemBoxV'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'ItemBoxH'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'ButtonStaticImage'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'ButtonImage'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'ButtonImageText'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'CheckBox'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'RadioBox'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'ButtonMinusPlus'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'ButtonX'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'ButtonV'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'ButtonDown'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'ButtonUp'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'ButtonLeft'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'ButtonRight'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'ButtonSmall'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'Button'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'EditClientSimple'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'WordWrapSimple'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'WordWrap'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'EditClient'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'EditStretch'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'Edit'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'EditEmpty'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'ComboBox'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'WindowCaption'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'WindowCaptionDisable'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'WindowCaptionSmall'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'WindowResizeRight'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'WindowResizeLeft'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'Window'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'WindowC'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'WindowCS'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'WindowCSX'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'WindowCSMX'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'MessageClient'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'MessageIcon'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'Message'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'Panel'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'PanelSmall'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'ScrollView'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'ScrollViewEmpty'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'TabButton'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'TabEmpty'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'TabPatch'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'Tab'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'PopupMenuLine'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'PopupMenuSeparator'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'PopupMenuLineIcon'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'PopupMenu'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'MenuBarButton'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'MenuBar'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'ListLine'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'List'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'MultiSubList'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'MultiListButtonIcon'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'MultiListButton'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'MultiList'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'VScrollTrackSlider'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'VScrollTrack'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'VScrollTopPart'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'VScrollBottomPart'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'VScroll'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'HScrollTrackSlider'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'HScrollTrack'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'HScrollLeftPart'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'HScrollRightPart'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'HScroll'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'VSlider'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'HSlider'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'Progress'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'ProgressFill'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'WindowSmallCaption'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'ButtonRoundBlue'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'ButtonRoundGrey'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'ListCtrl'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'EditStretch2'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'List2'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'WindowSmallC'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:09:16  |  Core  |  Warning  |  dublicate resource name 'WindowSmallCX'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
-17:55:42  |  Core  |  Info  |  * Shutdown: Gui  |  ..\..\MyGUIEngine\src\MyGUI_Gui.cpp  |  136
-17:55:42  |  Core  |  Info  |  * Shutdown: PointerManager  |  ..\..\MyGUIEngine\src\MyGUI_PointerManager.cpp  |  76
-17:55:42  |  Core  |  Info  |  PointerManager successfully shutdown  |  ..\..\MyGUIEngine\src\MyGUI_PointerManager.cpp  |  92
-17:55:42  |  Core  |  Info  |  * Shutdown: InputManager  |  ..\..\MyGUIEngine\src\MyGUI_InputManager.cpp  |  65
-17:55:42  |  Core  |  Info  |  InputManager successfully shutdown  |  ..\..\MyGUIEngine\src\MyGUI_InputManager.cpp  |  70
-17:55:42  |  Core  |  Info  |  * Shutdown: SkinManager  |  ..\..\MyGUIEngine\src\MyGUI_SkinManager.cpp  |  61
-17:55:42  |  Core  |  Info  |  SkinManager successfully shutdown  |  ..\..\MyGUIEngine\src\MyGUI_SkinManager.cpp  |  66
-17:55:42  |  Core  |  Info  |  * Shutdown: SubWidgetManager  |  ..\..\MyGUIEngine\src\MyGUI_SubWidgetManager.cpp  |  71
-17:55:42  |  Core  |  Info  |  SubWidgetManager successfully shutdown  |  ..\..\MyGUIEngine\src\MyGUI_SubWidgetManager.cpp  |  91
-17:55:42  |  Core  |  Info  |  * Shutdown: LayerManager  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  59
-17:55:42  |  Core  |  Info  |  destroy layer 'Wallpaper'  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  207
-17:55:42  |  Core  |  Info  |  destroy layer 'Back'  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  207
-17:55:42  |  Core  |  Info  |  destroy layer 'Overlapped'  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  207
-17:55:42  |  Core  |  Info  |  destroy layer 'Middle'  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  207
-17:55:42  |  Core  |  Info  |  destroy layer 'Modal'  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  207
-17:55:42  |  Core  |  Info  |  destroy layer 'Main'  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  207
-17:55:42  |  Core  |  Info  |  destroy layer 'Popup'  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  207
-17:55:42  |  Core  |  Info  |  destroy layer 'FadeMiddle'  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  207
-17:55:42  |  Core  |  Info  |  destroy layer 'Info'  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  207
-17:55:42  |  Core  |  Info  |  destroy layer 'ToolTip'  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  207
-17:55:42  |  Core  |  Info  |  destroy layer 'DragAndDrop'  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  207
-17:55:42  |  Core  |  Info  |  destroy layer 'FadeBusy'  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  207
-17:55:42  |  Core  |  Info  |  destroy layer 'Pointer'  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  207
-17:55:42  |  Core  |  Info  |  destroy layer 'Fade'  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  207
-17:55:42  |  Core  |  Info  |  destroy layer 'Statistic'  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  207
-17:55:42  |  Core  |  Info  |  LayerManager successfully shutdown  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  70
-17:55:42  |  Core  |  Info  |  * Shutdown: FontManager  |  ..\..\MyGUIEngine\src\MyGUI_FontManager.cpp  |  59
-17:55:42  |  Core  |  Info  |  FontManager successfully shutdown  |  ..\..\MyGUIEngine\src\MyGUI_FontManager.cpp  |  66
-17:55:42  |  Core  |  Info  |  * Shutdown: ControllerManager  |  ..\..\MyGUIEngine\src\MyGUI_ControllerManager.cpp  |  58
-17:55:42  |  Core  |  Info  |  ControllerManager successfully shutdown  |  ..\..\MyGUIEngine\src\MyGUI_ControllerManager.cpp  |  69
-17:55:42  |  Core  |  Info  |  * Shutdown: ClipboardManager  |  ..\..\MyGUIEngine\src\MyGUI_ClipboardManager.cpp  |  103
-17:55:42  |  Core  |  Info  |  ClipboardManager successfully shutdown  |  ..\..\MyGUIEngine\src\MyGUI_ClipboardManager.cpp  |  105
-17:55:42  |  Core  |  Info  |  * Shutdown: LayoutManager  |  ..\..\MyGUIEngine\src\MyGUI_LayoutManager.cpp  |  55
-17:55:42  |  Core  |  Info  |  LayoutManager successfully shutdown  |  ..\..\MyGUIEngine\src\MyGUI_LayoutManager.cpp  |  59
-17:55:42  |  Core  |  Info  |  * Shutdown: PluginManager  |  ..\..\MyGUIEngine\src\MyGUI_PluginManager.cpp  |  47
-17:55:42  |  Core  |  Info  |  PluginManager successfully shutdown  |  ..\..\MyGUIEngine\src\MyGUI_PluginManager.cpp  |  52
-17:55:42  |  Core  |  Info  |  * Shutdown: DynLibManager  |  ..\..\MyGUIEngine\src\MyGUI_DynLibManager.cpp  |  43
-17:55:42  |  Core  |  Info  |  DynLibManager successfully shutdown  |  ..\..\MyGUIEngine\src\MyGUI_DynLibManager.cpp  |  57
-17:55:42  |  Core  |  Info  |  * Shutdown: LanguageManager  |  ..\..\MyGUIEngine\src\MyGUI_LanguageManager.cpp  |  51
-17:55:42  |  Core  |  Info  |  LanguageManager successfully shutdown  |  ..\..\MyGUIEngine\src\MyGUI_LanguageManager.cpp  |  55
-17:55:42  |  Core  |  Info  |  * Shutdown: ResourceManager  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  58
-17:55:42  |  Core  |  Info  |  ResourceManager successfully shutdown  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  68
-17:55:42  |  Core  |  Info  |  * Shutdown: FactoryManager  |  ..\..\MyGUIEngine\src\MyGUI_FactoryManager.cpp  |  44
-17:55:42  |  Core  |  Info  |  FactoryManager successfully shutdown  |  ..\..\MyGUIEngine\src\MyGUI_FactoryManager.cpp  |  46
-17:55:42  |  Core  |  Info  |  * Shutdown: WidgetManager  |  ..\..\MyGUIEngine\src\MyGUI_WidgetManager.cpp  |  112
-17:55:42  |  Core  |  Info  |  WidgetManager successfully shutdown  |  ..\..\MyGUIEngine\src\MyGUI_WidgetManager.cpp  |  122
-17:55:42  |  Core  |  Info  |  Gui successfully shutdown  |  ..\..\MyGUIEngine\src\MyGUI_Gui.cpp  |  175
-17:55:42  |  Platform  |  Info  |  * Shutdown: OgreRenderManager  |  ..\..\..\..\Platforms\Ogre\OgrePlatform\src\MyGUI_OgreRenderManager.cpp  |  61
-17:55:42  |  Platform  |  Info  |  OgreRenderManager successfully shutdown  |  ..\..\..\..\Platforms\Ogre\OgrePlatform\src\MyGUI_OgreRenderManager.cpp  |  69
-17:55:42  |  Platform  |  Info  |  * Shutdown: OgreDataManager  |  ..\..\..\..\Platforms\Ogre\OgrePlatform\src\MyGUI_OgreDataManager.cpp  |  56
-17:55:42  |  Platform  |  Info  |  OgreDataManager successfully shutdown  |  ..\..\..\..\Platforms\Ogre\OgrePlatform\src\MyGUI_OgreDataManager.cpp  |  58
+11:01:37  |  Platform  |  Info  |  * Initialise: OgreRenderManager  |  ..\..\..\..\Platforms\Ogre\OgrePlatform\src\MyGUI_OgreRenderManager.cpp  |  26
+11:01:37  |  Platform  |  Info  |  OgreRenderManager successfully initialized  |  ..\..\..\..\Platforms\Ogre\OgrePlatform\src\MyGUI_OgreRenderManager.cpp  |  54
+11:01:37  |  Platform  |  Info  |  * Initialise: OgreDataManager  |  ..\..\..\..\Platforms\Ogre\OgrePlatform\src\MyGUI_OgreDataManager.cpp  |  45
+11:01:37  |  Platform  |  Info  |  OgreDataManager successfully initialized  |  ..\..\..\..\Platforms\Ogre\OgrePlatform\src\MyGUI_OgreDataManager.cpp  |  49
+11:01:37  |  Core  |  Info  |  * Initialise: Gui  |  ..\..\MyGUIEngine\src\MyGUI_Gui.cpp  |  82
+11:01:37  |  Core  |  Info  |  * MyGUI version 3.0.1  |  ..\..\MyGUIEngine\src\MyGUI_Gui.cpp  |  86
+11:01:37  |  Core  |  Info  |  * Initialise: ResourceManager  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  43
+11:01:37  |  Core  |  Info  |  ResourceManager successfully initialized  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  51
+11:01:37  |  Core  |  Info  |  * Initialise: LayerManager  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  44
+11:01:37  |  Core  |  Info  |  LayerManager successfully initialized  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  52
+11:01:37  |  Core  |  Info  |  * Initialise: WidgetManager  |  ..\..\MyGUIEngine\src\MyGUI_WidgetManager.cpp  |  66
+11:01:37  |  Core  |  Info  |  WidgetManager successfully initialized  |  ..\..\MyGUIEngine\src\MyGUI_WidgetManager.cpp  |  105
+11:01:37  |  Core  |  Info  |  * Initialise: InputManager  |  ..\..\MyGUIEngine\src\MyGUI_InputManager.cpp  |  41
+11:01:37  |  Core  |  Info  |  InputManager successfully initialized  |  ..\..\MyGUIEngine\src\MyGUI_InputManager.cpp  |  58
+11:01:37  |  Core  |  Info  |  * Initialise: SubWidgetManager  |  ..\..\MyGUIEngine\src\MyGUI_SubWidgetManager.cpp  |  44
+11:01:37  |  Core  |  Info  |  SubWidgetManager successfully initialized  |  ..\..\MyGUIEngine\src\MyGUI_SubWidgetManager.cpp  |  64
+11:01:37  |  Core  |  Info  |  * Initialise: SkinManager  |  ..\..\MyGUIEngine\src\MyGUI_SkinManager.cpp  |  46
+11:01:37  |  Core  |  Info  |  SkinManager successfully initialized  |  ..\..\MyGUIEngine\src\MyGUI_SkinManager.cpp  |  54
+11:01:37  |  Core  |  Info  |  * Initialise: FontManager  |  ..\..\MyGUIEngine\src\MyGUI_FontManager.cpp  |  43
+11:01:37  |  Core  |  Info  |  FontManager successfully initialized  |  ..\..\MyGUIEngine\src\MyGUI_FontManager.cpp  |  52
+11:01:37  |  Core  |  Info  |  * Initialise: ControllerManager  |  ..\..\MyGUIEngine\src\MyGUI_ControllerManager.cpp  |  41
+11:01:37  |  Core  |  Info  |  ControllerManager successfully initialized  |  ..\..\MyGUIEngine\src\MyGUI_ControllerManager.cpp  |  51
+11:01:37  |  Core  |  Info  |  * Initialise: PointerManager  |  ..\..\MyGUIEngine\src\MyGUI_PointerManager.cpp  |  51
+11:01:37  |  Core  |  Info  |  PointerManager successfully initialized  |  ..\..\MyGUIEngine\src\MyGUI_PointerManager.cpp  |  69
+11:01:37  |  Core  |  Info  |  * Initialise: ClipboardManager  |  ..\..\MyGUIEngine\src\MyGUI_ClipboardManager.cpp  |  82
+11:01:37  |  Core  |  Info  |  ClipboardManager successfully initialized  |  ..\..\MyGUIEngine\src\MyGUI_ClipboardManager.cpp  |  96
+11:01:37  |  Core  |  Info  |  * Initialise: LayoutManager  |  ..\..\MyGUIEngine\src\MyGUI_LayoutManager.cpp  |  42
+11:01:37  |  Core  |  Info  |  LayoutManager successfully initialized  |  ..\..\MyGUIEngine\src\MyGUI_LayoutManager.cpp  |  48
+11:01:37  |  Core  |  Info  |  * Initialise: DynLibManager  |  ..\..\MyGUIEngine\src\MyGUI_DynLibManager.cpp  |  34
+11:01:37  |  Core  |  Info  |  DynLibManager successfully initialized  |  ..\..\MyGUIEngine\src\MyGUI_DynLibManager.cpp  |  36
+11:01:37  |  Core  |  Info  |  * Initialise: PluginManager  |  ..\..\MyGUIEngine\src\MyGUI_PluginManager.cpp  |  36
+11:01:37  |  Core  |  Info  |  PluginManager successfully initialized  |  ..\..\MyGUIEngine\src\MyGUI_PluginManager.cpp  |  40
+11:01:37  |  Core  |  Info  |  * Initialise: LanguageManager  |  ..\..\MyGUIEngine\src\MyGUI_LanguageManager.cpp  |  40
+11:01:37  |  Core  |  Info  |  LanguageManager successfully initialized  |  ..\..\MyGUIEngine\src\MyGUI_LanguageManager.cpp  |  44
+11:01:37  |  Core  |  Info  |  * Initialise: FactoryManager  |  ..\..\MyGUIEngine\src\MyGUI_FactoryManager.cpp  |  34
+11:01:37  |  Core  |  Info  |  FactoryManager successfully initialized  |  ..\..\MyGUIEngine\src\MyGUI_FactoryManager.cpp  |  37
+11:01:37  |  Core  |  Info  |  Load ini file 'core_theme.xml'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  152
+11:01:37  |  Core  |  Info  |  Load ini file 'core_language.xml'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  152
+11:01:37  |  Core  |  Info  |  Load ini file 'core_font.xml'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  152
+11:01:37  |  Core  |  Info  |  ResourceTrueTypeFont 'font_DejaVuSans.17' using texture size 512 x 256  |  ..\..\MyGUIEngine\src\MyGUI_ResourceTrueTypeFont.cpp  |  203
+11:01:37  |  Core  |  Info  |  ResourceTrueTypeFont 'font_DejaVuSans.17' using real height 17 pixels  |  ..\..\MyGUIEngine\src\MyGUI_ResourceTrueTypeFont.cpp  |  204
+11:01:37  |  Core  |  Info  |  ResourceTrueTypeFont 'font_DejaVuSans.14' using texture size 256 x 256  |  ..\..\MyGUIEngine\src\MyGUI_ResourceTrueTypeFont.cpp  |  203
+11:01:37  |  Core  |  Info  |  ResourceTrueTypeFont 'font_DejaVuSans.14' using real height 14 pixels  |  ..\..\MyGUIEngine\src\MyGUI_ResourceTrueTypeFont.cpp  |  204
+11:01:37  |  Core  |  Info  |  Load ini file 'core_resource.xml'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  152
+11:01:37  |  Core  |  Info  |  Load ini file 'core_skin.xml'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  152
+11:01:38  |  Core  |  Info  |  Load ini file 'core_pointer.xml'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  152
+11:01:38  |  Core  |  Info  |  Load ini file 'core_layer.xml'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  152
+11:01:38  |  Core  |  Info  |  Load ini file 'core_settings.xml'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  152
+11:01:38  |  Core  |  Info  |  Gui successfully initialized  |  ..\..\MyGUIEngine\src\MyGUI_Gui.cpp  |  129
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'RotatingSkin'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'RawRect'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'StaticText'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'FlowContainer'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'Spacer'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'StaticImage'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'skin_Pointer'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'Canvas'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'RenderBox'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'TestRenderBox'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'TileClient'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'DefaultClient'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'Separator4'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'Separator3'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'Separator2'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'Separator1'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'MarkerGreen'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'MarkerYellow'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'MarkerBlack'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'MarkerWhite'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'RectBlue'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'RectGreen'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'StretchRectangleLeft'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'StretchRectangleRight'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'StretchRectangleHorz'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'StretchRectangleVert'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'StretchRectangle'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'StatisticRect'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'ItemBoxV'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'ItemBoxH'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'ButtonStaticImage'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'ButtonImage'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'ButtonImageText'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'CheckBox'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'RadioBox'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'ButtonMinusPlus'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'ButtonX'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'ButtonV'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'ButtonDown'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'ButtonUp'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'ButtonLeft'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'ButtonRight'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'ButtonSmall'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'Button'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'EditClientSimple'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'WordWrapSimple'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'WordWrap'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'EditClient'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'EditStretch'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'Edit'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'EditEmpty'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'ComboBox'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'WindowCaption'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'WindowCaptionDisable'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'WindowCaptionSmall'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'WindowResizeRight'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'WindowResizeLeft'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'Window'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'WindowC'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'WindowCS'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'WindowCSX'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'WindowCSMX'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'MessageClient'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'MessageIcon'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'Message'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'Panel'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'PanelSmall'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'ScrollView'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'ScrollViewEmpty'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'TabButton'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'TabEmpty'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'TabPatch'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'Tab'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'PopupMenuLine'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'PopupMenuSeparator'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'PopupMenuLineIcon'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'PopupMenu'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'MenuBarButton'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'MenuBar'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'ListLine'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'List'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'MultiSubList'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'MultiListButtonIcon'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'MultiListButton'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'MultiList'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'VScrollTrackSlider'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'VScrollTrack'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'VScrollTopPart'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'VScrollBottomPart'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'VScroll'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'HScrollTrackSlider'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'HScrollTrack'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'HScrollLeftPart'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'HScrollRightPart'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'HScroll'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'VSlider'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'HSlider'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'Progress'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'ProgressFill'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'WindowSmallCaption'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'ButtonRoundBlue'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'ButtonRoundGrey'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'ListCtrl'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'EditStretch2'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'List2'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'WindowSmallC'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:01:38  |  Core  |  Warning  |  dublicate resource name 'WindowSmallCX'  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  103
+11:38:08  |  Core  |  Info  |  * Shutdown: Gui  |  ..\..\MyGUIEngine\src\MyGUI_Gui.cpp  |  136
+11:38:08  |  Core  |  Info  |  * Shutdown: PointerManager  |  ..\..\MyGUIEngine\src\MyGUI_PointerManager.cpp  |  76
+11:38:08  |  Core  |  Info  |  PointerManager successfully shutdown  |  ..\..\MyGUIEngine\src\MyGUI_PointerManager.cpp  |  92
+11:38:08  |  Core  |  Info  |  * Shutdown: InputManager  |  ..\..\MyGUIEngine\src\MyGUI_InputManager.cpp  |  65
+11:38:08  |  Core  |  Info  |  InputManager successfully shutdown  |  ..\..\MyGUIEngine\src\MyGUI_InputManager.cpp  |  70
+11:38:08  |  Core  |  Info  |  * Shutdown: SkinManager  |  ..\..\MyGUIEngine\src\MyGUI_SkinManager.cpp  |  61
+11:38:08  |  Core  |  Info  |  SkinManager successfully shutdown  |  ..\..\MyGUIEngine\src\MyGUI_SkinManager.cpp  |  66
+11:38:08  |  Core  |  Info  |  * Shutdown: SubWidgetManager  |  ..\..\MyGUIEngine\src\MyGUI_SubWidgetManager.cpp  |  71
+11:38:08  |  Core  |  Info  |  SubWidgetManager successfully shutdown  |  ..\..\MyGUIEngine\src\MyGUI_SubWidgetManager.cpp  |  91
+11:38:08  |  Core  |  Info  |  * Shutdown: LayerManager  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  59
+11:38:08  |  Core  |  Info  |  destroy layer 'Wallpaper'  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  207
+11:38:08  |  Core  |  Info  |  destroy layer 'Back'  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  207
+11:38:08  |  Core  |  Info  |  destroy layer 'Overlapped'  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  207
+11:38:08  |  Core  |  Info  |  destroy layer 'Middle'  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  207
+11:38:08  |  Core  |  Info  |  destroy layer 'Modal'  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  207
+11:38:08  |  Core  |  Info  |  destroy layer 'Main'  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  207
+11:38:08  |  Core  |  Info  |  destroy layer 'Popup'  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  207
+11:38:08  |  Core  |  Info  |  destroy layer 'FadeMiddle'  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  207
+11:38:08  |  Core  |  Info  |  destroy layer 'Info'  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  207
+11:38:08  |  Core  |  Info  |  destroy layer 'ToolTip'  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  207
+11:38:08  |  Core  |  Info  |  destroy layer 'DragAndDrop'  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  207
+11:38:08  |  Core  |  Info  |  destroy layer 'FadeBusy'  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  207
+11:38:08  |  Core  |  Info  |  destroy layer 'Pointer'  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  207
+11:38:08  |  Core  |  Info  |  destroy layer 'Fade'  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  207
+11:38:08  |  Core  |  Info  |  destroy layer 'Statistic'  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  207
+11:38:08  |  Core  |  Info  |  LayerManager successfully shutdown  |  ..\..\MyGUIEngine\src\MyGUI_LayerManager.cpp  |  70
+11:38:08  |  Core  |  Info  |  * Shutdown: FontManager  |  ..\..\MyGUIEngine\src\MyGUI_FontManager.cpp  |  59
+11:38:08  |  Core  |  Info  |  FontManager successfully shutdown  |  ..\..\MyGUIEngine\src\MyGUI_FontManager.cpp  |  66
+11:38:08  |  Core  |  Info  |  * Shutdown: ControllerManager  |  ..\..\MyGUIEngine\src\MyGUI_ControllerManager.cpp  |  58
+11:38:08  |  Core  |  Info  |  ControllerManager successfully shutdown  |  ..\..\MyGUIEngine\src\MyGUI_ControllerManager.cpp  |  69
+11:38:08  |  Core  |  Info  |  * Shutdown: ClipboardManager  |  ..\..\MyGUIEngine\src\MyGUI_ClipboardManager.cpp  |  103
+11:38:08  |  Core  |  Info  |  ClipboardManager successfully shutdown  |  ..\..\MyGUIEngine\src\MyGUI_ClipboardManager.cpp  |  105
+11:38:08  |  Core  |  Info  |  * Shutdown: LayoutManager  |  ..\..\MyGUIEngine\src\MyGUI_LayoutManager.cpp  |  55
+11:38:08  |  Core  |  Info  |  LayoutManager successfully shutdown  |  ..\..\MyGUIEngine\src\MyGUI_LayoutManager.cpp  |  59
+11:38:08  |  Core  |  Info  |  * Shutdown: PluginManager  |  ..\..\MyGUIEngine\src\MyGUI_PluginManager.cpp  |  47
+11:38:08  |  Core  |  Info  |  PluginManager successfully shutdown  |  ..\..\MyGUIEngine\src\MyGUI_PluginManager.cpp  |  52
+11:38:08  |  Core  |  Info  |  * Shutdown: DynLibManager  |  ..\..\MyGUIEngine\src\MyGUI_DynLibManager.cpp  |  43
+11:38:08  |  Core  |  Info  |  DynLibManager successfully shutdown  |  ..\..\MyGUIEngine\src\MyGUI_DynLibManager.cpp  |  57
+11:38:08  |  Core  |  Info  |  * Shutdown: LanguageManager  |  ..\..\MyGUIEngine\src\MyGUI_LanguageManager.cpp  |  51
+11:38:08  |  Core  |  Info  |  LanguageManager successfully shutdown  |  ..\..\MyGUIEngine\src\MyGUI_LanguageManager.cpp  |  55
+11:38:08  |  Core  |  Info  |  * Shutdown: ResourceManager  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  58
+11:38:08  |  Core  |  Info  |  ResourceManager successfully shutdown  |  ..\..\MyGUIEngine\src\MyGUI_ResourceManager.cpp  |  68
+11:38:08  |  Core  |  Info  |  * Shutdown: FactoryManager  |  ..\..\MyGUIEngine\src\MyGUI_FactoryManager.cpp  |  44
+11:38:08  |  Core  |  Info  |  FactoryManager successfully shutdown  |  ..\..\MyGUIEngine\src\MyGUI_FactoryManager.cpp  |  46
+11:38:08  |  Core  |  Info  |  * Shutdown: WidgetManager  |  ..\..\MyGUIEngine\src\MyGUI_WidgetManager.cpp  |  112
+11:38:08  |  Core  |  Info  |  WidgetManager successfully shutdown  |  ..\..\MyGUIEngine\src\MyGUI_WidgetManager.cpp  |  122
+11:38:08  |  Core  |  Info  |  Gui successfully shutdown  |  ..\..\MyGUIEngine\src\MyGUI_Gui.cpp  |  175
+11:38:08  |  Platform  |  Info  |  * Shutdown: OgreRenderManager  |  ..\..\..\..\Platforms\Ogre\OgrePlatform\src\MyGUI_OgreRenderManager.cpp  |  61
+11:38:08  |  Platform  |  Info  |  OgreRenderManager successfully shutdown  |  ..\..\..\..\Platforms\Ogre\OgrePlatform\src\MyGUI_OgreRenderManager.cpp  |  69
+11:38:08  |  Platform  |  Info  |  * Shutdown: OgreDataManager  |  ..\..\..\..\Platforms\Ogre\OgrePlatform\src\MyGUI_OgreDataManager.cpp  |  56
+11:38:08  |  Platform  |  Info  |  OgreDataManager successfully shutdown  |  ..\..\..\..\Platforms\Ogre\OgrePlatform\src\MyGUI_OgreDataManager.cpp  |  58
